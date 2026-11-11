@@ -1,0 +1,309 @@
+# Leksjon 3: Balansen
+
+Velkommen til leksjon 3 i økonomisk styring og regnskap. Denne leksjonen handler om balansen. Du skal lære hva et regnskap er, og hva som skiller balansen fra resultatregnskapet. Du skal også lære prinsippet om dobbelt bokholderi, altså debet og kredit.
+
+Etterpå ser vi på hva balansen er bygd opp av, og hvordan ulike transaksjoner påvirker den. Vi går gjennom Norsk Standard kontoplan. Til slutt følger vi Jo og Stein i bedriften Jostein AS, som setter opp en kontoplan og fører balanseregnskapet for sin første måned.
+
+Et lite råd før vi starter. Å føre regnskap er litt som matematikk. Du lærer det best ved å gjøre oppgaver selv og se hvordan ting henger sammen. Så les gjerne læreboka i tillegg, der finner du mange gode eksempler.
+
+# Hva er et regnskap
+
+I dette kapitlet ser vi på hva et regnskap skal fortelle, og hvilke to deler det består av.
+
+Et regnskap skal gi en oversikt over den finansielle stillingen og resultatet av virksomheten i en bedrift. Alle bedrifter trenger denne rapporteringen, uansett hvor store de er og hva de har som mål.
+
+Rapporteringen gjøres med to regnskapsoppstillinger. Den første er balansen. Den andre er resultatregnskapet.
+
+Balansen viser bedriftens finansielle stilling. I balansen føres alle eiendeler, all gjeld og egenkapitalen. Balansen viser stillingen på en bestemt dag.
+
+Resultatregnskapet viser bedriftens resultat. Her føres alle inntektene bedriften får inn, og alle kostnadene den har. Når du avslutter et resultatregnskap, sitter du igjen med enten et overskudd eller et underskudd. Resultatregnskapet viser altså hvordan aktiviteten i bedriften har vært gjennom en periode. Ved slutten av perioden overføres periodens resultat til balansen.
+
+Du kan se for deg det slik. Regnskapet deler seg i to grener. Den ene grenen er den finansielle stillingen, som vises i balansen på en bestemt dag. Kontoene for balansen er eiendeler, egenkapital og gjeld. Den andre grenen er resultatet av virksomheten, som vises i resultatregnskapet for en viss periode. Kontoene for resultat er kostnader og inntekter.
+
+Kort oppsummert: balansen er et øyeblikksbilde av hva bedriften eier og skylder, mens resultatregnskapet viser hva som har skjedd i løpet av en periode.
+
+# Grunnleggende begreper
+
+Før du kan føre regnskap, trenger du noen grunnleggende begreper. Dette kapitlet går gjennom dem ett for ett.
+
+Det første begrepet er transaksjon. En økonomisk hendelse som føres i regnskapet, kalles en transaksjon. Eksempler er kjøp og salg av varer, og utbetaling av lån. En transaksjon regnes som gjennomført når varer er levert, eller når det har oppstått et krav på betaling fordi en tjeneste er utført. Hvis du bare sjekker prisen på en vare, har du ikke gjort noen transaksjon.
+
+Det neste begrepet er konto. Alle transaksjoner i regnskapet må føres på en konto. Du kan for eksempel ha en konto for bankinnskudd, der alle uttak og innbetalinger føres. En konto har vanligvis fire siffer, og tallkombinasjonen sier noe om hva slags konto det er. For at bedrifter skal kunne sammenligne resultatene sine, er det laget en norsk standard for bruk av kontoer. Den heter NS 41 02, og den kommer vi tilbake til senere i leksjonen. Et eksempel på en konto er konto 19 20 Bankinnskudd.
+
+Så har vi inngående balanse, som ofte forkortes IB. Ved starten av en ny periode eller et nytt år har du vanligvis en saldo på balansekontoene. Saldoen ved starten av perioden kalles inngående balanse.
+
+Det motsatte er utgående balanse, som forkortes UB. Saldoen som står på en konto ved slutten av en periode, kalles utgående balanse. Den utgående balansen ved slutten av én periode er den inngående balansen ved starten av neste periode.
+
+Å kontere betyr å angi hvordan et beløp skal føres på en konto. Skal beløpet føres i debet, kalles det en debitering. Skal det føres i kredit, kalles det en kreditering.
+
+Å regnskapsføre betyr å legge inn beløp på kontoene i regnskapet.
+
+Posteringer er de transaksjonene vi har regnskapsført i en periode. Du kan for eksempel si at du har postert ti regnskapsbilag i januar.
+
+# Dobbelt bokholderi, debet og kredit
+
+Dette kapitlet handler om selve kjernen i regnskapsføring: at alt føres to steder, på debet og på kredit.
+
+Dobbelt bokholderi betyr at en transaksjon skal føres på minst to steder i regnskapet, med like stort beløp begge steder. Vi øker eller reduserer én regnskapspost, samtidig som vi øker eller reduserer en annen.
+
+Debet er den venstre siden av en konto. Et beløp som føres i debet, har alltid pluss foran seg. Men det betyr ikke at debet alltid øker verdien på kontoen. Det kommer an på om det er en eiendelskonto, en gjeldskonto eller en egenkapitalkonto.
+
+Kredit er den høyre siden av kontoen. Kreditbeløp skrives med minus foran. Akkurat som for debet kommer det an på kontotypen om kredit øker eller reduserer verdien.
+
+I dag fører de fleste regnskap i et regnskapssystem på datamaskin. Tidligere ble regnskap ført for hånd. Da brukte man en oppstilling som ser ut som bokstaven T, og derfor kalles den en T-konto. T-kontoen gjør det lettere å forstå debet og kredit, og du kommer til å bruke den mye i dette emnet.
+
+Slik ser en T-konto ut. Øverst står kontonummeret og navnet på kontoen, på den vannrette streken. Under streken går en loddrett strek ned på midten. Til venstre for den loddrette streken er debetsiden. Til høyre er kreditsiden. Lær deg forskjellen på debet og kredit med en gang, for du trenger den hele veien.
+
+Kort oppsummert: hver transaksjon føres med samme beløp både i debet, som er venstre side, og i kredit, som er høyre side.
+
+# Balansen og balanseligningen
+
+Nå ser vi nærmere på selve balansen, og på den viktige sammenhengen mellom eiendeler, egenkapital og gjeld.
+
+Balansen viser bedriftens finansielle stilling på et bestemt tidspunkt. Den viser hvilke ressurser bedriften har, og hvordan disse ressursene er finansiert.
+
+Balansen har to sider. På debetsiden står bedriftens eiendeler. På kreditsiden står gjelden og egenkapitalen. Balansen viser altså forholdet mellom hvordan kapitalen brukes, som kalles anvendelse, og hvor kapitalen kommer fra, som kalles anskaffelse.
+
+Eiendelene er de ressursene bedriften har til rådighet. Det kan være bankinnskudd, varelager, inventar, kundefordringer og så videre. Eiendelene må være finansiert enten med lån eller med egenkapital.
+
+Derfor sier vi at eiendelene er lik egenkapitalen pluss gjelden. Dette er balanseligningen, og den er verdt å huske.
+
+Eiendelssiden må alltid være like stor som egenkapitalen og gjelden til sammen. Debetsiden og kreditsiden i balansen må være like store. Det er derfor det heter balanse: de to sidene balanserer.
+
+Det samlede beløpet som er investert i bedriften på et bestemt tidspunkt, kalles bedriftens totalkapital. Totalkapitalen er summen av eiendelene, som er lik summen av egenkapital og gjeld.
+
+Egenkapitalen er eierens andel av totalkapitalen. Du regner ut egenkapitalen slik: egenkapitalen er lik eiendelene minus gjelden.
+
+Tenk deg balansen som en firkant delt på midten. Den venstre halvdelen, debetsiden, er eiendelene. Den høyre halvdelen, kreditsiden, er delt i to: egenkapital øverst og gjeld nederst. Hele firkanten utgjør bedriftens totalkapital.
+
+I tillegg har hver enkelt eiendelspost, egenkapitalpost og gjeldspost sin egen debetside og kreditside. Hvorfor trenger vi det? La oss ta et eksempel. Du kjøper en kopimaskin til firmaet ditt. Den koster 30000 kroner, og du betaler fra bankkontoen. Da bruker du to kontoer: konto for bank og konto for maskiner. Begge er eiendelskontoer. Du må redusere bankkontoen med 30000 kroner og øke maskinkontoen med like mye.
+
+På T-kontoer ser det slik ut. På kontoen Maskiner føres 30000 kroner i debet, fordi maskinene øker. På kontoen Bank føres betalingen på 30000 kroner i kredit, fordi banken minker.
+
+Kort oppsummert: eiendelene er lik egenkapitalen pluss gjelden, og de to sidene i balansen må alltid være like store.
+
+# Oppstilling av balanseposter
+
+Dette kapitlet viser hvordan de to sidene i balansen deles videre opp.
+
+Til nå har vi sagt at debetsiden består av eiendeler, og kreditsiden består av egenkapital og gjeld. I selve regnskapsoppstillingen er hver side delt opp mer.
+
+Eiendelene deles i anleggsmidler og omløpsmidler. Gjelden deles i langsiktig og kortsiktig gjeld.
+
+Hensikten med oppstillingsplanen er å vise bedriftens finansielle stilling. Postene grupperes etter hvor lett eiendelene kan gjøres om til penger, og etter når gjelden forfaller. De minst likvide eiendelene kommer først. Egenkapitalen vises før gjelden, og langsiktig gjeld vises før kortsiktig gjeld.
+
+Den ferdige oppstillingen ser altså slik ut. På eiendelssiden står først anleggsmidler, så omløpsmidler. På siden for egenkapital og gjeld står først egenkapital, så langsiktig gjeld og til slutt kortsiktig gjeld.
+
+Det viktigste nå er at du vet at denne oppdelingen finnes. Hva som regnes som anleggsmidler og omløpsmidler, kommer vi tilbake til i en senere leksjon om verdivurdering av balansen.
+
+# Reglene for debet og kredit i balansen
+
+Her lærer du de seks reglene som avgjør om en endring i balansen føres i debet eller kredit.
+
+Du vet allerede at all kontering skjer ved at et beløp føres i debet på én konto og i kredit på en annen. For balansekontoene gjelder disse reglene.
+
+For eiendeler gjelder dette: en økning av en eiendel føres i debet, og en reduksjon av en eiendel føres i kredit.
+
+For egenkapital er det motsatt: en økning av egenkapitalen føres i kredit, og en reduksjon av egenkapitalen føres i debet.
+
+For gjeld er det likt som for egenkapital: en økning av gjelden føres i kredit, og en reduksjon av gjelden føres i debet.
+
+En enkel huskeregel er at eiendelene øker på samme side som de står i balansen, altså debet. Egenkapital og gjeld øker også på sin side i balansen, altså kredit.
+
+Kort oppsummert: eiendeler øker i debet og minker i kredit. Egenkapital og gjeld øker i kredit og minker i debet.
+
+# Regneeksempel med åtte transaksjoner
+
+Nå bruker vi reglene på åtte transaksjoner. Beløpene er lave med vilje, fordi det er tankegangen som er viktig her.
+
+Transaksjon nummer én: du kjøper en varebil for 100 kroner og betaler fra banken. Dette påvirker kontoen for varebil og kontoen for bank. Eiendelen varebil øker, og det føres i debet. Du bruker penger fra banken, så eiendelen bank minker, og det føres i kredit. Debet varebil 100 kroner, kredit bank 100 kroner.
+
+Transaksjon nummer to: du kjøper varer for 50 kroner på kreditt fra en leverandør. Dette påvirker kontoen for varer og kontoen for leverandørgjeld. Eiendelen varer øker, og økning av en eiendel er debet. Gjelden din øker også, og økning av gjeld er kredit. Debet varer 50 kroner, kredit leverandørgjeld 50 kroner.
+
+Transaksjon nummer tre: eieren skyter inn ny egenkapital på 30 kroner, som settes inn i banken. Her endres kontoen for egenkapital og kontoen for bank. Eiendelen bank øker, så det er debet bank. Egenkapitalen øker også, så det er kredit egenkapital. Debet bank 30 kroner, kredit egenkapital 30 kroner.
+
+Transaksjon nummer fire: du kjøper varer for 80 kroner og betaler fra banken. Eiendelen varer øker, det vil si debet varer. Eiendelen bank minker, det vil si kredit bank. Debet varer 80 kroner, kredit bank 80 kroner.
+
+Transaksjon nummer fem: et lån betales ned med 70 kroner, og eieren bruker sine private midler. Det regnes som ny egenkapital. Dette påvirker gjeldskontoen og egenkapitalen. Gjelden minker, og det gir debet gjeld. Egenkapitalen øker, og det gir kredit egenkapital. Debet gjeld 70 kroner, kredit egenkapital 70 kroner.
+
+Transaksjon nummer seks: du betaler et avdrag på lånet med 30 kroner fra banken. Gjelden minker, og eiendelen bank minker. Det gir debet gjeld 30 kroner og kredit bank 30 kroner.
+
+Transaksjon nummer sju: en kunde betaler 60 kroner inn på bankkontoen som nedbetaling på kundefordringene. Dette påvirker kundefordringer og bank. Bankkontoen øker, det vil si debet bank. Kundefordringene minker, det vil si kredit kundefordringer. Debet bank 60 kroner, kredit kundefordringer 60 kroner.
+
+Transaksjon nummer åtte: eieren tar ut 35 kroner fra bankkontoen til privat bruk. Eiendelen bank minker, og egenkapitalen minker. Det gir kredit bank 35 kroner og debet egenkapital 35 kroner.
+
+Den samme oppgaven kan løses med T-kontoer. For hver transaksjon tegner du to T-kontoer og fører beløpet i debet på den ene og i kredit på den andre. I transaksjon nummer én står 100 kroner i debet på Varebil og 100 kroner i kredit på Bank. I nummer to står 50 kroner i debet på Varer og 50 kroner i kredit på Leverandørgjeld. I nummer tre står 30 kroner i debet på Bank og 30 kroner i kredit på Egenkapital. I nummer fire står 80 kroner i debet på Varer og 80 kroner i kredit på Bank. I nummer fem står 70 kroner i debet på Gjeld og 70 kroner i kredit på Egenkapital. I nummer seks står 30 kroner i debet på Gjeld og 30 kroner i kredit på Bank. I nummer sju står 60 kroner i debet på Bank og 60 kroner i kredit på Kundefordringer. I nummer åtte står 35 kroner i kredit på Bank og 35 kroner i debet på Egenkapital.
+
+Kort oppsummert: i hver av de åtte transaksjonene er beløpet i debet like stort som beløpet i kredit.
+
+# Avslutning av kontoene og balanseoppstillingen
+
+I dette kapitlet samler vi transaksjonene på én konto per post, finner den utgående balansen og setter opp balansen.
+
+Hver konto får en utgående balanse som skal overføres til balanseregnskapet. Før du kan sette opp balansen, må du avslutte hver enkelt konto. I dette eksemplet forutsetter vi at ingen kontoer har inngående balanse.
+
+Noen kontoer ble brukt flere ganger i eksemplet, men i virkeligheten har du bare én konto for varebil, én for varer og så videre. Vi trenger sju kontoer. Det er varebil, varer, kundefordringer, bank, egenkapital, leverandørgjeld og gjeld.
+
+Nå avslutter vi kontoene én etter én. Den utgående balansen føres på den siden som gjør at kontoen går i null.
+
+Varebil har 100 kroner i debet. Utgående balanse er 100 kroner, og det er en debetsaldo.
+
+Varer har 50 kroner og 80 kroner i debet. Til sammen blir det 130 kroner. Utgående balanse er 130 kroner i debet.
+
+Kundefordringer har bare 60 kroner i kredit. Utgående balanse blir derfor 60 kroner på kreditsiden. Det blir slik fordi vi forutsatte at kontoen ikke hadde noen inngående balanse.
+
+Bank har 30 kroner og 60 kroner i debet, som blir 90 kroner. I kredit står 100, 80, 30 og 35 kroner, som blir 245 kroner. Kredit er altså 155 kroner større enn debet, fordi 245 minus 90 er 155. Utgående balanse på bank blir 155 kroner på kreditsiden.
+
+Egenkapital har 35 kroner i debet, og 30 kroner og 70 kroner i kredit. Kreditsiden blir 100 kroner. 100 minus 35 gir 65. Utgående balanse er 65 kroner i kredit.
+
+Leverandørgjeld har 50 kroner i kredit. Utgående balanse er 50 kroner i kredit.
+
+Gjeld har 70 kroner og 30 kroner i debet, som blir 100 kroner. Utgående balanse blir 100 kroner på debetsiden, igjen fordi vi startet uten inngående balanse.
+
+Nå samler vi saldoene i en balanseoppstilling. Pluss foran beløpet betyr debet, og minus foran beløpet betyr kredit.
+
+På eiendelssiden står varebil med pluss 100, varer med pluss 130, kundefordringer med minus 60 og bank med minus 155. Summen blir pluss 15. Mellomregningen er 100 pluss 130, som er 230. Så trekker du fra 60 og får 170. Så trekker du fra 155 og får 15.
+
+På siden for egenkapital og gjeld står egenkapital med minus 65, leverandørgjeld med minus 50 og gjeld med pluss 100. Summen blir minus 15. Mellomregningen er minus 65 minus 50, som er minus 115. Så legger du til 100 og får minus 15.
+
+Sum debet er altså lik sum kredit. Pluss 15 og minus 15 går opp i null, og balansen stemmer.
+
+Kort oppsummert: avslutt hver konto, overfør den utgående balansen til balansen, og sjekk at sum debet er lik sum kredit.
+
+# Kontoplanen og Norsk Standard 41 02
+
+Dette kapitlet forklarer hva en kontoplan er, og hvorfor vi bruker en felles norsk standard.
+
+Mange grunnleggende økonomiemner bruker ikke tid på kontoplanen. I dette emnet er den likevel med i pensum. Grunnen er at det å forstå hvordan kontoplanen er bygd opp, gir deg bedre forståelse av hvordan regnskap føres, og hvordan balansen og resultatregnskapet er satt sammen. Resten av kurset bruker derfor kontoer som følger Norsk Standard kontoplan. I denne leksjonen setter vi opp balansekontoer, og i leksjon 4 tar vi for oss kontoer i resultatregnskapet.
+
+Kort fortalt er en kontoplan en systematisk oversikt over alle kontoene i et regnskap. Hvor mange kontoer en bedrift trenger, avhenger av størrelsen og hva bedriften driver med. En bedrift som bare selger ett produkt, trenger bare én konto for salgsinntekt. En bedrift med mange produkter trenger flere kontoer hvis den vil ha en detaljert oversikt over inntektene.
+
+Uansett antall kontoer trenger vi et system som organiserer dem på en fornuftig måte når balansen og resultatregnskapet skal presenteres. Det er dette kontoplanen gjør. Den gir orden og system i regnskapet, den forebygger feil og misforståelser, og den gjør regnskapet lettere å forstå for folk utenfra.
+
+I Norge finnes det en standard med retningslinjer for hvordan bedrifter lager kontoplanen sin. Den heter Norsk Standard 41 02, ofte skrevet NS 41 02. Den er utarbeidet av Standard Norge.
+
+Ifølge standarden skal en ramme for kontokoder dekke flere formål. Det første er årsrapporter etter loven og god regnskapsskikk. Det andre er grunnlag for interne og eksterne analyser av økonomisk og finansiell art. Det tredje er oppgaver til offentlige myndigheter og institusjoner etter lover og regler, blant annet aksjeloven, regnskapsloven og skatteloven. Det fjerde er kalkyler som grunnlag for beslutninger. Det femte er planlegging, både detaljplanlegging, totalplanlegging, koordinering og budsjett. Det sjette er kontroll, for eksempel budsjettkontroll og standardkostkontroll, og kontroll av avdelinger, produkter og markeder. Det sjuende er oppfølging av spesielle prosjekter, som egne investeringer, produktutvikling og markedsutvikling. Det åttende er lagerregnskap, lønnsregnskap og lignende, som det ofte er nyttig å koble sammen med andre regnskaper.
+
+Hovedformålet med standarden er å dekke behovet for å oppfylle rapporteringsplikten og oppgaveplikten etter lover og regler.
+
+# Hvordan kontoplanen er bygd opp
+
+Her lærer du hva hvert siffer i et kontonummer betyr, og hvordan du kan lage kontoer på ulike detaljnivåer.
+
+Norsk Standard er bygd etter et desimalsystem. Det første sifferet i kontokoden angir kontoklassen. De to første sifrene angir kontogruppen. Det tredje sifferet angir selve kontokoden. Det er vanlig å legge til et fjerde siffer, fra 1 til 9, for å spesifisere enda mer.
+
+Standarden har åtte kontoklasser. Klasse 1 er eiendeler. Klasse 2 er egenkapital og gjeld. Klasse 3 er salgsinntekter og driftsinntekter. Klasse 4 er varekostnader. Klasse 5 er lønnskostnader. Klasse 6 og 7 er andre driftskostnader. Klasse 8 er finansinntekter og finanskostnader, ekstraordinære inntekter og kostnader, skatter og årsresultat.
+
+Klasse 1 og 2 avsluttes mot balansen. De andre klassene avsluttes mot resultatregnskapet. I denne leksjonen ser vi på klasse 1 og 2. De andre kommer i neste leksjon.
+
+Hver kontoklasse er delt inn i kontogrupper. I balansen er eiendelene delt i ti kontogrupper, og egenkapital og gjeld er også delt i ti. Noen bedrifter spesifiserer bare på tosifret nivå og setter to nuller bak gruppen. Andre spesifiserer mer, enten med det tredje sifferet og null på det fjerde, eller med både tredje og fjerde siffer.
+
+La oss ta et eksempel. Vi vil opprette en konto for kontanter og bankinnskudd. Gruppen for dette er 19, kontanter, bankinnskudd og lignende.
+
+Alternativ én er det enkleste. Hvis du bare bruker én kontokode i hele gruppen, kan tredje og fjerde siffer være null. Da får du konto 19 hundre Kontanter, bankinnskudd og lignende.
+
+Alternativ to gir litt mer detalj. Du kan bruke sifrene null til ni bak 19, og får da 190, 191, 192, 193 og så videre. Det fjerde sifferet settes til null. Vil du skille kontanter fra det du har i banken, kan du lage konto 19 hundre Kontanter og konto 19 20 Bankinnskudd.
+
+Alternativ tre gir enda mer detalj. Da deler du inn med det fjerde sifferet, for eksempel 19 20, 19 21, 19 22, 19 23 og så videre. Det kan være nyttig hvis du har konto i flere banker og vil se hvor mye som står på hver. Du kan da ha konto 19 20 Bankinnskudd i Sparebanken, konto 19 21 Bankinnskudd i Skandiabanken og konto 19 22 Bankinnskudd i Danske Bank.
+
+I selve standarden brukes tre siffer per konto. I praksis er det vanlig å bruke fire siffer, og det gjør vi også i resten av kurset.
+
+Nå går vi gjennom kontogruppene i balansen. Vi starter med klasse 1, eiendeler. Gruppe 10 er forskning og utvikling. Gruppe 11 er tomter, bygninger og annen fast eiendom. Gruppe 12 er maskiner og anlegg. Gruppe 13 er finansielle anleggsmidler. Gruppe 14 er varelager. Gruppe 15 er kortsiktige fordringer. Gruppe 16 er merverdiavgift til gode og lignende. Gruppe 17 er forskuddsbetalte kostnader og lignende. Gruppe 18 er kortsiktige finansinvesteringer. Gruppe 19 er bankinnskudd og kontanter.
+
+Så klasse 2, egenkapital og gjeld. Gruppe 20 er egenkapital. Gruppe 21 er avsetning for forpliktelser. Gruppe 22 er annen langsiktig gjeld. Gruppe 23 er kortsiktige lån. Gruppe 24 er leverandørgjeld. Gruppe 25 er betalbar skatt. Gruppe 26 er skattetrekk og andre trekk. Gruppe 27 er skyldige offentlige avgifter. Gruppe 28 er utbytte. Gruppe 29 er annen kortsiktig gjeld.
+
+Legg merke til at gruppene følger oppstillingsplanen i balansen. Anleggsmidlene kommer først og bankinnskudd og kontanter sist. På den andre siden kommer egenkapitalen først, så langsiktig gjeld og til slutt kortsiktig gjeld.
+
+Kort oppsummert: første siffer er klassen, de to første er gruppen, og jo flere siffer du bruker, jo mer detaljert blir kontoplanen.
+
+# Kontoplanen for Jostein AS
+
+Nå er det Jo og Stein sin tur. De skal sette opp kontoplanen for balansen i bedriften sin, Jostein AS.
+
+En viktig regel er at du bare setter opp de kontoene du faktisk trenger. Dukker det opp behov for en ny konto senere, er det enklere å legge den inn da, enn å ha altfor mange kontoer i systemet. For mange kontoer er en feilkilde.
+
+Først eiendelene. Jostein AS har konto 12 hundre Maskiner, konto 12 50 Inventar, konto 15 hundre Kundefordringer, konto 15 70 Andre kortsiktige fordringer, som brukes til forskutterte utgifter, konto 19 hundre Kontanter, konto 19 20 Bankinnskudd og konto 19 50 Bankinnskudd for skattetrekk.
+
+Så egenkapital og gjeld. Her har de konto 2000 Aksjekapital, konto 20 50 Annen egenkapital, konto 22 hundre Annen langsiktig gjeld, konto 23 80 Kassakreditt og konto 24 hundre Leverandørgjeld.
+
+Videre har de konto 26 hundre Skattetrekk, konto 27 hundre Skyldige offentlige avgifter, merverdiavgift, konto 27 70 Skyldig arbeidsgiveravgift, konto 27 80 Påløpt arbeidsgiveravgift av feriepenger, konto 29 hundre Forskudd fra kunder, konto 29 20 Påløpt husleie, konto 29 30 Påløpt lønn, konto 29 40 Feriepenger og konto 29 90 Annen kortsiktig gjeld.
+
+I neste leksjon setter Jo og Stein opp resultatkontoene de trenger.
+
+# Eksempel: Jostein AS sin første måned
+
+I dette kapitlet setter vi opp åpningsbalansen for Jostein AS per 1. januar, fører transaksjonene i januar og avslutter balansen per 31. januar.
+
+Vi løser oppgaven med en tabellarisk avslutning. Tidligere brukte vi T-kontoer, men når du har mange kontoer å avslutte, blir T-kontoer fort uoversiktlige. En tabellarisk avslutning er en vannrett oppstilling der kontoene står ved siden av hverandre, hver med sin debetkolonne og kreditkolonne.
+
+I dette eksemplet avslutter vi direkte mot balansekontoen Annen egenkapital. I neste leksjon får du se at det vanlige er å avslutte en periode via resultatregnskapet.
+
+Jo og Stein fikk et lån i den lokale banken i Nord-Trøndelag, Trøndelagsbanken, slik at de kunne starte firmaet. Lånet var på 100000 kroner og skulle dekke egenkapitalbehovet ved oppstarten. Da de startet, hadde de ingen andre verdier i firmaet enn denne lånte aksjekapitalen.
+
+Åpningsbalansen per 1. januar blir derfor slik. På debetsiden står konto 19 20 Bank med 100000 kroner. På kreditsiden står konto 2000 Aksjekapital med 100000 kroner, skrevet med minus fordi det er kredit. Summen er 100000 kroner på hver side.
+
+I løpet av januar har Jostein AS seks transaksjoner. For hver av dem får du vite hvilke kontoer som skal brukes.
+
+Transaksjon nummer én, 5. januar: de kjøper brukt inventar for 15000 kroner og betaler ved å ta ut 15000 kroner fra kassakredittkontoen. Inventar øker, så det føres i debet på konto 12 50 Inventar. Kassakreditten er gjeld som øker, så det føres i kredit på konto 23 80 Kassakreditt.
+
+Transaksjon nummer to, 15. januar: de kjøper PC-er og annet IT-utstyr for 20000 kroner, med 30 dagers kredittid. Det føres i debet på konto 12 hundre Maskiner og i kredit på konto 24 hundre Leverandørgjeld.
+
+Transaksjon nummer tre, 21. januar: de har skaffet ekstra kapital og øker egenkapitalen med 25000 kroner. Av dette legges 5000 kroner i kassen, og de resterende 20000 kroner settes inn i banken. Det føres 5000 kroner i debet på konto 19 hundre Kontanter, 20000 kroner i debet på konto 19 20 Bank, og 25000 kroner i kredit på konto 20 50 Annen egenkapital. Legg merke til at de to debetbeløpene til sammen er like store som kreditbeløpet, fordi 5000 pluss 20000 er 25000.
+
+Transaksjon nummer fire, 27. januar: Jo og Stein får til sammen 10000 kroner i forskudd på lønn, utbetalt fra bankkontoen. Det føres i debet på konto 15 70 Andre kortsiktige fordringer, som her er forskutterte utgifter, og i kredit på konto 19 20 Bank.
+
+Transaksjon nummer fem, 31. januar: de får inn 40000 kroner på bankkontoen for et oppdrag de har utført. Dette øker egenkapitalen. Det føres i debet på konto 19 20 Bank og i kredit på konto 20 50 Annen egenkapital.
+
+Transaksjon nummer seks, 31. januar: de har fakturert timer for 10000 kroner i januar, og kundene har fått kreditt. Også dette øker egenkapitalen. Det føres i debet på konto 15 hundre Kundefordringer og i kredit på konto 20 50 Annen egenkapital.
+
+Nå avslutter vi kontoene i den tabellariske oppstillingen. For hver konto summerer vi debet og kredit, og differansen er beløpet som går til balansen.
+
+Konto 12 hundre Maskiner har 20000 kroner i debet og ingenting i kredit. Til balansen går 20000 kroner.
+
+Konto 12 50 Inventar har 15000 kroner i debet. Til balansen går 15000 kroner.
+
+Konto 15 hundre Kundefordringer har 10000 kroner i debet. Til balansen går 10000 kroner.
+
+Konto 15 70 Forskutterte utgifter har 10000 kroner i debet. Til balansen går 10000 kroner.
+
+Konto 19 hundre Kontanter har 5000 kroner i debet. Til balansen går 5000 kroner.
+
+Konto 19 20 Bank er den med flest føringer. Inngående balanse er 100000 kroner i debet. Så kommer 20000 kroner i debet den 21. januar og 40000 kroner i debet den 31. januar. Debet blir til sammen 160000 kroner. I kredit står 10000 kroner for lønnsforskuddet. 160000 minus 10000 gir 150000. Til balansen går 150000 kroner.
+
+Konto 2000 Aksjekapital har inngående balanse på 100000 kroner i kredit, og ingen endringer. Til balansen går 100000 kroner.
+
+Konto 20 50 Annen egenkapital har 25000 kroner, 40000 kroner og 10000 kroner i kredit. 25000 pluss 40000 er 65000, og pluss 10000 blir det 75000. Til balansen går 75000 kroner.
+
+Konto 23 80 Kassakreditt har 15000 kroner i kredit. Til balansen går 15000 kroner.
+
+Konto 24 hundre Leverandørgjeld har 20000 kroner i kredit. Til balansen går 20000 kroner.
+
+Da kan vi sette opp balansen per 31. januar for Jostein AS.
+
+På debetsiden står maskiner med 20000 kroner, inventar med 15000 kroner, kundefordringer med 10000 kroner, forskutterte utgifter med 10000 kroner, kontanter med 5000 kroner og bank med 150000 kroner. Summen blir 210000 kroner. Mellomregningen er 20000 pluss 15000 pluss 10000 pluss 10000 pluss 5000, som er 60000. Så legger du til 150000 og får 210000.
+
+På kreditsiden står aksjekapital med 100000 kroner, annen egenkapital med 75000 kroner, kassakreditt med 15000 kroner og leverandørgjeld med 20000 kroner. Summen blir også 210000 kroner. 100000 pluss 75000 er 175000, pluss 15000 er 190000, og pluss 20000 er 210000.
+
+Begge sidene er like store, og balansen går opp.
+
+Kort oppsummert: Jostein AS startet med 100000 kroner i bank og aksjekapital, og etter januar har de en balanse på 210000 kroner på hver side.
+
+# Oppsummering
+
+Her er de viktigste punktene fra leksjonen.
+
+Regnskapet består av balansen og resultatregnskapet. Balansen viser den finansielle stillingen på en bestemt dag, altså forholdet mellom anvendelse og anskaffelse av kapital. Resultatregnskapet viser resultatet for en periode, med inntekter og kostnader.
+
+Du har lært sentrale begreper: transaksjon, konto, inngående og utgående balanse, kontering, regnskapsføring og postering.
+
+Prinsippet om dobbelt bokholderi sier at alle transaksjoner skal føres både i debet og i kredit, med like stort beløp. Debet er venstre side av kontoen, og kredit er høyre side.
+
+Balansen består av eiendeler på debetsiden, og egenkapital og gjeld på kreditsiden. Eiendelene er lik egenkapitalen pluss gjelden, og egenkapitalen er lik eiendelene minus gjelden. Summen kalles totalkapitalen. Eiendelene deles i anleggsmidler og omløpsmidler, og gjelden i langsiktig og kortsiktig gjeld.
+
+Eiendeler øker i debet og minker i kredit. Egenkapital og gjeld øker i kredit og minker i debet.
+
+Norsk Standard 41 02 gjør det enklere for norske bedrifter å lage en kontoplan som passer med rapporteringsplikten for resultat og balanse. Første siffer i kontonummeret er kontoklassen, og de to første er kontogruppen. Klasse 1 er eiendeler og klasse 2 er egenkapital og gjeld, og disse avsluttes mot balansen.
+
+Til slutt satte vi opp åpningsbalansen for Jostein AS og førte et forenklet regnskap for den første driftsmåneden.
+
+I neste leksjon ser vi på resultatregnskapet. Du lærer mer om inntekter og kostnader, og Jo og Stein setter opp kontoplanen for resultatkontoene. Etter leksjon 4 kan du avslutte regnskapet både mot resultatregnskapet og mot balansen.

@@ -1,0 +1,1074 @@
+Opphavsrett: Forfatter(e) og Stiftelsen TISIP
+ Leksjon 9 - Produktforvaltning
+ Knut Arne Strand, Institutt for datateknologi og informatikk (IDI), NTNU.
+ Lærestoffet er utviklet for faget Produktutvikling, marked og forvaltning av programvareprodukter
+ 1. Produktledelse og produktstrategi
+ Resymé: I denne leksjonen ser vi nærmere på produktforvaltning gjennom produktenes livssyklus og vi
+introduserer et rammeverk for produktforvaltning som heter «ISPMA Software Product Management
+Framework» eller «The software product management body of knowledge». I denne leksjonen fokuserer vi på
+første del (1/3) av dette rammeverket.
+ Innhold
+ 1.   PRODUKTLEDELSE OG PRODUKTSTRATEGI ................................................................................ 1
+ 1.1.   INNLEDNING ......................................................................................................................................... 2
+ 1.2.   STRATEGISK LEDELSE OG PRODUKTSJEFENS ROLLE .............................................................................. 3
+ 1.2.1.   Bedriftens overordnede strategi ...................................................................................................... 3
+ 1.2.2.   Porteføljestyring   .............................................................................................................................. 3
+ 1.2.3.   Innovasjonsledelse .......................................................................................................................... 3
+ 1.2.4.   Ressursforvaltning........................................................................................................................... 4
+ 1.2.5.   Etterlevelsesstyring ......................................................................................................................... 4
+ 1.2.6.   Markedsanalyse............................................................................................................................... 4
+ 1.2.7.   Produktanalyse................................................................................................................................ 5
+ 1.3.   PRODUKTSTRATEGI OG PRODUKTSJEFENS ROLLE.................................................................................. 5
+ 1.3.1.   Posisjonering og produktdefinisjon................................................................................................. 8
+ 1.3.2.   Leveransemodell og tjenestestrategi ............................................................................................... 8
+ 1.3.3.   Forvaltning av produktenes økosystem ........................................................................................... 9
+ 1.3.4.   Sourcing ........................................................................................................................................ 10
+ 1.3.5.   Prising ........................................................................................................................................... 11
+ 1.3.6.   Økonomistyring ............................................................................................................................. 22
+ 1.3.7.   Styring av juridiske og immaterielle rettigheter   ............................................................................ 23
+ 1.3.8.   Ytelses- og risikostyring ................................................................................................................ 26
+ 1.4.   REFERANSELISTE ................................................................................................................................ 26
+
+ 1.1.   Innledning
+ Dette er andre leksjon innen produktforvaltning som skal leses sammen med kapittel 3 og
+kapittel 5 i læreboken. Hovedfokuset for denne leksjonen er å starte gjennomgangen av et
+rammeverk for produktforvaltning som bidrar til å forklare hvilke oppgaver og
+ansvarsområder som er forbundet med produktforvaltning. Dette rammeverket (se fig. 1
+nedenfor) ble introdusert i forrige leksjon og i denne leksjonen konsentrerer vi oss om
+aktivitetene som ligger under strategisk ledelse (eng. Strategic Management) og
+Produktstrategi (eng. Product Strategy).
+ Figur 1 – The ISPMA Software Product Management Framework
+ Som det framgår av fig.1 så er det de blå aktivitetene som regnes som ren produktforvaltning
+(eng.   Core Software Product Management).   Dette er alle aktivitetene under produktstrategi
+(kolonne 2), alle aktivitetene under produktplanlegging (kolonnes 3), samt markedsanalyse og
+produktanalyse fra kolonnene for strategisk ledelse (kolonne 1). De øvrige aktivitetene med
+grå bakgrunnsfarge i kolonne 1 er aktiviteter hvor produktsjefen må regne med å delta og å
+komme med innspill (eng. participation), mens de øvrige aktivitetene med grå bakgrunnsfarge
+(kolonne 4, 5, 6 og 7) er aktiviteter som produktsjefen orkestrerer (dvs. styrer, påvirker og til
+dels er delaktig i).
+
+ 1.2.   Strategisk ledelse og produktsjefens rolle
+ Strategisk ledelse (eng. Strategic Management) er en aktivitet i en organisasjon som
+omhandler dette med å definere, planlegge, enes om, gjennomføre og evaluere
+organisasjonens strategi. Det er en del av ansvarsområdet til ledelsen i bedriften, men mye av
+arbeidet kan typisk delegeres. Strategisk ledelse inneholder flere elementer som kan knyttes
+til produktforvaltning, men produktsjefen er som regel ikke ansvarlig for disse elementene.
+Produktsjefen kan imidlertid være en viktig støttespiller som kommer med innspill i forhold
+til flere av disse prosessene. Her følger en oversikt over noen typiske tema i strategisk ledelse,
+samt hvordan produktsjefen kan forholde seg til disse. Denne oversikten er hentet fra første
+kolonne i fig. 1 mens noe av innholdet er basert på [1].
+ 1.2.1.   Bedriftens overordnede strategi
+ Bedriftens overordnede strategi (eng. Corporate Strategy). En strategi på overordnet nivå
+(bedriftsnivå eller konsernnivå) vil vanligvis ha en tidsramme på fem år eller mer. En slik
+strategi kan f.eks. inneholde visjonen, formålsparagrafen eller idegrunnlaget (eng. mission),
+bedriftens verdier, målformuleringer, forretningsmodellen, produktporteføljen og dens
+planlagte utvikling, en plan for ressurs- og kompetanseutvikling, teknologiske trender og en
+tilpasset innovasjonsstrategi, markedets utvikling og en strategi for framtidig konkurranse,
+samt politiske føringer og bedriftens styresett. Produktsjefene må typisk kunne komme med
+innspill når bedriftens strategi revideres, for å sikre at produktstrategiene er i
+overensstemmelse med bedriftens overordnede strategi.
+ Du finner mer informasjon om «Bedriftens overordnede strategi» i læreboken [2, s. 212–217
+og 242].
+ 1.2.2.   Porteføljestyring
+ Porteføljestyring (eng. Portfolio Management) handler om å definere investeringsstrategien
+for de produktene (produktporteføljen) som selskapet skal tilby innenfor den strategiske
+tidsrammen. Produktsjefene blir vanligvis bedt om å bidra med innspill i forhold til sin
+produktportefølje ved at de representerer sine produkter og gir innspill om veien videre,
+forventet inntjening og investeringsbehov. Resultatene fra dette arbeidet kan ha betydelige
+konsekvenser for hvert enkelt produkt sin produktstrategi.
+ Du finner mer informasjon om «Porteføljestyring» i læreboken [2, s. 217–225].
+ 1.2.3.   Innovasjonsledelse
+ Innovasjonsledelse (eng. Innovation Management). På overordnet nivå (konsernnivå) handler
+innovasjonsledelse om å være på linje med bedriftens overordnede strategi og det er slik at
+justering kan være nødvendig i begge retninger for at denne overensstemmelsen skal
+opprettholdes. Innovasjonsaktiviteter kan bidra med betydelige resultater og disse må
+eventuelt innarbeides i bedriftens overordnede strategi, samt påvirke strategien for hvert
+enkelt produkt slik at dette kan forvandles til konkurransefortrinn. Eventuelle endringer i
+selskapets strategi må også gjenspeiles i innovasjonsledelsen, slik at ressursene benyttes i
+henhold til gjeldende strategiske retninger. En produktsjef må sørge for at produktene drar
+nytte av eventuelle innovasjonstiltak som er relevant for de respektive produktene.
+
+ Du finner mer informasjon om «Innovasjonsledelse» i læreboken [2, s. 225–229].
+ 1.2.4.   Ressursforvaltning
+ Ressursforvaltning (eng. Resource Management). På overordnet nivå (konsernnivå) handler
+ressursforvaltning om å sikre at nødvendige ressurser er tilgjengelige til riktig tid, i riktig
+mengder og med riktige kvaliteter. Dette for å sikre at selskapet skal være i stand til å
+implementere selskapets overordnede strategi og korresponderende produktstrategier. Dette
+gjelder i særlig grad for menneskelige ressurser som man må ha nok av og som må ha riktig
+kompetanse og erfaring. En produktsjef må sørge for at ressursbehovet som følge av
+produktstrategien og planen for produktet kan oppfylles. Dette ressursbehovet må altså være
+på linje med bedriftens totale ressursforvaltning.
+ Du finner mer informasjon om «Ressursforvaltning» i læreboken [2, s. 230].
+ 1.2.5.   Etterlevelsesstyring
+ Vi velger her å benytte begrepet Etterlevelsesstyring om det som i læreboken omtales som
+Compliance Management. Dette handler om risikostyring og etterlevelse og det er heller ikke
+uvanlig å benytte begrepet Compliance, på norsk.
+ Etterlevelsstyring handler om å sikre at programvareprodukter og tilhørende
+utviklingsprosesser overholder relevante lover, forskrifter, standarder og retningslinjer. Dette
+er en viktig del av produktforvaltningen, som bidrar til å unngå juridiske problemer,
+opprettholde et godt omdømme i markedet, samt sikre at produktene er i tråd med kravene i
+markedet. Som produktsjef må man sørge for at programvareprodukter overholder lover og
+forskrifter som er relevante for programvaren, bransjen og landet programvaren brukes i.
+Dette kan f.eks. være spesifikke bransjestandarder, tekniske standarder, kvalitetsstandarder og
+retningslinjer for sikkerhet og håndtering av persondata. Videre er administrasjon av
+programvarelisenser og håndtering av opphavsrettigheter for programvareproduktene sentralt.
+ Etterlevelsesstyring er avgjørende for å redusere juridisk usikkerhet og bygge tillit hos
+brukere og interessenter. Det krever et tett samarbeid mellom produktledelsen, juridisk
+personell og utviklere, for å sikre at alle aspekter ved programvareproduktene og utviklingen
+av disse er i samsvar med gjeldende lover og standarder.
+ Du finner mer informasjon om «Etterlevelsesstyring» i læreboken [2, s. 230–232].
+ 1.2.6.   Markedsanalyse
+ Markedsanalyse (eng. Market Analysis). Det er av avgjørende betydning for et selskap å ha
+dyp innsikt i markedene det ønsker å operere i og trendene som rører seg. Dette for å forstå
+konkurransesituasjonen og strategien til konkurrentene i dette markedet. For produktsjefen
+gjelder det samme på produktnivå, der produktsjefen trenger mest mulig pålitelig informasjon
+relatert til produktene. Større selskaper har ofte egne markedsavdelinger som på mange måter
+kan fungerer som en intern serviceenhet for produktsjefene. Markedsavdelingen driver sine
+egne aktiviteter for å samle inn og vurdere informasjon om markedet. I mindre bedrifter kan
+
+ imidlertid produktsjefen være ansvarlig for å gjøre dette selv. Dette er også årsaken til at
+denne ruten er skravert i fig. 1.
+ Du finner mer informasjon om «Markedsanalyse» i læreboken [2, s. 232–239].
+ 1.2.7.   Produktanalyse
+ Produktanalyse (eng. Product Analysis). En produktsjef må til enhver tid vite hvordan
+produktene ligger an i forhold til planene slik at selskapet kan iverksette eventuelle tiltak
+dersom det blir nødvendig. Dette kan være relatert til faktiske (påløpte) kostnader i forhold til
+budsjett, faktiske inntekter i forhold til inntektsprognose (eng. forecast), antall installerte eller
+bestilte lisenser i forhold til planene og andre tiltak som anses som relevant i forhold til
+produktet. I de fleste selskaper utarbeides disse tallene i egne avdelinger som f.eks.
+regnskapsavdelingen, men produktsjefen må likevel sørge for at pålitelige tall er tilgjengelige
+og at de er rimelig oppdatert.
+ Du finner mer informasjon om «Produktanalyse» i læreboken [2, s. 239–242].
+ 1.3.   Produktstrategi og produktsjefens rolle
+ En produktsjef er ansvarlig for å definere strategien for sitt produkt samt sørge for at denne
+følges, utvikles og til enhver tid er oppdatert. Dette regnes blant produktsjefens
+kjerneoppgaver. Når vi her skriver om produktsjefens produkt så kan dette i enkelte tilfeller
+omfatte hele produktplattformer eller en hel produktfamilie (se forrige leksjon). En
+produktsjef må nemlig jobbe strategisk med hele sin produktportefølje. Normalt dekker en
+strategi et tidsrom på ca. ett til fem år, men dette varierer i forhold til hvilket fagområde
+applikasjonen(e) opererer innenfor. En produktstrategi beskriver hvordan man planlegger at
+produktet skal utvikle seg innenfor den strategiske tidsrammen. En produktstrategi kan
+materialiseres som et strategidokument og her følger en oversikt over hva et
+produktstrategidokument kan være, som er inspirert av [2]:
+ •   Produktets visjon – En beskrivelse av et framtidig målbilde for produktet, som man ønsker
+å nå.
+ •   Produktets navn – Navnet med velges med et markedsmessig perspektiv siden det skal
+fungere både internt og eksternt.
+ •   Produktdefinisjon (en beskrivelse av produktet)
+ o   Funksjonelle egenskaper
+ o   Kvalitetsmessige egenskaper
+ o   Hvordan system skal brukes og hvem som skal være brukerne
+ o   En fullstendig oversikt over hvilke komponenter som inngår
+ •   Markedsmessig målgruppe
+ o   Markedets størrelse
+ o   Eksisterende konkurrerende produkter og deres markedsandeler
+ o   Internasjonale markedsmuligheter
+ o   Segmentering i markedet – Er markedet delt inn i flere markedssegment der
+kundene har felles behov
+ •   Leveransemodell og/eller tjenestestrategi
+
+ o   Salg av programvarelisenser eller salg av tjenester (Software-as-a-Service (SaaS))
+ o   Standardprodukt (hyllevare) eller spesialtilpasset produkt (skreddersøm).
+ o   Pakketering av produktet. Skal produktet emballeres eller skal det bar lastes ned
+fra internett? Skal det kombineres med tjenester?
+ o   Hvilke tjenester skal inngå som en del av totaltilbudet?
+ •   Produktets posisjonering
+ o   Verdibeskrivelse – En beskrivelse av produktets verdi sett fra et kundeperspektiv.
+ o   Markedsmessig satsingsområde – Hvilken markedsmessig målgruppe og
+eventuelle segmenter i markedet går vi for, hva skal være selskapets
+produktportefølje og har vi noen produkter som har kommet såpass langt i
+livssyklusfasen at revitalisering bør stå for tur?
+ o   Finnes det noen kanaler som kan utnyttes?
+ o   Er det noen partnerskap eller allianser som er nødvendig?
+ •   Sourcing alternativer
+ o   Hvilke sourcing alternativer finnes og hvilke styrker og svakheter har de
+forskjellige alternativene?
+ o   Hva skal man lage/produsere selv og hva skal man kjøpe?
+ •   Forretningsplan – Som viser hvordan produktet kan utvikles, selges og forvaltes på en
+lønnsom måte.
+ •   Veikart (eng. Roadmap) – Dette er en oversikt over hva som skal komme (hvilke
+versjoner med hvilket innhold), når det skal skje, etc. Altså hva som planlegges framover.
+ Innholdet som er beskrevet ovenfor kan gjerne inngå i et og samme produktstrategidokument,
+siden man da sikrer sammenhengen og at det er konsistent. I følgende 2 avsnitt gir vi litt i
+dybden på begrepene   produktets visjon   og   produktets navn   ovenfor, før vi tar en gjennomgang
+i henhold til rammeverket som framgår av figur 1.
+ Produktets visjon
+ Produktets visjon er som en ledestjerne for produktstrategien som gir følgende:
+ •   Et konseptuelt bilde av hva det framtidige produktet vil være.
+ •   Hvilken verdi produktet bidrar med til kunden (verdiforslag) som indikerer hvorfor man
+trenger produktet og hvorfor det ikke kan bli erstattet av andre produkter.
+ •   Den forretningsmessige verdien for leverandøren som typisk indikerer hvorfor dette
+produktet vil bli en suksess.
+ En sterk og god visjon for produktet har vist seg å være nyttig, siden den kan bidra til å
+overbevise og engasjere alle interessentene. I utgangspunktet er dette et konseptuelt bilde av
+hva fremtidens produkt vil være, mens de andre elementene i produktstrategien inneholder
+detaljer som gjør visjonen om til en håndterlig og kjørbar vei inn i framtiden. I større bedrifter
+er det et poeng at produktets visjon er avstemt med bedriftens visjon.
+ En produktvisjon skal ideelt sett gi svar på tre visjonære spørsmål i tilknytning til produktet:
+ •   Hvor ønsker vi å gå?
+Dette første spørsmålet kan besvares med hvilke markedsmessige mål som eksisterer,
+hvordan man ønsker å skille seg ut med konkurransedyktige produkter og hvordan
+selskapets overordnede strategi støtter produktsatsningen.
+ •   Hvordan skal vi komme dit?
+Dette er andre spørsmål som kan besvares med utgangspunkt i produktet og brukernes
+
+ tiltenkte bruk av det. Altså hva som kjennetegner produktet, hvilke brukstilfeller som
+støttes og hvilke funksjonelle egenskaper produktet består av.
+ •   Hvorfor tror vi at vi skal lykkes?
+Dette tredje spørsmålet kan besvares med selve prosessen vi skal gjennomgå. Altså det
+at vi gjennomfører utviklingsaktiviteter, markedsføring, leveranser og kundestøtte for
+produktene.
+ En visjon skal være en kort og konsis beskrivelse av produktets sentrale ideer og den skal
+kunne forklares videre med underliggende dokumentasjon. En forstått og akseptert visjon er
+viktig for å oppnå suksess i markedet, men det har vist seg overraskende vanskelig å etablere
+gode visjoner. Derfor bør visjonen(e) utvikles i samarbeid med forskjellige interessenter
+(kolleger, fagfeller, etc.) og den bør utvikles med utgangspunkt i produktstrategien og
+aktivitetene som planlegges i og rundt produktet.
+ Du finner mer informasjon om produkttest visjon i læreboken [2, s. 53–58]
+ Produktets navn, samt versjonsnummer og kapabilitet
+ Alle produktsjefer må ta stilling til om produktene skal beholde navnet eller om dette skal
+endres og det må etableres en standard som skiller forskjellige varianter av
+programvareproduktene. Videre må man ha et bevist forhold til hvilken kompatibilitet som
+eksisterer mellom de forskjellige produktvariantene. Her følger noen betraktninger rundt disse
+begrepene:
+ •   Produktets navn – Har man et helt nytt produkt så er det også naturlig å etablere et
+nytt navn, men det hender også at man skifter navn på eksisterende produkter. Valg
+av navn er først og fremst et markedsmessig spørsmål som er uavhengig av
+teknologien. Skifte av navn på eksiterende produkter kan typisk skje når flere firma
+fusjonerer, for så å satse på en ny eller utvidet produktfamilie.
+ •   Versjon – En ny versjon av et produkt bør inneholde vesentlige utvidelser og
+forbedringer, dersom den skal fortjene å få et nytt versjonsnummer. Eksisterende
+kunder må som regel betale for å få tilgang på nye versjoner og nye versjoner bør få
+et nytt internt produktnummer.
+ •   Release – En ny   release   er en ny utgivelse av et programvareprodukt med utvidet
+funksjonalitet eller andre endring som f.eks. feilrettinger. Nye release’er er som regel
+«gratis» for kundene som betaler vedlikeholdsavgift nettopp for å få tilgang på nye
+utgivelser. Som et eksempel: for et lønnssystem i det norske markedet vil man
+normalt ha flere release’er pr. år. I januar kan det typisk komme en ny års-release som
+blant annet implementerer nye og endrede skatteregler. Til sommeren kan det typisk
+komme en ny release som inneholder nye avsetningsregler for feriepenger og i
+desember kan det kommer en årsoppgjørs-release som inneholder noen av endringene
+fra siste godkjente statsbudsjett.
+ •   Modifikasjonsnivå (eng. modification level) - Benyttes til å skille alle versjonene fra
+hverandre. Et nytt modifikasjonsnivå genereres for den minste endring/feilretting, slik
+at alle versjoner kan skilles fra hverandre.
+ Som et eksempel på bruk av versjons-nummer, release-nummer og modifikasjonsnivå
+trekker læreboken fram produktet IBM z/OS Vesjon 1, release 9, modifikasjonsnivå 5.
+Denne får betegnelsen IBM z/OS 1.9.5
+ Du finner mer informasjon om produkttest navn i læreboken [2, s. 58–60]
+
+ 1.3.1.   Posisjonering og produktdefinisjon
+ Posisjonering (eng. Positioning) en viktig del av produktstrategien og markedsføringen. Det
+handler om å definere hvordan man ønsker at programvareproduktet skal bli oppfattet av
+målgrupper og markedet som helhet. Effektiv posisjonering skal gi en klarhet om hva
+produktet handler om, hvilke fordeler det gir og hvordan det skiller seg fra konkurrentenes
+produkter. God posisjonering er avgjørende for å tiltrekke seg ønsket målgruppe, øke
+produktets synlighet og hjelpe kundene med å forstå hvilken verdi produktet bidrar med.
+Posisjoneringen inngår typisk som en del av produktstrategien, og den skal bidra til å skape et
+sterkt og konkurransedyktig programvareprodukt. Du finner mer informasjon om
+«Posisjonering» i læreboken [2, s. 78–85].
+ Produktdefinisjonen (eng. Product Definition) beskriver produktet på et forholdsvis
+overordnet nivå, i forhold til hva det skal være og hva det ikke skal være i kommende
+strategiske periode. Definisjonen sier typisk litt om hvem brukerne er, hva produktet er ment
+benyttet til, hvilken funksjonalitet og hvilke funksjonelle egenskaper produktet har, hvordan
+kvaliteten sikres, hvordan brukeropplevelsen (User Experience – UX) vil være, kompatibilitet
+med andre systemer og versjoner, teknologiske føringer, muligheter i forhold til
+kundetilpasninger (customization), aktuell leveransemodell og produkttilbudet som helhet.
+ For å si noe om kompatibiliteten mellom versjonene benytter læreboken begrepene upward
+compatible eller downward compatibel.
+ •   Upward kompatibel er når data fra en eldre versjon (n) kan overføres til og brukes av en
+nyere versjon (n+1) uten endringer. (F.eks. fra Office Word 2010 – 2013).
+ •   Downward kompatibel er når data fra en nyere versjon (n+1) kan overføres til og brukes
+av en eldre versjon (n) uten endringer. (Gjelder f.eks. det å åpne en Word 2013 fil i Word
+2010).
+ På norsk benyttes begrepene bakover kompatibel eller baklengs kompatibel og framover
+kompatibel. Se wikipedia for en definisjon på de norske begrepene:
+ http://no.wikipedia.org/wiki/Bakoverkompatibilitet
+ Arbeidet med å ta fram en produktdefinisjon er en iterativ prosess hvor man søker å oppnå
+konsensus mellom forskjellige interessenter som typisk representerer produktforvaltning,
+marked, salg, utvikling, tjenesteleveranser og bedriftens ledelse. Dette er en viktig aktivitet
+for å forstå hva produktet til enhver tid skal være og for å justere fokus og prioriteringer over
+tid.
+ Du finner mer informasjon om «Produktdefinisjon» i læreboken [2, s. 71–75].
+ 1.3.2.   Leveransemodell og tjenestestrategi
+ Leveransemodell og tjenestestrategi   (eng. Delivery Model & Service Strategy) omhandler
+metodene som velges for levering av programvareprodukter og/eller programvarebaserte
+tjenester til sluttbrukerne. Leveransemodellen som velges påvirker i sin tur hvilke lisenser
+som skal utarbeides, hvilke prismodeller som skal benyttes og hvordan fordelingen av
+aktiviteter mellom leverandøren og kundene skal være. Salg av en programvarepakke
+innebærer f.eks. at man inngår en kontrakt, at man leverer programvaren til kunden, at
+løsningen installeres i kundens lokaler og at løsningen i større eller mindre grad
+spesialtilpasses kundens behov og integreres med eksisterende løsninger hos kunden
+
+ (skreddersøm). Dersom leveransemodellen er salg av programvarebaserte tjenester (Software-
+as-a-Service), så er bildet imidlertid ganske annerledes. Dette innebærer at leverandøren
+(eventuelt en samarbeidspartner) installerer og drifter løsningen og at man inngår en
+tjenestenivåavtale (SLA-Service Level Agreement) med kunden. Denne tjenestenivåavtalen
+regulerer hva slags tjenester som skal levers til brukerne via nettet og hvilke betingelser som
+skal være forbundet med leveransene, f.eks. tilgjengelighet, oppetider, sikkerhetsnivå,
+responstider, etc. [2, s. 75–78].
+ Produktrelaterte tjenester er en viktig del av en produktleverandør sin forretningsvirksomhet.
+Derfor er arbeidet med tjenestestrategi integrert i produktstrategiarbeidet og det er tett koblet
+til produktdefinisjonen. Man ser på produktrelaterte tjenester som opplæring, installasjoner,
+spesialtilpasninger, drift og vedlikehold og man har hele veien fokus på hva som skal til for at
+kundene skal få mest mulig nytte ut av produktet. Tjenestestrategien vil besvare spørsmål om
+hvilke tjenester man trenger å tilby og hvem som skal levere de aktuelle tjenestene.
+Tjenestestrategien kan f.eks. omhandle hvordan man tilbyr kundesupport, vedlikehold,
+oppdateringer og eventuelle skytjenester i tilknytning til produktet. Dette kan inkludere:
+ •   Kundesupport   -   Utvikling av en strategi for hvordan man vil håndtere kundespørsmål,
+problemer og feilmeldinger. Dette kan omfatte opprettelse av en kundesupportportal,
+tilgjengelighet for teknisk støtte, og oppfølging for å sikre at kundene er fornøyde.
+ •   Vedlikehold og oppdateringer - Utforming av en strategi for hvordan man skal levere
+oppdateringer, feilrettinger og forbedringer til produktet over tid. Dette kan inkludere
+planlegging av jevnlige utgivelser, automatiserte oppdateringsprosesser og
+kommunikasjon med brukere om endringer.
+ •   Skytjenester - Hvis produktet innebærer skytjenester, vil en tjeneste-strategi innebære
+hvordan man administrerer disse tjenestene. Dette kan omfatte pålitelighet, sikkerhet,
+skalerbarhet og fakturering.
+ •   Kundeforståelse - Utvikling av innsikt i hvordan kundene bruker produktet og hvilke
+tjenester de verdsetter mest. Dette kan hjelpe produkteieren med å prioritere og tilby
+tjenester som gir størst verdi for kundene.
+ •   Tjenestenivåavtaler (SLAer) - Hvis produktet inkluderer tjenesteavtaler med kunder, er
+det viktig å utvikle en strategi for hvordan du oppfyller disse avtalene og sikrer at
+kundenes forventninger blir møtt.
+ For mer informasjon om leveransemodeller, se side 75-79 i læreboken [2]. For mer
+informasjon om tjenestestrategi, se side 85-88 i læreboken [2].
+ 1.3.3.   Forvaltning av produktenes økosystem
+ Forvaltning av produktenes økosystem (eng. Ecosystem Management) handler om å etablere
+og forvalte forretningsnettverk i og rundt produktene. Selskapet blir en del av en verdikjede i
+dette forretningsnettverket ved at man tilbyr produkter og tjenester til kunder som i sin tur
+bygger på produkter og tjenester fra andre leverandører. Verdikjedens struktur og selskapets
+posisjon i denne verdikjeden påvirker selskapets forretningsmodell. Typiske aktører i
+programvarebransjen er leverandører, distributører, forhandlere, OEM-leverandører (Original
+Equipment Manufacturers), system-integratorer og teknologiske allianser. Alle disse har
+typisk forskjellige forretningsmodeller.
+ Økosystemet omhandler alle interessentene en produktleverandør må forhold seg til. Et
+Software Ecosystem defineres som et uformelt nettverk med (juridisk uavhengige) enheter
+
+ som har en positiv påvirkning på suksessen til et programvareprodukt og som har fordeler av
+dette. Her følger en oversikt over noen forskjellige kategorier av partnere for en
+programvareleverandør.
+ •   VADs (Value added distributors) (nor. distributører) – Disse partnerne benyttes når
+man skal tjenesteutsette produksjons- og distribusjonsaktiviteter. Dette kan gjøres for
+å berike produktene med løsningskomponenter og for å styre arbeidet opp i mot
+mindre partnere.
+ •   VARs (Value added resellers) (nor. forhandlere) – Fungerer som en utvidet
+salgskanal og sørger for at man når en større del av markedet. Kan også i noen tilfeller
+berike produktene med løsningskomponenter.
+ •   ISVs (Independent software vendor) - En leverandør som bygger, utvikler og selger
+programvare i B2B eller B2C markedet. En independent software vendor kan kalles en
+programvareleverandør (eng. software publisher).
+ •   OEMs (original equipment manufacturers) – Disse lager produkter som selges under
+eget navn, men de bruker og innkapsler produkter fra en eller flere andre leverandører
+når de framstiller sine produkter.
+ •   SIs (System integrators) - En systemintegrator er en person eller en virksomhet som
+bygger datasystemer for kunder ved å kombinere maskinvare og
+programvareprodukter fra flere leverandører.
+ •   Teknologisk allianse – Dette omhandler samarbeid i forbindelse med salg,
+installasjoner, ferdigstillelse av løsningstilbud, synergi i markedsføring, m.m.
+ En og samme partner kan gjerne bekle flere av disse rollene og det er slik at alt
+partnerskap egentlig har ett overordnet mål. Nemlig hurtigere vekst og det å oppnå en økt
+eller ledende markedsposisjon. Å utvikle partnerskap kan være en langsiktig øvelse med
+mange aktiviteter.
+ Produktenes økosystem påvirker i stor grad hvor godt man lykkes med det forretningsmessige
+rundt produktet. Produktsjefen må derfor være bevist på hvilken rolle produktleverandøren
+ønsker å spille i økosystemet for dermed å kunne påvirke økosystemet i ønsket retning. Du
+finner mer informasjon om forvaltning av produktenes økosystem i [2, s. 111–117].
+ 1.3.4.   Sourcing
+ Sourcing   (eng. Sourcing). Vi finner dessverre ingen god oversettelse av sourcing, men snarere
+at dette også benyttes på norsk. I ITIL litteraturen omhandler sourcing f.eks. om en tjeneste
+skal utføres internt, om den skal sette ut til en ekstern tjenesteleverandør eller om det skal
+være en kombinasjon. I produktforvaltningssammenheng omhandler sourcing om
+programvaren skal lages «i eget hus» eller om deler av programvaren skal kjøpes inn. Kjøp av
+programvare kan ha enkelte fordeler som f.eks. det at man når markedet raskere med sine
+produkter, at man får lavere utviklingskostnader, at behovet for kunnskap og
+utviklingsressurser blir lavere og at man samtidig får økt kvalitet på programvaren. Samtidig
+kan dette også medføre at evnen til å tilpasse programvaren reduseres, at man genererer
+integreringsproblemer og at man bygger en avhengighet til en eller flere leverandører. Det er
+f.eks. slik at programvaretjenester (software-as-a-service), må være tilgjengelig der og da (når
+man trenger tilgang til tjenestene) og at dette gjerne oppfattes som en risiko. Videre er det en
+
+ sikkerhetsrisiko forbundet med å lagre data på «andres» servere. Se [2, s. 88–90] for mer
+informasjon om sourcing.
+ 1.3.5.   Prising
+ Prising (eng. Pricing) viser til prosessen med å sette prisene på et tilbud som skal ut i
+markedet. Prisingen er å betrakte som et nøkkel-instrument for å skape lønnsomme
+vekstmuligheter for bedriftene. En sammenhengende og god prisstrategi inneholder selve
+verdien som tilbys via produktet, den tilpasser prisstrukturen til det aktuelle kundesegmentet,
+den sørger for at prisene og verdien kan kommuniseres, den bidrar til at kundene (og
+medarbeiderne) aksepterer prismekanismene og den bidrar til at bedriften kan maksimere
+lønnsomheten. Prismodeller for programvareprodukter må være tilpasset produktets modenhet
+(produktets stadium i livssyklusen), hvilke distribusjonskanaler som benyttes, geografisk
+plassering av interessentene, den enkelte kundes betydning og viktighet for bedriften og
+hvilke(n) leveransemodell(er) som benyttes.
+ Programvareprodukter som skal ha livets rett må representerer en verdi for et
+forretningsområde, for noen brukere eller for en hel institusjon. Prising handler om å
+konvertere denne verdien til en økonomisk verdi og den økonomiske verdien kan være direkte
+knyttet til selve programvareproduktet eller den kan være knyttet til en eller flere prosesser
+som utnytter den aktuelle programvaren til å skape økonomisk verdi. I boken Software
+Product Management and Pricing [3] presenteres et rammeverk for prising av programvare og
+i denne leksjonen velger vi å benytte deler av dette rammeverket som utgangspunkt for
+hvordan arbeidet med prising av programvare kan foregå. Resten av dette kapitlet inneholder
+dermed delkapitlene (a) prisstrategi, (b) prisstrukturer, prispolitikk og prisnivå, (c) prising i
+samarbeid med forskjellige partnere, (d) prising for større kundeorganisasjoner, (e) prising av
+tjenesteleveranser og (f) noen oppsummerende tips for prising av programvare. Du finner
+også mye informasjon om prising av programvareprodukter i læreboken, f.eks. fra side 90-
+100 [2].
+ Prisstrategi
+ Før man lanserer et produkt i markedet må man som seriøs aktør sørge for å etablere en
+forretningsmodell som tar opp i seg alle potensielle inntektskilder for produktet, alle
+kostnader som vil medgå til utvikling og distribusjon av produktet, samt hvilke muligheter
+som eksisterer i forhold til å selge produktet til priser som faktisk gir en fortjeneste. Videre
+må man sørge for at forretningsmodellen er bærekraftig og at den kan tilpasses endringer i
+markedet slik at bedriften kan nå sine langsiktige mål.
+ En prisstrategi kan betraktes som overordnede føring for hvordan prisingen av hvert enkelt
+produkt skal foregå og det er typisk toppledelsen som er ansvarlig for å utarbeide og
+vedlikeholde selve strategien. Sentrale spørsmål som må besvares i forbindelse med
+prisstrategietableringen er f.eks.: (1) skal man «bundle» noen produkter (f.eks. selge
+databasesystemet som en del av forretningsapplikasjonen) eller skal disse delene selges hver
+for seg, (2) skal man prise brukernes faktisk bruk eller skal man ta betalt til de som får vist
+fram sine annonser slik Google har valgt å gjøre for sin søkemotor, (3) skal man ta betalt for
+produktet én gang når det selges, eller skal man satse på langsiktige vedlikeholdsavgifter og
+(4) skal man ha en prismodell hvor faktisk bruk av systemet avgjør prisen eller skal kundene
+ha fri bruk når de først har kjøpt systemet. Hos en større programvareleverandør som har en
+større produktportefølje med forskjellige produkter som støtter opp om forskjellige
+forretningsområder, vil man vanligvis trenge forskjellige prisstrategier. Hvilken prisstrategi
+som velges for et konkret produkt eller en produktfamilie vil være avhengig av flere ting som
+
+ f.eks.: (1) konkurransen i markedet og hvilke prismodeller konkurrentene benytter, (2) hvilke
+finansielle behov bedriften har på kort og lang sikt, (3) hvordan kundene ser på
+prismekanismene for gitte produkter innenfor gitte forretningsområder, (4) hvilke muligheter
+man faktisk har til å utvikle og å følge opp prismekanismer som går på kundenes faktiske
+bruk av produktene og (5) hvilke tilleggstjenester det er naturlig å skille ut med egne
+prismodeller.
+ Prismodellen eller metrikkene som benyttes for å fastsette prisen bør ikke avvike for mye fra
+konkurrentenes prismodell siden kundene gjerne ønsker å kunne sammenligne prisene fra
+forskjellige leverandører. En prisstrategi er derfor noe levende som man trenger å gjennomgå
+og eventuelt justere, med jevne mellomrom. En programvareleverandør må altså vite om
+prismodellene som benyttes faktisk fungerer godt og kan fortsette, eller om man bør gjøre
+justeringer. Prismodellen må fungere både for kundene og for leverandøren. Dette betyr at
+kunden må være i stand til å forutsi prisen (hva kunden faktisk skal betale), forstå hvilken
+verdi vedkommende får (hva kunden faktisk oppnår med å bruke produktet), samt være enig i
+at det er et rimelig forhold mellom kostander og tilført verdi. For leverandøren må
+prismodellen utarbeides på en måte som gjør at man faktisk kan sjekke kundenes bruk og
+kreve inn penger i henhold til de valgte prismekanismer (metrikker for fastsettelse av pris).
+Når en prisstrategi skal etableres må man ta stilling til hvilke prisstrukturer som skal benyttes,
+hvilken prispolitikk man skal ha og hvilket prisnivå man skal legge seg på og dette er tema for
+neste avsnitt.
+ Prisstrukturer, prispolitikk og prisnivå
+ Selve prisstrukturen er et viktig element som blant annet sier noe om hvordan prisene skalerer
+og om prisene inneholder noen rabattordninger. Her følger en definisjon for begrepet
+prisstruktur som er fritt oversatt fra boken Software Product Management and Pricing [3, s.
+127]:
+ Prisstrukturen (eng. price structure) er måten prisene for et programvareprodukt blir
+tilbudt på. Dette inkluderer metrikkene som prisene kan variere med for det konkrete
+produktet og dette kan f.eks. være en fast pris, pris basert på antall brukere, pris basert
+på kapasitet, pris basert på bruk eller priser basert på størrelsen på lisensavtalene som
+er inngått.
+ Erfaringsmessig så kan det være utfordrende å endre metrikkene som prisene beregnes ut ifra
+i ettertid, siden man da kan risikere en uheldig prising for nye kunder sammenlignet med hva
+eksisterende kunder har betalt og betaler. Man må derfor gjøre et godt forarbeid og være
+rimelig sikker på konsekvensene, når man velger hvilke prismetrikker som skal benyttes. Det
+anbefales at dette arbeidet gjøres forholdsvis tidlig, når produktet er i utviklingsfasen, siden
+prismetrikkene og tilhørende kontrollmekanismer også i noen tilfeller (avhengig av hvilke
+metrikker man velger) må bygges inn i programvaren. Videre er det viktig at man velger en
+prisstruktur som er i overensstemmelse med verdien som tilføres kunden. Selgerne og
+salgskanalene må kunne overbevise kundene om at prisen de faktisk betaler samsvarer med
+verdien de kan hente ut. Oppsummert kan vi si at vi må ta hensyn til følgende tre elementer
+når vi etablerer en prisstruktur:
+ 1.   Vi må være sikker på at metrikkene vi velger faktisk gjenspeiler verdien som tilføres
+kundene.
+
+ 2.   Vi må velge metrikker som bidrar til forutsigbarhet både for kundene og for leverandøren.
+Kundene må vite hva de skal betale, mens leverandørene må vite hvilken inntjening de vil
+få slik at de kan legge dette til grunn for videre planer.
+ 3.   Vi må velge metrikker eller faktorer som faktisk kan kontrolleres slik at vi kan beregne
+hva hver enkelt kunde skal betale.
+ Hvordan man skal ta betalt er også en del av prisstrukturen. For de fleste leverandørene så
+ville det kanskje vært mest hensiktsmessig å fakturer kundene på månedlig basis, siden dette
+vil sikre en jevn inntektsstrøm og forutsigbarhet som gjør at man har god kontroll med hvilke
+midler som kan investeres og gode muligheter til å finansiere større investeringer underveis.
+Det finnes imidlertid svært mange forskjellige måter å ta betalt på og her følger noen
+eksempler:
+ •   Engangsbetaling (eng. one time charge) er en måte å kreve inn penger på som innebærer
+at en avgift betales før kunden begynner å bruke programvareproduktet. Kunden har
+typisk rettigheter i forhold til å benytte produktet, som beskrevet i lisensavtalen (f.eks.
+antall installerte kopier, antall brukere, etc.), uten at kunden skal betale noe mer for
+produktet.
+ •   Tidsbegrenset lisens (eng. term license) er en rettighet til å bruke et programvareprodukt
+i en gitt tidsperiode. En slik lisens tilbys vanligvis til en fast pris og den kan beregnes ut
+ifra årlig betaling for et gitt antall år som er forutbestemt. Når denne perioden er ferdig
+må kunden slutte å bruke produktet, fornye den tidsbegrensede lisensen eller inngå en ny
+lisensavtale med andre betingelser.
+ •   Lisens og løpende vedlikehold (eng. initial license charge and recurring license charge)
+er en betalingsmetode hvor kunde betaler et engangsbeløp for å få installert
+programvaren og komme i gang med bruken av den, samt løpende avgifter for å ha
+rettigheten til å bruke programvaren videre (ofte kalt vedlikeholdsavgift). Årlig
+vedlikeholdsavgift kan f.eks. utgjør 20% av de initielle lisenskostnadene.
+ •   Månedlig lisens eller årlig lisens kan også i noen tilfeller betales uten at man betaler en
+større engangssum. Hver betaling er en forhåndsbetaling som gir kunden rettigheter til å
+bruke programvaren i den perioden som betalingen gjelder for.
+ •   Betaling etter bruk (eng. usage charging) handler om å ta betalt etter en definert og
+målbar metrikk hvor man typisk identifiserer faktisk bruk i løpet av en periode. Dette kan
+f.eks. måles i antall timer bruk, antall transaksjoner som er produsert, størrelsen på
+dataene som er produsert eller lagringsplassen som er benyttet, eller antall sider som er
+skrevet ut.
+ •   Betaling etter antall brukere (eng. user-based charging) handler om prising og betaling på
+forhånd og i forhold til antall brukere som skal kunne bruke systemet. Dette er en vanlig
+metrikk for å beregne prisen for et programvareprodukt og det finnes flere varianter:
+ o   Antall registrerte brukere, som er det antall personer som har autorisasjon til å
+logge seg på systemet.
+ o   Antall samtidige brukere, som er det antall brukere som kan benytte systemet
+eller være innlogget samtidig.
+ o   Antall interne bruker (eng. In-house users) som er antall ansatte som kan benytte
+systemet og da gjerne innenfor «firmaets fire vegger».
+
+ o   Antall nettbrukere som kan være antall eksterne brukere (utenfor firmaet) som
+bruker systemet sporadisk. Det kan også være begrenset funksjonalitet som er
+tilgjengelig i nettbaserte versjoner og at man derfor har en egen prisberegning for
+disse brukerne.
+ o   Antall påloggede brukere har mye til felles med antall samtidige brukere, men
+man kan her skille på om brukerne bare er logget inn eller om de faktisk er aktiv i
+forhold til å bruke funksjoner i systemet.
+ •   Bruk av flat pris handler om å ta en fast avgift, uavhengig av bruk, antall brukere eller
+andre metrikker. Dette er også ganske så vanlig for mange produkter, men det har den
+ulempen at noen kunder (gjerne små kunder) kan oppfatte prisen som dyr, mens andre
+(gjerne større) kunder oppfatter prisen som lav.
+ Bedriftens prispolitikk (eng. price policy) kan betraktes som den formelle måten som prisene
+kan endres på. Dette inkluderer endring av prisnivå, prisstrukturer, hvem som kan gjøre
+endringene, hva som skal til før man kan gjøre endringene og i hvilken grad man kan gjøre
+endringer eller hvor store de kan være. Prisingen betyr lite dersom prisene lett kan endres, så
+det er viktig å etablere en prispolitikk som følges.
+ Når prispolitikken og prisstrukturen er definert er det naturlig å definere prisnivået (eng. price
+level) og dette er hvor mye penger man faktisk skal ta, innenfor prisstrukturen. F.eks. NOK
+100,- pr. bruker pr. år. Dette er prisen kundene skal betale og man må kunne overbevise
+potensielle kunder om at produktet er verdt denne prisen. I konkurranse med andre kunder
+regnes 10-15% variasjon i prisen for lite (eller normalt) og ikke noe man trenger å bry seg
+med. Dersom prisforskjellene derimot nærmer seg 20-25% er forskjellen såpass stor at
+kundene normalt vil vurdere hva som faktisk er konsekvensene av en slik besparelse. Dersom
+man skal inn i et nytt marked, hvor ingen har en betydelig markedsandel, skal man som
+leverandør imidlertid være forsiktig med å legge seg for lavt i pris, siden det kan være svært
+vanskelig å øke prisene i ettertid. Dersom man skal lykkes med å etablere seg med en pris
+som er vesentlig høyere enn konkurrentene sine priser, bør man kunne tilby ny funksjonalitet,
+som konkurrentene ikke har og som kundene har god nytte av. Det er imidlertid ingen
+selvfølge at man lykkes med høyere priser, selv om man faktisk har et bedre produkt og det
+kan godt hende at det er like lurt å beholde prisene på konkurrentene sitt nivå og heller bruke
+ekstra funksjonalitet som en egen konkurransefordel. Men, man skal også være forsiktig med
+å ta for lave priser og man skal ikke ta det som en selvfølge at volumet (antall solgte enheter)
+øker tilstrekkelig dersom prisene reduseres, slik at man faktisk får økt inntjening. Vurderinger
+i forhold til pris må derfor gjøres av produktsjefen eller den som er ansvarlig for prisingen,
+slik at man har et bevist forhold til egen prispolitikk.
+ Prising i samarbeid med forskjellige partnere
+ Boken Software Product Management and Pricing [3] trekker fram to hovedkategorier av
+forretningsmessige partnere (eng. business partners) for en programvareleverandør. Den ene
+kategorien er de som følger en forhandlermodell (eng. reseller model), mens den andre
+kategorien er de som følger en salgsagentmodell (eng. agency model). Her er noen
+betraktninger rund hver av disse modellene:
+ •   Salgsagentmodellen går ut på at leverandøren betaler agenten et honorar for at agenten
+skal selge leverandøren sine produkter. En leverandør har typisk god kontroll med en
+salgsagent og man kan bestemme ting som f.eks. hvilket geografisk område
+
+ vedkommende skal få selge produktene innenfor, hvilke produkter de kan selge og hvilke
+priser de skal ta.
+ •   Forhandlermodellen går ut på at forhandleren kjøper produktet fra leverandøren til en
+redusert pris og selger produktet videre til sine kunder til den prisen de ønsker å ta. En
+forhandlermodell kan være forholdsvis attraktiv for forhandlerne og den kan bidra til å
+generere stor omsetning for bedriften, selv om belønningen kan være beskjeden. En av
+ulempene for leverandøren er at man mister kontrollen med prisfastsettingen i markedet
+og at forhandlerne som regel står fritt i å prioritere sin innsats.
+ Dersom man selger programvare via forhandlere så er det flere viktig ting man bør være klar
+over og flere ting man må ta hensyn til. Her er noen tema som trekkes fram i litteraturen:
+ •   Hvert nivå og hvert ledd i forhandlernettverket må kunne oppnå økonomiske gevinster
+ved å selge produktet.
+ •   De økonomiske fordelene og gevinstene må være konstant og vedvarende slik at
+forhandlerne kan utvikle en forretningsplan som fungerer og som ikke inneholder
+overraskelser i forhold til økonomien.
+ •   Man må forhold seg til lovverket og de regler som gjelder for samarbeid i næringslivet,
+som innebærer at man må være konsekvent og behandle partnerne likt.
+ •   Prisingen, salgsprosessene og kompensasjonsordninger må være implementerbare
+innenfor systemet som forhandlerne opererer og forhandlerne må kunne forstå hvordan
+ordningene for rabatter, prisfastsettelse, bonuser, etc. fungerer. Forskjellige priser,
+prisstrukturer, rabatter og kompensasjonsordninger må altså etableres på en måte som
+gjør at man holder kontroll og faktisk kan realisere modellene.
+ •   Enhver form for prisfiksing og prissamarbeid er ulovlig. Enten dette stammer fra
+sammensvergelser blant konkurrenter eller andre kilder.
+ •   Forsøk på å oppnå monopol ved å manipulere prisene, foreta selektiv prising eller
+lignende er ikke lovlig.
+ •   Generelt skal alle forretningspartnere behandles likt, under like forhold.
+ •   Betaling til forhandlere for markedsføringsaktiviteter må være rettferdig og i henhold til
+jobben de faktisk gjør eller salgene de oppnår.
+ •   Forhandlerne representerer ofte forholdvis små firma med begrensede ressurser og man
+bør ikke presse dem til å gjøre mer enn de faktisk kan levere.
+ •   Forhandlerne forventer forutsigbarhet og rettferdighet slik at de kan planlegge og
+gjennomføre sin egen forretning på en god måte. Misfornøyde forhandlere har en tendens
+til å nedprioritere eller bryte samarbeidet.
+ •   Man bør utnytte partnerne i forhold til det de er gode på og mot de kundene hvor det er
+naturlig.
+ •   En leverandør bør definere priser og kompensasjonsordninger som gjør at hver
+forhandler får en belønning i forhold til hva de faktisk leverer. Man skal ikke subsidiere
+de svakeste og man skal heller ikke betale for lite til de dyktigste.
+ Forhandlere kan bidra til stor omsetning som i sin tur bidrar til gode inntekter i alle ledd, men
+det er ikke dermed sagt at de er like godt egnet til å selge produktene til større
+kundeorganisasjoner. Programvareleverandørene bruker gjerne egne selger som etablerer et
+
+ forhold til disse kundeorganisasjonene og i neste avsnitt ser vi nærmere på prisingen for disse
+direktekundene.
+ Prising for større kundeorganisasjoner
+ Salg til større private eller offentlige organisasjoner representerer ofte leverandørene sin
+største inntektskilder. I Norge har vi flest firma i det såkalte SMB-markedet
+, men vi har også
+noen store firma og store offentlige etater. Når en programvareleverandør skal forsøke å selge
+sine produkter i dette markedet benytter de gjerne egne selgere som jobber langsiktig med å
+gjennomføre hvert enkelt salg og leverandørene må selvfølgelig tilby programvareprodukter
+som støtter opp om kundenes forretningsprosesser dersom de skal komme i betraktning.
+ Å prise programvareprodukter ovenfor større kundeorganisasjoner handler om å synliggjøre
+for kunden at vedkommende får godt betalt for sine investeringer, samtidig som leverandøren
+også genererer overskudd. Kundene (større private eller offentlige organisasjoner) trenger en
+leverandør som er stabil, som vil forbli en leverandør også i framtiden, som ordner opp i
+problemene som oppstår og som utvikler sine produkter over tid og i henhold til endrede krav
+og behov. Leverandørene er på sin side avhengig av stabile kunder som har en sunn og god
+forretningsdrift, som betaler for sin bruk av systemet og som øker sin bruk av leverandørens
+produkter over tid. Det kan og bør med andre ord oppstå en vinn-vinn situasjon mellom
+leverandørene og deres storkunder.
+ Når en programvareleverandør skal selge sine produkter i storkundemarkedet er det viktig å
+synliggjøre hvordan prisen for produktet faktisk bidrar til synlig verdi. Dette handler om finne
+ut hvor mye tid og ressurser kunden kan spare på å ta i bruk det nye produktet og å beregne en
+kroneverdi for dette. Dersom man kan sannsynliggjøre en besparelse på f.eks. NOK
+1 000.000,- mens produktet selges for NOK 250.000,- så får kunden 75% rabatt i forhold til
+verdien som tilføres av produktet og dette må «selges inn» til kunden.
+ Større kundeorganisasjoner består av mange interessenter og som selger må man regne med å
+forholde seg til de fleste av disse. Den viktigste interessenten i forhold til å vurdere
+nytteverdien er som regel sluttbrukeren, siden vedkommende er den som henter
+forretningsmessige fordeler ut fra systemet og dermed kan se hvilke forretningsmessige
+fordeler organisasjonen oppnår. Derfor anbefales det at man forsøker å trekke sluttbrukerne
+inn i forhandlingene om pris, siden de normalt vil ha mindre fokus på selve prisen og mer
+fokus på den faktiske verdien som systemet tilfører organisasjonen.
+ Prisstrukturer og rabattstrukturer henger tett sammen når man skal selge til større kunder
+siden det ofte forventes at større volum skal resultere i en lavere pris pr. enhet. Man skal
+imidlertid være svært forsikte med å endre på eksisterende pris- og rabattstrukturer selv om
+man føler et press i forhold til dette fra store kunder. Årsaken til dette er kort og godt at man
+risikerer at forretningen blir mindre lønnsom en forutsatt. En leverandør skal ikke redusere
+prisen uten at kunden sin bruk av systemet endres på en eller annen måte som gjør at
+leverandøren ender opp med større fortjeneste. Rabattstrukturene skal altså ikke misbrukes og
+det bør eventuelt være andre (f.eks. politiske) hensyn som ligger til grunn dersom
+prisreduksjonen faktisk medfører redusert fortjeneste. Eksempler på dette kan være at det er
+SMB-markedet består av små- og mellomstore bedrifter. Dette defineres litt forskjellig rundt omkring i verden,
+men i Norge kategoriseres bedrifter som små når de har inntil 20 ansatte og mellomstore når de har mellom 20
+og 100 ansatte.
+
+ viktig å ha akkurat denne organisasjonen på kundelisten, siden det kan medføre andre salg til
+denne kunden eller salg til andre kunder. Som i sin tur fører til økt fortjeneste på sikt.
+ Større kundeorganisasjoner gjennomfører vanligvis anskaffelsesprosesser når de skal kjøpe
+inn nye programvareprodukter og som en del av denne prosessen vil de motta tilbud på kjøp
+av programvareprodukter, med tilhørende tjenester fra leverandørene. Et tilbud er i denne
+sammenheng en oversikt over hva som tilbys, til hvilke prisbetingelser og med en gyldighet
+som f.eks. kan vare i et år. Leverandøren bør da basere prisen på en kalkyle som gjør at man
+oppnår ønsket fortjeneste, samtidig som tilbudet er såpass konkurransedyktig at det er
+interessant for kunden. Leverandører som er av interesse kommer typisk i forhandlinger med
+kunden hvor endelig pris og andre betingelser rundt anskaffelsen fastsettes. Både kunden og
+løverandøren må stille forberedt til slike forhandlinger og de bør ha vært sitt team med
+personer som har forskjellige roller. Leverandøren kan typisk stille med en forhandlingsleder,
+en produktspesialist, en salgsrepresentant, en tekniker eller systemarkitekt og i noen tilfeller
+kan man stille med egen advokat. Kunden kan velge å leie inn en konsulent som bistår i
+forhandlingene. Vider må kundens team forstå behovene for sine brukere, businesscasen som
+ligger bak og hvilke priser og andre betingelser man er avhengig av for at businesscasen skal
+komme positivt ut, samt hvilke alternativer man har. Det er ikke unormalt at det gjennomføres
+mange forhandlingsmøter før en større kundeorganisasjon signerer kontrakten om kjøp av nye
+programvareprodukter med tilhørende tjenester.
+ Prising av tjenesteleveranser
+ Programvarebaserte tjenester (Software as a service) har eksistert i noen år og er sterkt
+voksende. Dette gjelder også i stor grad for bedriftsmarkedet (B2B) hvor flere og flere kunder
+ønsker tilgang på nettbaserte tjenesteleveranser. Det vil si at de ønsker å hente ut nytten og de
+forretningsmessige fordelene, uten at de er villig til å ta ansvar for bakenforliggende
+teknologi, drift av løsningene, backup av data, etc. I dette kurset har vi tidligere nevnt globale
+aktører som SAP, Oracle eller Microsoft og nasjonale aktører som Visma. Alle disse tilbyr nå
+«Software as a Service». Et konkret eksempel er Visma’s nyeste satsing som kalles
+Visma.net. Dette er en komplett forretningsløsning som skal løse alle forretningsmessige
+utfordringer for kundene. Se følgende nettside hvor Visma omtaler Visma.net som en
+komplett og nettbasert forretningsløsning som samler alle ansatte og all forretningsdata i én
+og samme løsning:   https://www.visma.no/erp/
+ Det finnes mange forskjellige prismodeller som benyttes til programvarebaserte
+tjenesteleveranser, men de har alle til felles at de gir en forutsigbar pris for kunden. Her er
+noen eksempler:
+ •   Fastpris pr. måned. Dette kan sammenlignes med tradisjonell månedlig eller årlig
+vedlikeholdsavgift, men kanskje uten at man har initielle lisenskostnader. Det blir i
+tilfelle billigere å komme i gang med løsningen for kunden.
+ •   Bruksbasert pris pr. måned. Har mye til felles med bruksbaserte priser for tradisjonelle
+lisensmodeller, men det vil være enklere å implementere og følge opp dette for
+tjenestebaserte leveranser siden det er leverandøren som kontrollere driftsmiljøet for
+programvaren.
+ •   Ingen kostnader, men innebygd reklame som genererer inntekter for leverandørene. Her
+er Google sin søkemotor et klassisk eksempel. Det finnes flere prismodeller for innebygd
+reklame og her er noen eksempler:
+
+ o   Kostnader pr. sidevisning. Å ta en pris pr. tusende sidevisning brukes typisk for
+reklamebannere og lignende. Man teller hver gang banneret vises i en nettleser.
+ o   Kostnader pr. klikk er en annen modell som teller hver gang brukeren klikker på
+et område som er en lenke til annonsørens nettside, eller tilsvarende.
+ o   Kostander pr. utførte handel er en annen modell hvor man betaler dersom
+klikkene faktisk fører til en kjøpstransaksjon. Den som averterer betaler altså bare
+for de klikk som faktisk fører til handel og prisen kan beregnes ut ifra: (a) fast
+pris, (b) en prosent av inntektene, eller (C) en kombinasjon av disse.
+ Hvilken pris man skal ta for programvarebaserte tjenester baserer seg på tradisjonelle
+mekanismer for prising. Man trenger en prognose eller et budsjett, synliggjøring av verdiene
+som overføres til kunden, analyse av konkurrentene og alternativene de tilbyr, hvilke
+utviklingskostnader som er forbundet med produktet og ønsket avkastning på investert
+kapital. Alt dette benyttes som grunnlag for å beskrive en businesscase for den aktuelle
+tjenesteleveransen som forretningsområde. Men, siden vi nå snakker om mye mer en rent
+produktsalg, kan det være mer komplisert å beregne hvilken pris man bør ta. Man må ta
+hensyn til maskinvaren som benyttes for å produsere tjenestene, programvaren som kreves,
+leie av driftslokaler, strøm, kommunikasjonskostnader, lønn til de som skal drifte løsningene,
+eventuelle tjenester som leies inn, etc. Når man skal beskrive hvilken avkastning man oppnår
+med investeringen så kommer alt dette i tillegg til kostandene med å utvikle programvaren.
+Noen av utfordringene med å fastsette prisene til hver enkelt kunde er at det kan være
+vanskelig å forutsi hvor mange kunder man til enhver tid har å fordele kostnadene på, siden
+det ikke er lett å forutsi hvor mange som sier opp kontrakten og hvor mange nye kunder som
+kommer til. Likevel er det bruksbasert prising som er mest vanlig når man kjøper tilgang på
+forretningssystemer i form av «Software as a Service».
+ Den strategiske prispyramiden
+ I en artikkel som heter   What Is Strategic Pricing?   [4] beskrives den strategiske
+prispyramiden. Denne figuren er også gjengitt i læreboken [2, s. 93] og følgende figur 2 er
+basert på denne.
+ Figur 2 – Strategis prispyramide – basert på   [4]
+
+ I figur 2 ser vi den strategiske prispyramiden og vi skal nå ha en kort gjennomgang av
+nivåene i denne prispyramiden, fra nederste nivå (verdiskapning) og oppover.
+ Verdiskaping
+ Det er slik at produktsjefen står overfor en interessant utfordring når det gjelder prissetting av
+produkter og tjenester. Det forventes at man setter en pris som fanger opp verdien som tilbys
+via produktene, samt at man maksimere profitten.
+ Det som gjør denne utfordringen interessant er at det er svært få selskaper som faktisk forstår
+hvilken verdi (hvor mye verdi) deres produkter skaper for kundene. Man kan f.eks. snakke
+med markedsavdelingen, forsøke å forstå hvor fornøyd kunden er, hvor mye kunden er villig
+til å betale, etc. Men, å estimere eller bestemme verdien som et produkt bidrar med krever
+inngående kjennskap til kundens behov. Denne dype forståelsen av behovet kan i neste
+omgang brukes til å oversette produktets funksjoner (funksjonalitet) til fordeler som kunden
+oppnår ved å bruke systemet og som dermed kan danne grunnlaget for å fastsette
+verdiestimater.
+ I bedriftsmarkedet vil verdiestimatene ha fokus på den økonomiske påvirkningen som et
+produkt eller en tjeneste har på kundens utgifter og inntekter. Altså hvilke utgifter kan man
+spare eller hvilke ekstra inntekter kan man få, ved å benytte produktet. Utfordringen i forhold
+til prising er altså å forstå hva som skaper faktisk verdi for forskjellig kunder, for så å sette
+priser som gjenspeiler den faktiske verdien som kunden oppnår. I stedet for å lage produkter
+som tilfredsstille kundene, bør selskapene derfor fokusere på å skape meningsfull verdi som
+kundene er villige til å betale for.
+ Selve basisen for å jobbe med priser i denne pyramiden er altså det å forstå hvilken verdi man
+faktisk tilbyr.
+ Prisstruktur
+ Når man forstår hvordan verdier skapes for ulike kundesegmenter, så er neste skritt å skape en
+prisstruktur som justerer prisen i forhold til verdien som leveres.
+ En vanlig feil som gjøres av prisansvarlige er å anta at målet er å sette en pris på produktet i
+stedet for kundesegmentet. Poenget er at et produkt kan levere forskjellig verdi, avhengig av
+hvilket kundesegment eller hvilken kunde man leverer til.
+ Å sette en pris for produktet kan medføre at minst en av kundegruppene får feil pris. Hvis du
+priser høyt for kunder som har stor verdi ved å benytte produktet, så risikerer du overprising
+til kunder som har mindre verdi av å benytte produktet, og dermed redusere fortjenesten.
+ Dersom du på den andre siden priser for lavt for å tilfredsstille kunder som har mindre verdi
+ved å benytte produktet så vil fortjenesten bli redusert siden resten av kundene (også de som
+har stor verdi av produktet) betaler mindre. Mange bedrifter prøver å løse dette dilemmaet ved
+å sette prisene for "gjennomsnittlige" kunder, men denne tilnærmingen løser heller ikke
+problemet, siden prisen fortsatt vil være for høy for lav-verdi-kunder, mens man samtidig ikke
+får inn nok penger fra høy-verdi-kundene. Løsningen på dette dilemmaet er derfor å skape en
+prisstruktur som er på linje med den verdien som kundene mottar for det produktet (eller
+tjenesten) som de får levert.
+
+ Man utarbeider da prismetrikker som ivaretar dette. Prismetrikker er rett og slett hvilken
+beregning som benyttes for å fastsette prisen på et produktet eller en tjenesten. I
+bedriftsmarkedet kan for eksempel kundene ha et stort behov for å kunne utføre hasteordrer
+og de vil gjerne betale mer dersom de får en garanti for rask levering. Det anbefales derfor at
+man øker sine priser per enhet i forhold til leveringstiden, siden kunder som verdsetter rask
+levering er villig til å betale for dette.
+ Poenget er at man fanger opp det som har verdi for kundene.
+Se på flyselskapene og hvordan de skiller på forretningsreisende som verdsetter fleksibilitet
+og feriereisende som verdsetter lav pris.
+ Kommunikasjon av pris og verdi
+ Det neste trinnet i prisstrategien handler om å kommunisere prisene, basert på verdiskapingen
+for ulike kunder. Dersom man kommuniserer verdien dårlig så kan det resulterer i høyere
+pris-følsomhet og mere intense prisforhandlinger.
+Kundene forstår kanskje ikke verdien som tilbys via produktet fordi de kan være uvitende om
+nye funksjoner, mangler kunnskap om hvordan funksjonene skal brukes eller de forstår ikke
+hvordan en bestemt funksjon kan tilfredsstille et udekket behov. Det er markedsførerne sitt
+ansvar å løse disse problemene gjennom effektiv kommunikasjon rundt pris og verdi.
+ Kommunikasjon av verdi er viktig både i forbrukermarkedet og i bedriftsmarkedet. Kjøp av
+systemer i arbeidslivet drives i stor grad av den økonomiske verdien som leveres av
+produktet. Selgerne må derfor kunne kommunisere godt rundt produktets verdi når de skal
+forhandle om pris med bedriftskunder. Verdien kan være av forskjellig art (økonomisk,
+psykologisk) og dette må kommuniseres forskjellig. Utfordringen for den som markedsførere
+et produkt kan være å bestemme hvilke metoder som er mest hensiktsmessig og å definere et
+budskap og verktøy som hjelper kundene til å forstå verdien som faktisk tilbys via
+produktene.
+ Prispolitikk
+ Selskapets ledelse er ansvarlig for at prispolitikken håndheves i møte med aggressive kunder.
+ Dersom man for eksempel har en politikk som går ut på at man aldri skal gi opp kunder, så
+sender dette et klart budskap til kundene som oppmuntrer dem til være ekstremt aggressive i
+prisforhandlinger for å test hvor lavt leverandøren vil gå.
+Strategisk prising handler om sammenhengen mellom formell og uformelle prispolitikk og de
+forventninger og den adferd man oppmuntrer kundene og de ansatte til å ha.
+Dessverre er det mange bedrifter som setter prisene basert på kundenes forventninger i stedet
+for å benytte prisen proaktivt for å påvirke kundene. Se eget avsnitt om   Prisstrukturer,
+prispolitikk og prisnivå   for mer informasjon om prispolitikk.
+ Prisnivå
+ Det er egentlig bare ett mål man har når man fastsetter prisene og det er å maksimere
+lønnsomheten. Problemet er imidlertid at alle i firmaet har forskjellig syn på hvilken pris som
+vil bidra til at man når dette målet.
+ Salgsavdelingen kan typisk mene at lavere priser vil være lønnsomt siden man får flere
+kunder, større volum og høyere fortjeneste.
+
+ Markedsføringsavdelingen kan typisk mene at prisen bør brukes selektivt for å opprettholde
+markedsandeler. Altså at man satser på høyere langsiktig avkastning i stedet for kortsiktige
+rabatter.
+ De viktige spørsmålene for prisansvarlige er imidlertid "hvem som er rett»? Se eget avsnitt
+om   Prisstrukturer, prispolitikk og prisnivå   for mer informasjon om prisnivå..
+ Oppsummerende tips for prising av programvare
+ Denne oppsummeringen av prising av programvare er delvis basert på boken «Software
+Product Management Essentials» [5]. Prisingen av programvareprodukter kan avgjøre
+lønnsomheten og suksessen for et produkt og den kan også bidra til å posisjonere produktet.
+Prising består dermed i å gjøre både strategiske og taktiske beslutninger og her er noen
+oppsummerende tips:
+ •   Det enkle er ofte det beste . Man kan lett bli vel kreativ når man definerer en prismodell
+og ender opp med en pris som er vanskeligere å forklare enn selve produktet. En
+kompleks prismodell kan medføre mye opplæring av selgerne og forsinkelser i selve
+salgsprosessen. Dersom prisingen skal være basert på kundenes bruk av systemet så må
+den lett kunne overvåkes og måles.
+ •   Sørg for at du kan forsvare dine priser.   Dersom du f.eks. har en pris som ligger over
+konkurrentene så må du kunne synliggjøre at den tilførte verdien er i overensstemmelse
+med dine priser. Du må sørge for at dine interne folk (kollegaer), og da spesielt selgerne,
+forstå hvorfor prisene er som de er.
+ •   Gjennomgå prismodellene med jevne mellomrom.   Man må forsikre seg om at variabler
+som konkurrentenes priser eller egne kostnader ikke er endret så mye at prisene bør
+endres. Et nytt og innovativt produkt (få konkurrerende alternativ) kan også forsvare en
+høyere pris enn et modent produkt som snart skal fases ut. Produktprisene kan derfor
+endre seg naturlig over tid.
+ •   Kjente merkevarer kan være kraftfulle.   Merkevarebygging (eng. branding) er ofte en
+viktig del av virksomhetenes markedsføring, siden sterke merkevarer kan gi fordeler som
+økt gjenkjøpsfrekvens og aksept blant kundene for høyere priser. Man bør gjennomføre
+grundige markedsundersøkelser for å vurdere om en merkevare er anerkjent i markedet,
+samt avsløre om prisene som benyttes er «riktig».
+ •   Prispolitikken bør være helhetlig.   Dette betyr at man må ta hensyn til
+opplæringskostnader og andre tjenester som kundene må benytte seg av for å kunne
+bruke produktet optimalt. Dette er kostnader som kundene må forholde seg til og dersom
+man forstår og tar hensyn til alle kostnadene forbundet med å bruke et produkt, så er
+dette et godt utgangspunkt for å fastsette prisene. Dersom man tar hensyn til alle
+elementer i forhold til å bruke et produkt over tid og sammenligner dette med
+konkurrentene, så kan man få en stor salgsfordel.
+ •   Priser kan lett settes ned, men det kan gi negative signaler.   Noen ganger øker man
+prisene. Dette bør eventuelt være nøye fundert og produktets verdi må kunne forsvares
+med utgangspunkt i de nye prisene og hva konkurrentene tilbyr. Det er ofte lettere å sette
+ned prisene, men dette kan også gi noen negative signaler:
+ o   Et firma som setter ned prisene kan bli sett på som et firma som har problemer.
+
+ o   Kunder som akkurat har kjøpt produktene til en høyere pris vil føle seg lurt.
+Derfor bør man ha riktige priser fra første dag, som kan forsvares med
+utgangspunkt i verdien som tilføres kunden.
+ o   Nye potensielle kunder vil forsøke å forhandle om prisene og oppnå rabatter med
+utgangspunkt i hvor store lisenser de kjøper. Endelig prisfastsettelse skjer altså
+etter en forhandlingsrunde og dette må man ta hensyn til når man bygger opp
+prislisten.
+ •   Vær realistisk.   En produktsjef kan bruke svært mye tid på prismodeller og prisfastsetting,
+men man bør også være pragmatisk og komme opp med konkrete modeller som kan
+benyttes. Husk at ting endrer seg hele veien, så det er også viktig å være fleksibel og
+tilpassingsdyktig.
+ Hovedpunktene fra dette som omhandler prising av programvareprodukter er gjengitt i
+læreboken [2, s. 90–100].
+ 1.3.6.   Økonomistyring
+ Økonomistyring (eng. Financial Management) er en sentral del av produktforvaltningen som
+fokuserer på effektiv bruk og administrasjon av økonomiske ressurser i sammenheng med
+programvareproduktene. Dette handler blant annet om utvikling av økonomisk planer for
+programvareproduktene som inkluderer kostnadsestimater for produktutvikling,
+markedsføring, salg, kundestøtte, etc. Videre inkluderer det utarbeidelse av økonomiske
+rapporter som gir oversikt over produktenes økonomiske status, slik at dette kan benyttes som
+grunnlag for beslutningstaking og rapportering til interessentene.
+ Effektiv økonomistyring er avgjørende for å sikre at programvareproduktene er økonomisk
+bærekraftige og bidrar til en sunn økonomi for bedriften. Du finner mer informasjon om
+økonomistyring i læreboken [2, s. 100–111].
+ Et sentralt hjelpemiddel i denne sammenheng er utarbeidelse av BusinessCase [2, s. 109–
+110]. En vanlig norsk oversettelse av BusinessCase er Prosjektbegrunnelse, men vi ser at
+BusinessCase i større og større grad benyttes som et låneord på norsk. En BusinessCase er
+typisk et dokument som inneholder en økonomisk evaluering av en investering og den
+benyttes f.eks. av produktsjefen eller toppledelsen til å si noe om de forretningsmessige
+konsekvensene rundt en investering. En BusinessCase som omhandler konsekvensene av å
+investere i et programvarebasert produkt inneholder vanligvis en beskrivelse av produktets
+visjon, funksjonelle egenskaper, konkurransesituasjonen og markedssituasjonen, samt
+økonomisk informasjon i tilknytning til investeringen. Den økonomiske informasjonen er en
+svært sentral del av en BusinessCase og man gjennomfører derfor ofte en kost og nytte
+analyse i forbindelse med utarbeidelsen. Man ser da på hvilke kostnader man forventer vil
+påløpe i løpet av investeringsprosjektet og hvilken nytte man forventer at dette skal gi tilbake
+når produktet når markedet. Kost og nytte presenteres ofte som en balanse med kostnadene på
+den ene siden og nytten på den andre. Kost og nytte kan være konkrete verdier som lett lar seg
+kvantifisere (eng. tangible) eller mer uhåndgripelige (eng. intangible) verdier som ikke er like
+enkle og kvantifisere. Videre er det noen verdier som man kan oppnå umiddelbart mens andre
+krevere langsiktighet. Det hevdes (i [2, s. 128–133]) at mange BusinessCase feiler fordi de
+ikke tar tilstrekkelig hensyn til de uhåndgripelige verdiene. Dette skyldes i stor grad at det er
+vanskelig å tallfeste disse verdiene. Man bør derfor vurdere å forklare hva dette går ut på slik
+at beslutningstakerne kan vurdere dem og sette sine egne verdier.
+
+ Det finnes flere metoder for å analysere investeringer som kan benyttes i forbindelse med
+utarbeidelse av BusinessCase og her er tre varianter som ofte benyttes:
+ •   Tilbakebetaling (eng. payback) – Dette er en framstilling av utgiftene og inntektene
+over et gitt tidsrom. For en businesscase kan det være naturlig å operere med et
+tidsrom på 3 – 7 år. Denne framstillingen viser hvor lang tid man trenger før man
+begynner å spare eller tjene penger på investeringen. Dette kan også kalles en inntekts-
+og utgiftssammenstilling (eng. profit and loss statement). Se
+ http://en.wikipedia.org/wiki/Income_statement   for mer informasjon.
+ •   Kapitalkostnader – En av svakhetene med den ovenstående tilbakebetalingsmodellen
+er at den ikke tar hensyn til kapitalkostnadene. Dersom man plasserer pengene på en
+bankkonto vil man få renteinntekter og det vil være en viss inflasjon som man må ta
+hensyn til. Nåverdimetoden (eng. discounted cash flow. Se
+ http://en.wikipedia.org/wiki/Discounted_cash_flow ) er en økonomisk modell som tar
+ hensyn til dette. I nåverdimetoden sammenligner vi dagens verdi av investeringens
+framtidige kontantstrømmer med investeringens anskaffelseskostnad. Differansen
+mellom de framtidige kontantstrømmer og anskaffelseskostnaden kalles netto nåverdi
+(NNV) (eng. net present value (NPV)). En NNV tar hensyn til kostnadene ved å låne
+pengene til investeringen eller hvilken avkastning man ellers kunne ha forventet av
+pengene. Dersom NNV er større enn 0 er investeringen lønnsom.
+ •   Internrente (eng. Internal rate of return (IRR)) – Internrente foretrekkes ofte av ledere
+og beslutningstakere siden man beregner en tallverdi som sier noe om investeringens
+lønnsomhet. Man snur beregningen av NNV på hodet og finner når NNV er lik 0 over
+et gitt tidsrom. Det finnes ingen formel for å beregne internrenteverdien så man må
+prøve seg fram til man finner en NNV på 0. Man kan da sammenligne prosjektenes
+internrente, samt vurdere dette opp imot alternative plasseringer. Generelt sett vil
+prosjektet være lønnsomt dersom internrenteverdien er større enn kapitalkostnaden.
+ 1.3.7.   Styring av juridiske og immaterielle rettigheter
+ Styring av juridiske og immaterielle rettigheter (eng. Legal & Intellectual Property Rights
+Management) handler om teknikker og verktøy for å utføre forretningstransaksjoner og
+beskytte virksomheten. Lisenser og/eller tjenestenivåavtaler kan utformes og brukes til å
+regulere forholdet mellom leverandøren og kunden. Dette handler blant annet om å beskrive
+produktenes og/eller tjenestenes funksjonelle egenskaper, hvilken type bruk av produktet
+kunden kan foreta og hvor mye bruk som er tillatt. For å beskytte produktene eller de
+immaterielle rettighetene mot utfordringer som piratkopiering benyttes f.eks. registrerte
+varemerker (eng. trademarks), beskyttelse av forretningshemmeligheter (eng. trade secrets),
+kopibeskyttelse (eng. copyrights) eller patenter. Dette betyr at et det ikke kan være juridiske
+problemer knyttet til et programvareprodukt som skal ut på markedet og at det må inngås
+avtaler (kontrakter, lisenser, tjenestenivåavtaler) som regulerer kundenes rettigheter.
+ Juridiske begreper og avtaleforhold
+ Programvareprodukter er først og fremst immaterielle rettigheter og kjøp av programvare er
+egentlig kjøp av rettigheter til å benytte programvaren under gitte betingelser. Kontrakten som
+inngås i forbindelse med at en kunde skal benytte et programvareprodukt inneholder vanligvis
+en lisens, samt et dokument som beskriver produktspesifikke termer og et
+transaksjonsdokument som inneholder salgsspesifikke forhold og som i noen tilfeller kan
+overstyre de to foregående. Dersom man selger tilgang til programvaren i form av tjenester
+(SaaS) inngår man typisk en såkalt tjenestenivåavtale (eng. Service Level Agreement) som
+
+ beskriver hvilke tjenester som skal leveres og hvilke betingelser som er forbudet med disse
+leveransene. Dette avsnittet henter sitt innhold fra boken Software Product Management and
+Pricing [3, s. 64–76] og det inneholder kun noen av hovedpunktene derifra.
+ •   Lisensavtalen mellom leverandør og kunde regulerer hvordan kunden kan bruke
+programvaren og det finnes forskjellige former for lisensavtaler som kan benyttes for
+forskjellige produkter. Siden lisensene fort kan bli komplekse og sammensatte er det et
+poeng at man forsøker å lage dem så enkle og gjenkjennbare som mulig. Her er noen
+typisk termer i en lisensstruktur:
+ o   Generelle termer - Denne delen kan inneholde flere ting som f.eks.:
+    Noe som indikerer at du aksepterer kontrakten («Ved å laste ned dette
+programmet aksepterer du…»).
+    Definisjon på begreper og termer som benyttes i kontrakten.
+    Omfanget for hva denne lisensen omfatter.
+    Forskjellige garantier – Dette kan være:
+ •   Hvordan leverandøren skal forholde seg dersom feil i
+programvaren oppdages.
+ •   Garantier – F.eks. at kunden skal få pengene tilbake dersom
+vedkommende ikke er fornøyd etter 30 dager.
+ •   Garantiperiode – Perioden hvor leverandøren garanterer at
+programmet fungerer slik det er beskrevet i spesifikasjonene.
+Typisk 1 års varighet.
+    Overførbarhet – Kan f.eks. beskrive om lisensen kan overføres til en
+tredjepart, til en annen datamaskin, om antall installasjoner er ubegrenset,
+om programvaren kan benyttes på hjemmekontoret, …
+    Hvilken type avgifter som er forbudet med produktet og hva de dekker.
+Altså hvordan prismodellen er bygd opp og hvilke metrikker som finnes.
+    Ansvarsbegrensninger som følge av problemer som oppstår ved bruk av
+programvaren. Dette ønsker leverandørene typisk å begrense til maksimalt
+å være prisen som kunden har betalt for programvaren.
+    Vedlikeholds-bestemmelser som beskriver hvilket vedlikehold som vil
+foregå og hvor lenge den vil vare for gitte versjoner.
+    Lovbestemmelser og begrensninger som f.eks. kan være definisjon av
+perioden hvor man kan fremsette krav, samt hvilke lover og rettsinstanser
+som skal benyttes dersom en konflikt oppstår.
+    Unike bestemmelser for bestemte land. F.eks. at det er norsk rett som skal
+gjelde for installasjoner som er gjort i Norge.
+ o   Produktspesifikke bestemmelser – Dette er bestemmelser som gjelder spesielt for
+et bestemt produkt eller en familie av produkter. Dette kan være informasjon
+som:
+    Spesielle målemetoder for fastsettelse av faktureringsbeløp. F.eks. basert
+på hvor mye data som er generert.
+
+    Bruksrestriksjoner som f.eks. at programmet ikke kan eksporteres utenfor
+Norge uten spesiell tillatelse fra leverandøren.
+    Hvor programmet kan installeres og brukes eller det at programmet bare
+kan benyttes på en maskin samtidig.
+    Tilgjengelighet til kildekode og modifikasjonsrettigheter. De fleste
+programvareprodukter leveres uten kildekode, men dersom kunden skal
+ha muligheter til å gjøre endringer selv så må detaljene for dette
+beskrives.
+ o   Transaksjonsdokumentet – Dette er en viktig del av kontrakten mellom en kunde
+og en leverandør. Dette kan være en enkel faktura som beskriver hva som er kjøpt
+og til hvilken pris, men det kan også være en fullverdig kontrakt. Her følger en
+oversikt over informasjon som typisk kan inngå i en kortrakt om kjøp av
+programvareprodukter:
+    En beskrivelse av foretaket - Definerer størrelsen på organisasjonen som
+kjøper programvaren, hvor i organisasjonen programvaren kan benyttes
+og hvilke spesifikke rettigheter som skal gjelde.
+    Betalingsbetingelser – F.eks. informasjon om når kunden skal betale
+hvilke beløp.
+    Kontraktens varighet og rettigheter til forlengelse – Bestemmelser som
+sier når kontrakten opphører samt hva kunden eventuelt kan gjøre for å
+fornye avtalen.
+    Oppsigelse – Hvordan kan en pågående kontrakt sies opp av de respektive
+partene og hva skal eventuelt konsekvensene være?
+ Avtaler i det norske markedet
+ Når en større bedrift eller offentlig etat kjøper programvareprodukter i det norske markedet så
+er det svært vanlig å benytte en av statens standardavtaler. Disse avtalene er egentlig et sett
+med kontraktsmaler som kan benytte ved IKT-anskaffelser. Avtalene er gratis tilgjengelig på
+ https://anskaffelser.no/avtaler-og-regelverk/statens-standardavtaler-ssa/velg-riktig-avtale .
+ Dersom du skal starte med å se på en avtale som typisk kan benyttes ved kjøp/salg av
+programvareprodukter så vil jeg anbefale Kjøpsavtalen (SSA-K). Du finner en lenke til
+avtaledokumentet på denne siden ( https://anskaffelser.no/verktoy/maler-ogsa-kontrakt-og-
+ avtalemaler/kjopsavtalen-ssa-k   ).
+ Beskyttelse av immaterielle rettigheter
+ Som vi har vært inne på så er programvareprodukter først og fremst immaterielle rettigheter
+og disse utvikles over tid. En programvareleverandør som lykkes i markedet vil etter hver
+oppnå konkurransefordeler med utgangspunkt i at de har konkurransedyktige produkter. Det
+blir derfor viktig å beskytte sine produkter slik at konkurrentene ikke kan kopiere ens suksess.
+Her er noen alternative metoder for beskyttelse av immaterielle rettigheter:
+ •   Trademark eller registered trademark – Dette er registrerte varemerker som beskytter
+navnet til produktet.
+
+ •   Trade Secret – Dette er beskyttelse av bedriftsintern kunnskap slik at denne ikke skal
+komme på avveie. Et ofte brukt eksempel i denne sammenheng er oppskriften på
+Coca-Cola.
+ •   Copyright – Dette er en beskyttelse mot kopiering av informasjon, algoritmer,
+spesielle utrykk, spesielle måter å gjøre ting på, etc. Poenget er å gi skaperen av et
+originalt «verk» eksklusive rettigheter til bruk og distribusjon av dette «verket».
+ •   Patent – Dette er beskyttelse av en spesiell teknisk implementasjon av et konsept eller
+en ide, men det har vist seg vanskelig å beskytte programvare på denne måten.
+ Du finner mer informasjon om styring av juridiske og immaterielle rettigheter på side 117-
+128 i læreboken.
+ 1.3.8.   Ytelses- og risikostyring
+ Ytelses- og risikostyring (eng. Performance & Risk Management) handler om å måle hvor
+godt programvareproduktene fungerer, samt å reagere på eventuelle problemer og
+risikofaktorer som oppdages. Hvilke faktorer man fokuserer på varierer i forhold til
+produktenes modenhet og hvor de befinner seg i livssyklusen. I startfasen kan det typisk være
+interessant å foreta benchmarking for å sammenligne produktet opp imot andre produkter.
+Målingene kan i sin tur benyttes til å si noe om eventuelle utfordringer med systemet, hvilke
+ressurser som trengs, hva slags kompetanse som trengs blant de ansatte, samt at man etablerer
+et grunnlag for å informere markedet og sette framtidige mål for produktet. Etter hvert som
+produktet blir etablert endres fokuset mot å følge med kjøperne, gjennomføre
+reklamekampanjer og måle kundenes kjøpsfrekvens. Man når en vekstfase for produktet hvor
+det er viktig at kundene er fornøyd med produktet og hvor segmentering kan være et
+virkemiddel for å tilby spesialtilpassede tjenester. Etter vekstfasen kommer en modenhetsfase
+hvor fokuset gjerne er på prosesseffektivitet for kundene som kan oppnås gjennom
+produktdifferensiering, samt reduksjon av kostnader til markedsføring og distribusjon.
+Uansett hvilken livssyklusfase produktet befinner seg i så er målinger til hjelp i forhold til å
+identifisere problemer og risikoelementer slik at dette kan møtes med fornuftige tiltak.
+ Du finner mer informasjon om «Ytelses- og risikostyring» i læreboken [2, s. 128–133].
+ 1.4.   Referanseliste
+ [1]   S. A. Fricker, «Software Product Management», i   Software for People , Springer, 2012,
+s. 53–81. Åpnet: 14. mai 2025. [Online]. Tilgjengelig på:
+http://link.springer.com/10.1007/978-3-642-31371-4_4
+ [2]   H.-B. Kittlaus,   Software Product Management - The ISPMA-Compliant Study Guide
+and Handbook, 2nd Edition . Springer, 2022.
+ [3]   H.-B. Kittlaus og P. N. Clough,   Software Product Management and Pricing: Key
+Success Factors for Software Organizations . Springer, 2008.
+ [4]   J. Hogan og T. Nagle, «What is strategic pricing?»,   Strateg. Pricing Group Insight , s.
+1–7, 2005.
+ [5]   A. S. Dver,   Software product management essentials: a practical guide for small and
+mid-sized companies .   Anclote Press, 2003.

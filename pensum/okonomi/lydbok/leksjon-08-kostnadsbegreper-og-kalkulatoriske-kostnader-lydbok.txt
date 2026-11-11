@@ -1,0 +1,335 @@
+# Kostnadsbegreper og kalkulatoriske kostnader
+
+Velkommen til leksjon 8. Her skal du bli kjent med de viktigste kostnadsbegrepene du får bruk for videre i emnet. Du lærer forskjellen på en kostnad, en utgift og en utbetaling, og du lærer hvordan kostnader kan grupperes og klassifiseres.
+
+Etterpå ser vi på viktige kostnadsarter, som lønn, materialer, lagervurdering og avskrivinger. Til slutt ser vi på kalkulatoriske kostnader. Det er kostnader som beregnes i internregnskapet for å få et mer realistisk bilde av hva driften egentlig koster.
+
+Underveis bruker vi eksempelbedriften Datadeler AS, som du kjenner fra tidligere leksjoner. Denne leksjonen handler om begrepene og det tekniske rundt kostnader. Hvordan vi bruker dem i praksis, kommer i senere leksjoner.
+
+# Hvorfor kostnader er så viktige
+
+Dette kapitlet handler om hvorfor du må ha god kontroll på kostnadsbegrepene.
+
+Kostnader står sentralt i alle bedrifter, uansett type. Inntektssiden er også viktig, men den har som regel færre elementer og er mer oversiktlig. Derfor handler mange av beslutningene i en bedrift om kostnadssiden. Du kan si at kostnadene står i sentrum av økonomistyringen.
+
+Kostnadene er viktige innenfor tre hovedområder i økonomistyringen.
+
+Det første området er planlegging og budsjettering. Kostnadstall inngår i årsbudsjettene og er viktige elementer i nesten alle planer.
+
+Det andre området er rapportering og kontroll. Her sammenligner man de faktiske kostnadene med budsjettet, med konkurrentene og med normer i bransjen. Man gjennomfører planer for å redusere kostnader, og man vurderer lønnsomheten til produkter, kunder og kundegrupper.
+
+Det tredje området er beslutninger. Kostnader står sentralt når man setter priser, når man bestemmer om man skal kjøpe noe eller lage det selv, når man fastsetter produksjonsvolum og produktmiks, og når man jobber for å bli mer kostnadseffektiv.
+
+# Kostnad, utgift og utbetaling
+
+Dette kapitlet handler om tre ord som ligner på hverandre, men som betyr forskjellige ting.
+
+En kostnad er bedriftens forbruk av varer og tjenester i en periode, målt i penger. En utgift er det bedriften har kjøpt eller anskaffet av ressurser i perioden. En utbetaling skjer i det øyeblikket bedriften faktisk betaler for varen.
+
+Det viktige skillet her er mellom forbruk og kjøp. En utgift gjelder tidspunktet da du anskaffer varen. En kostnad gjelder en periode, for eksempel en måned eller et år.
+
+Ofte kommer utgiften før kostnaden. Da må utgiften fordeles som kostnader over tid. Å fordele en utgift over flere perioder kalles periodisering. En kostnad er altså en periodisert utgift. Riktig periodisering er avgjørende for å få et riktig regnskap.
+
+Det er bare nødvendig å periodisere når beløpet er betydelig. Små utgifter har liten innvirkning på resultatet, så det er ingen vits i å fordele dem. Hva som er et betydelig beløp, avhenger av hvor stor bedriften er. Et beløp som er stort for én bedrift, kan være ubetydelig for en annen. Her må du altså bruke litt skjønn.
+
+Nå et eksempel med Datadeler AS. Ved utgangen av år 0 hadde bedriften en beholdning av datadeler på 200000 kroner. I løpet av år 1 kjøpte de varer for 800000 kroner. Ved utgangen av år 1 var beholdningen 150000 kroner.
+
+Det første spørsmålet er: Hva var utgiften for kjøp av datadeler i år 1? Utgiften er det samme som det som er kjøpt, det vil si 800000 kroner.
+
+Det andre spørsmålet er: Hvor mye varer kunne bedriften bruke i løpet av år 1? Det de kunne bruke, er inngående beholdning pluss det som ble kjøpt i løpet av året. Det blir 200000 kroner pluss 800000 kroner, som er lik 1 million kroner.
+
+Det tredje spørsmålet er: Hvilket beløp skal føres som varekostnad i regnskapet for år 1? Kostnaden er det som faktisk er forbrukt i året. Forbruket finner du ved å ta inngående beholdning, legge til kjøpet og trekke fra utgående beholdning. Det blir 200000 kroner pluss 800000 kroner minus 150000 kroner. Det er lik 850000 kroner. Dette er årets varekostnad, og den føres i resultatregnskapet.
+
+Kort oppsummert: Utgiften er det du kjøper, kostnaden er det du bruker, og utbetalingen er når pengene går ut. Varekostnaden er inngående beholdning pluss kjøp minus utgående beholdning.
+
+# Kostnadsart, kostnadsbærer og kostnadssted
+
+Dette kapitlet handler om hvordan kostnader kan grupperes. Behovet for å klassifisere kostnader varierer mellom bransjer, mellom bedrifter og fra situasjon til situasjon.
+
+En kostnadsart er det vi i finansregnskapet kaller en konto. Kostnadsartene er delt opp etter type kostnad. Vi har varekostnader, lønnskostnader, andre driftskostnader og finanskostnader. Innenfor hver gruppe kan du dele opp videre, alt etter hvor detaljert du vil at regnskapet skal være.
+
+I finansregnskapet føres alle transaksjoner på kostnadskontoer, slik at de ulike typene kostnader holdes fra hverandre. I internregnskapet kan det være behov for andre grupperinger for å få frem den informasjonen man trenger. En vanlig gruppering er etter kostnadsbærer. En kostnadsbærer er det kostnadene skal knyttes til, som oftest en vare eller en tjeneste.
+
+Begrepet kostnadsbærer kan også brukes om andre ting du ønsker kostnadsoversikt over. Det kan være produktgrupper, kunder og kundegrupper, prosjekter og aktiviteter. Når kostnadene grupperes etter aktiviteter, samles de rundt det som faktisk gjøres i bedriften.
+
+Avdelinger kan også brukes til å gruppere kostnader. Men en avdeling kalles et kostnadssted, ikke en kostnadsbærer. Merk deg det skillet.
+
+Hver bedrift må selv finne ut hva som er mest hensiktsmessig, ut fra hvilken informasjon de vil hente ut av kostnadsbærerne eller kostnadsstedene.
+
+# Direkte og indirekte kostnader
+
+Dette kapitlet handler om skillet mellom kostnader som kan knyttes rett til et produkt, og kostnader som må fordeles.
+
+Direkte kostnader er kostnader som ganske enkelt og med høy grad av riktighet kan knyttes direkte til kostnadsbæreren, som regel et produkt. Direkte er ikke et entydig begrep. Det må alltid defineres som direkte i forhold til noe. Det som er en direkte kostnad for ett produkt, trenger ikke være det for et annet.
+
+Direkte kostnader deles vanligvis i to. Det er direkte materialkostnader og direkte lønnskostnader.
+
+Direkte materialkostnader er materialer og bearbeidede, innkjøpte komponenter som går inn i produksjonen, og som kan knyttes til produktet på en sikker, enkel og økonomisk måte. I prinsippet burde alt materialforbruk vært direkte. Men noen ganger bestemmer ledelsen at enkelte elementer er så små at det ikke er verdt de administrative kostnadene med å fordele dem. Direkte materialkostnader er den mest typiske variable kostnaden vi har.
+
+Direkte lønnskostnader kjennetegnes ved at arbeidet åpenbart skaper verdi, og at lønnen enkelt og sikkert kan knyttes til kostnadsbæreren. Direkte lønn omfatter selve lønnen, pluss påslag for arbeidsgiveravgift og feriepenger.
+
+Indirekte kostnader er kostnader som ikke kan knyttes direkte til varen eller tjenesten gjennom en klar årsakssammenheng. Det kan også være kostnader der det koster mer å knytte dem til produktet enn det er verdt. Mange indirekte kostnader oppstår mer på grunn av den vanlige aktiviteten i bedriften enn på grunn av det enkelte produktet. Disse kostnadene fordeles på produktene ved hjelp av fordelingsnøkler.
+
+Direkte materialer og direkte lønn er variable kostnader. De svinger i takt med produksjonsvolumet. Indirekte kostnader kan derimot være faste, variable eller semivariable. Semivariabel betyr en blanding av faste og variable kostnader.
+
+Indirekte kostnader omfatter fem grupper. Det er indirekte materialer, indirekte lønn i produksjonen, avskrivinger, andre tilvirkningskostnader og indirekte kostnader i salg og administrasjon.
+
+Kort oppsummert: Direkte kostnader kan knyttes rett til produktet og er variable. Indirekte kostnader må fordeles med fordelingsnøkler, og de kan være faste, variable eller semivariable.
+
+# Aktivitetskostnader og ABC
+
+Dette kapitlet handler om en annen måte å gruppere kostnader på, nemlig etter aktiviteter. Metoden kalles ABC, som står for aktivitetsbasert kostnadsberegning.
+
+Med ABC grupperes kostnadene rundt aktiviteter, ikke rundt avdelinger. Aktivitetene deles inn i fem typer.
+
+Den første typen er enhetsbaserte aktiviteter. Her antar man at kostnadene er proporsjonale med antall produserte enheter, eller med andre aktivitetsmål som i stor grad henger sammen med antall enheter. Eksempler er materialer og direkte lønn. Det særegne ved enhetsbaserte kostnader er at de med stor grad av årsakssammenheng kan knyttes til hver produktenhet.
+
+Den andre typen er seriebaserte aktiviteter. Her avhenger kostnadene av antall serier, ikke av hvor mange enheter som lages i hver serie. Det gjelder kostnader knyttet til å starte, gjennomføre eller avslutte en serie.
+
+Den tredje typen er produktnivåbaserte aktiviteter. Disse kostnadene er nødvendige for å kunne produsere og selge produktet, men de avhenger verken av antall produserte eller solgte enheter eller av antall serier. Eksempler er lisenskostnader for et produkt, markedsføring av produktet og spesialutstyr som produktet trenger.
+
+Den fjerde typen er kundenivåbaserte aktiviteter. Det er kostnader som oppstår for å betjene den enkelte kunden.
+
+Den femte typen er anleggsbaserte aktiviteter. Det er aktiviteter som trengs for å drive virksomheten og gjøre den generelt i stand til å produsere og selge. De er uavhengige av bedriftens størrelse, antall produkter og produksjonsvolum.
+
+ABC er mer en tankemodell enn en fast oppskrift. Poenget er å finne fornuftige aktiviteter som man kan knytte kostnadene til.
+
+Kort oppsummert: ABC har fem nivåer. Det er enhet, serie, produkt, kunde og anlegg.
+
+# Lønn, salg, administrasjon og andre kostnadsarter
+
+Nå går vi over til de viktigste kostnadsartene. Dette kapitlet handler om lønnskostnader, kostnader til salg og administrasjon, og de andre kostnadsgruppene i regnskapet.
+
+I finansregnskapet har lønnskostnadene en egen kontogruppe, kontogruppe 5. I tillegg til selve lønnen inneholder denne gruppen lønnsavhengige kostnader. Det er blant annet arbeidsgiveravgift, feriepenger, lønn under sykdom og andre sosiale goder, som andre personalkostnader.
+
+De fleste arbeidstakere får lønn per time, per uke eller per måned. Noen har også resultatbasert lønn eller provisjonslønn, det vil si at lønnen avhenger av hva de presterer.
+
+Arbeidsgiveravgift betales av bedriften, og den beregnes av utbetalt lønn. Det skal også betales arbeidsgiveravgift av feriepenger og av lønn under sykdom. Arbeidsgiveravgiften er delt inn i soner etter hvor i landet bedriften ligger. Det er bedriftens beliggenhet som avgjør sonen, ikke hvor de ansatte bor.
+
+Feriepengene er 12 prosent for fem ukers ferie. De beregnes av bruttolønnen, uten feriepenger.
+
+De fleste bedrifter har også kostnader til salg, markedsføring og administrasjon. Disse kostnadene har økt ganske mye de senere årene, og det er viktig å vurdere om de skal tas med i kostnadsberegningene.
+
+Salgs og markedsføringskostnader kan for eksempel være annonser og annen reklame, salgsbesøk, salgsprovisjoner og annen lønn til selgere, lagringskostnader og enkelte forsendelseskostnader.
+
+Administrasjonskostnader er kostnader til ledelse og administrasjon som ikke kan knyttes til tilvirkningen eller til salg og markedsføring. Det gjelder lønn til administrative ledere, kostnader til IT, til personalfunksjonen og til regnskap.
+
+I tillegg til varekostnader og lønnskostnader har finansregnskapet vanligvis en sekkepost som heter andre driftskostnader. Vi har også rentekostnader og ekstraordinære kostnader. De gjenstående kostnadene kan derfor deles i tre grupper. Det er driftskostnader, rentekostnader og andre finanskostnader, og ekstraordinære kostnader.
+
+# Varer og lagervurdering
+
+Dette kapitlet handler om ulike typer varer og om metodene for å verdsette varelageret og forbruket.
+
+Først begrepene. Det finnes fire typer varer.
+
+Råvarer er materialene som er utgangspunktet for bedriftens produksjon, ofte i sin opprinnelige form.
+
+Handelsvarer er ferdige produkter som kjøpes inn og selges videre uten bearbeiding.
+
+Ferdigvarer er varene en produksjonsbedrift selv har produsert ferdig.
+
+Varer i arbeid er også et begrep fra produksjonsbedrifter. Ved slutten av en periode kan noen enheter være halvferdige. Disse kalles varer i arbeid.
+
+Prisene på varer endrer seg nesten hele tiden. Derfor trenger du metoder for å verdsette varebeholdningen og forbruket. Det finnes fem metoder.
+
+Den første er FIFO, som står for first in, first out. Det betyr først inn, først ut. Her verdsettes forbruket som om de enhetene som har ligget lengst på lageret, brukes først. En fordel med FIFO er at den er logisk i de fleste sammenhenger.
+
+Den andre er gjennomsnittspriser. Her regner du ut en gjennomsnittspris og bruker den når du verdsetter lageret. Ulempen er at du må regne ut en ny gjennomsnittspris for enhetene på lager hver gang du gjør et nytt innkjøp.
+
+Den tredje er LIFO, som står for last in, first out. Det betyr sist inn, først ut. Her verdsettes forbruket som om de enhetene som har ligget kortest på lageret, brukes først.
+
+Den fjerde er standardpris. Hvis bedriften har et standardkostregnskap, bruker den også standardpris på materialforbruket. Standardprisen fastsettes normalt for hele året. Standardpris er ikke en godkjent vurderingsmetode i norsk årsregnskap og skatteregnskap. Metoden brukes derfor bare i internregnskapet.
+
+Den femte er gjenanskaffelsesprinsippet. Tanken er at bedriften skal være i samme økonomiske posisjon som før materialene ble brukt. Da må lageret verdsettes til det det koster å kjøpe det samme antallet enheter i dag.
+
+I norsk finansregnskap og skatteregnskap bruker man vanligvis FIFO eller gjennomsnittspriser, fordi LIFO ikke er tillatt der. I internregnskapet står du helt fritt. Likevel velger mange bedrifter samme prinsipp internt som i finansregnskapet, av praktiske grunner.
+
+Kort oppsummert: Lagerverdien kan beregnes med FIFO, gjennomsnittspris, LIFO, standardpris eller gjenanskaffelsespris. I finansregnskapet og skatteregnskapet brukes FIFO eller gjennomsnittspris.
+
+# Anleggsmidler og varige driftsmidler
+
+Dette kapitlet handler om eiendeler bedriften skal eie lenge, og om reglene for hvordan de vurderes.
+
+En del anskaffelser gjøres med tanke på varig bruk. Hvis beløpet er betydelig, registreres de som varige eiendeler, det vil si anleggsmidler. Anleggsmidler mister verdi på grunn av bruk og slitasje. Denne systematiske verdinedgangen kalles avskrivinger.
+
+Reglene for vurdering av anleggsmidler står i regnskapsloven, paragraf fem tre. Det er tre regler. Den første er at anleggsmidler skal vurderes til anskaffelseskost. Den andre er at anleggsmidler med begrenset økonomisk levetid skal avskrives etter en fornuftig avskrivingsplan. Den tredje er at anleggsmidler skal nedskrives til virkelig verdi hvis verdien faller, og verdifallet ikke ventes å være forbigående.
+
+Anleggsmidler er altså eiendeler som er bestemt til varig eie eller bruk. Eksempler er goodwill og andre immaterielle eiendeler, produksjonsanlegg og utstyr, bygninger og utstyr som brukes i administrasjonen, og langsiktige plasseringer i aksjer eller fordringer.
+
+Et varig driftsmiddel er en fysisk eiendel som er bestemt til varig eie eller bruk i virksomheten. Eksempler er tomter, bygninger og annen fast eiendom, maskiner, fly og anlegg, og driftsløsøre som inventar og kontormaskiner.
+
+Varige driftsmidler balanseføres til anskaffelseskost, og de som har begrenset økonomisk levetid, skal avskrives. Selv om hovedregelen er at driftsmidler skal balanseføres, må du gjøre en skjønnsmessig vurdering av om kjøpet skal balanseføres eller kostnadsføres.
+
+Små foretak kan, etter god regnskapsskikk, bruke skattelovens regler når de avgjør om et kjøp skal balanseføres eller kostnadsføres. Skatteloven tillater kostnadsføring av driftsmidler i to tilfeller. Det ene er når kostprisen er under 15000 kroner. Det andre er når levetiden er kortere enn tre år. Et lite foretak som kjøper et driftsmiddel til under 15000 kroner, eller et driftsmiddel som varer under tre år, kan altså føre det som en kostnad i resultatregnskapet. Da slipper de å føre det opp i balansen som en eiendel og avskrive det.
+
+Du må også skille mellom påkostning og vedlikehold. En påkostning er en utgift som øker driftsmiddelets verdi utover den opprinnelige kostprisen. En påkostning skal derfor balanseføres, det vil si at verdien på driftsmiddelet øker i balansen. En utgift som bare holder verdien ved like, er vedlikehold. Vedlikehold skal kostnadsføres direkte.
+
+Når et driftsmiddel selges, får bedriften vanligvis en salgssum. Da må det beregnes en gevinst eller et tap ved salget. Salgssummen inntektsføres på salgstidspunktet. En gevinst er en inntekt og øker egenkapitalen. Et tap er en kostnad og reduserer egenkapitalen. Selve regnskapsføringen ved salg er ikke pensum i emnet, men det er greit å vite hvordan gevinst og tap påvirker egenkapitalen.
+
+Kort oppsummert: Anleggsmidler vurderes til anskaffelseskost og avskrives hvis de har begrenset levetid. Påkostning balanseføres, mens vedlikehold kostnadsføres.
+
+# Lineær avskriving
+
+Dette kapitlet handler om den vanligste avskrivingsmetoden i årsregnskapet, lineær avskriving.
+
+Det finnes flere avskrivingsmetoder. De vanligste er saldometoden, lineær avskriving og produksjonsenhetsmetoden. Saldometoden brukes ved skattemessige avskrivinger. Lineær avskriving er mest vanlig i årsregnskapet.
+
+Lineær avskriving betyr at avskrivingsbeløpet fordeles med like store beløp hver periode over driftsmiddelets økonomiske levetid.
+
+Det kan være flere grunner til at et driftsmiddel har begrenset levetid. Det kan bli slitt eller tape verdi på andre måter. Det kan også bli utrangert fordi det kommer nye modeller, eller fordi kapasiteten blir for dårlig. Noen ganger er driftsmiddelet ikke verdt noe når levetiden er over. Men hvis du selger det når levetiden er over, får du en salgssum. Den kalles utrangeringsverdi.
+
+Formelen er slik: Det årlige avskrivingsbeløpet er lik kostpris minus utrangeringsverdi, delt på økonomisk levetid.
+
+Kjøper du et driftsmiddel midt i året, avskriver du regnskapsmessig bare for de månedene du har eid det. Kjøper du for eksempel en firmabil 1. juli, skal du bare avskrive for 6 måneder det første året. Da regner du ut det årlige avskrivingsbeløpet, deler det på 12 og ganger med antall måneder du har eid driftsmiddelet.
+
+Nå et eksempel. Datadeler AS måtte oppgradere maskinparken og programvaren, og kjøpte nytt datautstyr 1. januar 2008. Kostprisen var 50000 kroner. Avskrivingen skal være lineær, levetiden er 4 år, og restverdien er 0. Vi skal finne de årlige avskrivingene og balanseverdien ved starten og slutten av hvert av de 4 årene.
+
+Den årlige avskrivingen er kostpris delt på økonomisk levetid. Det er 50000 kroner delt på 4 år, som er lik 12500 kroner per år.
+
+Så går vi gjennom tabellen år for år. I 2008 er balanseverdien 50000 kroner den 1. januar. Vi avskriver 12500 kroner, og balanseverdien den 31. desember blir 37500 kroner.
+
+I 2009 starter vi på 37500 kroner. Vi avskriver 12500 kroner, og ender på 25000 kroner.
+
+I 2010 starter vi på 25000 kroner. Etter avskriving på 12500 kroner ender vi på 12500 kroner.
+
+I 2011 starter vi på 12500 kroner. Vi avskriver de siste 12500 kronene, og balanseverdien ved utgangen av året er 0.
+
+Nå endrer vi eksemplet litt. Vi antar at restverdien er 6000 kroner. Alt annet er likt. Husk at restverdien skal trekkes fra kostprisen før du regner ut avskrivingene.
+
+Den nye årlige avskrivingen er kostpris minus restverdi, delt på levetid. Det blir 50000 kroner minus 6000 kroner, som er 44000 kroner. Delt på 4 år blir det 11000 kroner per år.
+
+Tabellen blir da slik. I 2008 starter vi på 50000 kroner, avskriver 11000 kroner, og ender på 39000 kroner. I 2009 går vi fra 39000 kroner til 28000 kroner. I 2010 går vi fra 28000 kroner til 17000 kroner. I 2011 går vi fra 17000 kroner til 6000 kroner, som er akkurat restverdien.
+
+Eksemplet viser at varige driftsmidler verdsettes etter hovedregelen for anleggsmidler, altså til anskaffelseskost. Datautstyr har begrenset levetid og må derfor avskrives etter en fornuftig plan. Driftsmidler uten begrenset levetid verdsettes bare til anskaffelseskost og avskrives ikke. Et eksempel på det er tomter.
+
+Kort oppsummert: Ved lineær avskriving er avskrivingen lik hvert år. Den er kostpris minus restverdi, delt på levetiden.
+
+# Saldometoden og avskrivinger i de tre regnskapene
+
+Dette kapitlet handler om saldoavskrivinger, og om hvilke regler som gjelder for avskrivinger i skatteregnskapet, finansregnskapet og internregnskapet.
+
+Ved saldoavskriving avskriver du hvert år en fast prosent av den bokførte verdien ved starten av året. Denne prosenten kalles saldosats. Formelen er: Avskrivingsbeløpet er lik saldo per 1. januar ganger saldosatsen.
+
+Med saldometoden kommer den bokførte verdien egentlig aldri ned til null. Skattemessig er det lov å avskrive hele restverdien når saldoen har kommet under 15000 kroner. De skattemessige avskrivingene i Norge bygger på saldometoden. Metoden gir store avskrivinger i starten og små avskrivinger mot slutten av levetiden. Skattemessig får du fradrag for et helt års avskrivinger, selv om eiendelen ble kjøpt på årets siste dag.
+
+Nå bruker vi det samme datautstyret som i forrige kapittel. Saldoen per 1. januar 2008 er 50000 kroner, og saldosatsen er 30 prosent.
+
+I 2008 er avskrivingen 30 prosent av 50000 kroner, som er 15000 kroner. Balanseverdien ved utgangen av året blir 50000 minus 15000, altså 35000 kroner.
+
+I 2009 er avskrivingen 30 prosent av 35000 kroner, som er 10500 kroner. Balanseverdien blir 24500 kroner.
+
+I 2010 er avskrivingen 30 prosent av 24500 kroner, som er 7350 kroner. Balanseverdien blir 17150 kroner.
+
+I 2011 er avskrivingen 30 prosent av 17150 kroner, som er 5145 kroner. Balanseverdien blir 12005 kroner.
+
+Verdien ved utgangen av 2011 er altså under 15000 kroner. Da kan hele beløpet kostnadsføres som avskriving.
+
+Reglene for avskriving er forskjellige i de tre regnskapene. I skatteregnskapet kan du avskrive så lite du vil, men høyst så mye som myndighetene har bestemt. Saldosatsen avhenger av hvilken saldogruppe eiendelen tilhører.
+
+I finansregnskapet gjelder regnskapslovens krav om at du skal avskrive etter en fornuftig avskrivingsplan.
+
+I internregnskapet står du helt fritt til å velge avskrivingsgrunnlag, og du er ikke bundet av historisk kost. Du kan også fritt velge avskrivingssats og avskrivingsmetode.
+
+Kort oppsummert: Saldometoden avskriver en fast prosent av restverdien hvert år, og den brukes i skatteregnskapet. Internregnskapet står fritt.
+
+# Kalkulatoriske kostnader og kalkulatoriske renter
+
+Dette kapitlet forklarer hva kalkulatoriske kostnader er, og tar for seg den første av dem, kalkulatoriske renter.
+
+Kalkulatoriske kostnader er kostnader som føres med et annet beløp i internregnskapet enn i finansregnskapet. De kan være store, og det finnes seks typer. Det er kalkulatoriske renter, kalkulatoriske avskrivinger, kalkulatorisk eierlønn, kalkulatorisk husleie, kalkulatorisk tap på fordringer og kalkulatoriske garanti og servicekostnader.
+
+Disse kostnadene er avgjørende for å få et realistisk bilde av lønnsomheten og av hvor godt ledelsen presterer. De skal også bidra til at ressursene brukes mer effektivt. Derfor er de sentrale i internregnskapet. Likevel er kalkulatoriske kostnader lite brukt i Norge, sett i forhold til hvor viktige de er.
+
+Kalkulatoriske renter er en kostnad for å bruke ressursen penger, uansett hvor pengene kommer fra. Det betyr at du skal beregne renter både når du har rentebærende lån, og når investeringene er finansiert med egenkapital. De kalkulatoriske rentene skal så godt som mulig vise alternativavkastningen på pengene som er bundet i bedriften. Kostnaden ved å bruke pengene er det du gir opp i den beste alternative bruken av dem.
+
+Det er mer vanlig å beregne kalkulatoriske renter i store organisasjoner med mange avdelinger enn i små bedrifter. Grunnen er at de som har resultatansvar i hver avdeling, da får en motivasjon til å bruke kapitalen effektivt og gjennomtenkt.
+
+Nå et eksempel. Datadeler AS beregner vanligvis ikke kalkulatoriske renter. Finansregnskapet viser salgsinntekter på 500000 kroner og kostnader på 400000 kroner. Resultatet er dermed 100000 kroner.
+
+Balansen viser eiendeler på 1,2 millioner kroner. På den andre siden av balansen har bedriften rentefri kreditt på 100000 kroner og egenkapital på 1,1 millioner kroner. Til sammen blir det 1,2 millioner kroner.
+
+Datadeler AS er så heldige at de ikke trenger lån for å finansiere investeringene. I finansregnskapet er det ikke lov å beregne renter på egenkapitalen. Men vil du få frem de riktige kostnadene i internregnskapet, er det fornuftig å beregne kalkulatorisk rente på kapitalen. Pengene kunne jo stått i banken i stedet for å være investert i eiendeler.
+
+Når du beregner kalkulatoriske renter, tar du renter av kapitalen minus det som kalles rentefri kreditt. Rentefri kreditt er blant annet leverandørgjeld, skyldig merverdiavgift, skyldig arbeidsgiveravgift, feriepenger og forskudd.
+
+Du må også bestemme en fornuftig rentefot, altså rentesats. Det krever litt skjønn. Rentefoten bør gjenspeile risikoen i bedriften, og den bør derfor være høyere enn innskuddsrenten i banken. I eksemplet bruker vi 7 prosent.
+
+I eksemplet tar vi altså renter av egenkapitalen på 1,1 millioner kroner. Det er det samme som eiendelene på 1,2 millioner kroner minus den rentefrie kreditten på 100000 kroner. Den kalkulatoriske renten blir 7 prosent av 1100000 kroner, som er lik 77000 kroner.
+
+Det korrigerte resultatet i internregnskapet blir da slik. Salgsinntektene er 500000 kroner. Vi trekker fra kostnadene på 400000 kroner, og vi trekker fra den kalkulatoriske renten på 77000 kroner. Resultatet blir 23000 kroner.
+
+Det betyr at kostnadene egentlig er 77000 kroner høyere enn finansregnskapet viser. Bedriften går glipp av 77000 kroner i renteinntekter fordi egenkapitalen er investert i eiendeler i stedet for å stå i banken.
+
+Hadde Datadeler AS hatt rentebærende lån, ville rentene på lånet vist seg i finansregnskapet som vanlige rentekostnader.
+
+Kort oppsummert: Kalkulatoriske renter er renter på kapitalen minus rentefri kreditt, med en rentefot som gjenspeiler risikoen. For Datadeler AS gikk resultatet ned fra 100000 kroner til 23000 kroner.
+
+# Kalkulatoriske avskrivinger
+
+Dette kapitlet handler om avskrivinger som beregnes etter andre prinsipper i internregnskapet enn i finansregnskapet.
+
+Kalkulatoriske avskrivinger er avskrivinger beregnet etter andre prinsipper enn i finansregnskapet. Det er særlig aktuelt å bruke gjenanskaffelsesverdien som avskrivingsgrunnlag. I internregnskapet kan du avskrive mer enn 100 prosent av kostprisen. Du kan også bruke samme grunnlag som i finansregnskapet, men med andre avskrivingssatser.
+
+Valget mellom historisk kost og gjenanskaffelsesverdi betyr mest for eiendeler med lang levetid, og når prisene stiger ganske mye.
+
+Nå et eksempel. Datadeler AS avskriver forretningsbygget sitt med 2 prosent i året i finansregnskapet. Bygget kostet 2 millioner kroner da de kjøpte det for 10 år siden. Prisene på forretningsbygg har steget kraftig de siste 10 årene. I dag koster et lignende bygg 8 millioner kroner. Det er gjenanskaffelsesverdien.
+
+Først regner vi ut avskrivingen basert på historisk kost, slik finansregnskapet krever. Det er 2 prosent av 2000000 kroner, som er lik 40000 kroner i året.
+
+Så regner vi ut avskrivingen basert på gjenanskaffelsesprisen, til bruk i internregnskapet. Det er 2 prosent av 8000000 kroner, som er lik 160000 kroner i året.
+
+Hvis du mener at avskrivinger basert på gjenanskaffelsesprisen er riktig, blir avskrivingene i internregnskapet 160000 kroner minus 40000 kroner, altså 120000 kroner høyere enn i finansregnskapet. Avskrivinger basert på gjenanskaffelseskost er mest realistiske når bedriften skal ta interne beslutninger.
+
+Kort oppsummert: Kalkulatoriske avskrivinger bruker gjerne gjenanskaffelsesverdi i stedet for historisk kost. For bygget til Datadeler AS gir det 120000 kroner mer i årlige avskrivinger.
+
+# Kalkulatorisk eierlønn og husleie
+
+Dette kapitlet handler om to kalkulatoriske kostnader som gjør at eierens innsats og bedriftens egne lokaler får en riktig pris.
+
+For å se om en bedrift virkelig går med overskudd, bør en normal lønn for eierens innsats føres som en kostnad før resultatet beregnes i internregnskapet. Hvis den normale lønnen avviker fra den lønnen som er bokført, legger man inn en kalkulatorisk eierlønn.
+
+Kalkulatorisk eierlønn kan beregnes på to måter. Den ene er som en alternativkostnad. Da ser du på hva eieren taper ved å jobbe mindre i en annen jobb for å få tid til denne bedriften. Den andre er å beregne lønnen ut fra at eieren bare jobber i denne bedriften. Læreboka bruker alternativkostnaden. I denne leksjonen regner vi med at eieren bare jobber i denne bedriften.
+
+Her er eksemplet. Daglig leder og eier av Datadeler AS tok bare ut 100000 kroner i lønn i 2006, fordi bedriften ikke gikk så godt det året. Han jobbet 1750 timer i firmaet, og timelønnen hans er 200 kroner. Hva er mest riktig å føre som lønn til daglig leder i internregnskapet?
+
+Den utbetalte lønnen i finansregnskapet er 100000 kroner. Men i internregnskapet bør den reelle kostnaden for eierlønnen komme frem. Den kalkulatoriske eierlønnen er antall timer ganger timesatsen. Det blir 1750 timer ganger 200 kroner, som er lik 350000 kroner.
+
+Finansregnskapet viser altså 350000 kroner minus 100000 kroner, det vil si 250000 kroner mindre i lønnskostnad enn det de reelle kostnadene er. Derfor kan det være fornuftig å bruke kalkulatorisk eierlønn. Det kan også være aktuelt å beregne kalkulatorisk lønn for andre som jobber i bedriften uten å ta ut lønn.
+
+Så til kalkulatorisk husleie. Bedrifter som har fullt avskrevne bygninger, eller der avskrivingsgrunnlaget er langt unna markedsverdien, kan bruke kalkulatorisk husleie for å få et riktigere kostnadsbilde. Kalkulatorisk husleie er da et alternativ til kalkulatoriske renter og kalkulatoriske avskrivinger.
+
+Når den som har resultatansvar, må betale kalkulatorisk husleie, vil han ikke bruke mer lokaler enn han trenger. De som har betalt ned lånet på bygningene og ikke har andre kostnader til dem, glemmer ofte at bygningene har en alternativkostnad. Areal du ikke trenger selv, kan frigjøres og brukes til noe annet, eller leies ut.
+
+Her er eksemplet. Datadeler AS eier, som du hørte i forrige kapittel, et forretningsbygg. De er usikre på om de trenger hele bygget selv, og vurderer å leie ut en del av det. Undersøkelser i markedet viser at de ledige lokalene kan leies ut for 100000 kroner i året. Hvilket beløp bør settes av til kalkulatorisk husleie?
+
+Siden markedsleien ser ut til å være 100000 kroner, er det naturlig å sette den kalkulatoriske husleien lik markedsleien, altså 100000 kroner i året.
+
+Kort oppsummert: Kalkulatorisk eierlønn sørger for at eierens arbeid koster det det er verdt, i eksemplet 350000 kroner. Kalkulatorisk husleie settes naturlig lik markedsleien.
+
+# Tap på fordringer og garantikostnader
+
+Dette kapitlet handler om de to siste kalkulatoriske kostnadene. Begge handler om å jevne ut kostnader som svinger fra år til år.
+
+Tap på fordringer svinger vanligvis fra år til år. Mye av tapet avhenger av konjunkturene og av uheldige hendelser som rammer enkeltkunder. Ett år kan du ha store tap på fordringer, og året etter kan du ha nesten ingen.
+
+Med kalkulatorisk tap på fordringer jevner du ut disse svingningene. I internregnskapet setter du av et fast beløp til tap på fordringer hvert år, basert på tidligere erfaringer. Du kan for eksempel bestemme at du setter av 4 prosent til kalkulatoriske tap på fordringer hvert år. Over tid justerer du så satsen etter hvordan de faktiske tapene utvikler seg.
+
+Kalkulatoriske garanti og servicekostnader fungerer på samme måte. Du setter av en fast kostnad hvert år. Da får bedriften ikke en stor kostnad i ett enkelt år, selv om det kommer mange reklamasjoner det året.
+
+# Oppsummering
+
+I denne leksjonen har du lært en rekke kostnadsbegreper som du får bruk for videre i emnet.
+
+En kostnad er forbruk i en periode, en utgift er det du anskaffer, og en utbetaling er når du betaler. En kostnad er en periodisert utgift. Varekostnaden er inngående beholdning pluss kjøp minus utgående beholdning, i eksemplet 850000 kroner.
+
+Kostnader kan grupperes etter kostnadsart, som tilsvarer konto, etter kostnadsbærer, som oftest et produkt, og etter kostnadssted, som er en avdeling. Direkte kostnader kan knyttes rett til produktet og er variable. Indirekte kostnader fordeles med fordelingsnøkler. Med ABC grupperes kostnadene etter aktiviteter på fem nivåer: enhet, serie, produkt, kunde og anlegg.
+
+Du har også sett på viktige kostnadsarter, med vekt på lønnskostnader, materialkostnader, lagervurdering og avskrivinger. Feriepengene er 12 prosent for fem ukers ferie. Varelageret kan verdsettes med FIFO, gjennomsnittspriser, LIFO, standardpris eller gjenanskaffelsespris. LIFO er ikke tillatt i norsk finansregnskap og skatteregnskap, og standardpris brukes bare internt.
+
+For avskriving av varige driftsmidler finnes tre metoder: lineær avskriving, saldoavskriving og produksjonsenhetsmetoden. Lineær avskriving gir like store beløp hvert år, og er kostpris minus restverdi delt på levetiden. Saldometoden avskriver en fast prosent av saldoen ved årets start, og saldoer under 15000 kroner kan kostnadsføres helt i skatteregnskapet.
+
+Til slutt har du lært om kalkulatoriske kostnader. Det er kalkulatoriske renter, avskrivinger, eierlønn, husleie, tap på fordringer og garanti og servicekostnader. Når du bruker kalkulatoriske kostnader i internregnskapet, kan du få et helt annet resultat enn i finansregnskapet. For Datadeler AS falt resultatet fra 100000 kroner til 23000 kroner bare på grunn av kalkulatoriske renter.
+
+Det viktigste å huske er at kalkulatoriske kostnader gir et realistisk bilde av hva driften faktisk koster. Det er spesielt viktig for at beslutninger skal tas på riktig grunnlag.
+
+Til denne leksjonen hører det også en øving, der du kan prøve deg på slike beregninger selv.

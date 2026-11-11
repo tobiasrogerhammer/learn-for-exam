@@ -1,0 +1,179 @@
+# Leksjon 4: Resultatregnskapet og avslutning av regnskapet, del 2
+
+Velkommen til leksjon 4, del 2. I denne leksjonen skal du lære hvordan et regnskap avsluttes ved slutten av året. Du lærer hva råbalanse og saldobalanse er, og så følger vi bedriften Jostein AS gjennom hele det første driftsåret. Til slutt setter vi opp resultatregnskapet og balansen, og ser at alt går i hop.
+
+# Innledning
+
+Dette kapittelet forteller kort hvor vi står og hvor vi skal.
+
+Så langt i leksjonene har vi bare sett på posteringer i balansen og i resultatregnskapet. Nå tar vi neste steg. Vi skal se på hva råbalanse og saldobalanse er for noe. Og vi skal bruke dette til å avslutte regnskapet for Jostein AS.
+
+# Hva er en råbalanse?
+
+Her lærer du hva en råbalanse er, og hvordan du regner den ut for én konto.
+
+Du husker sikkert at inngående balanse er saldoen på en konto ved starten av en ny periode. Gjennom året blir det ført en rekke posteringer på de ulike kontoene. Når kontoene skal avsluttes ved slutten av perioden, må du gjøre noen avslutninger før du kommer fram til årsresultatet.
+
+Det første du gjør er å legge sammen debet inngående balanse og alle debetposteringene på kontoen. Summen kalles debet råbalanse. Det samme gjør du på kreditsiden: kredit inngående balanse pluss alle kreditposteringene gir kredit råbalanse.
+
+I tidligere eksempler satte vi opp kontoene horisontalt, som T-kontoer ved siden av hverandre. Det blir upraktisk når du har mange kontoer. I denne leksjonen setter vi derfor opp kontoene vertikalt, i en tabell. Hver konto får sin egen rad. Kolonnene er inngående balanse, posteringer i perioden og råbalanse, og hver av dem har en debetside og en kreditside.
+
+La oss se på et lite eksempel med to kontoer. Den første er konto 12 50 Inventar. Den har en inngående balanse den første januar på 20000 kroner i debet. I løpet av året er det ført 1000 kroner i debet og 2000 kroner i kredit. Råbalansen i debet blir da 20000 pluss 1000, som er 21000 kroner. Råbalansen i kredit blir 2000 kroner.
+
+Den andre kontoen er konto 50 10 Lønn. Den har ingen inngående balanse. I løpet av året er det ført 5000 kroner i debet. Råbalansen blir derfor 5000 kroner i debet.
+
+# Hva er en saldobalanse?
+
+Nå som du har råbalansen, er det lett å finne saldobalansen. Det handler dette kapittelet om.
+
+Saldobalansen finner du ved å ta forskjellen mellom debetbeløpet og kreditbeløpet i råbalansen. Saldoen havner på den siden som er størst.
+
+På konto 12 50 Inventar er debet råbalanse 21000 kroner og kredit råbalanse 2000 kroner. Saldobalansen blir 21000 minus 2000, det vil si 19000 kroner på debetsiden.
+
+Legg merke til at konto 50 10 Lønn ikke har noen inngående balanse. I forrige leksjon lærte du at alle kontoer som starter på sifrene 3 til 8, avsluttes mot resultatregnskapet. Disse kontoene har ingen inngående saldo. Grunnen er at alle resultatkontoene nullstilles når årsavslutningen gjøres, og så starter de på null igjen den første januar.
+
+Saldobalansen på konto 50 10 Lønn blir 5000 minus null, altså 5000 kroner i debet.
+
+Tabellen får nå en fjerde kolonne, saldobalanse. For inventar står det 19000 kroner i debet. For lønn står det 5000 kroner i debet.
+
+# Hva saldobalansen forteller, og hva den ikke avslører
+
+Her ser vi på hvorfor saldobalansen er nyttig, og hvilke feil den ikke fanger opp.
+
+En saldobalanse viser at alle posteringene i regnskapet er ført med like store beløp i debet og kredit. Summerer du alle postene i debet og alle postene i kredit i saldobalansen, skal debet være lik kredit.
+
+Men pass på. Selv om debet er lik kredit, kan det fortsatt være feil i regnskapet. Det finnes tre typiske feil som saldobalansen ikke avslører. Den første er at en transaksjon er ført med feil beløp, både i debet og i kredit. Den andre er at en transaksjon er ført på feil konto. Den tredje er at en transaksjon er ført i feil regnskapsperiode.
+
+Kort oppsummert: Råbalansen er inngående balanse pluss posteringene, på hver side. Saldobalansen er forskjellen mellom debet og kredit i råbalansen. Når debet og kredit er like i saldobalansen, er alt ført dobbelt, men det kan likevel finnes feil.
+
+# Jostein AS: utgangspunktet
+
+Nå starter vi det store eksempelet. I dette kapittelet ser du balansen som Jostein AS starter februar med.
+
+I leksjon 4 del 1 førte vi regnskapet for den første driftsmåneden til Jostein AS. Nå skal vi se hvordan det går med bedriften gjennom hele det første driftsåret. Planen er slik. Vi tar utgangspunkt i balansen per 31. januar år 1. Den blir den nye inngående balansen. Så fører vi noen posteringer. Deretter regner vi ut råbalanse og saldobalanse. Til slutt avslutter vi regnskapet og setter opp resultatregnskap og balanse.
+
+Balansen per 31. januar ser slik ut. Først eiendelene, som står i debet. Konto 12 hundre Maskiner er på 20000 kroner. Konto 12 50 Inventar er på 16000 kroner. Konto 15 hundre Kundefordringer er på 10000 kroner. Konto 15 70 Forskutterte utgifter er på 10000 kroner. Konto 19 hundre Kontanter er på 5000 kroner. Konto 19 20 Bank er på 150000 kroner. Til sammen er eiendelene 211000 kroner.
+
+Så egenkapital og gjeld, som står i kredit. Konto 2000 Aksjekapital er på 100000 kroner. Konto 20 50 Annen egenkapital er på 72000 kroner. Konto 23 80 Kassakreditt er på 16000 kroner. Konto 24 hundre Leverandørgjeld er på 23000 kroner. Til sammen er dette også 211000 kroner. Balansen går altså i null.
+
+I balanseoppstillingen er kreditbeløpene skrevet med minustegn foran. Det er bare en måte å vise at de står på kreditsiden.
+
+Disse tallene blir den inngående balansen per første februar. I den vertikale oppstillingen står eiendelene i debetkolonnen og egenkapital og gjeld i kreditkolonnen. Summen er 211000 kroner på begge sider. I tillegg er tre kontoer satt opp uten inngående balanse, fordi de blir brukt senere i året. Det er konto 27 70 Skyldig arbeidsgiveravgift, konto 27 80 Påløpt arbeidsgiveravgift av feriepenger og konto 29 40 Feriepenger.
+
+# Jostein AS: posteringene gjennom året
+
+Her går vi gjennom de åtte bilagene som Jostein AS fører fra februar til desember.
+
+Eksempelet er laget for at du skal forstå hvordan en avslutning gjøres med råbalanse og saldobalanse. For å gjøre det oversiktlig er det ikke tatt med så mange posteringer.
+
+Bilag nummer 1. Den 10. februar betaler Jostein AS 3000 kroner for en annonse som de bestilte og fikk kreditt på i januar. Betalingen reduserer leverandørgjelden, og den reduserer banken. Leverandørgjeld, konto 24 hundre, føres med 3000 kroner i debet. Bank, konto 19 20, føres med 3000 kroner i kredit.
+
+Bilag nummer 2. Den 15. februar betaler de for IT-utstyr som de kjøpte i januar for 20000 kroner. Føringen er den samme som i bilag 1. Leverandørgjeld får 20000 kroner i debet, og bank får 20000 kroner i kredit.
+
+Bilag nummer 3. Den 12. mars får Jo og Stein lønn på til sammen 20000 kroner. Samtidig blir de trukket for forskuddet de fikk utbetalt i januar. Det forskuddet står på konto 15 70 Forskutterte utgifter med 10000 kroner. Jo og Stein har fortsatt frikort, så du trenger ikke tenke på skattetrekk. Hvordan feriepenger og arbeidsgiveravgift regnes ut, kommer vi tilbake til i leksjon 7 om lønn. Her skal du bare bruke tallene som de er.
+
+Bilag 3 har mange linjer, så vi tar debetsiden først. Konto 50 10 Lønn får 20000 kroner i debet. Konto 51 80 Påløpte feriepenger får 2400 kroner i debet. Konto 51 82 Arbeidsgiveravgift av feriepenger får 338 kroner i debet. Konto 54 hundre Arbeidsgiveravgift får 2820 kroner i debet. Til sammen er det 25558 kroner i debet.
+
+Så kreditsiden i bilag 3. Konto 15 70 Forskutterte utgifter får 10000 kroner i kredit, fordi forskuddet nå er trukket. Konto 19 20 Bank får 10000 kroner i kredit, som er det som faktisk blir utbetalt. Konto 29 40 Feriepenger får 2400 kroner i kredit. Konto 27 80 Påløpt arbeidsgiveravgift av feriepenger får 338 kroner i kredit. Konto 27 70 Skyldig arbeidsgiveravgift får 2820 kroner i kredit. Til sammen er det også 25558 kroner i kredit, så bilaget går i balanse.
+
+Bilag nummer 4. Den 10. desember sender Jostein AS en faktura til Høgskolen i Nord-Trøndelag for et konsulentoppdrag. Fakturaen er på 35000 kroner, og kunden får 30 dagers kreditt. Kundefordringer, konto 15 hundre, får 35000 kroner i debet. Salgsinntekt, konto 30 10, får 35000 kroner i kredit.
+
+Bilag nummer 5. Diverse inntekter som bedriften har fått inn i løpet av året utgjør 50000 kroner. Pengene har kommet inn på bankkontoen. Bank får 50000 kroner i debet, og salgsinntekt får 50000 kroner i kredit.
+
+Bilag nummer 6. Husleien for året er 24000 kroner. Den betales 15. desember for hele året. Husleie, konto 63 hundre, får 24000 kroner i debet. Bank får 24000 kroner i kredit.
+
+Bilag nummer 7. Avskrivningene på maskinene for året er beregnet til 6000 kroner. Avskrivninger, konto 60 10, får 6000 kroner i debet. Maskiner, konto 12 hundre, får 6000 kroner i kredit.
+
+Bilag nummer 8. Avskrivningene på inventaret for året er beregnet til 3000 kroner. Avskrivninger, konto 60 10, får 3000 kroner i debet. Inventar, konto 12 50, får 3000 kroner i kredit.
+
+Forskuddsbetalte utgifter og påløpte kostnader ble gjennomgått i leksjon 4 del 1, så det er ikke tatt med så mye av det her.
+
+# Jostein AS: kontoene med flere posteringer
+
+Noen kontoer har fått mange posteringer. I dette kapittelet summerer vi dem før vi setter opp den store oversikten.
+
+Det gjelder tre kontoer: bank, leverandørgjeld og salgsinntekt. Kontoer med bare én postering føres rett inn i oversikten.
+
+Vi begynner med konto 19 20 Bank. I debet står de diverse inntektene på 50000 kroner. I kredit står annonsen på 3000 kroner, IT-utstyret på 20000 kroner, lønnen på 10000 kroner og husleien på 24000 kroner. Kreditsiden blir 3000 pluss 20000 pluss 10000 pluss 24000, som er 57000 kroner. Banken har altså posteringer på 50000 kroner i debet og 57000 kroner i kredit.
+
+Så konto 24 hundre Leverandørgjeld. I debet står annonsen på 3000 kroner og IT-utstyret på 20000 kroner. Det blir 23000 kroner i debet. Det er ingen kreditposteringer.
+
+Til slutt konto 30 10 Salgsinntekt. I kredit står fakturaen til høgskolen på 35000 kroner og de diverse inntektene på 50000 kroner. Det blir 85000 kroner i kredit. Det er ingen debetposteringer.
+
+# Jostein AS: råbalanse og saldobalanse
+
+Nå setter vi alt sammen i den vertikale oppstillingen. Vi går gjennom hver konto, med inngående balanse, posteringer, råbalanse og saldobalanse.
+
+Konto 12 hundre Maskiner har inngående balanse 20000 kroner i debet. Posteringen er avskrivningen på 6000 kroner i kredit. Råbalansen er 20000 kroner i debet og 6000 kroner i kredit. Saldobalansen er 20000 minus 6000, altså 14000 kroner i debet.
+
+Konto 12 50 Inventar har inngående balanse 16000 kroner i debet. Avskrivningen på 3000 kroner føres i kredit. Råbalansen er 16000 i debet og 3000 i kredit. Saldobalansen er 13000 kroner i debet.
+
+Konto 15 hundre Kundefordringer har inngående balanse 10000 kroner i debet. Fakturaen på 35000 kroner føres i debet. Råbalansen er 10000 pluss 35000, altså 45000 kroner i debet. Saldobalansen er også 45000 kroner i debet.
+
+Konto 15 70 Forskutterte utgifter har inngående balanse 10000 kroner i debet. Trekket i lønnen gir 10000 kroner i kredit. Råbalansen er 10000 i debet og 10000 i kredit. Saldobalansen blir null, så kontoen er gått i null.
+
+Konto 19 hundre Kontanter har inngående balanse 5000 kroner i debet og ingen posteringer. Råbalansen og saldobalansen er begge 5000 kroner i debet.
+
+Konto 19 20 Bank har inngående balanse 150000 kroner i debet. Posteringene er 50000 kroner i debet og 57000 kroner i kredit. Råbalansen i debet er 150000 pluss 50000, altså 200000 kroner. Råbalansen i kredit er 57000 kroner. Saldobalansen er 200000 minus 57000, det vil si 143000 kroner i debet.
+
+Konto 2000 Aksjekapital har 100000 kroner i kredit, uten posteringer. Råbalanse og saldobalanse er 100000 kroner i kredit.
+
+Konto 20 50 Annen egenkapital har 72000 kroner i kredit, uten posteringer. Råbalanse og saldobalanse er 72000 kroner i kredit.
+
+Konto 23 80 Kassakreditt har 16000 kroner i kredit, uten posteringer. Råbalanse og saldobalanse er 16000 kroner i kredit.
+
+Konto 24 hundre Leverandørgjeld har inngående balanse 23000 kroner i kredit. Betalingene gir 23000 kroner i debet. Råbalansen er 23000 i debet og 23000 i kredit. Saldobalansen blir null. All leverandørgjeld er altså betalt.
+
+Konto 27 70 Skyldig arbeidsgiveravgift har ingen inngående balanse. Posteringen er 2820 kroner i kredit. Råbalanse og saldobalanse er 2820 kroner i kredit.
+
+Konto 27 80 Påløpt arbeidsgiveravgift av feriepenger får 338 kroner i kredit. Råbalanse og saldobalanse er 338 kroner i kredit.
+
+Konto 29 40 Feriepenger får 2400 kroner i kredit. Råbalanse og saldobalanse er 2400 kroner i kredit.
+
+Så kommer resultatkontoene. Ingen av dem har inngående balanse. Konto 30 10 Salgsinntekt har 85000 kroner i kredit. Konto 50 10 Lønn har 20000 kroner i debet. Konto 51 80 Påløpte feriepenger har 2400 kroner i debet. Konto 51 82 Arbeidsgiveravgift av feriepenger har 338 kroner i debet. Konto 54 hundre Arbeidsgiveravgift har 2820 kroner i debet. Konto 60 10 Avskrivninger har 9000 kroner i debet, som er 6000 for maskinene pluss 3000 for inventaret. Konto 63 hundre Husleie har 24000 kroner i debet. For alle disse er posteringen, råbalansen og saldobalansen det samme beløpet.
+
+Nå summerer vi kolonnene. Inngående balanse er 211000 kroner i debet og 211000 kroner i kredit. Posteringene i perioden er 166558 kroner i debet og 166558 kroner i kredit. Råbalansen er 377558 kroner på hver side. Saldobalansen er 278558 kroner på hver side. Alle kolonnene går altså i balanse.
+
+Kort oppsummert: Hver konto får sin råbalanse ved å legge sammen inngående balanse og posteringer. Saldobalansen er forskjellen. To kontoer, forskutterte utgifter og leverandørgjeld, er gått i null. Summene i debet og kredit er like i alle kolonnene.
+
+# Jostein AS: resultatregnskapet
+
+Ut fra saldobalansen kan vi nå sette opp resultatregnskapet. Det trenger vi for å finne bedriftens resultat.
+
+Resultatregnskapet tar med resultatkontoene, det vil si kontoene i klassene 3 til 8. På kreditsiden står salgsinntekt med 85000 kroner. På debetsiden står kostnadene. Det er lønn med 20000 kroner, påløpte feriepenger med 2400 kroner, arbeidsgiveravgift av feriepenger med 338 kroner, arbeidsgiveravgift med 2820 kroner, avskrivninger med 9000 kroner og husleie med 24000 kroner.
+
+Legger vi sammen kostnadene, blir det 20000 pluss 2400 pluss 338 pluss 2820 pluss 9000 pluss 24000. Det er lik 58558 kroner i debet. Kreditsiden er 85000 kroner.
+
+Kreditsiden er størst, og det betyr overskudd. Inntektene er 85000 kroner. Kostnadene er 58558 kroner. Overskuddet er 85000 minus 58558, altså 26442 kroner.
+
+Når overskuddet disponeres, føres det på konto 89 hundre Overføringer og disponeringer. Beløpet 26442 kroner føres i debet på denne kontoen. Da blir debetsiden i resultatregnskapet 58558 pluss 26442, som er 85000 kroner. Nå er debet og kredit like, med 85000 kroner på hver side.
+
+# Jostein AS: egenkapitalen og sluttbalansen
+
+I dette siste eksempelkapittelet fører vi overskuddet over til egenkapitalen og setter opp balansen per 31. desember.
+
+Overskuddet føres på konto 20 50 Annen egenkapital. Inngående balanse på kontoen var 72000 kroner. Overskuddet er 26442 kroner. Utgående balanse blir 72000 pluss 26442, altså 98442 kroner. Egenkapitalen har med andre ord økt med 26442 kroner i perioden, og det er nøyaktig det samme som bedriftens overskudd.
+
+Så balansen per 31. desember. Først eiendelene i debet. Maskiner er på 14000 kroner. Inventar er på 13000 kroner. Kundefordringer er på 45000 kroner. Kontanter er på 5000 kroner. Bank er på 143000 kroner. Til sammen er eiendelene 220000 kroner. Forskutterte utgifter er ikke med lenger, fordi kontoen gikk i null.
+
+Så egenkapital og gjeld i kredit. Aksjekapital er på 100000 kroner. Annen egenkapital er på 98442 kroner. Kassakreditt er på 16000 kroner. Skyldig arbeidsgiveravgift er på 2820 kroner. Påløpt arbeidsgiveravgift er på 338 kroner. Feriepenger er på 2400 kroner. Til sammen er dette også 220000 kroner. Leverandørgjeld er ikke med, fordi den er betalt og gikk i null.
+
+Debet og kredit er like store, med 220000 kroner på hver side. Alt tyder på at regnskapet stemmer.
+
+Til denne leksjonen hører det også en øving, som du kan bruke til å trene på det du har lært.
+
+# Oppsummering
+
+Her er de viktigste punktene fra leksjonen.
+
+Råbalansen for en konto finner du ved å legge sammen inngående balanse og posteringene, hver for seg på debetsiden og kreditsiden.
+
+Saldobalansen er forskjellen mellom debet og kredit i råbalansen. Saldoen havner på den siden som er størst.
+
+Resultatkontoene, i klassene 3 til 8, har ingen inngående balanse. De nullstilles ved årsavslutningen og starter på null igjen hvert år.
+
+I saldobalansen skal summen i debet være lik summen i kredit. Det viser at alt er ført dobbelt. Men regnskapet kan likevel ha feil, for eksempel feil beløp, feil konto eller feil periode.
+
+I eksempelet med Jostein AS fikk bedriften inntekter på 85000 kroner og kostnader på 58558 kroner. Overskuddet ble 26442 kroner. Overskuddet ble ført på konto 89 hundre Overføringer og disponeringer, og så over til konto 20 50 Annen egenkapital, som økte fra 72000 til 98442 kroner.
+
+Sluttbalansen per 31. desember hadde 220000 kroner i eiendeler og 220000 kroner i egenkapital og gjeld. Når balansen går i hop på denne måten, tyder alt på at regnskapet stemmer.

@@ -1,0 +1,417 @@
+# Driftregnskapsmodeller
+
+*Monica Storvik. Institutt for datateknologi og informatikk (IDI), NTNU. Lærestoffet er utviklet for faget Økonomisk styring og regnskap. Basert på Aage Sending: Innføring i bedriftsøkonomi, 4. utgave (2006) og 5. utgave (2014) © Fagbokforlaget.*
+
+**Resymé:** I denne leksjonen skal vi se på ulike driftsregnskapsmodeller samt at vi skal også se på ulike typer avvik som kan oppstå ved normalkostregnskap. Til slutt i leksjonen skal vi se på resultateffekten av beholdningsendringer.
+
+**Pensum:** Pensum i leksjonen finner vi i Lærebok 2, Innføring i bedriftsøkonomi: kapittel 7.
+
+## 1.1 Innledning
+
+Hovedpoenget med driftsregnskap er å få frem mer, og fremfor alt nyttigere informasjon enn det som kommer fra finansregnskapet.
+
+Først i denne leksjonen skal vi se på hvilke forhold som vektlegges sterkere i internregnskapet enn i finansregnskapet samt se på hvorfor en har bruk for driftsregnskap i bedrifter. Videre skal vi si litt om hva ansvarsregnskap er.
+
+Videre i leksjonen skal vi se på ulike typer driftsregnskap. Vi skal også se på ulike avvik ved normalkostregnskap. Det kan oppstå avvik blant annet på direkte kostnader, indirekte faste og variable kostnader.
+
+## 1.2 Hvorfor driftsregnskap?
+
+Som nevnt tidligere er det forskjell på hva som føres i finansregnskapet og hva det er mest hensiktsmessig å ta med i internregnskapet. I internregnskapet vektlegges særlig følgende forhold sterkere enn i finansregnskapet:
+
+- Informasjonen er rettet mot at ledelsen på ulike nivåer skal få dekket sitt behov for økonomisk styringsdata.
+- Informasjonen skal gi støtte til ledelsens planlegging og kontroll, og fortrinnsvis være fremtidsorientert.
+- Informasjonen må være raskt tilgjengelig.
+- Fokus på lønnsomhet og kostnader for delområder: avdelinger, prosjekter, aktiviteter og andre underenheter, i tillegg til bedriften totalt.
+- Prinsipper og metoder er fleksible, og en er ikke bundet av lover og regler fra myndigheter og organisasjoner.
+
+En av de tingene som særmerker driftsregnskap er at en opererer med stor detaljeringsgrad og at rapportene er bygd opp i et hierarki, fra for eksempel prosjektnivå, avdelingsnivå og virksomheten totalt.
+
+Inntekter, kostnader og dekningsbidrag eller resultat vises fordelt på en eller flere av følgende kategorier:
+
+- produkt, produktgruppe eller ordre
+- kunde eller kundekategori
+- avdeling eller prosjekter
+- marked
+
+Det en må være klar over når en lager internregnskap er at de ofte lages for ledere og eksperter på ulike områder som ofte ikke har noen spesiell regnskapsinnsikt. Det er derfor viktig at disse får tilstrekkelig opplæring på de metodene som benyttes slik at de blir i stand til å ta de riktige beslutningene.
+
+Internregnskapet omfatter langt mer enn regnskap med kostnader, inntekter og resultat. Det gjelder også å få frem tall for bakenforliggende forhold som er avgjørende for resultatene. Mesteparten av grunninformasjonen er lik i års- og internregnskapet, men de få forskjellene som finnes er vesentlige.
+
+## 1.3 Ansvarsregnskap
+
+Ansvarsregnskap er en prosess for planlegging og prestasjonskontroll i ulike ansvarssentre (avdelinger, prosjekter osv). Årsaken til at en ønsker å dele opp virksomhetene i ulike ansvarssentre er at en ønsker å vite lønnsomheten av hvert område, slik at en kan vurdere de avdelingsansvarliges innsats. Jo større virksomheten er jo større behov er det for et hierarki av ansvarsområder.
+
+Ansvarsregnskap gir tall og analyser som grunnlag for prestasjonsvurdering av ulike ledere på ulike nivåer. Det ideelle er når både kostnader og inntekter kan henføres til den ansvarlige slik at et resultat kan beregnes, men i mange tilfeller innskrenker det seg til kostnadskontroll.
+
+Ansvarsregnskap er ikke en egen driftsregnskapsform. Det er mer et overordnet prinsipp for hvordan ulike driftsregnskapsformer bør vinkles. Sentralt i ansvarsregnskap står en sammenligning av oppnådde resultater mot de mål som er satt, dvs en sammenligning med budsjetterte tall.
+
+## 1.4 Driftsregnskap etter selvkost- eller bidragsmetoden
+
+Det finnes en rekke ulike driftsregnskapsmodeller alt etter hvilket produkt eller tjeneste modellen skal benyttes for. Driftsregnskapsmodellene inneholder en del prinsipielle forskjeller og kan alle utarbeides i to varianter, etter selvkostmetoden og bidragsmetoden. Det er derfor hensiktsmessig å ha oversikt over hovedprinsippene i selvkost- og bidragsmetoden før vi går inn på de ulike driftsregnskapsmodellene.
+
+Dersom det ikke er beholdningsendring av varer i arbeid eller ferdigvarer, vil en få samme resultat i regnskapet om en velger selvkostmetoden eller bidragsmetoden. Den metoden som gir best beslutningsgrunnlag bør velges som hovedmetode, eventuelt kan den suppleres med den andre metoden ved behov.
+
+Dersom faste kostnader inkluderes i beholdningsverdiene ved selvkostmetoden, men holdes utenfor ved bidragsmetoden, kan følgende fastslås:
+
+- Selvkostmetoden gir bedre resultat enn bidragsmetoden når det er beholdningsøkning av tilvirkede varer.
+- Bidragsmetoden gir best resultat når det er beholdningsreduksjon av tilvirkede varer.
+
+Ved presentasjon av de ulike driftsregnskapsmetodene har vi valgt å utelate beholdningsendringer for ikke å komplisere beregningene for mye, vi vil komme tilbake til hvilken effekt beholdningsendringer har ved bruk av selvkostmetoden og bidragsmetoden mot slutten av leksjonen.
+
+### 1.4.1 Bidragsmetoden
+
+Metoden fokuserer på det bidraget en sitter igjen med til å dekke faste kostnader og fortjeneste. Med tanke på beslutninger er dette en metode som er selvkostmetoden overlegen i de fleste sammenhenger.
+
+Driftsregnskapet gir data til beslutningstakere på mange områder, og bidragsmetoden er å foretrekke når det gjelder:
+
+- produktvalg/produktprioriteringer
+- nullpunktberegninger
+- å godta eller forkaste spesielle ordrer når ledig kapasitet finnes.
+
+Bidragsmetoden er kortsiktig i sitt fokus. En er opptatt av hva som er lønnsomt på kort sikt. I dårlige tider hvor en selger med dekningsbidrag, men under selvkost, ligger det ofte underforstått at en regner med at situasjonen bedrer seg på sikt. Derfor er det viktig at en supplerer bidragsbetraktningene med vurdering av konsekvensene på lang sikt og hvilke tiltak som da er mest hensiktsmessig.
+
+### 1.4.2 Selvkostmetoden
+
+Denne metoden forekommer hyppigst i bedrifter med dårlig utbygd internregnskap, der formålet først og fremst er å dekke årsregnskapets behov for data ved beholdningsvurderingen. Selvkostmetodens styrke er at den fokuserer på full kostnadsdekning.
+
+Det som skiller et selvkostregnskap fra et bidragsregnskap er blant annet følgende:
+
+- En behøver ikke skille mellom faste og variable kostnader.
+- En vurderer beholdningene til tilvirkningskost. Ved bidragsmetoden vurderes beholdningene normalt til variabel tilvirkningskost.
+
+## 1.5 Driftsregnskap basert på virkelig tilleggssatser
+
+Dette er den enkleste formen for driftsregnskap, men brukes lite av virksomheter med litt høyere krav til sin økonomistyring. Det er en minimumsform som bl.a dekker behovet for beholdningsvurdering i finansregnskapet.
+
+Ved denne driftsregnskapsformen beregnes tilleggssatsene først og fremst for bruk i etterkalkyler og kalkyler for beholdningsvurdering. Ulempene med dette er blant annet:
+
+- En må vente til etter periodeslutt før tilleggssatsene kan beregnes.
+- Løpende etterkalkulasjon vanskeliggjøres ved at tilleggssatsene ikke foreligger.
+- Har en lav aktivitet, dvs har lite å gjøre blir verdien av beholdningene høy fordi de faste kostnadene pr. enhet øker.
+- Produktkalkylene vil endre seg hele tiden ved selvkostmetoden fordi faste enhetskostnader er volumavhengige.
+
+## 1.6 Ordreregnskap basert på normalkalkulasjon (Normalkostregnskap)
+
+Normalkostregnskap er en driftsregnskapsform som baseres på forhåndsberegnede tilleggssatser for de indirekte kostnadene. At det benyttes normalsatser for de indirekte kostnadene, betyr at satsene er fastsatt på forhånd, vanligvis på basis av budsjett.
+
+De forhåndsberegnede tilleggssatsene (normalsatsene) benyttes til utarbeidelse av:
+
+- forkalkyler
+- driftsregnskap
+- etterkalkyler
+
+At en benytter forhåndsberegnede satser i driftsregnskapet, innebærer at en innfører et element av budsjett i regnskapet fremfor å benytte virkelige kostnadstall. Når en er avhengig av rask rapportering vil det være bedre å få et nesten riktig regnskap raskt enn et 100 % korrekt regnskap flere uker senere. Det en vanligvis gjør i internregnskapet er at en når de virkelige tallene foreligger foretar en korreksjon av driftsregnskapet slik at regnskapet baseres på virkelige tall.
+
+Ordreregnskap er aktuelt for produksjonsvirksomhet som tilvirker enkeltordrer, vareproduserende så vel som tjenesteytende. Driftsregnskapets oppgaver er å gi grunnlagsdata til nye forkalkyler samt til etterkalkyler. Løpende etterkalkyler forteller hvordan en til enhver tid ligger an i forhold til forkalkylene (planene).
+
+### 1.6.1 Eksempel – Ordreregnskap etter bidragsmetoden
+
+I ordreproduserende virksomheter som jobber med forholdsvis få og store ordrer, har bidragsmetoden stor utbredelse, men den brukes også i andre typer ordreproduserende virksomheter.
+
+Vi skal bruke Datadeler AS som eksempel for å se på ordreregnskap etter bidragsmetoden og selvkostmetoden. Datadeler AS produserer og selger blant annet PCer til enkeltkunder og bedrifter, men i enkelte tilfeller får de forespørsel om å levere spesialtilpasset datautstyr til for eksempel hele datasaler på skoler osv.
+
+For indirekte kostnader benytter en direkte timer som grunnlag for tilleggssatsberegningen. I salgs- og administrasjonsavdelingen benytter en variabel tilvirkningskost for de leverte ordrene som fordelingsgrunnlag. Datadeler AS sitt årsbudsjett etter bidragsmetoden er som følger:
+
+| Årsbudsjett Bidragsmetoden | Beløp |
+|---|---:|
+| Salgsinntekt (SI) | 1 000 000 |
+| Direkte materialer (PC deler) | 200 000 |
+| + Direkte lønn (1500t a 250 kr) | 375 000 |
+| + Indirekte variable kostnader | 105 000 |
+| = Variable tilvirkningskostnader (VTK) | 680 000 |
+| = Dekningsbidrag | 320 000 |
+| + indirekte faste kostnader i tilvirkningen | 100 000 |
+| + indirekte faste kostnader administrasjon | 73 000 |
+| **Produksjonsresultat** | **147 000** |
+
+Aktiviteten i budsjettet representerer normal kapasitetsutnyttelse. Datadeler AS ønsker et dekningsbidrag på 35 %.
+
+Datadeler AS har fått en forespørsel om å levere datautstyr til et datarom på en barneskole. Skolen ønsker en fast pris. Vi anslo at det ville gå med 175 timer samt deler for 60 000 kroner.
+
+Basert på de opplysningene over skal vi sette opp en forkalkyle etter bidragsmetoden for jobben på barneskolen. Prisen til skolen skal også beregnes ut ifra et ønske om et dekningsbidrag på 35 %.
+
+Først må vi beregne tilleggssatsen for de variable indirekte kostnadene.
+
+Tilleggssatsen for variable indirekte kostnader i tilvirkningen blir da, basert på budsjettet:
+
+**Kr 105 000 / 1 500 t = 70 kr pr time**
+
+| Forkalkylen for ordren blir | Beløp |
+|---|---:|
+| Direkte materialer (PC deler) | 60 000 |
+| + Direkte lønn (175 timer a 250 kr) | 43 750 |
+| + Indirekte variable kostnader i tilvirkningen (175 t a 70) | 12 250 |
+| = Variable tilvirkningskostnader | 116 000 |
+| Kontraktspris 116000/ (1 - 0,35) | 178 462 |
+| Dekningsbidrag | 62 462 |
+
+Skolen som leverte forespørselen godtok prisen på 178 462 kroner og ordren ble påbegynt og ferdigprodusert i januar 2019. Tidlig i februar hadde Datadeler AS følgende opplysninger om ordren til skolen:
+
+| Opplysninger om ordren | Beløp |
+|---|---:|
+| Direkte materialer | 61 000 |
+| Direkte lønn (167 timer) | 43 420 |
+| Fakturert | 178 462 |
+
+Vi kan allerede nå sette opp et foreløpig normalkostregnskap for januar 2019. Se under:
+
+| Foreløpig driftsregnskap for Datadeler AS | Beløp |
+|---|---:|
+| Salgsinntekt | 178 462 |
+| Direkte materialer | 61 000 |
+| + Direkte lønn (167 timer) | 43 420 |
+| + Indirekte variable kostnader i tilvirkningen (167 *70 kr) | 11 690 |
+| = Variable tilvirkningskostnader | 116 110 |
+| = Kalkulert dekningsbidrag | 62 352 |
+| - Faste indirekte kostnader tilvirkningen (100000/12) | -8 333 |
+| - Faste indirekte kostnader administrasjon (73000/12) | -6 083 |
+| **= Foreløpig produksjonsresultat** | **47 935** |
+
+Dette er et foreløpig resultat inntil vi får korrigert for avvikene på de indirekte kostnadene. Korrigeringen vil skje på et noe senere tidspunkt når regnskapsføringen er komplett. Når resultatet korrigeres for disse avvikene, får vi produksjonsresultatet.
+
+Fra den endelige bokføringen foreligger følgende tall for de indirekte kostnadene i januar:
+
+- Indirekte variable tilvirkningskostnader: kr 12 000
+- Indirekte faste tilvirkningskostnader: kr 7 500
+- Indirekte faste administrasjonskostnader: kr 6 200
+
+Det endelige normalkostregnskapet blir da slik:
+
+| Driftsregnskap for Datadeler AS | Normal regnskap | Virkelig regnskap | Avvik |
+|---|---:|---:|---:|
+| Salgsinntekt | 178 462 | 178 462 | |
+| Direkte materialer | 61 000 | 61 000 | |
+| + Direkte lønn (167 timer) | 43 420 | 43 420 | |
+| + Indirekte variable kostnader i tilvirkningen (167 *70 kr) | 11 690 | 12 000 | -310 |
+| = Variable tilvirkningskostnader | 116 110 | 116 420 | |
+| = Kalkulert dekningsbidrag | 62 352 | | |
+| - Avvik indirekte variable kostnader | -310 | | -310 |
+| = Virkelig dekningsbidrag | 62 042 | 62 042 | |
+| - Faste indirekte kostnader tilvirkningen (100000/12) | -8 333 | -7 500 | 833 |
+| - Faste indirekte kostnader administrasjon (73000/12) | -6 083 | -6 200 | -117 |
+| + Avvik faste kostnader | 717 | | 717 |
+| **= Produksjonsresultat** | **48 342** | **48 342** | |
+
+Som vi ser av oppsettet er det ikke så stor forskjell på foreløpig produksjonsresultat og det virkelige produksjonsresultat.
+
+### 1.6.2 Eksempel – Ordreregnskap etter selvkostmetoden
+
+Basert på de samme tallene for Datadeler AS som vi har benyttet foran skal vi nå se på ordreregnskapet basert på selvkostmetoden.
+
+Årsbudsjettet for Datadeler AS etter selvkostmetoden ser slik ut:
+
+| Årsbudsjett Selvkostmetoden | Beløp |
+|---|---:|
+| Salgsinntekt (SI) | 1 000 000 |
+| Direkte materialer (PC deler) | 200 000 |
+| + Direkte lønn (1500t a 250 kr) | 375 000 |
+| + Indirekte variable kostnader tilvirkningen | 105 000 |
+| + Indirekte faste kostnader i tilvirkningen | 100 000 |
+| = Tilvirkningskostnader | 780 000 |
+| + indirekte faste kostnader administrasjon | 73 000 |
+| = Selvkost | 853 000 |
+| **Produksjonsresultat (SI-Selvkost)** | **147 000** |
+
+Som for bidragsmetoden har vi følgende opplysninger om en mulig ordre:
+
+Datadeler AS har fått en forespørsel om å levere datautstyr til et datarom på en barneskole. Skolen ønsker en fast pris. Vi anslo at det ville gå med 175 timer samt deler for 60 000 kroner.
+
+Basert på de opplysningene over skal vi sette opp en forkalkyle etter selvkostmetoden for jobben på barneskolen. Prisen til skolen skal også beregnes ut ifra et ønske om en fortjeneste på 7,5 %.
+
+På bakgrunn av opplysningene over skal vi sette opp en forkalkyle etter selvkostmetoden.
+
+Vi trenger tilleggssatser både for de variable og de faste indirekte kostnadene.
+
+- Det er angitt at direkte timer er fordelingsgrunnlaget for de indirekte kostnadene i tilvirkningen.
+- Tilleggssatsen i administrasjonen skal beregnes på basis av totale tilvirkningskostnader.
+
+Tilleggssats for de indirekte variable kostnadene i tilvirkningen:
+
+**= 105 000 / 1 500 = 70 kr pr. time**
+
+Tilleggssats for de indirekte faste kostnadene i tilvirkningen:
+
+**= 100 000 / 1 500 = 67 kr pr. time**
+
+Tilleggssats faste kostnader i administrasjonen:
+
+**= 73 000 / 780 000 * 100 = 9,36 %**
+
+Nå som tilleggssatsene er beregnet kan vi sette opp forkalkylen:
+
+| Forkalkylen for ordren blir | Beløp |
+|---|---:|
+| Direkte materialer (PC deler) | 60 000 |
+| + Direkte lønn (175 timer a 250 kr) | 43 750 |
+| + Indirekte variable kostnader i tilvirkningen (175 t a 70) | 12 250 |
+| + Indirekte faste kostnader i tilvirkningen (175 t a 67) | 11 725 |
+| = Tilvirkningskostnader | 127 725 |
+| + Faste indirekte administrasjonskostnader (127725*0,0936) | 11 955 |
+| = Selvkost | 139 680 |
+
+Med normalt fortjenestepåslag blir kontraktsprisen:
+
+**kr 139 680 / (1 - 0,075) = 151 005**
+
+Selv om vi får en annen pris her velger vi å benytte samme kontraktspris som for bidragsmetoden. I det lange løp vil begge metoder gi samme overskudd om den budsjetterte kostnadsstrukturen holder.
+
+Tidlig i februar hadde Datadeler AS følgende opplysninger om ordren til skolen:
+
+| Opplysninger om ordren | Beløp |
+|---|---:|
+| Direkte materialer | 61 000 |
+| Direkte lønn (167 timer) | 43 420 |
+| Fakturert | 178 462 |
+
+Da kan vi beregne foreløpig produksjonsresultat:
+
+| Foreløpig driftsregnskap for Datadeler AS | Beløp |
+|---|---:|
+| Salgsinntekt | 178 462 |
+| Direkte materialer | 61 000 |
+| + Direkte lønn (167 timer) | 43 420 |
+| + Indirekte variable kostnader i tilvirkningen (167 *70 kr) | 11 690 |
+| + Indirekte faste kostnader i tilvirkningen (167*67 kr) | 11 189 |
+| = Tilvirkningskostnader | 127 299 |
+| + Faste kostnader administrasjon (127299 * 0,0936) | 11 915 |
+| = Selvkost | 139 214 |
+| = Foreløpig produksjonsresultat | 39 248 |
+
+Fra den endelige bokføringen foreligger følgende tall for de indirekte kostnadene i januar:
+
+- Indirekte variable tilvirkningskostnader: kr 12 000
+- Indirekte faste tilvirkningskostnader: kr 7 500
+- Indirekte faste administrasjonskostnader: kr 6 200
+
+Det endelige normalkostregnskapet blir da slik:
+
+| Driftsregnskap for Datadeler AS | Normal regnskap | Virkelig regnskap | Avvik |
+|---|---:|---:|---:|
+| Salgsinntekt | 178 462 | 178 462 | |
+| Direkte materialer | 61 000 | 61 000 | |
+| + Direkte lønn (167 timer) | 43 420 | 43 420 | |
+| + Indirekte variable kostnader i tilvirkningen (167 *70 kr) | 11 690 | 12 000 | -310 |
+| + Indirekte faste kostnader i tilvirkningen (167*67 kr) | 11 189 | 7 500 | 3 689 |
+| = Tilvirkningskostnader | 127 299 | | |
+| + Faste kostnader administrasjon (127299 * 0,0936) | 11 915 | 6 200 | 5 715 |
+| = Selvkost | 139 214 | | |
+| Produktresultat (SI-Selvkost) | 39 248 | | |
+| Dekningsdifferanser | 9 094 | | 9 094 |
+| **= Produksjonsresultat** | **48 342** | **48 342** | |
+
+Ved selvkostmetoden ser vi at foreløpig produksjonsresultat hadde et relativt større avvik enn ved bidragsmetoden. Dette skyldes at vi har kalkulert med for høye faste kostnader i forhold til de virkelige tallene. Men som vi ser er produksjonsresultatet likt ved begge metodene.
+
+#### Samme resultat ved selvkostmetoden og bidragsmetoden
+
+Dersom det ikke er beholdningsendringer i varer i arbeid eller ferdigvarer vil en få likt resultat ved bruk av selvkostmetoden og bidragsmetoden, dette så vi også i eksemplene over.
+
+## 1.7 Normalkostregnskap ved serietilvirkning
+
+Normalkostregnskap kan også brukes til å holde styr på produksjon av mange like produkter når det skjer som serieproduksjon. Også ved serieproduksjon kan normalregnskap utarbeides etter enten selvkost- eller bidragsmetoden. Som for ordreproduksjon vil en også ved serietilvirkning få samme produksjonsresultat om en ikke har beholdningsendringer av varer i arbeid eller ferdigvarer. Eksempler på driftsregnskap ved serietilvirkning finner dere i læreboka.
+
+## 1.8 Avviksanalyse ved normalkostregnskap
+
+Driftsregnskap som baseres på normalsatser vil vanligvis medføre avvik mellom forventede og realiserte kostnader.
+
+Sentrale begreper ved avviksanalyse:
+
+- **Normalkostnader** – dette er de indirekte kostnadene en regner med å bruke ved den faktiske aktiviteten.
+- **Realiserte kostnader** – er de faktiske kostnadene som er registrert i regnskapet.
+- **Innkalkulerte kostnader** – dette er hva vi har beregnet som indirekte kostnader i driftsregnskapet og etterkalkylene, basert på normalsatsene og faktisk aktivitet.
+- **Forbruksavvik** – dette er forskjellen mellom hva vi faktisk har brukt og hva vi trodde vi skulle bruke (norm – realiserte kostnader).
+- **Beskjeftigelsesavvik** – dette er et avvik som bare forekommer på faste kostnader, og som skyldes at innkalkulert er forskjellig fra norm. Oppstår bare ved bruk av selvkostmetoden.
+- **Totalt avvik på indirekte kostnader** – dette er forskjellen mellom innkalkulerte og realiserte kostnader, og kan for faste kostnader splittes i beskjeftigelsesavvik og forbruksavvik.
+
+### 1.8.1 Avvik på direkte kostnader
+
+Ved å sammenligne forkalkyle og etterkalkyle vil en få frem avvik på de direkte kostnadene. Forkalkylen representerer forventningene, mens etterkalkylen baseres på driftsregnskapets realiserte tall for de direkte kostnadene.
+
+En kan ha avvik både på direkte materialer og på direkte lønn. For direkte materialer kan en ha følgende avvik:
+
+- **Mengdeavvik** – oppstår hvis det brukes mer eller mindre materialer enn forutsatt.
+- **Prisavvik** – oppstår hvis det er betalt en høyere eller lavere pris for materialene enn forutsatt.
+
+Som for direkte materialer kan en ha to avvik også på direkte lønn, disse er:
+
+- **Tidsavvik** – oppstår hvis antall timer forbrukt på produktet er høyere eller lavere enn forutsatt.
+- **Lønnssatsavvik** – oppstår hvis det er betalt en høyere eller lavere pris pr time enn forutsatt.
+
+For å gjøre det enklere å eventuelt finne årsakene til avvik er det også mulig å dele opp store jobber i deljobber som regnskapsføres på egne kontoer.
+
+### 1.8.2 Avvik på indirekte faste kostnader
+
+Avvik som oppstår på indirekte faste kostnader i driftsregnskapet, kan splittes i to typer: forbruksavvik og beskjeftigelsesavvik.
+
+#### Bidragsmetoden – forbruksavvik på faste kostnader
+
+Siden faste kostnader i utgangspunktet er uavhengig av aktiviteten, vil de normalt forventes å bli lik budsjetterte tall. Hvis en ønsker å beregne faste kostnader pr måned er det vanlig å ta 1/12 av årsbudsjettet som tilsvarer normen og settes inn i normalkostregnskapet. Siden de realiserte faste kostnadene kan avvike fra normen, oppstår det et avvik. Dette avviket kalles forbruksavvik.
+
+**Forbruksavvik = Norm − Virkelige kostnader**
+
+#### Selvkostmetoden – beskjeftigelsesavvik og forbruksavvik på faste kostnader
+
+Ved selvkostmetoden vil en sjelden innkalkulere et beløp som tilsvarer normen. Dette skjer når aktiviteten er akkurat som forutsatt, det vi kaller normalaktivitet.
+
+Er aktiviteten høyere enn normalt, har vi overbeskjeftigelse og innkalkulerer mer enn normen. Vi snakker da om overdekning av kostnadene. Er derimot aktiviteten lavere enn normalt får vi underbeskjeftigelse og innkalkulerer mindre enn normen. Vi vil da få en underdekning.
+
+Beskjeftigelsesavvik representerer en korreksjon for å komme fra innkalkulerte kostnader til egentlig forventede kostnader (budsjett). Normen fremkommer ved følgende oppsett:
+
+| Oppsett |
+|---|
+| Innkalkulert (basert på normalsatsene og virkelig aktivitet) |
+| +/- Beskjeftigelsesavvik |
+| = Norm (budsjett eller forventning) |
+
+**Beskjeftigelsesavvik = Innkalkulert − norm**
+
+Forbruksavviket vil være det samme både ved selvkost- og bidragsmetoden. Forbruksavviket for faste kostnader fremkommer ved følgende formel:
+
+**Forbruksavvik faste kostnader = Norm faste kostnader − Virkelig faste kostnader**
+
+### 1.8.3 Avvik på indirekte variable kostnader
+
+Avvikene vi får på indirekte variable kostnader er uavhengige av om det benyttes selvkost- eller bidragsmetode. Det er bare forbruksavvik som kan oppstå på de indirekte variable kostnadene.
+
+### 1.8.4 Årsaker til forbruksavvik
+
+Årsakene til forbruksavvik er å finne blant en eller flere av følgende faktorer, dette er uavhengig av om det gjelder faste eller variable kostnader:
+
+- Prisen på de indirekte innsatsfaktorene er høyere eller lavere enn forutsatt.
+- Mengden av de forbrukte indirekte innsatsfaktorene er større eller mindre enn forutsatt.
+- De variable kostnadene er ikke proporsjonale slik normen forutsetter, eller de faste er ikke helt faste.
+- Det kan være feil i budsjettet som ligger til grunn for normen/normalsatsene.
+- Det kan ha skjedd en endring i forholdet mellom faste og variable kostnader. Det kan skje ved at budsjetterte variable kostnader erstattes med faste kostnader, for eksempel at mennesker erstattes av maskiner.
+
+## 1.9 Prosessregnskap
+
+Prosesskalkulasjon/prosessregnskap er et kalkyle- og regnskapssystem som i stor grad formes rundt produksjonsprosessen, og benyttes i virksomheter hvor produktene er standardiserte og produseres i stort antall gjennom flere delprosesser.
+
+Prosessregnskap er særlig aktuelt i enkelte typer kjemisk produksjon eller ved samlebåndsproduksjon hvor produktene passerer ulike avdelinger. Det er også aktuelt for mange typer servicevirksomheter: flyselskaper, postvesen, ligningskontorer og lignende.
+
+Ved prosessregnskap akkumuleres periodens kostnader pr. avdeling/delprosess, og fordeles deretter ut på produktene. Prosessregnskapet gir en oversikt over kostnader forbundet med produksjonens ulike ledd og antall enheter produsert i de ulike prosesser.
+
+## 1.10 Resultateffekt av beholdningsendringer
+
+Som vi har sett i eksempler tidligere i leksjonen får vi likt resultat både ved selvkost- og bidragsmetoden. Årsaken til det er at vi ikke har tatt hensyn til eventuelle beholdningsendringer for å forenkle oppgavene noe. I det virkelige liv er det normalt at bedriftene har beholdninger av enten varer i arbeid eller ferdigvarer.
+
+### 1.10.1 Beholdningsendring av materialer
+
+Materialforbruket i en produksjonsvirksomhet består av innkjøp korrigert for beholdningsendring.
+
+### 1.10.2 Beholdningsendring tilvirkede varer
+
+Produksjonsbedrifter har som nevnt over to typer beholdninger; varer i arbeid eller ferdigvarer. Når det i en periode produseres ferdig et annet volum enn det som leveres, får en en beholdningsendring av ferdige varer (økning eller reduksjon). I noen tilfeller blir ikke alle produktene som blir påbegynt ferdig produsert, da vil vi få en beholdningsendring for varer i arbeid.
+
+### 1.10.3 Ulike resultatutslag ved selvkost- og bidragsmetoden
+
+Det er eventuelle beholdningsendringer av varer i arbeid og ferdigvarer som forårsaker ulike resultater ved selvkost- og bidragsmetoden. En har følgende sammenhenger:
+
+- Beholdningsøkning av varer i arbeid eller ferdigvarer i perioden fører til bedre resultat ved selvkostmetoden enn ved bidragsmetoden.
+- Er det ingen beholdningsendring av varer i arbeid eller ferdigvarer gir selvkost- og bidragsmetoden nøyaktig samme resultat.
+- Beholdningsreduksjon av varer i arbeid eller ferdigvarer fører til bedre resultat ved bidragsmetoden enn ved selvkostmetoden.
+
+Under selvkostmetoden vurderes beholdningene av tilvirkede varer til tilvirkningskost, mens en ved bidragsmetoden verdsetter varebeholdningen til variable tilvirkningskostnader. Forskjellen består i at selvkostmetoden inkluderer faste tilvirkningskostnader i beholdningsverdiene.
+
+## 1.11 Oppsummering
+
+I denne leksjonen har vi sett på ulike driftsregnskapsmodeller. Vi har hatt størst fokus på ordreregnskap basert på normalkalkulasjon, men samme metode kan også benyttes ved serietilvirkning. Uansett driftsregnskapsmodell kan en benytte både selvkost- og bidragsmetoden. En bør benytte den metoden som er mest hensiktsmessig i forhold til hvilke beslutninger driftsregnskapet skal benyttes for. Vi har også sett på ulike typer avvik som kan oppstå ved normalkostregnskap. Til slutt i leksjonen har vi sett på resultateffekten av beholdningsendringer ved selvkost- og bidragsmetoden.

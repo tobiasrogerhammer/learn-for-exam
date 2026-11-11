@@ -1,0 +1,239 @@
+# Leksjon 1: Introduksjon til faget
+
+Velkommen til den første leksjonen i faget Økonomisk styring og regnskap. I denne leksjonen ser vi på de vanligste selskapsformene for små og mellomstore bedrifter i Norge. Du får høre hva man må tenke på når man starter en bedrift, for eksempel valg av selskapsform og registrering i Brønnøysundregistrene. Til slutt ser vi på farer underveis, og på hva som skjer hvis det går galt.
+
+Pensum til denne leksjonen er lærebok 1, Årsregnskapet, utgave 5, 6 eller 7. Der skal du lese kapittel 4.4, kapittel 16 til og med 16.4, og kapittel 34.6 og 34.7.
+
+# Hva faget handler om
+
+Dette kapitlet gir deg et overblikk over hva faget dreier seg om, og hvorfor økonomisk styring er viktig.
+
+Målet med faget er å lære deg de viktigste begrepene innenfor økonomi, på en enkel måte.
+
+Faget er delvis delt i to. Den første delen handler om tradisjonell økonomisk styring og regnskap. Den andre delen handler mer om bedriftsøkonomi.
+
+En viktig ting i faget er forskjellen mellom finansregnskap og internregnskap. Du må kjenne forskjellen. Du må også vite når finansregnskap skal lages, og når internregnskap er det beste verktøyet for å ta beslutninger.
+
+Økonomisk styring har fokus på finansregnskap. Bedriftsøkonomi har fokus på internregnskap. Bedriftsøkonomi handler om å gjøre beslutningstakere på ulike nivåer i bedriften bedre i stand til å styre økonomien. Målet er at de tar avgjørelser som gjør at bedriften når målene sine. Derfor har bedriftsøkonomi hovedtyngden på internregnskap.
+
+Senere i faget skal du blant annet lære om budsjettering, selve regnskapsføringen og hvordan du leser et regnskap. Du skal også lære hvor viktig det er å fakturere, og du skal lære om lønn. Poenget er å ha et bevisst forhold til den økonomiske styringen i en bedrift.
+
+Økonomisk styring kan brukes i mange sammenhenger, også i privatøkonomien. Du kan la økonomien gå av seg selv, uten oversikt over inntekter og utgifter. Det kan gå bra så lenge inntektene hele tiden er større enn utgiftene. Men hvis det er knapt med inntekter, kan det gå galt hvis du ikke tar styring og gjør bevisste valg om de løpende kostnadene. Med enkle grep kan du ta kontroll. Du kan for eksempel kartlegge de faste utgiftene og sammenligne dem med inntekten du forventer.
+
+Bedriftsøkonomi er et stort begrep som består av flere delfag. I dette faget får du en innføring i internregnskap, budsjettering, investering og finansiering, mikroøkonomi, finansregnskap og regnskapsanalyse. Disse temaene kommer tilbake i større eller mindre grad utover i kurset.
+
+Økonomi handler om knapphet. Hvis alle hadde nok penger, ville det vært lite behov for økonomistyring. Men økonomi må også kobles til måloppnåelse. Du må velge en økonomisk løsning som ikke svekker måloppnåelsen, eller som svekker den minst mulig.
+
+Når man tar beslutninger, spiller mange faktorer inn. Ikke alle er økonomiske. I dette faget konsentrerer vi oss mest om de økonomiske sidene. Spørsmålet er hva som er økonomisk mest fornuftig, og hva som gir det beste resultatet for eierne av bedriften.
+
+Gjennom hele faget brukes to bedrifter i eksempler og øvinger. Den første er Datadeler AS. Datadeler AS kjøper inn PC-er i deler, bygger dem sammen og selger dem. Den andre er Jostein AS. Jostein AS er en bedrift i oppstartsfasen som selger konsulenttjenester innen IT.
+
+# Hvordan emnet er lagt opp
+
+Her får du kort høre hvordan emnet er bygget opp.
+
+Emnet består av 12 leksjoner. Pensum er leksjonene, i tillegg til deler av to lærebøker. Den ene er Innføring i bedriftsøkonomi av Aage Sending. Den andre er Årsregnskapet av Trond Kristoffersen.
+
+Det anbefales at du først leser ukens leksjon, og deretter pensum i læreboka. Leksjonen gir deg et overblikk, og da lærer du mer og får mer ut av øvingene.
+
+Til hver leksjon hører det en øving. For å få gå opp til den skriftlige eksamenen må 8 av de 12 øvingene være levert og godkjent innen fristen.
+
+Leksjonene i faget er disse. Leksjon 1 er introduksjon til faget. Leksjon 2 handler om grunnleggende forståelse av økonomistyring. Leksjon 3 handler om balansen. Leksjon 4 handler om resultatregnskapet. Leksjon 5 handler om lønn og merverdiavgift. Leksjon 6 handler om vurdering og verdsettelse av balanseposter, og rapportering. Leksjon 7 handler om kostnads og inntektsanalyse. Leksjon 8 handler om kostnadsbegreper og kalkulatoriske kostnader. Leksjon 9 handler om kostnadsfordeling og kalkulasjonsprinsipper. Leksjon 10 handler om ulike driftsregnskapsmodeller. Leksjon 11 handler om produktvalg. Leksjon 12 handler om investeringer og prosjektøkonomi.
+
+# Jo og Stein vil starte bedrift
+
+Dette kapitlet presenterer Jo og Stein, som du skal følge gjennom faget.
+
+Jo og Stein har akkurat fullført en bachelor i drift av datasystemer. De er begge svært opptatt av IT. De kan mye om å sette opp PC-er og om å koble maskiner sammen i system og nettverk. Dette har lenge vært både hobby og studium for dem.
+
+Begge kommer fra en liten plass i Nord-Trøndelag. Etter studiene har de begynt å tenke på å starte egen bedrift i hjembygda. De har merket at det finnes et marked for hjelp innen IT. Venner og familie trenger stadig hjelp til å installere programvare, oppgradere maskiner og reparere maskiner. Men å hjelpe venner og kjente har ikke gitt dem noe særlig mer i lønningsposen.
+
+De ser for seg et konsulentfirma som kan brukes av kommunale institusjoner og privatpersoner. De har vurdert dette seriøst og sett at markedet er der. Derfor blir de enige om å etablere en bedrift.
+
+En av de første beslutningene de må ta, er hvilken organisasjonsform bedriften skal ha. Valget har betydning for ansvar, risiko, skatt, rettigheter og plikter.
+
+# Selskapsformer: enkeltpersonforetak
+
+Nå ser vi på selskapsformene, og vi begynner med enkeltpersonforetaket.
+
+De vanligste selskapsformene for små og mellomstore bedrifter er tre. Den første er enkeltpersonforetak, som forkortes ENK. Den andre er ansvarlig selskap, som enten er ANS eller DA. Den tredje er aksjeselskap, som er AS eller ASA.
+
+I et enkeltpersonforetak er det én fysisk person som er ansvarlig for virksomheten. Det vil si at det bare er én eier. Et annet ord for dette er å være selvstendig næringsdrivende. Du vil også høre ordet enkeltmannsforetak, som betyr det samme.
+
+Eieren har stor økonomisk frihet. Men eieren er også selv økonomisk ansvarlig for gjelden og forpliktelsene til virksomheten. Eier og virksomhet er ett.
+
+Hvis virksomheten får mye gjeld og går konkurs, vil konkursboet gå inn i eierens private formue for å hente penger til å dekke gjelden. Motsatt, hvis virksomheten går veldig bra, øker også eierens personlige formue.
+
+Når det gjelder skatt, lignes enkeltpersonforetaket sammen med eieren personlig.
+
+Det finnes ingen egen lov for enkeltpersonforetak. Men for å starte et må du være myndig, og du kan ikke ha konkurskarantene.
+
+Enkeltpersonforetak passer når det er små eller ingen investeringer, og når risikoen er liten. Det er viktig å merke seg. Enkeltpersonforetak er den vanligste organisasjonsformen i næringslivet. Foretakene er som regel små, med få ansatte.
+
+# Ansvarlig selskap, ANS og DA
+
+Dette kapitlet handler om ansvarlige selskaper, der det er to eller flere eiere med personlig ansvar.
+
+I et ansvarlig selskap er eierne fullt ut ansvarlige for forpliktelsene til selskapet, akkurat som i et enkeltpersonforetak. Forskjellen er at det er to eller flere eiere. Eierne i et ansvarlig selskap kalles deltakere eller kompanjonger.
+
+Det finnes to hovedformer av ansvarlig selskap.
+
+Den første er ANS. Her har alle deltakerne solidarisk ansvar for hele gjelden. Det betyr at det én deltaker ikke kan betale, kan kreves helt og fullt fra hvem som helst av de andre deltakerne.
+
+Den andre er DA, som står for delt ansvar. Her har deltakerne til sammen et personlig ansvar for gjelden, men hver deltaker kan bare belastes for sin egen eierandel. Et eksempel: Firmaet Ball og Klabb DA skylder penger til REMA 1000. En av eierne har en eierandel på 10 prosent. Da kan REMA 1000 bare kreve 10 prosent av gjelden fra denne eieren, selv om de andre eierne ikke klarer å gjøre opp for seg.
+
+Når man stifter et ansvarlig selskap, må det holdes et selskapsmøte. Deltakerne må lage en skriftlig selskapsavtale som alle skriver under på. Avtalen skal sendes til Foretaksregisteret i Brønnøysund. Selskapsavtalen må inneholde to ting. Den første er formålet med selskapet. Den andre er hvor stor andel av overskudd eller underskudd hver deltaker skal ha.
+
+Reglene om ansvarlige selskaper står i lov om ansvarlige selskaper og kommandittselskaper, som kalles selskapsloven. Et ansvarlig selskap har regnskapsplikt etter regnskapsloven paragraf en strek to.
+
+Denne selskapsformen passer best for bedrifter med små investeringer og liten risiko. Og det er svært viktig at du kjenner og stoler på kompanjongene dine.
+
+Ansvarlig selskap er vanlig blant annet i advokatbransjen, i håndverksbransjen og innenfor revisjon.
+
+Kort oppsummert: I et ANS kan hver deltaker måtte betale hele gjelden. I et DA svarer hver deltaker bare for sin egen andel.
+
+# Aksjeselskap
+
+Dette kapitlet handler om aksjeselskapet, der eierne har begrenset ansvar.
+
+Aksjeselskap er en svært vanlig organisasjonsform for store foretak i Norge. Et aksjeselskap, AS, kan ha én eller flere eiere. Eieren har ingen personlig forpliktelse overfor selskapet, og har derfor begrenset ansvar.
+
+For å starte et aksjeselskap må du stille med 30000 kroner i aksjekapital. Pengene skal stå på bankkontoen til firmaet når selskapet stiftes. Det er også mulig å dekke aksjekapitalen med inventar og maskiner i stedet for penger. Hvis selskapet går konkurs, taper eierne bare det de har skutt inn i aksjekapitalen.
+
+Når man stifter et aksjeselskap, må eierne holde et stiftelsesmøte og en konstituerende generalforsamling. Der skal de velge et styre og en revisor, og de skal fastsette vedtekter for selskapet. Tre dokumenter må sendes til Foretaksregisteret før selskapet er formelt stiftet. Det er protokollen fra stiftelsesmøtet, en kopi av vedtektene, og en villighetserklæring fra revisor.
+
+Som aksjonær, det vil si eier, har du to måter å ta ut penger fra bedriften på. Den første er aksjeutbytte. Det er en godtgjørelse til aksjeeieren for det han har skutt inn i bedriften, og utbyttet er en del av det årlige overskuddet. Den andre måten er lønn for arbeid du har utført i bedriften.
+
+Aksjeselskaper i Norge er regulert i en egen lov, aksjeloven.
+
+Kort oppsummert: I et aksjeselskap kreves det minst 30000 kroner i aksjekapital, og eierne kan aldri tape mer enn det de har skutt inn.
+
+# Aksjonærmodellen og skatt på utbytte
+
+Dette kapitlet forklarer kort hvordan utbytte og aksjegevinster skattlegges.
+
+Aksjonærmodellen betyr at utbytte og gevinster er skattepliktige for aksjonæren, etter at man har trukket fra et skjermingsfradrag. For privatpersoner skattlegges gevinster, tap og utbytte etter aksjonærmodellen. Det gjelder blant annet aksjer, aksjefondsandeler, aksjesparekonto og egenkapitalbevis. Modellen gjelder også for utenlandske aksjer.
+
+Utbytte og gevinster over skjermingsbeløpet skattlegges som alminnelig inntekt. Før skatten beregnes, trekkes skjermingsfradraget fra. Satsen på alminnelig inntekt var 22 prosent i skatteårene 2021 og 2022.
+
+I tillegg blir skattegrunnlaget oppjustert, det vil si ganget opp med en faktor. I 2021 var faktoren 1,44. Da ble skattesatsen i praksis 22 prosent ganger 1,44, som er 31,68 prosent. I 2022 økte faktoren til 1,60. Da ble skattesatsen i praksis 22 prosent ganger 1,60, som er 35,20 prosent.
+
+For inntektsårene 2023 og 2024 er skatten på utbytte 37,84 prosent. Den regnes ut som 22 prosent ganger 1,72. Tallet 1,72 er en oppjusteringsfaktor som Stortinget har fastsatt. Ifølge leksjonen gjelder det samme for 2026.
+
+Formålet med aksjonærmodellen er å redusere forskjellen mellom hvordan kapital og arbeid skattlegges. Det gjøres ved at utbytte over et visst nivå skattlegges som alminnelig inntekt. Faget går ikke nærmere inn på dette.
+
+# Brønnøysundregistrene
+
+Når du har valgt selskapsform, er neste steg å registrere bedriften i Brønnøysundregistrene. Dette kapitlet forklarer hva det er.
+
+Brønnøysundregistrene er en offentlig etat som har ansvar for mange nasjonale kontroll og registreringsordninger for næringslivet. Målet er å bidra til økonomisk trygghet og effektivitet for næringslivet og samfunnet.
+
+Brønnøysundregistrene samordner hva næringslivet må rapportere. Målet er å unngå at de samme opplysningene samles inn flere ganger, særlig av hensyn til små og mellomstore bedrifter.
+
+Registreringen er ikke bare en byrde. Brønnøysundregistrene er et av de største lagrene av elektroniske data i Norge, og mange henter informasjon derfra. Som bedriftsleder, långiver, bruktbilkjøper, journalist eller privatperson kan du få tilgang til mye av informasjonen. Registrene har også fått internasjonal anerkjennelse, blant annet for arbeidet med å begrense hvor mye næringslivet må rapportere.
+
+Brønnøysundregistrene består av mange registre. Når man etablerer en bedrift, er to av dem viktige: Foretaksregisteret og Enhetsregisteret.
+
+# Foretaksregisteret og Enhetsregisteret
+
+Her ser vi på de to registrene som er viktige når du starter bedrift, og hvem som må registrere seg i hvert av dem.
+
+Hensikten med Foretaksregisteret er blant annet å gi en korrekt oversikt over hvem som er ansvarlig i selskapet. I et enkeltpersonforetak er det ingen tvil om hvem som er ansvarlig. Derfor har enkeltpersonforetak som hovedregel ikke plikt til å registrere seg der.
+
+Disse har plikt til å registrere seg i Foretaksregisteret. Aksjeselskaper og allmennaksjeselskaper. Ansvarlige selskaper, selskaper med delt ansvar og kommandittselskaper. Enkeltpersonforetak som driver handel, eller som har mer enn fem ansatte. Foreninger og stiftelser som driver næringsvirksomhet. Utenlandske foretak med virksomhet i Norge. Foretak med regnskapsplikt etter egen lov, for eksempel borettslag og sparebanker. Og til slutt statsforetak.
+
+Det koster penger å registrere seg i Foretaksregisteret. Et aksjeselskap betaler 6500 kroner ved registrering på nett. Enkeltpersonforetak, ansvarlige selskaper og selskaper med delt ansvar betaler 3379 kroner ved registrering på nett. Prisene gjelder fra 1. januar 2025, og Stortinget fastsetter prisen fra år til år.
+
+Enhetsregisteret er et felles knutepunkt for offentlige og private registre over næringslivet. Det ble opprettet for å gi oversikt og samordne disse registrene. Enhetsregisteret inneholder de mest grunnleggende opplysningene om juridiske personer.
+
+Tre grupper må registrere seg i Enhetsregisteret. Den første er alle som har ansatte. Den andre er alle som skal betale merverdiavgift. Den tredje er alle som registreres i Foretaksregisteret. Registrering i Enhetsregisteret er gratis.
+
+De fleste har altså plikt til å registrere seg. Noen slipper, men alle næringsdrivende har rett til å registrere seg hvis de vil, og mange gjør det. En fordel er at du får et organisasjonsnummer på ni siffer. Når myndighetene kjenner dette nummeret, kan de lettere samordne opplysningene om virksomheten. Da slipper du mange spørreskjemaer.
+
+Det blir stadig viktigere å ha et organisasjonsnummer. Banker og andre som gir lån krever for eksempel at du er registrert når du søker om lån. Registreringen gjør det tydelig hvem som har ansvaret. Det synes kunder og leverandører er trygt.
+
+Når firmaet er registrert i Foretaksregisteret, er firmanavnet beskyttet. Det vil si at du har enerett på navnet. Dette gjelder ikke hvis firmaet bare er registrert i Enhetsregisteret.
+
+Kort oppsummert: Foretaksregisteret koster penger og gir enerett på firmanavnet. Enhetsregisteret er gratis og gir deg organisasjonsnummer.
+
+# Jostein AS blir til
+
+Nå går vi tilbake til Jo og Stein og ser hvilket valg de tar.
+
+Jo og Stein har satt seg inn i de ulike selskapsformene. Begge har allerede en presset privatøkonomi, med studielån og billån. De vil ikke risikere privatøkonomien sin ytterligere hvis noe skulle gå galt. Derfor velger de å stifte et aksjeselskap, der ansvaret er begrenset. Navnet blir Jostein AS.
+
+Neste utfordring er å skaffe penger. De trenger 30000 kroner i aksjekapital, og de må betale for registreringen i Foretaksregisteret. I leksjon 2, om økonomistyring, ser vi på kapitalbehov ved etablering, og på hvordan Jo og Stein finansierer aksjekapitalen.
+
+# Forretningsplan
+
+Dette kapitlet handler om forretningsplanen, som alle som starter bedrift bør skrive.
+
+Så langt har du hørt om selskapsformene og om kravene og pliktene eierne har. Denne leksjonen handler om den tidlige fasen av en bedriftsetablering. Noe alle gründere må gå grundig gjennom og skrive, er en forretningsplan.
+
+En forretningsplan skal skrives før du starter en bedrift, eller før du setter i gang produksjon av et produkt. Den skal blant annet inneholde detaljerte analyser av markedet, kundene og konkurrentene. Den skal også beskrive forretningsideen.
+
+Forretningsplanen kan styrke troen på prosjektet hvis den bekrefter at det finnes et marked. I motsatt fall kan den spare eierne for arbeid og penger, hvis den avslører ukjente forhold som har stor betydning for om bedriften overlever.
+
+Et eksempel: Noen drømmer om å starte restaurant i Trondheim. Forretningsplanen viser at markedet for restauranter i Trondheim er vanskelig, og at bare et fåtall av restaurantene som finnes, går med overskudd. Det kan komme som en overraskelse, og drømmen blir mindre fristende. Ofte ender etableringsplaner på denne måten.
+
+De som leser forretningsplanen, kan for eksempel være banker og andre finansieringsinstitusjoner, og investorer.
+
+# Faremomenter og årsaker til konkurs
+
+Dette kapitlet handler om hvorfor nye bedrifter er sårbare, hva som kan føre til konkurs, og hvilke krisetegn du bør se etter.
+
+Nyetablerte bedrifter er i en kritisk fase. De har ikke fått ordentlig fotfeste hos kundene. De har relativt lav egenkapital. Og de kan ha ganske store kostnader fordi bedriften nettopp er etablert. Nye bedrifter er også sårbare for konjunktursvingninger. De er som regel ikke like godt forankret i markedet som konkurrentene, og derfor er de mer utsatt for konkurs.
+
+En konkurs kan ha mange årsaker. Noen er interne, som dårlige rutiner. Andre er eksterne, og dem kan man ikke beskytte seg mot.
+
+Det er fire interne årsaker som nevnes. Den første er at bedriften har satset på feil produkter. Den andre er at kostnadskontrollen har vært mangelfull. Den tredje er at ledelsen har prioritert vekst foran lønnsomhet. Den fjerde er at bedriften har manglet finansielle mål.
+
+Det er også fire eksterne årsaker. Den første er at prisene på produktene til selskapet har falt kraftig. Den andre er at konkurrentene har kommet med bedre og billigere produkter. Den tredje er økte offentlige avgifter. Den fjerde er at det er vanskelig å få lån.
+
+Det er også viktig å se etter krisetegn, og å ta tak i dem raskt. I den daglige driften kan det være fem tegn på krise. Det er manglende samarbeid i ledelsen, høyt sykefravær blant de ansatte, stor gjennomtrekk av ansatte, dårlig kvalitet på servicen, og dårlig økonomisk styring.
+
+Du kan også lese faresignaler i regnskapet. Det første er underskudd flere år på rad. Det andre er dårlig regnskapsføring. Det tredje er at regnskapet utelater viktige forhold som trengs for å gi et riktig bilde av hvordan bedriften står.
+
+Kort oppsummert: Konkurs kan skyldes både interne og eksterne forhold, og du bør følge med på krisetegn både i den daglige driften og i regnskapet.
+
+# Gjeldsforhandling og konkurs
+
+Dette kapitlet forklarer hva som skjer når en bedrift ikke klarer å betale gjelden sin, og noen viktige begreper.
+
+Hvis en bedrift sliter med å betale, kan den kontakte kreditorene. Kreditorene er de bedriften skylder penger. Sammen kan de vurdere situasjonen og prøve å forhandle seg fram til en løsning.
+
+Gjeldsforhandling er en fellesbetegnelse på betalingsutsettelse og akkord. Betalingsutsettelse betyr at du får utsette betalingen av gjelden. Akkord betyr at kreditor ettergir, altså sletter, en del av gjelden.
+
+Hvis gjeldsforhandlingene ikke fører fram, og kreditorene fortsatt vil ha betalt det de har til gode, er konkurs sannsynligvis den siste utveien.
+
+En konkurs åpnes av skifteretten. Da blir de økonomiske verdiene til debitor beslaglagt. Debitor er den som skylder penger. Debitor mister retten til å bestemme over sine økonomiske verdier, og kan ikke drive forretning så lenge konkursen pågår. Skifteretten administrerer konkursboet, og skal sørge for at kreditorene får tilbake det de har krav på, så langt det er mulig.
+
+Insolvent er et viktig begrep. Det betyr at du ikke klarer å betale forpliktelsene dine etter hvert som de forfaller. En konkursbehandling kan bare åpnes når debitor er insolvent.
+
+Pant er et annet viktig begrep. En panterett er en særrett til å få dekket et krav i en bestemt formuesgjenstand. En pantekreditor har derfor en særstilling ved konkurs. Når gjenstanden selges, får pantekreditor dekket kravet sitt først. Et konkursbo må respektere en panterett.
+
+Det siste begrepet er dividende. I et konkursbo kan det være mange krav som skal dekkes, og de dekkes i en bestemt rekkefølge. Skifteomkostningene, altså kostnadene ved å behandle konkursen, dekkes foran all annen gjeld. En leverandør som har tatt pant i varen han har levert, får dekket kravet sitt først når varen selges. Lønn til ansatte og offentlig gjeld prioriteres også høyt. Krav fra leverandører uten prioritet og uten sikkerhet kalles dividende.
+
+Kort oppsummert: Gjeldsforhandling kan gi betalingsutsettelse eller akkord. Hvis det ikke lykkes, kan skifteretten åpne konkurs når debitor er insolvent. Panthavere og prioriterte krav dekkes først, og de uprioriterte kravene kalles dividende.
+
+Det hører en øving til denne leksjonen.
+
+# Oppsummering
+
+Denne leksjonen var en innledning til faget Økonomisk styring og regnskap. Siden vi skal følge en bedrift gjennom kurset, startet vi med de første stegene i en bedriftsetablering.
+
+Du har lært at faget handler både om økonomisk styring med fokus på finansregnskap, og om bedriftsøkonomi med fokus på internregnskap. Økonomi handler om knapphet og om å nå målene sine på en økonomisk fornuftig måte.
+
+Du har lært om de tre vanligste selskapsformene. I et enkeltpersonforetak er det én eier med fullt personlig ansvar. I et ansvarlig selskap er det to eller flere eiere. I et ANS har alle solidarisk ansvar for hele gjelden, mens i et DA svarer hver deltaker bare for sin andel. I et aksjeselskap har eierne begrenset ansvar, og det kreves minst 30000 kroner i aksjekapital.
+
+Aksjonærmodellen betyr at utbytte over skjermingsfradraget skattlegges som alminnelig inntekt, og grunnlaget ganges opp med en faktor. Med 22 prosent ganger 1,72 blir skatten på utbytte 37,84 prosent.
+
+Du har lært om Brønnøysundregistrene. Foretaksregisteret koster penger, med 6500 kroner for et aksjeselskap og 3379 kroner for enkeltpersonforetak og ansvarlige selskaper, og gir enerett på firmanavnet. Enhetsregisteret er gratis og gir et organisasjonsnummer på ni siffer.
+
+Jo og Stein valgte aksjeselskap fordi de ikke ville risikere privatøkonomien sin, og stiftet Jostein AS.
+
+En forretningsplan skal skrives før oppstart, og analyserer marked, kunder og konkurrenter. Nye bedrifter er sårbare, og du har hørt om interne og eksterne årsaker til konkurs og om krisetegn i driften og i regnskapet.
+
+Til slutt lærte du begrepene gjeldsforhandling, betalingsutsettelse, akkord, konkurs, insolvent, pant og dividende.
+
+I neste leksjon skal du lære mer om økonomistyring, blant annet ved hjelp av budsjett.

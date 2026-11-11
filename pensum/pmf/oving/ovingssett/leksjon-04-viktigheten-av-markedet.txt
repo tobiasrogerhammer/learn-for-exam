@@ -1,0 +1,184 @@
+PMF Lek 4 Viktigheten av markedet
+IDI AIT, NTNU
+Viktigheten av markedet
+Tor Atle Hjeltnes
+26.08.2026
+Lærestoffet er utviklet for faget DIFT2004 Produktutvikling, marked og forvaltning av programvareprodukter
+
+Viktigheten av markedet
+Resymé: I denne leksjonen skal vi si litt om den siste fasen i Stage-Gate-modellen. I denne fasen skal produktet lanseres på markedet. Denne lanseringen skjer med utgangspunkt i markedsplanen. For å skrive en markedsplan må vi ha kjennskap til en del tema innen markedsforståelse. Kjennskap til grunnleggende tema innen markedsforståelse må vi også ha om vi skal utvikle produkter eller tjenester, eller drive med forvaltning av programvareprodukter. I de fire kommende leksjonene vil ulike aspekter ved markedet stå i fokus.
+Innhold
+1.1. Innledning 2
+1.2. Markedsplanen 2
+1.2.1. Markedsplanens innhold 3
+1.3. Markedsføringsprosessen 8
+1.3.1. Analyse av markedsmuligheter 8
+1.3.2. Undersøkelse og valg av markedssegmenter 10
+1.3.3. Utforming av markedsføringsstrategier 10
+1.3.4. Planlegging av markedsføringsprogram 10
+1.3.5. Organisering, gjennomføring og kontroll av markedsføringen 12
+1.4. Oppsummering 12
+
+Innledning
+I leksjon 3 så vi på idégenerering, analyse og konseptutvikling, utviklingsarbeid og testing og verifisering. I denne leksjonen skal vi si litt om markedslanseringsfasen, samtidig som vi skal begynne å dykke dypere inn i noen viktige tema som går på marked og markedsforståelse. Det er mange viktige tema innen marked og markedsforståelse, noe læreboken til Kotler er et godt bevis på. Vi har plukket ut noen hovedtema som vi mener er svært viktige om man skal drive med markedsføring, markedsledelse, produktutvikling, tjenesteutvikling, utvikling av forretningsmodeller eller forvaltning av programvareprodukter. Det er viktig at du også leser de kapitlene som er oppgitt i læreboken, da disse vil gi mer inngående forståelse. Har du god tid vil vi anbefale at du ser gjennom hele læreboken, her er det mye spennende.
+Når vi er kommet til markedslanseringsfasen, fase 5 i Stage-gate-modellen, blir produktet satt i full produksjon samt at vi lanserer produktet i markedet. Hvordan produktet blir lansert i markedet er beskrevet i markedsplanen som vi mer eller mindre har jobbet med siden første fase i Stage-Gate-modellen. Vi skal i denne leksjonen se overordnet på hvordan vi lager en markedsplan, hva denne inneholder og hvilken funksjon denne har.
+I tillegg til leksjonen er kapittel 2 i den norske boken - Markedsføringsledelse, utgave 4, pensum denne uken.
+
+Markedsplanen
+Markedsplassen er slagmarken hvor det nye produktets framtid blir avgjort. Den planen man har for hvordan man skal entre markedet vil være svært avgjørende. En markedsplan er en plan over handlinger som bør/må gjennomføres når et produkt skal lanseres og finne sin plass i et marked. Markedsplanen beskriver:
+Målene med markedsføringen (hva vi skal oppnå)
+Markedsføringsstrategien for å oppnå målene
+Markedsføringsprogrammet for å iverksette strategien som fører til at målene nåes
+Prosessen med å utarbeide innholdet i markedsplanen er svært avgjørende, markedsføringsprosessen. Denne er beskrevet litt senere i denne leksjonen. For å kunne skrive markedsplanen bør man gjennomføre det som i læreboken kalles strategisk planlegging for forretningsenheter (les mer om dette i læreboken fra side 94 i 4. utgave). Den strategiske planleggingen som er beskrevet i læreboken er svært sammenfallende med det vi omtaler som markedsføringsprosessen senere i denne leksjonen. Den ene ser mer overordnet på forretningsområdet, mens den andre er mer fokusert på markedsaktivitetene mot det enkelte produkt. Uansett er behovet for analyser, målformuleringer, utarbeidelse av en strategi og utarbeidelse av en plan/et program, mye av det samme.
+
+Markedsplanens innhold
+Vi skal nå se et eksempel på hva en typisk markedsplan vil inneholde og hva som er hensikten med de forskjellige punktene, se tabell 1. Gjennom arbeidet med å lage markedsplanen får vi inngående kjennskap til en hel del aspekter ved markedet som vi må ta hensyn til når vi skal utvikle produktet og etterpå markedsføre det til de ”riktige” kundene. Når man jobber med produktutvikling, vil det være helt feil å først lage produktet og deretter lage markedsplanen. Grunnen til dette er at man gjennom arbeidet med markedsplanen kommer fram til viktige beslutninger i forhold til målgruppe, konkurrenter og markedsmiksen. Disse beslutningene vil være avgjørende for hvordan produktet eller tjenesten bør utvikles og tilpasses. Man skal ikke lage noe for deretter å forsøke å selge det. Man skal finne et behov knyttet opp mot en målgruppe og lage et produkt (verdiforslag) som dekker kundens behov bedre enn sine konkurrenter. Fordelen med Coopers Stage-Gate-modell er at den har markedet i fokus fra tidlig i produktutviklingen, og at man i henhold til Stage-Gate-modellen skal innhente markedsinformasjon og jobbe med markedsplanen samtidig som man utvikler selve produktet.
+La oss se litt overordnet på innholdet i en typisk markedsplan:
+Innhold
+Hensikt
+Oppsummering for ledelsen og innholdsfortegnelse
+Gi et kort sammendrag av innholdet i markedsplanen til leseren (ofte er det ledelsen i bedriften).
+Situasjonsanalyse
+Presentere bakgrunnsdata om markeder, produkter, konkurranse, kunder, distribusjon og makroomgivelser
+Analyse av STYRKER/SVAKHETER/muligheter/trusler
+Kartlegge de viktigste muligheter og trusler, sterke/svake sider, alternativer. Også kjent som SWOT-analyse.
+Målsettinger
+Fastlegge de mål planen tar sikte på å oppnå når det gjelder salg, markedsandel og fortjeneste.
+Markedsføringsstrategi
+Presenterer de brede retningslinjene for tiltakene som settes inn for å oppnå målsettingene.
+Program/Handlingsplaner
+Skal gi svar på: Hva skal gjøres? Hvem vil gjøre det? Når blir det gjort? Hvor meget vil det koste?
+Budsjett
+Kalkulerer det økonomiske resultat av planen.
+Kontroll
+Beskriver kontrolltiltakene for å vurdere resultatene underveis.
+Tabell 1 - Innholdet i en markedsplan
+Oppsummering for ledelsen
+Markedsplanene bør åpne med en kort oppsummering av hovedmål og anbefalinger. Denne oppsummeringen gjør det lett for ledelsen å få oversikt over de viktigste forholdene.
+Situasjonsanalyse
+Situasjonsanalysen gir opplysninger om markedet, produktet, konkurransen, distribusjon og forhold i makroomgivelsene. Det presenteres data om de markedene man opererer på. Størrelsen og veksten i markedet i kvanta og beløp vises for flere år tilbake, fordelt geografisk og for segmenter. Det blir altså gitt opplysninger om utviklingen i behov, oppfatninger og kjøpsatferd.
+Situasjonsanalysen av produktet viser salg, priser, bidrag og nettofortjeneste for hvert produkt for flere år tilbake. Når det gjelder konkurransesituasjonen blir de viktigste konkurrentene identifisert og beskrevet ut fra deres størrelse, markedsandel, produktkvalitet, markedsføringsstrategier og andre karakteristiske trekk det er nødvendig å kjenne for å forstå deres hensikt og atferd. Distribusjonsdelen gir opplysninger om antall produkter som er solgt gjennom de forskjellige distribusjonskanalene og utviklingen når det gjelder deres betydning. Man bemerker endringer i maktforholdet blant distribusjonsleddene, samt priser og betingelser som er nødvendige for å motivere dem. Makroomgivelsene beskriver tendenser i omgivelsene, demografiske, teknologiske, politiske/juridiske og kulturelle – som har betydning for produktets framtid.
+SWOT-analyse
+Ut ifra opplysningene i situasjonsanalysen må ledelsen identifisere muligheter/trusler, sterke/svake sider og alternativene bedriften står overfor i planleggingsperioden. Denne analysen kalles en SWOT-analyse (strength, weakness, opportunities and threats). Med muligheter og trusler tenker vi her på de eksterne faktorer som berører virksomheten. Produktsjefen bør rangere trusler og muligheter slik at man er spesielt oppmerksom på de viktigste forholdene. Sterke og svake sider gjelder interne faktorer, i motsetning til muligheter og trusler som gjelder eksterne forhold. De sterke sidene gir signaler om visse strategier en bedrift kan lykkes med, mens de svake sidene påpeker forhold bedriften må unngå eller rette opp. Analysen av alternativer går ut på å ta opplysningene fra SWOT-analysen til å kartlegge de alternativene man står overfor. Beslutninger vil føre til målsettinger, strategier og en tiltaksplan.
+SWOT analysen er et analyseverktøy for å forstå nåsituasjonen i forhold til forventet utvikling. SWOT-analysen kan deles i to hoveddeler: en intern analyse som ser på styrker (strenghts) og svakheter (weakness) og en ekstern analyse som ser på muligheter (opportunities) og trusler (treaths). Disse to analysene blir så koblet sammen slik at en bedre finner hvilke områder en bør satse på og prioritere i sitt arbeid med å bli en vinner i markedet. Analysen er altså et verktøy for å avgrense eller utvikle presise målsetninger og handlingsplaner for hvordan en bør prioritere med tanke på å utvikle bedriften. Analysen må tilpasses den enkelte situasjon og bedrift.
+Viktige spørsmål som SWOTen bidrar til å besvare er:Har bedriften en kjernekompetanse som den kan bygge sin virksomhet rundt?
+Har bedriften svakheter som gjør den sårbar og finnes det tiltak som kan endre på dette?
+Hvilke muligheter har bedriften som den kan utnytte med de ressurser som er tilgjengelig i dag?
+Hvilke eksterne trusler bør bedriften konsentrere seg om?
+Styrker er det bedriften er god til. Dette er karakteristika som gir god slagkraft. Det kan være personlige egenskaper, kunnskap på kjerneområder, et godt navn, gode lokaler, god økonomi, positiv bank, effektiv organisering, samarbeidspartnere, godt nettverk, god forretningside, god inntjening og omsetning, nytt og annerledes produkt, ny teknologi, unik markedsføring og kompetanse.
+Svakheter er noe bedriften ikke har, gjør dårlig i forhold til konkurrentene eller noe som setter en i en dårlig eller uheldig situasjon. Svakhetene kan være mye av det samme som styrkene, men med motsatt fortegn.
+Mulighetene på markedet kan være mange. Det kan være nye kunder, økt kjøpekraft, økende antall fødsler (nye kunder), utbygging av offentlige institusjoner, nye trender, ny teknologi, døende konkurrenter, kapitaltilskudd, timing, nettverk, støtte/tilskudd, leverandørfinansiering, ny lovgiving, økonomiske trender.
+Trusler er faktorer fra omgivelsene som truer bedriftens forretningsmuligheter. Truslene kan være mye av det samme som mulighetene bare med motsatt fortegn.
+Mål/målsettinger
+Det neste man må gjøre er å sette seg noen målsettinger. Disse målene vil gi retningslinjene for strategi og tiltaksplaner. Det er to typer mål som må settes, økonomiske mål og mål for markedsføring. Enhver virksomhet søker å oppnå visse økonomiske mål. Eierne ønsker en bestemt avkastning på sikt, men vil også vite hvilken fortjeneste de får i inneværende år. De økonomiske målene må gi seg utslag i mål for markedsføringen. Hvis bedriften for eksempel ønsker en fortjeneste på 2 millioner kroner og fortjenesten vanligvis er på 10% av salget, må målsettingen være en omsetning på 20 millioner kroner. Hvis bedriften setter en pris på 20 kroner, må det selges en million enheter. Hvis man forventer et totalt salg i hele markedet for dette produktet på 10 millioner enheter, får bedriften en markedsandel på 10%. For å opprettholde denne markedsandelen må bedriften sette bestemte mål for merkekjennskap, distribusjonsdekning osv. De forskjellige målsettingene skal tilfredsstille visse kriterier. For det første må hvert mål være konkret og målbart, og gjelde for en bestemt tidsperiode. For det andre må målene ikke være motstridende. For det tredje bør målene være hierarkiske, slik at lavere mål er et resultat av mer overordnede mål. For det fjerde bør målene være oppnåelige, men tilstrekkelig krevende til å stimulere til innsats.
+Markedsstrategi
+Når målsettingene er klare, kan man utarbeide markedsføringsstrategien. Man har en rekke valgmuligheter. Hvert enkelt mål kan oppnås på flere måter. Målet om å ha en markedsandel på ti prosent kan nås ved å øke salget gjennom mer markedsføring, øke antallet distribusjonskanaler, forbedre produktet eller senke prisen. For å utforme en strategi må ledelsen vurdere de enkelte alternativene, og deretter formulere hovedstrategien verbalt eller mer punktvis. I tabell 2 ser vi et eksempel på en hovedstrategi satt opp i en punktvis oversikt.
+Målgruppe
+Høyere inntektslag med vekt på kvinnelige kjøpere
+Profil
+Best lydkvalitet og mest pålitelig modulært stereosystem
+Sortiment
+Føye til en modell i lavere prisklasse og to i høyere prisklasse
+Pris
+Litt høyere enn konkurrentene
+Distribusjon
+Sterk i ”brunvare- og hvitevare”- forretninger, større innsats for å komme inn i varehus
+Salgsapparat
+Utvide med 10% og innføre et nasjonalt styringssystem
+Service
+Tilgjengelig og hurtig service
+Annonsering
+Utarbeide ny annonsekampanje rettet mot målgruppen for å underbygge profilen: fremheve de dyre modellene i annonsene. Øke budsjettet med 20%
+Sales Promotion
+Øke budsjettet med 15%, utarbeide nytt butikkmateriell og delta mer i butikkdemonstrasjoner
+Produktutvikling
+Øke kostnadene med 25% for å utvikle modeller med bedre design
+Markedsanalyser
+Øke kostnadene med 10% for å vite mer om kundenes kjøpsatferd og foreta konkurrentovervåkning
+Tabell 2 - Eksempel på hovedstrategi
+Strategien må diskuteres med de som har noe fornuftig å komme med slik at man får belyst flere sider og har dermed best mulig grunnlag for å si hva som blir suksess eller fiasko. Det er viktig at alle funksjoner er representert når man skal legge strategien.
+Handlingsplaner
+Med utgangspunkt i markedsstrategiene må det utvikles handlingsplaner. Disse skal være grunnlaget for at bedriften skal nå sine mål. Planen skal fortelle: hva skal gjøres, når skal det gjøres, hvem skal gjøre det, hvor mye det vil koste, hvordan fremgangen skal måles.
+Budsjett og økonomisk planlegging
+Med utgangspunkt i handlingsplanene er det mulig å sette opp et budsjett. I budsjettet skal det komme fram hvilke kostnader og forventede inntekter man baserer seg på. I den grad det er større inntekter enn kostnader vil det blir et forventet overskudd. Det er viktig at man setter opp et budsjett som er basert mest mulig på relevante data og minst mulig synsing.
+Kontroll
+Det siste punktet i markedsplanen er en beskrivelse av de kontrolltiltakene som skal gjennomføres for å avstemme og kontrollere at alt går som planlagt. Dette er viktig da det kan bli behov for justeringer underveis om det oppstår endringer i markedet, eller om man ikke oppnår de målene man har satt seg.
+
+Markedsføringsprosessen
+Nå kan vi se litt nærmer på markedsføringsprosessen. Det er denne prosessen som leder fram til markedsplanen som er beskrevet i korte trekk over. Om man ser på aktivitetene som skal gjennomføres her, så sammenfaller de godt med mye av informasjonen vi skal ha inn i markedsplanen. Vi kan dele markedsføringsprosessen inn i fem deler
+analyse av markedsmuligheter
+undersøkelse og valg av markedssegmenter
+utforming av markedsføringsstrategier
+planlegging av markedsføringsprogram
+organisering, gjennomføring og kontroll av markedsføringen.
+Vi skal nå se litt nærmere på de ulike fasene i markedsføringsprosessen.
+
+Analyse av markedsmuligheter
+Den første oppgaven for de markedsansvarlige i en bedrift er å analysere de langsiktige mulighetene i markedet for å entre eller forbedre bedriftens stilling innen det utvalgte forretningsområdet bedriften har valgt å satse på. For å finne fram til og vurdere muligheter må bedriften bygge opp og bruke et pålitelig informasjonssystem. Markedsundersøkelser er en uunnværlig del av moderne markedsføring, ettersom bedrifter bare kan tilfredsstille sine kunder ved å finne ut av deres behov og ønsker, deres lokalisering, deres kjøpsatferd, med mer. Bedriften bør også samle opplysninger om kunder, konkurrenter, forhandlere osv. Denne informasjonen må deretter analyseres. Hensikten med analysen er å samle tilstrekkelige og kontinuerlige opplysninger om bedriftens omgivelser. Vi skiller mellom mikro- og makroomgivelser.
+Mikroomgivelsene omfatter alle aktører som har betydning for salg av produktet, nemlig leverandører, mellomledd, kunder, konkurrenter og offentlighet. Viktige spørsmål er:
+Hva ønsker kundene, og hva ser de etter ved kjøp av produktet?
+Hvilke distribusjonskanaler er i vekst, og hvilke er i tilbakegang?
+Hvilke leverandører er mest effektive ved produksjon av komponenter?
+Hva gjør konkurrentene?
+Bedriften må også være godt orientert om makroomgivelsene, nemlig demografiske, økonomiske, fysiske, teknologiske, politiske/juridiske og sosiale/kulturelle trender. Viktige spørsmål er:
+Hvilke deler av markedet ekspanderer, og hvilke er i tilbakegang?
+Hvilke former for ny teknologi kan utnyttes for å øke effektiviteten?
+Det er viktig å forstå forbrukermarkedet hvis man skal selge produktet i det private markedet. Det er viktig å finne ut hvor mange husholdninger som planlegger å kjøpe produktet. Hvem er det som kjøper, og hvorfor? Hva ser de etter når det gjelder utstyr og priser? Hvor kjøper de produktet og hvilken oppfatning har de av konkurrentene?
+Det samme gjelder for bedriftsmarkedet hvis det er her man ønsker å selge produktet. Større bedrifter har innkjøpere som vurderer utstyr, priser og andre betingelser. Vi vil i neste leksjon, leksjon 5, gå inn og se nærmere på viktige faktorer som spiller inn i forbrukermarkedet og bedriftsmarkedet. Det er nærmest umulig å lage et godt produkt om man ikke kjenner kundenes ønsker, behov og preferanser, uavhengig av om kundene befinner seg i forbrukermarkedet eller bedriftsmarkedet.
+Bedriften må også identifisere og vurdere sine konkurrenter. Bedriften kan oppleve overraskelser fra sine konkurrenter. Det kan være prisreduksjon, forbedrede produkter og nye salgs- og markedsføringsmetoder. Alt dette kan ha stor betydning for markedsandelen. Bedriftens ledelse må prøve å forutsi konkurrentenes tiltak og være klar til å reagere hurtig og bestemt på et eventuelt angrep. Dette er meget viktig og vi vil derfor i leksjon 7, også se nærmere på konkurrentanalyse.
+
+Undersøkelse og valg av markedssegmenter
+Etter analysen av markedsmuligheter er bedriften klar til å undersøke og velge markeder. Den må vite hvordan den skal måle og bedømme hvor attraktivt et gitt marked er. Dette innebærer at man må beregne markedets størrelse, vekst og de fortjenestemuligheter det gir. Disse markedsvurderingene og prognosene er viktige for å bestemme hvilke markeder og produkter man skal satse på. Moderne markedsføring innebærer at man deler markedet opp i mindre segmenter, vurderer dem og velger de segmentene man vil bearbeide. I leksjon 6 vil vi se nærmere på markedssegmentering.
+
+Utforming av markedsføringsstrategier
+Hvis bedriften vil bearbeide et bestemt segment, må de utarbeide en differensierings- og posisjoneringsstrategi for denne målgruppen. Bedriften må kartlegge hvordan den skiller seg ut fra de viktigste konkurrentene, og hvordan den kan tilpasse seg målgruppen. Poenget er at bedrifter i dag ikke bare må velge kundegrupper, men også hvilke konkurrenter de skal ta sikte på. Differensiering og posisjonering tar vi for oss i leksjon 6.
+Planleggerne i bedriften skal ikke bare utarbeide generelle planer for hvordan man skal oppnå målsettingene, men også utarbeide markedsføringsstrategier og –taktikk for de enkelte produktene og tjenestene. Kotler definerer markedsføringsstrategier slik:
+Markedsføringsstrategi omfatter grunnleggende prinsipper for hvordan ledelsen av markedsføringsfunksjonen forventer å oppnå målsettingene for foretaket/forretningsområdet og for markedsføringen på et bestemt marked. Dette innebærer beslutninger om kostnader til markedsføring, marketing mix (sammensetning av konkurransemidlene) og budsjettfordeling.
+
+Planlegging av markedsføringsprogram
+Ledelsen av markedsføringen må bestemme hvilket nivå for kostnader til markedsføring som er nødvendig for å oppnå målsettingene. Ofte vil bedriftene fastsette markedsføringsbudsjettet ut fra en viss prosent av salgsmålet. Entreprenører som går inn i et nytt marked kan se mot sine konkurrenter og de ressursene disse har satt av i markedsføringsbudsjettet. Bedriften bør vurdere hvilken innsats som er nødvendig for å oppnå det salgsmålet de har satt seg. Bedriften må også bestemme hvordan det totale budsjettet skal fordeles blant de enkelte elementene i marketing mix. I følge Kotler er marketing mix et av nøkkelbegrepene i moderne markedsføringsteori.
+Marketing mix er betegnelsen for sammensetningen av konkurransemidlene bedriften bruker for å oppnå målsettingene i utvalgte markeder.
+Det er egentlig dusinvis av konkurransemidler. McCarthy lanserte i sin tid en klassifisering som ble kalt for de fire P’er: Produkt, pris, plass (distribusjon) og promosjon (påvirkning). De enkelte elementene under hver P er vist i figur 3.
+Marketing mix
+Produkt
+Varianter
+Kvalitet
+Utforming
+Utstyr
+Merkenavn
+Pakning
+Størrelser
+Service
+Garantier
+Reklamasjoner
+Plass
+Mellomledd
+Spredning
+/dekning
+Utvalg
+Lokalisering
+Lager
+Transport
+Pris
+Listepris
+Rabatter
+Avanser
+Betalings-betingelser
+Påvirkning
+Sales Promotion
+Annonsering
+Salgsapparat
+Public Relations
+Direkte reklame
+Målgruppe(er)/
+Marked
+Figur 2 - De fire P'er i Marketing Mix
+Problemet for den enkelte virksomhet blir å finne den beste sammensetningen av konkurransemidler, noe som ikke er helt enkelt i praksis. Det forenkler ikke saken at variabler som produktet og distribusjonskanaler ofte ikke kan forandres på kort sikt.
+Det helt grunnleggende konkurransemidlet er produktet eller tjenesten, som er bedriftens tilbud til markedet, inklusiv kvalitet, utforming, utstyr, merke og pakning. Et helt avgjørende konkurransemiddel er også pris, nemlig det beløpet kunden skal betale for produktet. Distribusjon omfatter de aktivitetene bedriften setter i verk for å gjøre produktene/tjenestene tilgjengelige for kundene. Promosjon eller påvirkning er det fjerde konkurransemidlet som har til oppgave å fortelle om produktfordelene og påvirke kundene til å kjøpe.
+
+Organisering, gjennomføring og kontroll av markedsføringen
+Den siste fasen i markedsføringsprosessen består i å organisere ressursene, gjennomføre og kontrollere markedsplanen. En plan er ingenting verdt hvis den ikke fører til handling. Derfor må bedriften bygge opp en organisasjon som er i stand til å gjennomføre markedsplanen. I en liten bedrift kan en enkelt person (entreprenøren) gjennomføre alle oppgavene i forbindelse med markedsføring: markedsanalyser, salg, reklame, kundeservice osv. Hvis bedriften har flere ansatte er det viktig at disse får opplæring og kunnskap i forhold til markedsføringen og deres rolle i denne. Det er viktig at man gjennomfører kontroller på at man når de målene man har satt seg, eventuelt finne ut hvorfor man ikke har gjort det. Det kan gjennomføres kontroll av årsplaner, lønnsomhetskontroll og strategisk kontroll.
+Det er først etter at vi har gjennomført alle de aktivitetene vi har beskrevet til nå, at vi kan ferdigstille produktet med rimelig gode muligheter for å lykkes. Utvikler vi produktet før disse aktivitetene er gjennomført er det stor fare for at vi kommer til kort grunnet manglede markedsorientering.
+
+Oppsummering
+Vi har nå kommet gjennom alle fasene i Stage-Gate-modellen. I markedslanseringsfasen har vi satt fokus på markedsplanen, da det er i denne fasen denne blir implementert. Likevel ser vi at prosessen med å utvikle markedsplanen starter mye tidligere, og at et godt gjennomarbeidet utkast til første del av planen bør foreligge før man begynner selve utviklingen av produktet. Etter hvert som man går videre i stage-gate-modellen ser man viktigheten av et samlet fokus på produkt og marked. Et produkt uten et marked vil ikke ha livets rett. Vi oppsummerte noen av de aktivitetene man må gjennom for å kunne skrive markedsplanen. I de påfølgende leksjonene skal vi gå inn på områder innen markedet som er svært viktig å ha kjennskap og kartlegge grundig til før man utvikler et nytt produkt eller en tjeneste, eller om man skal kunne drive god forvaltning av programvareprodukter, som er hovedtema i siste del av emnet.

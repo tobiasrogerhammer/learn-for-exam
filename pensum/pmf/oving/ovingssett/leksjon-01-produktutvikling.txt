@@ -1,0 +1,195 @@
+PMF Lek 1 Produktutvikling h26
+IDI AIT, NTNU
+Leksjon 1 - Produktutvikling
+Tor Atle Hjeltnes
+03.08.2026
+Lærestoffet er utviklet for faget Produktutvikling, marked og forvaltning av programvareprodukter
+Leksjonene kommer i tillegg til pensumbøkene i emnet!
+
+Leksjon 1 - Produktutvikling
+Resymé: I denne leksjonen begynner vi med å ta for oss litt generell informasjon om faget. Videre ser vi litt på hva vi mener med produktutvikling, og hvorfor man bør drive med produktutvikling. Vi ser også litt på typiske problemer og hindringer med utvikling av nye produkter.
+Innhold
+1.1. Innledning 2
+1.2. Leksjonsoversikt 4
+1.3. Produktutvikling 5
+1.4. Hvorfor drive med produktutvikling? 6
+1.5. Problemer og hindringer med nye produkter 9
+1.6. Nøkkelaktiviteter i utviklingen av nye produkter 12
+1.7. Ulike former for tilnærming i markedet 15
+1.8. Oppsummering 17
+Tabeller
+Tabell 1 - Oversikt leksjoner og emner 5
+Tabell 2 - Aktiviteter i produktutvikling 13
+Tabell 3 - Gjennomføringsgrad av aktiviteter 14
+Tabell 4 - Faser og ressursfordeling 15
+
+Innledning
+Velkommen til den første leksjonen i faget Produktutvikling, marked og forvaltning av programvareprodukter. I dette faget skal vi se på ulike aspekter ved produktutvikling, markedsforståelse og forvaltning av programvareprodukter. Gjennom dette faget vil dere se at det er tette sammenhenger mellom det å skulle forvalte et programvareprodukt som lykke i markedet og jobben man gjør innenfor markedsaktiviteter og produktutvikling. God produktforvaltning krever at produktene utvikles over tid. Utvikling av produkter som skal lykkes i markedet krever igjen at man har god forståelse av det aktuelle markedet. Det har vist seg at det å sette fokus på markedsaspekter allerede tidlig i produktutviklingsfasen betraktelig øker sjansene for å lykkes med produktet.
+Ved å følge dette faget vil dere bedre kunne forstå hva som forgår i en markedsorientert produktutviklingsprosess. Vi vil i begynnelsen av dette faget si litt om viktigheten av produktutvikling generelt og for programvareprodukter spesielt. Videre vil vi vise dere hovedtrekkene i en mye brukt prosessmodell for produktutvikling, Stage-gate-modellen. Neste tema i dette faget vil være å gi dere forståelse av noen av de viktigste markedsmessige aspektene man bør forstå for å kunne håndtere markedet på en god måte. Stikkord her er kundeatferd, konkurranse, segmenter og målgrupper, differensiering og posisjonering, kjøpsprosesser og produkters livssyklus. Det å kunne se produktet i forhold til markedsmessige aspekter vil gjøre det enklere å forstå de prosesser som forgår i de fleste bedrifter som kjøper, selger, utvikler og forvalter ulike produkter.I siste del av dette faget, etter at dere har fått økt forståelse av viktigheten av produktutvikling og viktige markedsaspekter, vil dere lære mer om utvalgte viktige aspekter ved forvaltning av programvareprodukter. Mange av dere som følger dette faget er i ferd med å ta en IT-utdannelse. Kunnskapen dere vil få gjennom dette faget vil kunne hjelpe dere i mange ulike problemstillinger dere kommer til å møte knyttet opp mot produktutvikling, markedsforståelse og markedsføring, og ikke minst opp imot utvikling, markedstilpasning og forvaltning av programvareprodukter. Vi vil gjennom leksjonene og øvingene forsøke å ta fram eksempler på bedrifter, utenfor og innenfor IT-bransjen, som har lyktes eller mislyktes med sin produktutvikling, markedstilpasning og produktforvaltning.
+Det vil i leksjon 1 til 3 bli satt fokus på produktutvikling og en god modell for markedsorientert produktutvikling, vi har valgt Stage-gate-modellen. Gjennom denne modellen vil vi tydelig se behovet for et markedsorientert perspektiv i de forskjellige fasene i produktutviklingen.
+Videre i leksjonene 4 til 7 vil vi se nærmere på markedsmessige aspekter som er viktig for å lykkes som utvikler, markedsfører og produktforvalter av et produkt, men hovedfokus på programvareprodukter. Teorien innen marked og markedsforståelse er hentet fra Philip Kotlers bok i markedsføringsledelse. Deler av boken er pensum i emnet.
+I de siste leksjonene, 8 til 12, vil vi konkret se på et rammeverk/en modell for forvaltning av programvareprodukter, «Software Product Management Reference Framework».
+Det er viktig å merke seg at alle temaområder er like relevant med tanke på eksamen og at man bør forsøke å gjennomføre alle øvingsoppgaver, da øving 12 er like relevant som øving 1.
+Produktutvikling og tjenesteutvikling vil kanskje ikke høres like spennende ut for alle mennesker, men fakta er at alle bedrifter som skal ha en framtid må utvikle nye tjenester eller produkter, samt forvalte og forbedre de produkter og tjenester de allerede tilbyr.
+Se for deg at Apple fra og med i dag hadde sluttet å utvikle nye produkter og tjenester. Hvor lang tid hadde det gått før selskapet mistet markedsandeler og ville begynt å tape penger? 6 måneder? 12 måneder? Når man innser viktigheten av produkt og tjenesteutvikling så forstår man at dette er noe det er lurt å ha kunnskap om og kjennskap til. Hvis man i tillegg forstår at det å finne gode ideer og utvikle disse til nye produkter er en oppgave som bør involvere alle avdelinger og funksjoner i en bedrift, så bør motivasjonen for å lære mer om dette øke betraktelig.
+I dette kurset vil det være to lærebøker i tillegg til leksjonene. Den ene boken heter Markedsføringsledelse, utgave 4 på norsk som kom ut høsten 2016, Gyldendal Akademisk. Boken heter Markedsføringsledelse, men egner seg meget godt for å få kunnskap om markedsaspekter som er helt avgjørende i alt fra produktutvikling til produktforvaltning. I markedsorientert produktutvikling tar man nettopp informasjon som markedsførere og markedsansvarlige benytter seg av og bruker denne til å utvikle et best mulig produkt- og tjenestekonsept. Ved å få kjennskap til markedet så tidlig som mulig har man best mulig forutsetninger til å komme opp med et produkt eller en tjeneste som oppnår suksess i markedet. Kun utvalgte deler av boken er pensum, men boken er ansett som «bibelen» innen markedsføringsledelse og kan derfor fungere som er nyttig oppslagsverk for deg i framtiden i arbeidssituasjon.
+Den andre læreboken heter, Software Product Management: The ISPMA-Compliant Study Guide and Handbook av Hans-Bernd Kittlaus og Samuel A. Fricker. Denne boken er utgitt på Springer forlag og den har ISBN nr. 978-3-662-65115-5. (år 2022)
+Det vil være en fordel å først lese ukens aktuelle leksjon, for deretter å lese gjennom det som er satt opp som pensum i læreboken (ofte en fordypning av det som står i leksjonen). Gjennom leksjonene får dere et overblikk over hva ukens pensum omhandler. På denne måten vil dere lære mest mulig og få mest mulig utbytte av øvingene. Det anbefales at flest mulig øvinger gjennomføres da disse vil vise om dere har forstått de forskjellige aspektene vi ønsker å belyse. Ni av øvingene må være godkjent for å få gå opp til eksamen. Fra ukens øving legges ut er det en ti dagers frist til innleveringen. Fra innleveringsdatoen vil du få tilbakemelding på øvingen, eller tilgang til løsningsforslag, i løpet av tre til sju dager. Øvingene skal leveres i LMSet. Den innleverte øvingen skal navngis på følgende format:
+Øvingsnummer-fagforkortelse-fornavn-etternavn. Eks: 1-pmf-TorAtle-Hjeltnes
+Det er lurt å gjøre en best mulig jobb på øvingene. Med dette mener jeg at det er lurt å svare utfyllende og ikke bare et minimum «for å bli ferdig med øvingen”. Vi som underviser dette emnet vet at KI kan svare på øvingene på en god eller brukbar måte, men vi fraråder at dere benytter dere av KI da vi ser at mange oppnår et dårligere resultat på eksamen når KI har produsert svaret, selv om svaret kan være riktig 😊Dere vil få tilsendt løsningsforslag til de øvingene og oppgavene hvor dette er naturlig – det er løsningsforslag til de fleste øvinger. Det er opprettet en diskusjonsgruppe i LMSet hvor dere kan stille spørsmål eller føre en dialog. Aktiviteten på diskusjonsforumet er opp til dere som følger dette kurset. Som faglærer setter jeg pris på tilbakemelding om det er noe du finner spesielt negativt eller positivt. Annen relevant informasjon vil bli lagt på fagets hjemmeside forløpende gjennom hele kurset.
+Desto mer arbeid som legges i øvingene og forståelse av disse, desto bedre vil det gå på eksamen. Eksamen er skriftlig over 4 timer uten hjelpemidler. Mer informasjon finner dere i LMSet.
+
+Leksjonsoversikt
+Her er en kort oversikt over de forskjellige leksjoner og tema som blir behandlet i dette kurset, se tabell 1. Vi starter med å sette fokus på produktutvikling og deretter over til å fokusere mer og mer på viktige markedsaspekter. Fra leksjon 8 er hovedfokus på forvaltning av programvareprodukter.
+Leksjon
+Hva blir gjennomgått
+1 – Produktutvikling
+Produktutvikling, hvorfor drive med dette, problemer og hindringer, nøkkelaktiviteter i utviklingen, fokus på markedet
+2 – Fasemodell for produktutvikling
+Suksesskriterier for produktutvikling, viktigheten av en god modell for produktutvikling
+3 – Faser i Stage-Gate-modellen
+Gjennomgang av fasene i Stage-Gate-modellen inkludert idegenerering. Siste fase, kommersialisering, kommer senere.
+4 – Viktigheten av markedet
+Viktigheten av markedet og en markedsorientert tilnærming til hele produktutviklingen. Vi ser på markedsplanen og markedsføringsprosessen.
+5 – Forbrukeratferd og bedriftsmarkedene
+Leksjonen tar for seg de viktigste faktorene som virker inn på kundenes atferd i forbrukermarkedet. Vi ser på kjøpsbeslutningsprosessen i forbrukermarkedet. Leksjonen ser på forskjeller mellom bedriftsmarkedsføring og forbrukermarkedsføring.
+6 – Markedssegmentering og posisjonering
+Vi ser på hva segmentering er og hvordan vi kan segmentere. Vi ser også på differensiering og posisjonering.
+7 – Konkurrentanalyse
+Analyse, sterke og svake sider hos konkurrentene, strategier og målsettinger, reaksjonsmønstre
+8 - Introduksjon til programvarebaserte produkter og tjenester
+En introduksjon til programvarebaserte produkter og tjenester hvor sentrale begreper defineres.
+9 - Produktledelse og produktstrategi
+Oppstart av gjennomgangen av produktforvaltningsrammeverket: The software product management body of knowledge. Vi gjennomgår første 1/3 av dette rammeverket
+10 - Planlegging og utvikling
+Hovedfokuset er planlegging og utvikling av nye programvarebaserte produkter og tjenester, med spesiell fokus på utarbeidelse av krav til slike løsninger.
+11 - Markedsføring, salg og kundestøtte
+Hovedfokuset er markedsføring, salg og kundestøtte for programvarebaserte produkter og tjenester, og vi ser spesielt på hvilken rolle produktsjefen kan eller bør ha i denne sammenheng.
+12 - Å jobbe som produktsjef
+Utøvelsen av produktforvaltning i forskjellige typer organisasjoner, samt hvilke kvalifikasjoner som kreves for å fylle rollen som produktsjef.
+Tabell - Oversikt leksjoner og emner
+
+Produktutvikling
+Vi dekker mange av våre behov og ønsker med produkter. Produkt definert i utvidet betydning: Et produkt er alt som tilbys som tilfredsstiller behov og ønsker. Det kan være fysiske gjenstander som hus og biler eller tjenester som ytes av personer, steder, organisasjoner og lignende. Betydningen av et produkt ligger ikke så mye i å eie det, som å bruke det til å dekke våre behov. Vi kjøper som regel ikke en bil for å eie den, men for å bruke den til transport.
+Utvikling av nye produkter er kanskje den mest risikable, men samtidig den viktigste prosessen for vekst og suksess i de fleste bedrifter. Store deler av bedriftens inntekter og konkurransesituasjon avhenger av suksessen til nye produkter og tjenester de lanserer på markedet. Produktvikling er også beheftet med meget høy risiko. Betydelige ressurser legges til grunn for å utvikle nye produkter, og bedriftene er avhengig av at produktene bringer fortjeneste. Til tross for dette viser det seg at hele en tredjedel av alle prosjekter er relatert til utvikling av produkter som aldri når markedet, mens bare 40 prosent av produktene som når markedet blir en suksess i ”dårlige” bedrifter, men opp imot 80 prosent blir en suksess i gode bedrifter (Cooper, 2011). Det er kun cirka 25 % av bedriftene som tjener penger på et produkt 3 år etter at det ble lansert. Det er et faktum at nesten halvparten av alle ressurser knyttet til produktutvikling går med til å utvikle produkter markedet ikke vil ha (Cooper, 2011). Dette viser at produktutvikling krever nøye planlegging og vurdering for å unngå å sløse bort store ressurser. På tross av mange års forskning på ny produktutvikling blir det fortsatt gjort mange feil, og det kommer fortsatt til å bli gjort feil i fremtiden. Cooper har gjennom flere år undersøkt produktutviklingsprosessen for mer enn 100 bedrifter med over 2500 respondenter. Han konkluderer med at mange bedrifter fortsatt ikke er klar over hva som skal til for å lykkes i markedet. Typiske problemområder i produktutviklingsprosessen som ble identifisert var dårlig forarbeid, ufullstendig markedsinput og manglende markedsorientering.
+Markedet består av alle potensielle kunder som har samme behov eller ønsker, og som er villige og i stand til å ta del i et bytteforhold. I det moderne samfunn er det mange markeder. Produsentene oppsøker råvaremarkedet, arbeidsmarkedet, pengemarkedet og lignende. Forbrukerne selger sin arbeidskraft og får penger til å kjøpe de varer og tjenester de ønsker. Det offentlige representerer også et marked, det kjøper varer og tjenester, betaler for dem, beskatter og yter ulike former for tjenester.
+
+Hvorfor drive med produktutvikling?
+Ideer til nye produkter og tjenester kan komme fra forskjellige kilder. Det kan være en forsker i et laboratorium, innovatører som tilfeldigvis får en ide’, en misfornøyd kunde eller en bedrift som prøver å posisjonere seg i forhold til konkurrenter. Vi vil nå gå gjennom 8 mulige årsaker til at bedrifter velger å drive med produktutvikling. Felles for mange av disse er selvsagt det overordnede målet om å tjene penger i bedriften.
+Nye produkter kan være kilde til konkurransefordeler. Det er ofte slik at en bedrifts verdier gjenspeiles i de produktene og tjenestene bedriften har å tilby. En bedrift har midler for å oppnå målene. Et mål kan være å være konkurransedyktig og tjene mest mulig penger på det de driver med. Bedriften trenger da midler for å oppnå dette målet. Et middel kan være utvikling av nye produkter. Hvis bedriften til enhver tid har produkter kundene ønsker å kjøpe vil dette gjøre at de når målet om å være konkurransedyktig og gi muligheter til god inntjening. Tenk bare på Apples utvikling av iPod, iPhone, iPad, appleWatch, iCloud, Appstore, osv.
+Nye produkter kan gi muligheter til å forsterke eller endre strategiske mål. En bedrift som leverer en bestemt type produkt eller tjeneste kan via utvikling av nye lignende produkter og tjenester befeste sin posisjon av leverandør av slik produkter eller tjenester. Apple kan nok en gang være et eksempel på en bedrift som bekrefter sin posisjon som leverandør av mobiltelefoner til unge (og eldre) ved stadig å utvikle nye telefoner med det siste av underholdningstjenester. For hver telefon de utvikler, bygger de under sitt strategiske mål om å være leverandør av mobiltelefoner til sin målgruppe. Et annet eksempel på at nye produkter kan også være med på å endre strategiske mål eller retning er bilprodusenten Audi som for en god del år siden utviklet sportsbilen Audi R8 som skulle være en konkurrent til de mest sportslige bilene fra Porsche, Maserati, Ferrari og Aston Martin. Audi forsøkte med dette å ta markedsandeler i andre segmenter en de tidligere har henvendt seg til. Noen ganger blir de nye produktene laget for at man ikke skal miste markedsandeler til andre konkurrenter, mens andre ganger er hensikten å selv bli en konkurrent i nye segmenter/markeder.
+Nye produkter kan befeste og styrke inntrykket av bedriften. En bedrift kan styrke sin bedriftsprofil gjennom utvikling av nye produkter. Mercedes er kjent for å være innovativ og komme med det siste og beste av løsninger. For Mercedes er det derfor viktig å utvikle nye produkter som forsterker det inntrykket vi har av bedriften. Dette er med på å sende viktige signaler til kundene og eierne om at de ønsker å beholde sin posisjon som en ledende leverandør luksusbiler med innovative løsninger. Mercedes har de siste årene valgt å gjøre sine biler mer sportslige/ungdommelige i sin framtoning. Dette er for å møte økt konkurranse fra Audi og BMW i målgruppen som ønsker eksklusive biler. Mercedes har nå introdusert elbilen EQS og EQS SUV som skal «vise» verden hva en elbil kan være i forhold til luksus, drivlinje og rekkevidde. De har med denne nye bilen befestet og styrket inntrykket av at bedriften behersker det meste innenfor kategorien bil, også elbiler i luksussegmentet.
+Nye produkter kan gi langvarig finansiell avkastning på investeringer. Vi kan for eksempel se på Telenor. Når de tok valget om å utvikle løsninger for 4G og 5G var det viktig strategisk og økonomisk for bedriften. Det var snakk om til dels svært store investeringer, men disse har vist seg å kunne forsvares gjennom utsiktene til langvarig finansiell avkastning. Nye produkter og tjenester må utvikles for å gi avkastning på de store investeringene som har blitt gjort, og fortsatt blir investert, i mobilnettet.
+Nye produkter kan gjøre forskning og utvikling lønnsomt. Mange av de store firmaene har egne avdelinger for forskning og utvikling. Slike avdelinger krever ofte store ressurser og derfor er det viktig at det kan komme nye produkter ut av disse avdelingene slik at det er mulig å få inntjening. Det finnes flere eksempler på at en utviklings og forskningsavdeling har holdt på å utvikle et produkt eller en tjeneste og kommet over ideer og muligheter til andre produkter og tjenester som de med mindre innsats kan kommersialisere og tjene penger på.
+Nye produkter kan gjøre det enklere å utnytte alle ressursene som er i bedriften. I en bedrift med produksjonsutstyr med ledig kapasitet kan det være en god ide å utvikle et nytt produkt som kan produseres med den ledige kapasiteten slik at man øker utnyttelsesgraden og forhåpentligvis også inntjeningen. Dette gjelder også for tjenester. Et eksempel kan være at man har valgt å flytte postterminalene til dagligvarekjeder for bedre utnyttelse av lokaler og arbeidskraft.
+Nye produkter kan øke inntjeningen på et allerede godt utviklet merkenavn. Hvis bedriften har skaffet seg anerkjennelse i et segment kan man ved å utvikle andre nye produkter få inntjening ved at segmentet også vil kjøpe det nye produktet på grunn av merkenavnet. Eksempel på dette kan være Ferrari som har skaffet seg et merkenavn ved å lage sportsbiler og Formel1 biler med fantastiske sportsbilegenskaper. På grunn av merkets status har man utviklet en rekke produkter som bærer Ferrarinavnet. Dette førte faktisk til at Ferrari i en periode tjente mer penger på biprodukter enn det de gjorde på å produsere biler (dette var i perioden Michael Schumacher kjørte for Ferrari). I dag tjener Ferrari mest penger på salg av biler og deler til disse. Ferrari er i dag faktisk den bilprodusenten som trolig har størst fortjeneste per bil de selger, over 1 million kroner per bil.
+Nye produkter kan skape nye arbeidsplasser. Om man utvikler og lanserer et nytt produkt og tjenester som blir en suksess kan dette føre til at man kan starte en ny bedrift eller utvide en eksisterende. Dette kan føre til verdiskapning i form av nye arbeidsplasser. Dette kan være et særlig viktig punkt i forhold til produkt- og tjenesteutvikling i Norge hvor svært mange arbeidsplasser er knyttet til eksisterende produkter og råvarer, samt offentlig sektor. Produkt- og tjenesteutvikling er viktig for at Norge skal ha inntekter også etter oljeeventyret vi fortsatt er en del av.
+
+Problemer og hindringer med nye produkter
+Vi skal nå se på de viktigste problemer og hindringer som fører til at nye produkter mislykkes. Ved å kartlegge disse hindringene vil vi se at det å markedsorientere produktutviklingen kan gi svært gode resultater.
+Mange nye produktutviklingsprosjekter mislykkes. I snitt går nesten 50 prosent av de ressursene et firma bruker på, utvikling av produktkonsept, utviklingen av selve produktet og lansering av produktet, til produkter som enten mislykkes kommersielt i markedet, eller produkter som aldri blir lansert i markedet. Dette tallet vil variere i forhold til bransje og produkttype, men tallet er svært høyt. Selv når et produkt er ferdig utviklet og testet er det slik at mange av prosjektene ikke lykkes kommersielt. Robert G. Cooper har i sin bok ”Winning at new products” kommentert tre hovedgrunner ledere i en tiårig undersøkelse har sagt er grunnene til at deres produktsatsninger har mislyktes.
+Dårlige eller manglende markedsundersøkelserDårlig eller manglede markedsundersøkelser er den årsaken flest ledere mener er hovedgrunnen til at et nytt produkt mislykkes. ”Mangel på en grundig identifikasjon av behovene i markedet, eller manglende evne til å se hva konkurrentene gjør når de angriper markedet er ofte konklusjonen til ledere etter at firmaet har mislyktes i sin produktsatsning.” Mistolkning av kundenes behov, for lite tester mot kundene og overoptimistiske anslag når det gjelder markedets behov og kjøpsvilje er noen av årsakene til at det gikk galt.. En annen vanlig feil er at man antar at om designere og utviklingsavdelingen er fornøyd med produktet så vil også kunden være det samme. Dette har vist seg flere ganger å ikke være tilfelle. Først må man finne kundens behov og deretter kan man utvikle produktet.
+Tekniske problemerDen nest mest vanlige årsaken til at produkter mislykkes er tekniske problemer i forbindelse med design og produksjon. Problemer med å gå fra pilotversjon og nullproduksjon til en fullskalaproduksjon er svært vanlig. Dette skyldes ofte problemer i tidlige faser i produktutviklingsprosessen. Vi kommer tilbake til dette senere.
+Dårlig timingStraffen for å utvikle produktet for hurtig eller for sakte er ofte store. Årsakene er ofte tekniske problemer, dårlig planlegging, lite velsmurt organisasjon eller mangel på kontroll. Flere mislykkede forsøk på å utvikle og lansere et produkt har oppstått på grunn av at man bruker for lang tid, slik at man ikke kan lansere produktet når markedet er klar for det. Den tidsperioden hvor det er gunstig å lansere produktet kaller man ”Window of opportunity”. Dette vinduet kan endres ved at kunden endrer sine preferanser i produktets utviklingsfase, eller at det kommer konkurrenter som overtar dette vinduet og at det på denne måten forsvinner.
+Nettopp det at man er under tidspress skaper en annen form for problemer. Det kan lett bli slik at de som utvikler produktet velger enkle løsninger og kutter hjørner for å raskere ferdigstille produktet. Dette kan fort bli et problem da man overser viktige faktorer i produktutviklingsprosessen grunnet dårlig tid. Vi ser at livssyklusen til mange produkter bare blir kortere og kortere som følge av økt konkurranse, ny teknologi og mer «bortskjemte» brukere.
+Vi kan ta med et eksempel på hvert av de tre problemområdene for å gjøre dette enda klarere.
+Volkswagen bestemte seg på slutten av 90-tallet å lage nostalgi bilen Beetle som en oppfølger til den gamle folkevogna. Etter flere år i salg viste det seg at dette ikke ble noen suksess. Bilen appellerte ikke til dagens unge og heller ikke til de som hadde den gamle folkevognen da denne var i produksjon. Den gamle folkevogna var en liten billig bil med liten motor plassert bak, mens den nye Beetle var en topp moderne relativt kostbar bil bygd på understellet til Volkswagen Golf. Det kan her se ut som om Volkswagenkonsernet ikke hadde gjort en grundig nok jobb for å finne ut om det var etterspørsel i markedet etter den nye Beetle. Våren 2012 ble det lansert en ny versjon av Beetle. Denne gangen skulle VW ifølge seg selv ha gjort hjemmeleksen bedre. Den nye modellen var litt større og mer maskulin. Heller ikke denne modellen solgte særlig godt. I år 2018 ble det bestemt at produksjonen stoppes helt og Beetle ble nok en gang historie. VW introduserte i 2022/2023 ID BUZZ, en elektrisk oppfølger til den gamle folkevognbussen. Det blir spennende å se om den vil lykkes like godt som folkevognbussen gjorde i sin tid. Svaret på dette vil vi trolig få i løpet av 2025/2026 når ID BUZZ er kommet i lang utgave med mulighet for 7 seter og 4-hjulstrekk. Det spørs om timingen er riktig når mange markeder nå tar bort fordelene/subsidiene ved å kjøpe elbil, samtidig som rentene i en lengre periode har vært høye.
+Hvis vi skal finne et eksempel på tekniske problemer kan vi gå til Boings superfly Dreamliner. Dette nye store langdistanseflyet til den amerikanske flyprodusenten Boing skulle bli en kjempesuksess og forventningene var enorme. Etter den utsatte lanseringen av det nye flyet ble overskriftene preget av historier om problemer og feil. Det var i en periode store problemer knyttet til batterier og strømforsyning i de nye flyene. Dette problemet kan det se ut til at de har fått rettet på, men det var fortsatt store utfordringer og problemer knyttet til den nye Dreamliner, noe flyselskapet Norwegian fikk merke. Nå har Boeing løst problemene, men det er ingen tvil om at dette påførte Boing og Boings kunder store problemer og tap i omdømme.Et ferskere eksempel kan være at Tesla fikk tilbakemelding om at bremsene på Modell 3 var for dårlige. Dette kunne Tesla løse elegant ved å oppdatere programvaren i bilene de hadde solgt. Her ble de reddet av «ny teknologi og at bilene kunne kobles på nett».
+https://www.tv2.no/a/9890047/
+Et annet eksempel på tekniske problemer kan vi hente fra elbilbilprodusenten Fisker. De fikk inn mange forhåndsbestillinger på sine nye modell Fisker Ocean. Etter lanseringen av bilen er det avdekket svært mange feil og mangler som leverandøren må ordne opp i. Dette sammen med stram økonomi gjorde at selskapet nå er konkurs før de i hele tatt har kommet i gang med utbredt salg av sitt produkt!
+https://www.tv2.no/broom/toff-start-na-etterforskes-de-for-bremsesvikt/16383608/
+https://www.bilnytt.no/subscriber/showArticle.aspx?articleID=12447
+Hvis vi skal se på et eksempel på dårlig timing kan vi ta nok et tidsriktig eksempel med elbil. Elbilene gjorde for alvor sin innmarsj i Norge for over 15 år siden med modellen Mitsubishi i-Miev. Denne modellen var den første ”skikkelige” elbilen i Norge. I de påfølgende årene ble Nissan Leaf og Tesla Model S og X storselgere her i Norge. Rett før julen 2013 kom et nytt merke på banen med sin el-bil, Ford. Med tanke på etterspørselen etter elbiler burde dette vært et eksempel på god timing. Problemet til Ford var at de kom med en løsning som allerede ved lansering var utdatert i manges øyne. De tok en eksisterende bil (Ford Focus) og fylte opp halve bagasjerommet med batterier for å lage en elbil. Denne løsningen hadde vært helt akseptabel og kunne solgt godt i 2011, men allerede i 2013 var løsningen utdatert i manges øyne. Jeg vil si at dette er et eksempel på middelmådig produktutvikling og dårlig timing, selv i et marked der ”window of opportunity” var åpent i forhold til elbiler.
+http://www.tv2.no/underholdning/broom/test-ford-focus-electric-fin-bil-god-aa-kjoere-men--4133672.html
+Det ser ut til at Ford gjorde en bedre jobb når de i 2020/2021 lanserte sin nye elbil – Ford E-Mach. Bilen fikk gode salgstall i Norge og Ford E-Mach ble mest solgte bil i Norge i juli 2021 med nesten 900 utleverte biler.
+Det finnes et stort antall slike eksempler og det er derfor vi gjennom faget skal se litt mer på hva vi kan gjøre for å øke sjansene for å lykkes med produktutvikling. En av de viktigste faktorene for suksess er at man har god kjennskap til de forskjellige sidene ved markedet, og da særlig kunder og konkurrenter.
+
+Nøkkelaktiviteter i utviklingen av nye produkter
+Det er viktig å kartlegge hvilke aktiviteter som finner sted under utviklingen av nye produkter. Cooper gjennomførte en undersøkelse i 203 bedrifter for å finne de viktigste aktivitetene i ny produktutvikling. Gjennom sin undersøkelse fant han 13 forskjellige aktiviteter som går igjen i produktutviklingsprosessen, se tabell 1.
+Aktivitet
+Beskrivelse
+Innledende engasjement
+Den første avgjørelse om å satse på prosjektet; man tildeler en del ressurser (arbeidskraft og penger)
+Tidlig markedsundersøkelse
+Innledende markedsundersøkelse; en rask og effektiv undersøkelse av markedspotensialet, behov og konkurransesituasjon. Gjennomføres ikke vitenskapelig, ofte innen bedriften.
+Tidlig teknisk undersøkelse
+Tidlig teknisk undersøkelse som tar for seg spørsmål som om produktet kan utvikles, hvordan, muligheter for masseproduksjon og distribusjon. Undersøkelse gjennomføres ofte som en diskusjon innad i bedriften.
+Detaljert markedsundersøkelse
+En grundig markedsanalyse som tar for seg brukerens ønsker og behov, konseptundersøkelser, posisjoneringsmuligheter og konkurransesituasjonen. Forgår ofte som intervjuer og undersøkelser med framtidige kundegrupper.
+Førutviklings forretnings og fianansielle undersøkelser
+Avgjørelsen om å gå inn i et fullt utviklingsprogram. Kan inneholde en finansiell analyse, risiko vurderinger og en kvalitativ forretningsbedømmelse.
+Produktutvikling
+Selve utviklingen av det fysiske produktet.
+Intern produkttesting
+Testing av produktet internt under kontrollerte former.
+Ekstern produkttesting
+Produktet blir testet i samarbeid med kunder. Kunder kan få med seg produktet og bruke dette i dagliglivet.
+Prøvesalg
+Produktet tilbys i et testmarked. Man forsøker å selge produktet til et begrenset antall kunder eller i et begrenset geografisk område.
+Prøveproduksjon
+En test produksjon for å se at produksjonsutstyret fungerer som det skal.
+Forretningsanalyse før endelig lansering
+Her taes avgjørelsen om endelig kommersialisering av produktet. En siste analyse før man starter salget.
+Oppstart av produksjon
+Oppstart av fullskala produksjon
+Markedslansering
+Full markedslansering. Implementasjon av markedsplanen.
+Tabell - Aktiviteter i produktutvikling
+Dette er de aktivitetene som fremkommer som viktige i utviklingen av et nytt produkt. Det viser seg imidlertid at ikke alle bedrifter gjennomfører alle disse 13 aktivitetene. I tabell 3 kan du se hvor mange av de 203 bedriftene i Coopers undersøkelse som gjennomførte alle aktivitetene i forbindelse med produktutviklingen.
+Aktivitet
+Prosentvis antall bedrifter som gjennomførte
+Innledende engasjement
+92,3
+Tidlig markedsundersøkelse
+76,8
+Tidlig teknisk undersøkelse
+84,9
+Detaljert markedsundersøkelse
+25,4
+Førutviklings forretnings og fianansielle undersøkelser
+62,9
+Produktutvikling
+89,1
+Intern produkttesting
+88,9
+Ekstern produkttesting
+66,3
+Prøvesalg
+22,5
+Prøveproduksjon
+48,9
+Forretningsanalyse før endelig lansering
+34,5
+Oppstart av produksjon
+56,0
+Markedslansering
+68,1
+Tabell - Gjennomføringsgrad av aktiviteter
+Det vi kan se her er at mange bedrifter dropper å gjennomføre flere av aktivitetene. Aktiviteter som detaljerte markedsundersøkelser, prøvesalg og forretningsanalyse før endelig lansering blir gjennomført i mindre enn 50 prosent av bedriftene. Med tanke på at disse aktivitetene er markedsrelaterte og at den viktigste årsaken til mislykket produktutvikling er manglende markedsundersøkelser er dette ganske alarmerende.
+Hvis vi går videre og ser på hvilke aktiviteter som får tildelt mest ressurser, viser det seg at tre av aktivitetene får tildelt mer enn 75 prosent av de totale ressursene. Disse tre aktivitetene er produktutvikling, markedslansering og oppstart av produksjon. På den andre er det slik at 6 aktiviteter får tildelt mindre enn 5 prosent av de totale ressursene. Aktiviteten ”Detaljert markedsundersøkelse” får i snitt 1,8 prosent av ressursene i de 203 bedriftene som var med i Coopers undersøkelse.
+Hvis vi videre ser på fordelingen av ressurser i forhold til de forskjellige fasene i produktutviklingen, se tabell 4, ser vi at svært lite ressurser blir brukt i de innledende fasene frem mot selve produktutviklingen. Dette har vist seg å være lite fornuftig da det er her vi tar stilling til hele produktets utforming og framtid. Det er ofte manglende undersøkelser og dårlig arbeid i de innledende fasene som gjør at man overser problemområder som vokser seg store og feller produktet i en senere fasen i produktutviklingen. Det samme vil i stor grad gjøre seg gjeldende når det kommer til tjenesteutvikling.
+Fase
+Ressurser (penger)
+Førutviklingsaktiviteter
+7,1%
+Produktutvikling og produkttesting
+39%
+Kommersialisering
+53,9%
+Tabell - Faser og ressursfordeling
+
+Ulike former for tilnærming i markedet
+Vi så over at det ble lagt lite vekt på førutviklingsaktiviteter, og det ble brukt lite ressurser på markedet. Dette har vist seg å være et problem. Vi som mulige produktutviklere må så tidlig som mulig i produktutviklingsprosessen forsøke å forstå hva som skal til for å lage et produkt som vil lykkes i markedet. En av de tingene vi må ta stilling til er hvordan vi ønsker at vårt produkt skal stå frem i markedet. Det er forskjellige måter markedsførerne benytter for å selge produktet. (mer om dette også i kapittel 1, fra side 55 i læreboken).
+Produksjonsorientering er den retningen som lengst har vært retningsgivende for selgere. Produksjonsorientering er basert på en oppfatning om at forbrukere vil velge de produktene som er lett tilgjengelige og har en lav pris. Ledelsen i en produksjonsorientert bedrift vil derfor legge vekt på stor effektivitet i produksjonen og best mulig distribusjon.
+Produktorientering er basert på en oppfatning om at forbrukerne vil velge de produktene som har best kvalitet. Ledelsen i en produktorientert bedrift er opptatt av å lage gode produkter og stadig forbedre dem. (må ikke forveksles med produktorientering som prosess eller organisasjonstilnærming der man etablerer et tverrfaglig team som kontinuerlig jobber med produktet fra det etableres til det avvikles)
+Salgsorientering er basert på en oppfatning om at forbrukerne ikke kjøper bedriftens produkter uten kraftig salgs- og reklameinnsats. De går ut i fra at forbrukeren i utgangspunktet er motvillig til å kjøpe produktet. Salgsorientering kan lettest finne sted ved såkalte ”uønskede” produkter for eksempel leksika og forsikringer.
+Markedsorientering er en tankegang eller filosofi som delvis oppsto som en reaksjon mot de formene som er nevnt over. Markedsorienteringen er basert på en oppfatning om at nøkkelen til å oppnå organisasjonens mål er å kartlegge behov og ønsker hos målgruppene, og å skape og levere behovs-tilfredsstillende tilbud mer effektivt enn konkurrentene. I dette emnet er det markedsorientering som er fokuset, men som du kan lese om i læreboken og i punktet under snakker man i dag om helhetlig markedsføring som en god løsning.
+Når det kommer til selve markedsføringen av produktene så har de i siste versjon av læreboken fokus på det de kaller helhetlig markedsføring. Helhetlig markedsføring tar konsekvensen av at alt betyr noe i markedsføring, og at det ofte kreves et bredt og integrert perspektiv. Les mer om dette i læreboken kapittel 1 fra side 57.
+I produktutvikling og tjenesteutvikling bør vi være markedsorientert alle faser. Markedsorienteringen kan uttrykkes på mange måter:
+Finne behov og tilfredsstille dem
+Lag det du kan selge i stedet for å prøve å selge det du kan lage
+Du skal like kundene og ikke produktet
+I markedsorientert produktutvikling har man innsett at det er markedet som bestemmer om man får solgt produktet. Ved å fokusere på de forskjellige aspekter i markedet gjennom hele produktutviklingen fra en ny ide ser dagens lys til produktet er ferdig produsert og klart for lansering, øker man sjansene for at produktet vil bli en suksess. Ved å gå grundig inn i de forskjellige aspekter ved markedet ser man at dette er et stort og utfordrende område som krever inngående analyser og vurderinger i forhold til områder som kunder, konkurrenter, segmentering, differensiering, posisjonering og markedsføring, med mer. Riktig fokus på, og forståelse av markedet, er også avgjørende i forvaltningen av programvareprodukter som vi kommer mer inn på i detalj senere i dette emnet.
+
+Oppsummering
+Vi har i denne leksjonen sett på noen grunner til at man skal drive med produktutvikling. Vi har også sett på hvilke områder som er viktig for å lykkes med produktutvikling og tjenesteutvikling. Det kom fram at det å ha fokus på markedsaspekter er viktig allerede fra produktutviklingsprosjektets oppstart. Gjennom Coopers undersøkelser har vi sett at produktutviklingen kan deles inn i faser. Det som er skremmende å se er at det blir lagt svært liten vekt på de innledende fasene samt fasene som tar for seg markedsmessige aspekter. For mange bedrifter har en tendens til å fokusere på selve produktutviklingen uten å ha kartlagt godt nok om det finnes et marked som ønsker produktet/tjenesten og hvilke attributter et eventuelt marked ønsker at produktet/tjenesten skal inneholde. Dette er det lettere å unngå om man setter riktig og tilstrekkelig fokus på markedet tidlig i utviklingen og også fortsetter å ha markedet i fokus etter at produktet eller tjenesten er utviklet i første versjon.

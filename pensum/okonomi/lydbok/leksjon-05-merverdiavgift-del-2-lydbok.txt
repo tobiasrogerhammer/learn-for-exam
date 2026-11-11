@@ -1,0 +1,169 @@
+# Leksjon 5 del 2: Merverdiavgift
+
+Velkommen til leksjon 5 del 2. Her skal du lære hva merverdiavgift er, og hvordan en bedrift må forholde seg til den. Du får høre hvilke varer og tjenester som har avgift, hvilke som er fritatt, og hvilke som ligger helt utenfor avgiftsområdet. Til slutt går vi gjennom et regneeksempel der du ser hvordan inngående og utgående merverdiavgift henger sammen.
+
+Pensum til leksjonen finner du i læreboka Årsregnskapet, kapittel 15.
+
+# Hva er merverdiavgift
+
+I dette kapitlet får du grunnbegrepene: hva merverdiavgift er, når en bedrift får avgiftsplikt, og forskjellen på utgående og inngående avgift.
+
+I Norge må vi betale en avgift når vi kjøper varer og tjenester. Denne avgiften kalles merverdiavgift. Det er en skatt på omsetningen av varer og tjenester. Reglene for denne skatten står i merverdiavgiftsloven.
+
+Hovedregelen er at bedrifter skal beregne og betale merverdiavgift når de selger varer og tjenester. Dette står i paragraf 3-1 i merverdiavgiftsloven.
+
+Avgiftsplikten inntrer når omsetningen er over 50000 kroner i løpet av en periode på tolv måneder. Legg merke til at det er snakk om hvilke som helst tolv måneder på rad, ikke nødvendigvis et kalenderår.
+
+Bedrifter som fyller vilkårene for avgiftsplikt, skal registreres i Merverdiavgiftsregisteret. For å søke om registrering bruker man Samordnet registermelding. Den kan leveres elektronisk via Altinn.
+
+Merverdiavgiften skal som hovedregel beregnes i alle ledd i omsetningskjeden. Det vil si hver gang en vare eller tjeneste selges videre. Avgiften skal også beregnes når varer og tjenester føres inn fra utlandet.
+
+To uttrykk er helt sentrale i merverdiavgiftssystemet. Det første er utgående avgift. Det andre er inngående avgift.
+
+Utgående avgift er avgiften som skal beregnes og kreves inn når bedriften selger varer og tjenester. Bedriften skal kreve inn utgående avgift både når den selger til andre næringsdrivende og når den selger til vanlige forbrukere.
+
+Inngående avgift er avgiften som påløper når bedriften kjøper en avgiftspliktig vare eller tjeneste. Når kjøperen er en registrert næringsdrivende, kan dette avgiftsbeløpet trekkes fra i oppgjøret med avgiftsmyndighetene. Du får se et eksempel på dette mot slutten av leksjonen.
+
+En enkel huskeregel: utgående avgift går ut fra bedriften sammen med salget, og inngående avgift kommer inn i bedriften sammen med kjøpet.
+
+Kort oppsummert: merverdiavgift er en skatt på omsetning. Bedriften får avgiftsplikt når omsetningen passerer 50000 kroner på tolv måneder. Utgående avgift krever bedriften inn ved salg, og inngående avgift betaler bedriften ved kjøp og kan trekke fra.
+
+# Avgiftssatsene
+
+Dette kapitlet handler om de tre satsene for merverdiavgift.
+
+Den vanlige avgiftssatsen er 25 prosent. Den gjelder for de fleste varer og tjenester.
+
+Når det selges næringsmidler, det vil si mat og drikke, skal avgiften beregnes med 15 prosent.
+
+I tillegg finnes det en lav sats på 12 prosent. Den gjelder for persontransport, utleie av rom og kinobilletter.
+
+Disse satsene gjelder per første januar 2022.
+
+All import av varer fra utlandet gir plikt til å beregne innførselsmerverdiavgift. Det gjelder også enkeltinnkjøp.
+
+Kort oppsummert: det er tre satser. Hovedsatsen er 25 prosent, næringsmidler har 15 prosent, og persontransport, romutleie og kinobilletter har 12 prosent.
+
+# Generell avgiftsplikt
+
+Her går vi gjennom hvilke varer og tjenester som har vanlig avgiftsplikt.
+
+Hovedregelen er altså at bedrifter skal beregne merverdiavgift når de selger varer og tjenester. Den generelle avgiftsplikten gjelder blant annet for salg av varer som maskiner, møbler, utstyr, nye biler, klær, mat og lignende.
+
+Avgiftsplikten gjelder også for mange tjenester. Den første gruppen er håndverkertjenester, blant annet snekker, rørlegger, maler og annet byggearbeid. Den andre gruppen er tekniske tjenester, blant annet elektrikerarbeid og ingeniørarbeid. Den tredje gruppen er regnskapsføring, revisjon, juridisk bistand og annen økonomisk rådgivning. Den fjerde gruppen er utleie av biler, video og lignende.
+
+Listen fortsetter med reklame og markedsføring, telefon og frakt av varer. Disse har også vanlig avgiftsplikt.
+
+Noen tjenester er avgiftspliktige, men med den lave satsen på 12 prosent. Det gjelder persontransport med bil, tog, buss og fly. Det gjelder kinoforestillinger. Og det gjelder romutleie i hotellvirksomhet.
+
+Et dataprogram regnes som en vare etter merverdiavgiftsloven. Derfor er salg av både datautstyr og programvare avgiftspliktig.
+
+Kort oppsummert: de fleste varer og mange tjenester har avgiftsplikt, fra møbler og klær til håndverkere, regnskapsførere og reklame. Transport, kino og hotellrom er også avgiftspliktige, men med 12 prosent.
+
+# Fritak fra avgiftsplikt innenfor loven
+
+I dette kapitlet lærer du om virksomheter som er innenfor merverdiavgiftsloven, men som er fritatt for å beregne utgående avgift.
+
+Merverdiavgiftsloven gir noen generelle fritak fra avgiftsplikten. Virksomhetene som omfattes av fritakene, har de samme rettighetene og pliktene som vanlige avgiftspliktige virksomheter. Forskjellen er at de er fritatt for å beregne utgående avgift.
+
+Det betyr to ting for disse virksomhetene. For det første er de fritatt for å beregne utgående avgift når de selger varer og tjenester. For det andre har de rett til å trekke fra inngående avgift når de kjøper varer og tjenester. Dette er en gunstig situasjon for bedriften.
+
+Fritakene står i paragraf 6 i merverdiavgiftsloven. Her er noen eksempler. Aviser er fritatt, etter paragraf 6-1. Elektroniske nyhetstjenester er fritatt, etter paragraf 6-2. Bøker er fritatt, også lærebøker, men ikke lovsamlinger. Det står i paragraf 6-4. Salg og leasing av elbiler er fritatt, etter paragraf 6-7. Brukte biler er også fritatt, etter den samme paragrafen 6-7.
+
+Legg merke til forskjellen på nye og brukte biler. Nye biler er avgiftspliktige. Salg av bruktbiler er derimot fritatt fra beregning av utgående merverdiavgift. For brukte biler betales det i stedet omregistreringsavgift. En bilforhandler vil derfor vanligvis ha både avgiftspliktig og avgiftsfri omsetning.
+
+Kort oppsummert: fritatte virksomheter tar ikke utgående avgift på salget, men får likevel trekke fra inngående avgift på kjøpene. Eksempler er aviser, elektroniske nyhetstjenester, bøker, elbiler og brukte biler.
+
+# Unntak fra avgiftsplikt
+
+Nå skal vi se på virksomheter som ligger helt utenfor avgiftsområdet. Dette kalles unntak fra avgiftsplikt, og det er noe annet enn fritak.
+
+Mange bedrifter driver virksomhet som ligger helt utenfor avgiftsområdet. For disse blir det ingen avgiftsbehandling av regnskapsbilagene. De skal ikke beregne utgående avgift. Men de har heller ikke rett til fradrag for inngående avgift.
+
+Her ligger den store forskjellen fra forrige kapittel. En fritatt virksomhet får trekke fra inngående avgift. En unntatt virksomhet får ikke det. For den unntatte virksomheten blir merverdiavgiften på innkjøpene en vanlig kostnad.
+
+Unntakene står i paragraf 3 i merverdiavgiftsloven. Her er et utvalg. Helsetjenester, som lege og tannlege, er unntatt etter paragraf 3-2. Undervisningstjenester er unntatt etter paragraf 3-5. Servering i elevkantiner og studentkantiner er også unntatt etter paragraf 3-5. Finansielle tjenester er unntatt etter paragraf 3-6. Det gjelder blant annet betalingsformidling i bank og forsikringstjenester. Billetter til teaterforestillinger er unntatt etter paragraf 3-7. Og salg og utleie av fast eiendom er unntatt etter paragraf 3-11.
+
+Et eksempel som viser grensen: servering i studentkantiner er unntatt avgiftsplikt, men servering på restaurant er en avgiftspliktig tjeneste.
+
+Legg også merke til forskjellen på kino og teater. Kinobilletter er avgiftspliktige med 12 prosent, mens teaterbilletter er unntatt fra avgiftsplikt.
+
+Kort oppsummert: unntatte virksomheter tar ikke utgående avgift og får heller ikke fradrag for inngående avgift. Eksempler er helse, undervisning, studentkantiner, bank og forsikring, teaterbilletter og fast eiendom.
+
+# Terminer og betalingsfrister
+
+Dette kapitlet handler om når merverdiavgiften skal beregnes og betales.
+
+Merverdiavgift skal beregnes og betales i terminer. En termin er en periode på to måneder. Det blir altså seks terminer i året.
+
+Det skyldige beløpet skal normalt betales én måned og ti dager etter at terminen er slutt. Tredje termin er et unntak.
+
+Nå går vi gjennom alle seks terminene. Første termin er januar og februar, og fristen er 10. april. Andre termin er mars og april, og fristen er 10. juni. Tredje termin er mai og juni, og fristen er 31. august. Det er dette som er unntaket, her er fristen litt lengre. Fjerde termin er juli og august, og fristen er 10. oktober. Femte termin er september og oktober, og fristen er 10. desember. Sjette termin er november og desember, og fristen er 10. februar året etter.
+
+Samtidig med betalingen skal alle virksomheter som er registrert for merverdiavgift, levere merverdiavgiftsmeldingen.
+
+Det er svært viktig å holde fristene for betaling. Har du startet en bedrift, må du ha så god økonomisk styring at du er forutseende. Du må ha likviditet, det vil si nok penger tilgjengelig, til å kunne betale merverdiavgiften til rett tid.
+
+Hvis meldingen ikke leveres, og avgiften betales etter forfall, får bedriften et avgiftstillegg. I tillegg beregnes det forsinkelsesrenter. I alvorlige tilfeller kan brudd på merverdiavgiftsreglene straffes med bøter eller fengsel.
+
+Kort oppsummert: merverdiavgift betales seks ganger i året, for terminer på to måneder. Fristen er normalt én måned og ti dager etter terminen, men for mai og juni er fristen 31. august. Sen betaling gir avgiftstillegg og renter.
+
+# Regneeksempel: kjøpet
+
+Nå kommer et helt enkelt regneeksempel. I de tidligere eksemplene om inngående og utgående faktura var merverdiavgiften utelatt for å gjøre det enklere. Nå tar vi den med.
+
+Bedriften Jostein AS kjøper programmet Rambo 4 fra Microsoft. Prisen er 100 kroner uten merverdiavgift.
+
+Programvare har vanlig sats, altså 25 prosent. Merverdiavgiften blir 25 prosent av 100 kroner, som er 25 kroner.
+
+Jostein AS må derfor betale 100 kroner pluss 25 kroner, som er lik 125 kroner.
+
+Her er Microsoft pålagt å kreve inn 25 kroner i avgift. For Microsoft er dette utgående avgift. Microsoft må betale denne avgiften videre til staten.
+
+For Jostein AS er de 25 kronene inngående avgift. Jostein AS kan føre dette beløpet som fradrag i sitt avgiftsoppgjør med staten.
+
+# Regneeksempel: videresalget
+
+I dette kapitlet følger vi programmet videre, når Jostein AS selger det til sine kunder.
+
+Jostein AS skal videreselge Rambo-programmet. For å komme fram til en fornuftig utsalgspris legger bedriften på 50 prosent avanse på innkjøpsprisen.
+
+Avanse er et prosentvis påslag. Det skal dekke de indirekte kostnadene og sørge for at bedriften tjener penger på produktet.
+
+Nå regner vi steg for steg. Vi starter med innkjøpsprisen, som var 125 kroner. Fra den trekker vi merverdiavgiften på 25 kroner. Da får vi kostprisen fra Microsoft, som er 100 kroner. Merverdiavgiften regnes ikke med i kostprisen, fordi Jostein AS får den tilbake som fradrag.
+
+Så legger vi på avansen. 50 prosent av 100 kroner er 50 kroner. Kostprisen på 100 kroner pluss avansen på 50 kroner gir en utsalgspris uten merverdiavgift på 150 kroner.
+
+Til slutt legger vi på merverdiavgift. 25 prosent av 150 kroner er 37,50 kroner. Utsalgsprisen uten avgift på 150 kroner pluss avgiften på 37,50 kroner gir en utsalgspris med merverdiavgift på 187,50 kroner. Det er dette kunden betaler.
+
+Kort oppsummert: Jostein AS betalte 25 kroner i merverdiavgift da de kjøpte programmet. Da de solgte det videre, måtte de kreve inn 37,50 kroner i avgift fra kundene sine.
+
+# Avgiftsoppgjøret
+
+Her ser du hvordan Jostein AS gjør opp med staten, og hvilke kostnader som ikke gir rett til fradrag.
+
+I avgiftsoppgjøret til staten tar Jostein AS den utgående avgiften og trekker fra den inngående avgiften. Den utgående avgiften er 37,50 kroner. Den inngående avgiften er 25 kroner. 37,50 kroner minus 25 kroner er lik 12,50 kroner. Det er dette beløpet Jostein AS skal betale til staten.
+
+Legg merke til hva dette betyr. Avgiften på 12,50 kroner er nøyaktig 25 prosent av avansen på 50 kroner. Jostein AS betaler altså avgift bare av den verdien de selv har lagt til. Det er derfor det heter merverdiavgift.
+
+Det er viktig å vite at merverdiavgiftsloven har mange unntak fra retten til fradrag for inngående avgift. Utgifter til servering, representasjon og gaver kan ikke føres som fradrag for inngående avgift. Det samme gjelder kjøp og drift av personbiler.
+
+Kort oppsummert: avgiften til staten er utgående avgift minus inngående avgift. I eksemplet blir det 37,50 kroner minus 25 kroner, som er 12,50 kroner. Servering, representasjon, gaver og personbiler gir ikke fradrag.
+
+Til denne leksjonen hører det også en øving, som du kan bruke for å teste deg selv.
+
+# Oppsummering
+
+Her er de viktigste punktene fra leksjonen.
+
+Merverdiavgift er en skatt på omsetning av varer og tjenester, og reglene står i merverdiavgiftsloven. En bedrift får avgiftsplikt når omsetningen er over 50000 kroner på tolv måneder, og må da registreres i Merverdiavgiftsregisteret.
+
+Utgående avgift krever bedriften inn når den selger. Inngående avgift betaler bedriften når den kjøper, og en registrert bedrift kan trekke den fra.
+
+Det er tre satser. Hovedsatsen er 25 prosent. Næringsmidler har 15 prosent. Persontransport, romutleie og kinobilletter har 12 prosent.
+
+Fritak og unntak er to forskjellige ting. Fritatte virksomheter, som aviser, bøker, elbiler og brukte biler, tar ikke utgående avgift, men får trekke fra inngående avgift. Unntatte virksomheter, som helse, undervisning, bank, forsikring, teater og fast eiendom, tar ikke utgående avgift og får heller ikke fradrag for inngående avgift.
+
+Merverdiavgiften betales i seks terminer på to måneder hver. Fristen er normalt én måned og ti dager etter terminen, med 31. august som unntak for mai og juni. Melding og betaling leveres samtidig, og for sen betaling gir avgiftstillegg og renter.
+
+Avgiften til staten er utgående avgift minus inngående avgift. I eksemplet med Jostein AS blir det 37,50 kroner minus 25 kroner, som er 12,50 kroner. Servering, representasjon, gaver og personbiler gir ikke rett til fradrag for inngående avgift.

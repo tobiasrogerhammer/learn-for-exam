@@ -1,0 +1,263 @@
+# Leksjon 5 del 1: Lønn
+
+Velkommen til leksjon 5, del 1, som handler om lønn. Her skal du lære om de viktigste temaene rundt lønn. Vi ser på skattetrekk, arbeidsgiveravgift, a-meldingen, obligatorisk tjenestepensjon og feriepenger. Deretter ser vi på hvordan lønn føres i regnskapet, og til slutt lærer du å fylle ut en reiseregning. Pensum står i læreboka Årsregnskapet, kapittel 14.
+
+# Innledning
+
+Dette kapittelet forklarer hvorfor lønn er et viktig tema, og hvilke plikter en arbeidsgiver har.
+
+Lønn er et sentralt tema i et fag som økonomisk styring. Det er viktig å kjenne til rettigheter og plikter knyttet til lønn. Det gjelder både for deg som er ansatt i et firma, og for arbeidsgiveren.
+
+I denne leksjonen ser vi på skattetrekk, arbeidsgiveravgift, feriepenger og pensjon. I tillegg ser vi på hvordan du håndterer en reiseregning. Mange ansatte reiser i jobben, og en reiseregning kan føles vanskelig å fylle ut hvis du ikke kjenner reglene.
+
+Først en oversikt over hva en arbeidsgiver er pliktig til å gjøre overfor myndighetene. En arbeidsgiver som har ansatte, har seks plikter. Den første er å trekke skatt av arbeidstakerens lønn. Den andre er å beregne og betale inn skattetrekket. Den tredje er å beregne og betale arbeidsgiveravgift. Den fjerde er å sende inn a-meldingen. Den femte er å beregne og betale feriepenger til arbeidstakeren. Den sjette er å betale pensjon for de ansatte.
+
+Vi skal gå gjennom hver av disse pliktene i de neste kapitlene.
+
+# Skattetrekk
+
+Dette kapittelet handler om hvordan skatten trekkes av lønnen, og hvordan skatteoppgjøret fungerer.
+
+Alle som får lønn i Norge skal i utgangspunktet betale skatt. Når vi snakker om lønn, kalles dette forskuddstrekk. Skatteetaten regner ut hvilken skatteprosent eller hvilket tabelltrekk som skal trekkes fra den ansattes bruttolønn.
+
+For å regne ut dette bruker Skatteetaten forventet lønnsinntekt. De bruker også opplysninger om lån, fordi renter på lån gir fradrag i skatten. I tillegg bruker de andre opplysninger som kan gi fradrag. Ut fra dette finner de riktig skatteprosent eller riktig tabellnummer.
+
+Skatteetaten utsteder et skattekort. Arbeidsgiveren trenger skattekortet for å beregne forskuddstrekket når lønnen betales ut. Arbeidsgiveren henter opplysningene om den ansattes skatt direkte fra Skatteetaten gjennom Altinn.
+
+Når arbeidsgiveren har betalt ut lønn og trukket skatt, må forskuddstrekket settes på en egen bankkonto. Den heter konto for skattetrekk. Der skal pengene stå til arbeidsgiveren betaler dem videre til skatteoppkreveren. Innbetalingen er fordelt på seks terminer i året. Arbeidsgiveravgiften betales inn samtidig.
+
+I løpet av et inntektsår er det vanlig med fullt skattetrekk i ti måneder. I desember er det halvt skattetrekk. I ferie-måneden får du ikke vanlig lønn, men ferielønn. Det trekkes ikke skatt av ferielønnen når den betales ut. Men merk deg dette: Skattemyndighetene tar med feriepengene når de beregner skatteprosenten din. Feriepengene er altså skattepliktige.
+
+Hvert år må du levere skattemelding. Inntektsåret følger kalenderåret, og skattemeldingen leveres våren etter. Skattemeldingen er et oppgjør. Skatteetaten regner ut hvor mye skatt du egentlig skal betale, og trekker fra det du har betalt i forskuddstrekk gjennom året. Har du betalt for lite, må du betale inn resten. Det kalles restskatt. Har du betalt for mye, får du pengene tilbake.
+
+Grunnlaget for skattemeldingen kommer i januar eller februar. Viser det seg at du har betalt for lite, kan du betale inn restskatten på forskudd innen utgangen av mai. Da slipper du å betale renter på skatten du skylder.
+
+Kort oppsummert: Arbeidsgiveren trekker skatt etter skattekortet, setter pengene på en egen skattetrekkskonto, og betaler dem til skatteoppkreveren seks ganger i året. Skattemeldingen gjør opp regnskapet mellom deg og Skatteetaten.
+
+# Arbeidsgiveravgift
+
+Dette kapittelet forklarer hva arbeidsgiveravgift er, og hvordan satsen avhenger av hvor bedriften ligger.
+
+Arbeidsgiveravgift er en skatt på bruk av arbeidskraft. Den er en del av finansieringen av folketrygden. Det er arbeidsgiveren som betaler arbeidsgiveravgiften, og den regnes ut fra den ansattes bruttolønn. Det skal også betales arbeidsgiveravgift av feriepenger og av pensjon.
+
+Arbeidsgiveravgiften betales til skatteoppkreveren, og den har de samme terminene som forskuddstrekket.
+
+Satsen avhenger av hvor virksomheten ligger. Avgiften er lavere i distriktene. Dette er blant annet for å styrke næringsliv og bosetting der. Landet er delt inn i fem avgiftssoner. Sone 1 gjelder de største byene og de mest sentrale områdene. Sone 5 gjelder de mest folkefattige distriktene.
+
+Satsene per 1. januar 2022 er slik. I sone 1 er satsen 14,1 prosent. I sone 2 er den 10,6 prosent. I sone 3 er den 6,4 prosent. I sone 4 er den 5,1 prosent. I sone 5 er den null prosent.
+
+Merk deg satsen for sone 1, 14,1 prosent. Den brukes i alle regneeksemplene i leksjonen.
+
+# A-meldingen og betalingsfrister
+
+Her lærer du hva a-meldingen er, og når skattetrekk og arbeidsgiveravgift skal betales.
+
+Alle som betaler ut lønn, har ansvar for å rapportere opplysninger om lønnsutbetalingene. Rapporteringen går til Skatteetaten, NAV og Statistisk sentralbyrå, og den er samlet i én melding: a-meldingen. A-meldingen sendes hver måned av alle som betaler ut lønn, pensjon og andre ytelser. Den inneholder opplysninger om lønn og ytelser, og status på alle arbeidsforhold.
+
+Det er tre ting du bør vite om a-meldingen. Den første er at den sendes elektronisk minst én gang i måneden. Den andre er at den kan sendes gjennom lønnssystemet, gjennom en regnskapsfører, eller ved å registrere direkte i Altinn. Den tredje er fristen: A-meldingen skal leveres den 5. hver måned. Er den 5. en helg eller helligdag, er fristen første virkedag etter.
+
+Skattetrekk og arbeidsgiveravgift betales for to og to måneder om gangen. Fristene for 2022 er slik. For januar og februar er fristen 15. mars. For mars og april er fristen 15. mai. For mai og juni er fristen 15. juli. For juli og august er fristen 15. september. For september og oktober er fristen 15. november. For november og desember er fristen 15. januar året etter. Det gir seks terminer i året.
+
+Forskuddstrekk og arbeidsgiveravgift betales til skatteoppkreveren i den kommunen der arbeidsgiveren hører hjemme eller har hovedkontoret sitt.
+
+# Obligatorisk tjenestepensjon
+
+Dette kapittelet handler om pensjonen arbeidsgiveren må spare for de ansatte, ofte forkortet OTP.
+
+Fra 1. januar 2022 må arbeidsgiveren spare minst 2 prosent av de ansattes inntekt, fra første krone. Obligatorisk tjenestepensjon gjelder alle ansatte mellom 13 og 75 år. Det betyr at reglene for opptjening i arbeidsgiverens pensjonsordning er samordnet med reglene i folketrygden.
+
+Alle ansatte som tjener mer enn grensen for innrapportering i a-meldingen, har rett til å bli meldt inn i pensjonsordningen. Denne grensen er som hovedregel 1000 kroner. For skattefrie selskaper og organisasjoner er grensen 10000 kroner.
+
+# Feriepenger
+
+Her lærer du hvordan feriepenger tjenes opp, og hvordan de regnes ut.
+
+Alle arbeidstakere har rett til ferie. Retten tjenes opp året før ferien. Ved full opptjening er ferien fire uker og én dag, og ferielønnen er 10,2 prosent av fjorårets bruttolønn. Mange har forhandlet seg fram til fem uker ferie, med 12 prosent ferielønn. De fleste offentlig ansatte har denne ordningen. Den kalles avtalefestet ferie. Reglene om ferielønn står i ferieloven av 29. april 1988.
+
+Feriepengene betales ut når du har ferie, og da får du ikke vanlig lønn. Har du fast månedslønn, er det vanligst å få feriepengene utbetalt i juni, selv om du ikke tar ferie i juni. Tar du ferien i juli, får du vanlig månedslønn i juli. Denne måten gjør det enklere for dem som har ansvar for lønnsutbetalingen. De slipper å holde oversikt over når hver enkelt tar ferie.
+
+I alle eksempler og oppgaver i emnet forutsetter vi avtalefestet ferie, det vil si 12 prosent ferielønn.
+
+Nå kommer et eksempel. Stein har en kjæreste som heter Liv. Liv har jobbet i et datafirma i to år. De ansatte der har fem uker ferie og 12 prosent ferielønn.
+
+Liv jobbet hele 2021, og bruttolønnen hennes i 2021 var 300000 kroner. I denne bruttolønnen var feriepengene hun fikk utbetalt i 2021 tatt med. De var på 15000 kroner.
+
+Hvorfor trekker vi fra feriepengene? Fordi feriepengene fra 2021 ble tjent opp året før, i 2020. De gir ikke grunnlag for nye feriepenger. Vi tar derfor 300000 minus 15000, og det er 285000 kroner. Dette er grunnlaget.
+
+Så regner vi 12 prosent av grunnlaget. 285000 ganger 12 prosent er 34200. Liv får altså utbetalt 34200 kroner i feriepenger i 2022.
+
+Kort oppsummert: Feriepengene regnes av fjorårets bruttolønn, men uten feriepengene som ble utbetalt i fjor. Med avtalefestet ferie er satsen 12 prosent.
+
+# Eksempel: hva koster en ekstrahjelp
+
+Dette kapittelet viser med tall hvordan arbeidsgiveravgift og feriepenger gjør en ansatt dyrere enn bare timelønnen.
+
+Vi er tilbake hos vennene våre i Jostein AS. Firmaet har mye å gjøre i en kort periode, og vurderer å få inn ekstra hjelp. Jo har en lillebror som studerer dataingeniør ved NTNU. Han kan hjelpe til i juleferien. Jo og Stein må vurdere om det lønner seg. De regner med at oppdraget tar omtrent 60 arbeidstimer. Timelønnen til Lillebror blir 120 kroner. Firmaet ligger i avgiftssone 1, med 14,1 prosent arbeidsgiveravgift.
+
+Steg én er lønnen. 120 kroner ganger 60 timer er 7200 kroner.
+
+Steg to er feriepengene. 12 prosent av 7200 er 864 kroner.
+
+Steg tre er arbeidsgiveravgift av lønnen. 14,1 prosent av 7200 er 1015 kroner og 20 øre.
+
+Steg fire er arbeidsgiveravgift av feriepengene. 14,1 prosent av 864 er 121 kroner og 82 øre.
+
+Til slutt legger vi sammen. 7200 pluss 864 pluss 1015,20 pluss 121,82 er 9201 kroner og 2 øre. Det er de totale lønnskostnadene for ekstrahjelpen.
+
+Her ser du hvordan arbeidsgiveravgiften beregnes. Og du ser at du må ta med denne avgiften når du lager et kostnadsoverslag for lønn.
+
+Arbeidsgiveren må også betale arbeidsgiveravgift av pensjonsinnskuddet. I eksempelet over betaler ikke Jostein AS pensjon for Lillebror. Han har bare et lite ekstraoppdrag, og kravet om pensjon faller bort.
+
+La oss se hvordan regnestykket ville sett ut med pensjon. Tenk deg at Lillebror hadde en 20 prosent stilling i Jostein AS, at firmaet til sammen hadde arbeid som tilsvarte minst to årsverk, og at firmaet betaler 2 prosent i pensjonsinnskudd.
+
+Da er lønnen fortsatt 7200 kroner, og feriepengene fortsatt 864 kroner. Nå kommer pensjon i tillegg: 2 prosent av 7200 er 144 kroner. Arbeidsgiveravgift av lønnen er fortsatt 1015 kroner og 20 øre, og arbeidsgiveravgift av feriepengene er fortsatt 121 kroner og 82 øre. I tillegg kommer arbeidsgiveravgift av pensjonen: 14,1 prosent av 144 er 20 kroner og 30 øre.
+
+Summen blir nå 7200 pluss 864 pluss 144 pluss 1015,20 pluss 121,82 pluss 20,30. Det er 9365 kroner og 32 øre.
+
+Kort oppsummert: En ansatt koster mer enn timelønnen. Du må legge til feriepenger, pensjon, og arbeidsgiveravgift av alle tre.
+
+# Regnskapsføring av lønn og forskuddstrekk
+
+Nå ser vi på hvordan en lønnsutbetaling føres i regnskapet, med debet og kredit.
+
+Vi bruker en lønnsutbetaling til Jo i november. Jo har jobbet mye i det siste, og novemberlønnen blir større enn vanlig. Jo og Stein har bestemt at de tar ut 200 kroner i timen per fakturerte time. Jo har jobbet 200 timer siden forrige lønn. Bruttolønnen blir da 200 ganger 200, altså 40000 kroner. Jo har et skattetrekk på 20 prosent. Jostein AS betaler 2 prosent i pensjonsinnskudd av bruttolønnen.
+
+Først regner vi ut tallene. Lønnen er 40000 kroner. Pensjonen er 40000 ganger 0,02, altså 800 kroner. Skatten er 40000 ganger 0,20, altså 8000 kroner. Jo får dermed 32000 kroner utbetalt på konto.
+
+Så til føringene. Konto 50 10 Lønn debiteres med 40000 kroner. Dette er lønnskostnaden.
+
+Konto 19 20 Bank krediteres, fordi pengene går ut av banken. Beløpene deles opp for å vise hvor de går. 32000 kroner går til Jo som nettolønn. 8000 kroner går over til den egne skattetrekkskontoen.
+
+Skattetrekket er penger firmaet skylder skatteoppkreveren. Derfor krediteres konto 26 hundre Skattetrekk med 8000 kroner. Det er en gjeldskonto.
+
+Samtidig settes pengene inn på den egne bankkontoen for skattetrekk. Konto 19 50 Bank skattetrekk øker med 8000 kroner, og det føres i debet.
+
+Pensjonen føres også. Konto 54 20 OTP debiteres med 800 kroner som kostnad, og konto 19 20 Bank krediteres med 800 kroner.
+
+Totalt går det altså 40800 kroner ut av konto 19 20 Bank: 32000 til Jo, 8000 til skattetrekkskontoen og 800 til pensjon.
+
+Når det er termin for å betale forskuddstrekket til skatteoppkreveren, føres dette. Konto 26 hundre Skattetrekk debiteres med 8000 kroner, slik at gjelden går i null. Konto 19 50 Bank skattetrekk krediteres med 8000 kroner, fordi pengene betales ut fra denne kontoen.
+
+Husk at arbeidsgiveren er pliktig til å sette skattetrekket fra de ansattes lønn inn på en egen konto. Denne kontoen heter 1950 Bank skattetrekk.
+
+# Regnskapsføring av feriepenger
+
+Dette kapittelet viser hvordan feriepenger føres, først når de tjenes opp, og så når de betales ut.
+
+Når Jostein AS betaler lønn til Jo, kostnadsføres samtidig feriepengene Jo får rett på til neste års ferie. Jostein AS bruker 12 prosent ferielønn. Ferielønnen blir 40000 ganger 0,12, altså 4800 kroner.
+
+Konto 51 80 Påløpte feriepenger debiteres med 4800 kroner. Dette er en resultatkonto. Den viser hvor mye som er satt av til feriepenger i året, altså hvor stor kostnaden til ferielønn egentlig er. Husk at feriepengene kostnadsføres med en gang lønnen er utbetalt, selv om de ikke betales ut før neste år.
+
+Konto 29 40 Skyldige feriepenger krediteres med 4800 kroner. Dette er en balansekonto. Feriepengene skal ikke betales ut før neste år, så de er en gjeld Jostein AS har til Jo. Derfor må de føres på en gjeldskonto. Da ser du ved årsavslutning eller månedsavslutning hvor mye feriepenger firmaet skylder de ansatte.
+
+Så kommer året etter, når feriepengene skal betales ut. Jo tar ferie i juni og får utbetalt feriepengene sine på 4800 kroner. Jostein AS krediterer bankkontoen, konto 19 20 Bank, med 4800 kroner. Motposten er en debitering av konto 29 40 Skyldige feriepenger med 4800 kroner. Dermed går gjelden i null når feriepengene er betalt.
+
+Kort oppsummert: Når lønnen betales, føres feriepengene som kostnad i debet på 5180 og som gjeld i kredit på 2940. Når feriepengene betales året etter, debiteres 2940 og banken krediteres.
+
+# Regnskapsføring av arbeidsgiveravgift
+
+Her ser du hvordan arbeidsgiveravgiften regnes ut og føres, og når den betales.
+
+Arbeidsgiveravgiften føres samtidig med lønnskostnaden den er regnet ut fra. Jo hadde en bruttolønn på 40000 kroner. Jostein AS ligger i en kommune i avgiftssone 1. Firmaet må derfor betale 14,1 prosent arbeidsgiveravgift av Jos bruttolønn, feriepenger og pensjonsinnskudd.
+
+Vi regner ut hver del. Av lønnen: 40000 ganger 14,1 prosent er 5640 kroner. Av feriepengene: 4800 ganger 14,1 prosent er 676 kroner og 80 øre. Av pensjonen: 800 ganger 14,1 prosent er 112 kroner og 80 øre.
+
+Arbeidsgiveravgiften av lønn og av pensjonsinnskudd legges sammen og føres på samme konto. 5640 pluss 112,80 er 5752 kroner og 80 øre. Arbeidsgiveravgiften av feriepengene, 676 kroner og 80 øre, føres for seg. Til sammen blir arbeidsgiveravgiften 6429 kroner og 60 øre.
+
+Nå til føringene. Konto 54 hundre Arbeidsgiveravgift debiteres med 5752 kroner og 80 øre. Dette er kostnaden. Konto 27 70 Skyldig arbeidsgiveravgift krediteres med det samme beløpet. Det er gjelden til skatteoppkreveren.
+
+Avgiften på feriepengene føres på egne konti. Konto 51 82 Arbeidsgiveravgift av feriepenger debiteres med 676 kroner og 80 øre. Konto 27 80 Skyldig arbeidsgiveravgift av påløpte feriepenger krediteres med det samme beløpet.
+
+Du ser det samme mønsteret som for skyldige feriepenger. Avgiften føres først som kostnad på en resultatkonto. Så føres den på en balansekonto, fordi det er avgift firmaet skylder, men ikke har betalt ennå.
+
+Lønnen ble utbetalt i november. Terminoppgjøret for både arbeidsgiveravgift og skattetrekk er da 15. januar. Når avgiften betales, debiteres konto 27 70 Skyldig arbeidsgiveravgift med 5752 kroner og 80 øre, slik at gjelden går i null. Konto 19 20 Bank krediteres med det samme beløpet.
+
+Legg merke til at i dette terminoppgjøret betales bare arbeidsgiveravgiften av novemberlønnen og pensjonsinnskuddet. Arbeidsgiveravgiften av de skyldige feriepengene betales ikke før første terminoppgjør etter at feriepengene faktisk er betalt ut.
+
+# Oversikt over føringene ved lønn
+
+Dette ble mange konti og mange føringer. Her går vi gjennom alt samlet, så du har en fullstendig oversikt.
+
+Ved selve lønnsutbetalingen føres dette. Debet konto 50 10 Lønn med 40000 kroner. Debet konto 54 20 OTP med 800 kroner. Kredit konto 26 hundre Skattetrekk med 8000 kroner. Debet konto 19 50 Bank skattetrekk med 8000 kroner. Kredit konto 19 20 Bank med 40800 kroner.
+
+For de påløpte feriepengene føres dette. Debet konto 51 80 Påløpte feriepenger med 4800 kroner. Kredit konto 29 40 Skyldige feriepenger med 4800 kroner.
+
+For arbeidsgiveravgiften føres dette. Debet konto 54 hundre Arbeidsgiveravgift med 5752 kroner og 80 øre. Debet konto 51 82 Arbeidsgiveravgift av feriepenger med 676 kroner og 80 øre. Kredit konto 27 80 Skyldig arbeidsgiveravgift av påløpte feriepenger med 676 kroner og 80 øre. Kredit konto 27 70 Skyldig arbeidsgiveravgift med 5752 kroner og 80 øre.
+
+Ved betaling til skatteoppkreveren føres dette. Debet konto 26 hundre Skattetrekk med 8000 kroner. Kredit konto 19 50 Bank skattetrekk med 8000 kroner. Debet konto 27 70 Skyldig arbeidsgiveravgift med 5752 kroner og 80 øre. Kredit konto 19 20 Bank med 5752 kroner og 80 øre.
+
+Ved utbetaling av feriepengene året etter føres dette. Debet konto 29 40 Skyldige feriepenger med 4800 kroner. Kredit konto 19 20 Bank med 4800 kroner.
+
+Kort oppsummert: Kostnadene havner på resultatkontoer i 5000-serien. Det firmaet skylder, havner på gjeldskonti i 2000-serien. Når gjelden betales, debiteres gjeldskontoen og banken krediteres.
+
+# Reiseregning og regler for tjenestereiser
+
+Dette kapittelet handler om reglene for å få dekket utgifter når du reiser i jobben.
+
+Noen har en jobb der reising er en del av arbeidet. Det kan være langt til stedet der jobben skal gjøres, eller det kan være en konferanse eller et møte i en annen by eller et annet land. Da fyller du ut en reiseregning når tjenestereisen er ferdig. Slik får du dekket utgiftene til reisen, og utgiftene til mat du har kjøpt underveis. Utgifter til mat kalles i denne sammenhengen diett.
+
+Statens reiseregulativ er et sett med regler og satser for tjenestereiser. De fleste arbeidsplasser bruker dette regulativet når de fastsetter satser for ansatte som reiser. Arbeidsgiveren kan gi høyere satser enn staten. Men da må arbeidstakeren betale skatt av det som overstiger statens sats. For reiser til utlandet finnes utenlandsregulativet, med egne satser.
+
+Alle utgifter på reisen skal dokumenteres. Det vil si at du legger ved kopi av billetter og kvitteringer, etter reglene i Statens reiseregulativ. Gir arbeidsgiveren deg penger til å dekke utgifter uten slik dokumentasjon, er pengene skattepliktige.
+
+# Satser for diett og bil
+
+Her får du satsene for kostgodtgjørelse, trekk for måltider og godtgjørelse for bruk av egen bil.
+
+Kostgodtgjørelse eller diett er et beløp du får som kompensasjon fordi du er borte hjemmefra og må kjøpe mat på kafé eller restaurant. Reisen må være over 15 kilometer for at du skal få kostgodtgjørelse.
+
+Satsene for reiser i Norge som gjelder fra 1. januar 2024, er disse. Først dagsreiser, altså reiser uten overnatting. For reiser under seks timer får du ingenting. For reiser fra og med seks timer og til og med tolv timer får du 369 kroner. For reiser over tolv timer får du 686 kroner. Så reiser med overnatting. Da får du 940 kroner per døgn.
+
+Et døgn regnes som 24 timer. Er du på reise mer enn 24 timer, får du diett for det siste påbegynte døgnet etter dagsreisesatsene. Det vil si enten satsen for seks til tolv timer, eller satsen for over tolv timer uten overnatting.
+
+Dietten på 940 kroner skal dekke frokost, lunsj og middag. Frokost utgjør 188 kroner, lunsj 282 kroner og middag 470 kroner. Til sammen er det 940 kroner.
+
+Har du fått mat på reisen som du ikke betalte selv, skal det trekkes fra dietten. For frokost trekkes 188 kroner, som er 20 prosent av 940. For lunsj trekkes 282 kroner, som er 30 prosent av 940. For middag trekkes 470 kroner, som er 50 prosent av 940.
+
+Har du brukt egen bil, får du dekket 4 kroner og 90 øre per kilometer. Av dette er 3 kroner og 50 øre skattefritt. Differansen på 1 krone og 40 øre per kilometer må rapporteres som lønn.
+
+# Eksempel: Steins reise til IT-messen
+
+Nå regner vi ut en hel reiseregning steg for steg.
+
+Stein skal representere Jostein AS på en stor IT-messe på Lillestrøm. Der vil han gjøre seg så oppdatert som mulig på det siste innen IT. Stein bestiller reisen selv, og han velger den billigste reisemåten som er rask nok. Han legger ut for alle billetter selv. Når reisen er over, må han sende inn krav på utgiftene sine. Han må føre opp alle utlegg, og den diettgodtgjørelsen han har krav på. Jostein AS betaler Stein det han har til gode. Stein bruker diettsatsene i Statens reiseregulativ for Norge.
+
+Steg én er direkte utlegg. Stein kjøpte bussbilletter for 100 kroner, flybillett for 3000 kroner, tog for 300 kroner og taxi for 100 kroner. Hotellet kostet 2500 kroner, og inngangsbilletten til messen kostet 200 kroner. Til sammen er dette 6200 kroner i direkte utlegg.
+
+Steg to er å finne ut hvor lenge han var borte. Det er viktig å skrive dato på en reiseregning. Stein reiste tirsdag klokka 8 om morgenen, og kom hjem fredag klokka 16. Satsen gjelder per døgn, så vi må telle døgn. Den enkleste måten er å tegne en tidslinje. Fra tirsdag klokka 8 til onsdag klokka 8 er ett døgn. Til torsdag klokka 8 er to døgn. Til fredag klokka 8 er tre døgn. Diett regnes fra reisen startet til han kom hjem.
+
+Fra fredag klokka 8 til fredag klokka 16 er det åtte timer. Når reisen har gått minst seks timer inn i et nytt døgn, får du ekstra diett. Det er enten 369 kroner for seks til tolv timer, eller 686 kroner for over tolv timer. Åtte timer gir satsen på 369 kroner.
+
+Steg tre er å regne ut dietten. Satsen med overnatting er 940 kroner per døgn. For tre døgn og åtte timer blir det 940 ganger 3, som er 2820, pluss 369. Det blir 3189 kroner.
+
+Steg fire er trekk for måltider. Hotellet hadde frokost med i prisen, noe som er veldig vanlig. Frokosten er dermed bakt inn i hotellregningen som Stein får dekket. Derfor må han trekke frokosten fra dietten, slik at han ikke får betalt for den to ganger. Trekket for frokost er 188 kroner per gang. Stein spiste frokost på hotellet tre ganger. 188 ganger 3 er 564. Dietten blir 3189 minus 564, altså 2625 kroner. De andre måltidene kjøpte Stein selv. Trekk i dietten gjelder også hvis du blir spandert mat på tjenestereisen.
+
+Hadde Stein kjørt egen bil, for eksempel til og fra flyplassen, hadde han fått dekket 3 kroner og 50 øre per kilometer skattefritt. Men husk at du alltid skal velge den billigste reisemåten, helst offentlig transport. Bruker du bil til flyplassen eller togstasjonen, må du begrunne det på reiseregningen. Det kan for eksempel være at reisen startet så tidlig at bussen ikke gikk, eller at du hadde så mye utstyr at buss ikke passet. Det samme gjelder taxi til og fra flyplassen. Da kreves også en forklaring.
+
+Steg fem er å summere. På reiseregningen fører Stein opp direkte utlegg på 6200 kroner og diett på 2625 kroner. Til sammen er det 8825 kroner. Stein får utbetalt 8825 kroner på reiseregningen.
+
+Dette var et enkelt, men helt realistisk eksempel. Reiser du til utlandet, gjelder andre diettsatser. Hvert land har sin egen sats, og satsene står i utenlandsregulativet.
+
+Kort oppsummert: Legg sammen alle utlegg med kvittering. Tell døgn, og legg til dagsreisesats for timene i det siste døgnet. Trekk fra måltider du har fått. Summen er det du får utbetalt.
+
+# Oppsummering
+
+Til slutt går vi gjennom de viktigste punktene i leksjonen.
+
+Mange synes denne leksjonen er litt teknisk. Men forstår du forholdet mellom resultatkontoer og balansekontoer, blir den veldig logisk.
+
+En arbeidsgiver må ta hensyn til skatt, obligatorisk tjenestepensjon og arbeidsgiveravgift når lønn betales ut. Skattetrekket settes på en egen bankkonto, konto 19 50 Bank skattetrekk, til det betales inn.
+
+Skattetrekk og arbeidsgiveravgift betales i seks terminer i året, den 15. annenhver måned. Det er viktig å holde fristene. Det er lite slingringsmonn, og det kan fort bli dyrt med gebyrer hvis du betaler for sent eller ikke betaler i det hele tatt. A-meldingen sendes inn hver måned, innen den 5.
+
+Arbeidsgiveravgiften avhenger av sone. I sone 1 er den 14,1 prosent. Den betales av lønn, feriepenger og pensjon. Husk den når du lager kostnadsoverslag for lønn.
+
+Det er også viktig at arbeidstakeren er klar over skatten. Noen som er helt nye i arbeidslivet, vet faktisk ikke at det trekkes skatt av hver lønnsutbetaling.
+
+Obligatorisk tjenestepensjon er minst 2 prosent av inntekten fra første krone.
+
+Feriepengene betales ut året etter at de er tjent opp. De utgjør 10,2 prosent av bruttolønnen, eller 12 prosent ved avtalefestet ferie. Grunnlaget er fjorårets bruttolønn uten fjorårets feriepenger. I regnskapet føres feriepengene som kostnad med en gang, og som gjeld til de betales ut. Arbeidsgiveravgiften av feriepengene betales først i terminen etter at feriepengene er utbetalt.
+
+Vi gikk også gjennom Steins reise til IT-messen. Vi så hva han fikk dekket, og hvilke satser som gjelder i Statens reiseregulativ: 940 kroner per døgn med overnatting, 369 og 686 kroner for dagsreiser, og trekk for måltider du har fått.
+
+Til denne leksjonen hører det også en øving, der du kan prøve deg på å regne og føre lønn selv. Lønn er sentralt stoff både for arbeidsgivere og arbeidstakere. Lykke til!

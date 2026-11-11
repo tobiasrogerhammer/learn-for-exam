@@ -1,0 +1,327 @@
+Leksjon 11 - Produktforvaltning 04
+ Forvaltning av produktene del II – Markedsføring, salg og kundestøtte
+ Knut Arne Strand, Institutt for datateknologi og informatikk (IDI), NTNU.
+ Lærestoffet er utviklet for faget Produktutvikling, marked og forvaltning av programvareprodukter
+ 1. Forvaltning av produktene del II –
+Markedsføring, salg og kundestøtte
+ Resymé: I denne leksjonen ser vi nærmere på markedsføringsaktiviteter som typisk gjennomføres for å
+identifisere og vinne kunder, salgs- og distribusjonsaktiviteter som omhandler forskjellige strategier for å
+generere inntekter og tjeneste- og kundestøtteaktiviteter som fokuserer på at kundene skal kunne bruke systemet
+mest mulig fornuftig i forhold til sine konkrete behov. Dette er oppgaver som produktsjefen ikke nødvendigvis er
+ansvarlig for, men vedkommende kan likevel være sterkt involvert i mye av dette arbeidet og avhengig av god
+kommunikasjon mot mange av interessentene som jobber innenfor disse områdene.
+ Innhold
+ 1.   FORVALTNING AV PRODUKTENE DEL II – MARKEDSFØRING, SALG OG
+KUNDESTØTTE .................................................................................................................................................. 1
+ 1.1 INNLEDNING   .................................................................................................................................................. 2
+ 1.1.   MARKEDSFØRING ................................................................................................................................. 3
+ 1.1.1.   Planlegging av markedsføringsaktiviteter   ....................................................................................... 3
+ 1.1.2.   Verdi-kommunikasjon...................................................................................................................... 3
+ 1.1.3.   Produktlansering   ............................................................................................................................. 4
+ 1.1.4.   Mulighetsledelse   .............................................................................................................................. 4
+ 1.1.5.   Kanalforberedelse ........................................................................................................................... 4
+ 1.1.6.   Operasjonell markedsføring   ............................................................................................................ 5
+ 1.2.   SALG OG FERDIGSTILLELSE   ................................................................................................................... 5
+ 1.2.1.   Planlegging av salgsaktiviteter ....................................................................................................... 6
+ 1.2.2.   Styring av kundebehandlingsprosesser ........................................................................................... 6
+ 1.2.3.   Operasjonelt salg ............................................................................................................................ 6
+ 1.2.4.   Operasjonell ferdigstillelse ............................................................................................................. 6
+ 1.3.   LEVERANSETJENESTER OG SUPPORT ..................................................................................................... 7
+ 1.3.1.   Planlegging og etablering av tjenester............................................................................................ 7
+ 1.3.2.   Leveranse av tjenester   ..................................................................................................................... 8
+ 1.3.3.   Teknisk støtte   ................................................................................................................................... 8
+ 1.3.4.   Driftsoperasjoner ............................................................................................................................ 9
+ 1.4.   REFERANSELISTE .................................................................................................................................. 9
+
+ 1.1 Innledning
+ Dette er fjerde leksjon innen produktforvaltning som henter mye av sitt innhold fra siste del
+av kapittel 6 (side 256 til 285 i læreboken). Hovedfokuset for denne leksjonen er
+markedsføring, salg og kundestøtte for programvarebaserte produkter og tjenester, og vi ser
+spesielt på hvilken rolle produktsjefen (eng. Software Product Manager) kan eller bør ha i
+denne sammenheng.
+ Figur 1 - The software product management body of knowledge
+ Som vi også var inne på i forrige leksjon så er produktsjefen avhengig av forskjellige
+funksjoner for å realisere en produktvisjon og for å kunne gjennomføre de planer som f.eks. er
+nedfelt i en veibeskrivelse for produktene (eng. Roadmap). De fire kolonnene til høyre i figur
+1 representerer funksjoner eller oppgaver hvor produktsjefen ikke nødvendigvis utfører selve
+jobben, men vedkommende kan likevel være en viktig støttespiller og en premissleverandør
+for dette arbeidet. I denne leksjonen gir vi en kort omtale av forskjellige
+markedsføringsaktiviteter (eng. marketing) som typisk gjennomføres for å identifisere og
+skaffe kunder, salg og ferdigstillelse (eng. sales & fulfilment) som omhandler forskjellige
+strategier for å generere inntekter og leveransetjenester og support (eng. delivery services &
+support) som fokuserer på at kundene skal kunne bruke programvaren mest mulig fornuftig i
+forhold til sine konkrete behov. Produktsjefen opererer som en bedriftsintern kunde som
+bidrar med bestillinger og input til disse funksjonene, mens selve ansvaret for å utføre disse
+funksjonene ligger hos andre i virksomheten. I resten av denne leksjonen har vi en kort
+gjennomgang av funksjonene som ligger innenfor den røde sirkelen i figur 1. Denne
+
+ gjennomgangen er basert på kildene [1], [2], [3] og [4], samt forfatternes egne erfaringer med
+forvaltning av it-baserte produkter og tjenester.
+ 1.1.   Markedsføring
+ Markedsføring (eng. Marketing) foregår ofte i en egen avdeling (markedsføringsavdelingen)
+og denne avdelingen er typisk ansvarlig for alle aktiviteter som går på å forberede og støtte
+salgsaktivitetene rundt produktene. Dette inkluderer å etablere kjennskap til produktet i
+markedet, samt det å forsøke å oppnå en hensiktsmessig posisjonering av produktet i
+markedet.
+ I noen firma kan produktsjefsjobben og markedsføringsjobben kombineres, mens andre (og
+helst litt større) firma gjerne har en egen avdeling som rendyrker markedsføring. Delingen av
+ansvar mellom markedsføringsavdelingen og salgsavdelingen kan også variere noe fra selskap
+til selskap. Dette er kanskje mest avhengig av bedriftens størrelse hvor tendensen er at man
+rendyrker roller som salg (egen salgsavdeling) og markedsføring (egen markedsavdeling) i
+større foretak, mens dette kan kombineres for mindre foretak som ikke har like mye ressurser.
+ 1.1.1. Planlegging av markedsføringsaktiviteter
+ Planlegging av markedsføringsaktiviteter (eng. Marketing Planning) handler om å utvikle
+planer for alle markedsføringsrelaterte aktiviteter, og å få aksept for disse planen. Dette
+omhandler gjerne forhandlinger med andre interessenter (hvor produktsjefen typisk er
+involvert) siden planene setter føringer og rammer for hva som kan gjøres fremover. En slik
+plan gjelder vanligvis for en gitt tidsramme, f.eks. et år, og den inkluderer typisk et budsjett
+for respektive aktiviteter innenfor planperioden. Planene kan være produktspesifikke eller de
+kan gjelde for en gruppe av produkter og det er viktig at disse planene blir synkronisert med
+andre aktiviteter. I denne sammenheng er både bedriftens overordnede strategi (eng. corporate
+strategy), produktstrategien(e), eventuelle planer for produktutvikling og eventuelle planer for
+salgsaktiviteter relevante.
+ 1.1.2. V erdi-kommunikasjon
+ Verdi-kommunikasjon (eng. Value Communication) handler om hvordan man effektivt
+formidler verdien av et programvareprodukt til målgruppen og andre interessenter. I den
+sammenheng er det vanlig å beskrive en såkalt verdiproposisjon for programvareproduktet.
+Dette handler om å beskrive hva som gjør produktet unikt og verdifullt for kundene og
+hvordan produktet bidrar til å løse kundenes behov. Dette inkluderer også identifikasjon av
+målgruppen som produktet henvender seg til, hvor man også forsøker å forstå deres behov og
+preferanser.   Verdi-kommunikasjon er sentralt   for å overbevise potensielle kunder om
+fordelene med programvareproduktet. Målet er både å få nye kunder, samt å beholde
+eksisterende kunder og over tid bygge en lojal kundebase. Det handler om å formidle et godt
+og fornuftig budskap om produktet, gjennom relevante kanaler, med mål om å maksimere
+produktets suksess i markedet.
+
+ 1.1.3. Produktlansering
+ Produktlansering (eng. Product Launches) handler om innføring av et nytt produkt, en ny
+versjon eller en ny utgivelse i et marked. De som jobber med markedsføring må ta ansvar for
+alle aktiviteter som har til hensikt å skape oppmerksomhet om produktlanseringen for
+eksisterende eller potensielle fremtidige kunder. For å nå ut til kundene kan man benytte
+fagpressen, samarbeid med markedsbyråer, gjennomføre forskjellige kampanjer, etc.
+Produktsjefen er typisk involvert i dette arbeidet, sammen med utviklingsavdelingen,
+salgsavdelingen, ledelsen og aktuelle partnere. Noen ganger involveres også kundene (noen
+av kundene) i arbeidet med å skape blest om en produktlansering.
+ 1.1.4. Mulighetsledelse
+ Mulighetsledelse (eng. Opportunity Management) handler om å være kontinuerlig på jakt
+etter å identifisere nye forretningsmuligheter med tanke på å utvikle disse mulighetene til
+konkret forretningsmessig suksess i relasjon til produktene. Dette arbeidet kan bestå av
+forskjellige elementer, f.eks. utforming av krav til produktene som vil bidra til framtidig
+suksess, utvikling og implementering av nye markedsføringstiltak som i sin tur vil bidra til
+økt inntjening, eller det å inngå et tett samarbeid med salgsavdelingen om gjennomføring av
+forskjellige kampanjer.
+ 1.1.5. K analforberedelse
+ K analforberedelse (eng. Channel Preparation) handler om å forberede salgs- og
+distribusjonskanaler for å selge programvareproduktet og for å bringe produktene ut til
+kundene. Valgte salgs- og distribusjonskanaler gjøres klar til å selge et nytt produkt, en ny
+versjon eller en annen utgivelse av produktet. Det inkluderer utarbeidelse og
+tilgjengeliggjøring av materialer som skal være en del av utgivelsen og det kan innebære
+oppdatering av nettsider, dokumentasjon på kundehistorier, etc.
+ I forbindelse med dette arbeidet trenger man å identifisere de mest hensiktsmessige salgs- og
+distribusjonskanalene for programvareproduktet basert på målgruppens behov, markedets
+natur og konkurransesituasjonen. Dette kan inkludere direkte salg fra
+programvareleverandøren, online markedsføring og salg vi nettsider eller salg og distribusjon
+vi forhandlere eller andre partnere. Man trenger typisk og inngå relevante avtaler med
+forhandlere eller andre partnere som skal bidra med salg og distribusjon av produktene. Dette
+kan f.eks. inkludere avtaler om provisjoner, salgsstøtte og opplæring av kundene. Hvilke
+kanaler som velges er avhengig av produktets natur siden noen produkter krever lange
+innsalgsprosesser med demonstrasjon av funksjonalitet for kundene, mens andre produkter
+kan selges som standard hyllevare.
+ K analforberedelse er avgjørende for å sikre at programvareproduktene når målgruppen på en
+effektiv måte og at man oppnår tilgjengelighet og synlighet for produktene i markedet man
+henvender seg til.
+
+ 1.1.6. Operasjonell markedsføring
+ Operasjonell markedsføring (eng. Operational Marketing) går ut på å sette
+markedsføringsplanen ut i live (altså å gjennomføre planlagte markedsføringstiltak), å
+framskaffe data fra relevante målinger og å sørge for at man tar korrigerende tiltak når
+målingene avviker fra planene. Produktsjefen er typisk ansvarlig for å koordinere dette
+arbeidet og dette innebærer å sørge for at produktet blir en del av markedsføringsplanen, å
+sikre at planen blir gjennomført og å samarbeide om produktlanseringer med aktuelle kanaler
+og partnere. Produktsjefen kan typisk delta i noen markedsføringshendelser, men en
+produktsjef kan være selektiv og trenger ikke delta på alt.
+ Det er også vanlig at folk som ikke har markedsføring som hovedaktivitet yter støtte til
+markedsføringsaktivitetene (eng. Marketing Support), som kort og godt handler om å hjelpe
+til med markedsføringen. Det kan f.eks. være produksjon og distribusjon av markedsmateriell,
+organisering og gjennomføring av markedsføringsaktiviteter (konferanser, møter med
+brukergrupper, etc.). Videre kan dette inkluderer det å dokumentere de
+markedsføringsaktiviteter som gjennomføres, samt hvilke resultater man oppnår med de
+forskjellige aktivitetene.
+ For mer informasjon om markedsføring i tilknytning til forvaltning av programvareprodukter,
+se læreboken [1, pp. 256–264]
+ 1.2.   Salg og ferdigstillelse
+ Salg og ferdigstillelse (eng. Sales & Fulfillment) er egentlig to forskjellige ting som i dette
+rammeverket (fig. 1) omtales under samme paraply. Salgsavdelingen er den enheten som har
+ansvaret for alle salgsaktiviteter i et selskap. Selve delingen av ansvaret mellom
+markedsføring og salg kan imidlertid variere fra selskap til selskap og dette betyr at noen
+salgsavdelinger også jobber med markedsføringsaktiviteter.
+ Ferdigstillelse handler om distribusjon og det å gjøre produktene tilgjengelig for kundene og
+brukerne. Dette kan omfatte logistikk i forhold til å transportere produkter til butikker, man
+kan legge opp til nedlastning av produkter via internett eller levering på fysiske
+lagringsmedier (f.eks. USB-Stick/ CD) til kundene etter at innkjøpet er gjort. Distribusjon av
+programvareprodukter kan være et ansvarsområde som ligger til salgsavdelingen, men det er
+heller ikke uvanlig at distribusjonsansvaret tilhører en annen avdeling.
+ Produktsjefens koordinerende ansvar omfatter i denne sammenheng å sørge for at produktet
+blir en del av salgsplanene og spesielt at eventuelle insentiver (f.eks. salgsbonuser) blir en del
+av planene. Videre må produktsjefen påse at planene følges og at kundene får det de forventer
+og blir fornøyde. Man må følge opp eventuelle produktspesifikke forpliktelser ovenfor
+kundene, samt håndtere kundenes krav slik at det blir en fornuftig balanse mellom kortsiktig
+krav til salgstall og langsiktige krav til produktutvikling. Det er også viktig at man ikke selger
+mer enn man faktisk kan levere (unngår oversalg av «promiseware») og at man ikke avviker
+fra minste akseptable prisnivå eller etablerte prisstrukturer. Produktsjefen kan velge å delta i
+noen salgsmøter, f.eks. innledende salgsmøter (eng. pre-sales) med viktige nøkkelkunder
+(eng. key customers).
+
+ 1.2.1. Planlegging av salgsaktiviteter
+ Planlegging av salgsaktiviteter (eng. Sales Planning) handler om å legge en plan for
+salgsaktivitetene som skal foregå innenfor en gitt periode (typisk ett år) og å sørge for at disse
+planene er forankret og akseptert på riktig nivå i organisasjonen. Disse planene vil inneholde
+hvilke salgsmål man har og hvilke insentiver som skal utløses etter hvilke nivåer. Planene kan
+være produktspesifikke eller de kan gjelde for en gruppe av produkter, og det er viktig at
+planene blir synkronisert med andre aktiviteter. I denne sammenheng er både bedriftens
+overordnede strategi, strategier og planer i tilknytning til produktene og
+markedsføringsplanen relevant.
+ 1.2.2. Styring av kundebehandlingsprosesser
+ Styring av kundebehandlingsprosesser (eng. Customer Relationship Management (CRM)).
+CRM brukes også på norsk og dette omhandler systematisk styring av selskapets samhandling
+mot kunder, salgskanaler og andre samarbeidspartnere. Arbeidet består i å kommunisere med
+kundene, drive kunnskapsforvaltning (eng. Knowledge Management) og å involvere kundene
+i utvikling av krav til produktene. Det er viktig at de som jobber med styring av
+kundebehandlingsprosesser (CRM) ikke bare fokuserer på kortsiktig salgssuksess, men at de
+også sørger for gode og langsiktige kunderelasjoner.
+ 1.2.3. Operasjonelt salg
+ Operasjonelt salg (eng. Operational Sales) går ut på å gjennomføre de aktiviteter som er
+beskrevet i salgsplanen, sørge for å måle hvordan man ligger an (f.eks. i forhold til
+salgsbudsjettet) og å gjennomføre korrigerende tiltak når målingene viser at det er avvik fra
+planene. Operasjonelt salg omhandler utarbeidelse av tilbud, gjennomføring av forhandlinger
+med kundene og etablering av endelig kontrakt for leveransene.
+ I denne sammenheng er det også relevant å utøve såkalt salgsstøtte (eng. Sales Support), som
+handler om å gi hjelp til selgerne og de som jobber i salgskanalene. Det kan f.eks. være
+kommunikasjon mot kundene som enten initieres av selgerne eller som initieres av kundene
+selv der kundene typisk kan ta kontakt via et supportsenter eller lignende. Salgsstøtte kan
+også omhandle organisering og gjennomføring av salgsarrangementer (kundebesøk, møter
+etc.), eller det kan være utarbeidelse og overlevering av salgsfremmende markedsmateriell på
+forespørsel fra kundene og/eller selgerne. Videre kan dette gå ut på å dokumentere de
+salgsaktiviteter som gjennomføres og hvilke resultater man oppnår med de forskjellige
+aktivitetene.
+ 1.2.4. Operasjonell ferdigstillelse
+ Operasjonell ferdigstillelse (eng. Operational Fulfillment) innebærer å sørge for at ordrene
+blir håndtert i en jevn strøm og at distribusjonsprosessene også går jevnt og trutt. Man må
+sørge for tilstrekkelig med forsyninger dersom produktene distribueres fysisk, man må sørge
+for å ha stabile og enkle løsninger i forhold til elektronisk bestilling og distribusjon og man
+må sørge for at faktureringen foregår på en effektiv og god måte.
+ For mer informasjon om salg og ferdigstillelse, se læreboken [1, pp. 265–272]
+
+ 1.3.   Leveransetjenester og support
+ Leveransetjenester og support (eng. Delivery Services & Support) organiseres også forskjellig
+hos forskjellige produktleverandører. Noen kan f.eks. ha en egen konsulentavdeling med
+ansatte som bistår kundene (gjerne ute hos kundene), en egen kundestøtteavdeling (også kalt
+supportavdeling, servicesenter, hjelpesenter, helpdesk,) hvor kundene som trenger hjelp og
+støtte i sitt daglige arbeid med bruk av applikasjonen henvender seg, en egen kursavdeling
+som utvikler og selger kurs til kundene, osv.
+ Til sammen så er de som er ansvarlig for   leveransetjenester og support   ansvarlig for alle
+tjenester som tilbys og leveres til kunder. Dette kan være både produktrelaterte tjenester og
+andre konsulenttjenester som ikke er knyttet opp imot noe bestemt produkt. Sistnevnte ligger
+derfor utenfor produktsjefens ansvarsområde.
+ Produktrelaterte tjenester kan som vi har vært inne på omfatte flere ting. Dette kan være
+opplæring i bruk av produktene, bistand til installasjon av produktene, tilpasning av produktet
+til den aktuelle kunden sine konkrete behov (f.eks. parametersetting eller integrering mot
+andre systemer), drift av systemene eller det å drifte et supportsenter som tilbyr hjelp og støtte
+både for tekniske og faglige (ikke-tekniske) problemer. Vanligvis blir flere av disse tjenestene
+priset separat, men det finnes også eksempler på at supportavtalene inngår som en del av
+programvaretilbudet. Et supportsenter tilbyr altså support til sine kunder og dette dekkes
+normalt av avtalene som er inngått. Videre vil supportsenteret tilby intern støtte til de som
+jobber med markedsføring og salg.
+ Produktsjefen sitt koordinerende ansvar omfatter dette med at styring av produktrelaterte
+tjenester skal være en del av produkttilbudet. Man må derfor loggføre hvordan denne
+tjenesteproduksjonen faktisk foregår, samt sørge for at man har de ressurser og den
+kompetanse som skal til for at dette skal fungere.
+ I følgende fire avsnitt får vi en kort gjennomgang av hva aktivitetene innenfor
+leveransetjenester og support omfatter, med utgangspunkt i figur 1.
+ 1.3.1. Planlegging og etablering av tjenester
+ Planlegging og etablering av tjenester (eng. Service Planning & Preparation) handler om å
+legge en plan for tjenestene som skal tilbys innenfor en gitt periode (f.eks. ett år) og å sørge
+for at disse planene er forankret og akseptert på riktig nivå i organisasjonen. Disse planene vil
+inneholde hvilke mål man har og hvilke insentiver som skal utløses dersom man når målene.
+Disse planene må også synkroniseres med produktstrategier, konkrete planer for produktene
+og eventuelle markedsføringsplaner. Planleggingsarbeidet kan inkludere å utvikle en teknisk
+plattform for tjenestene (dersom dette er nødvendig) og et budsjett som sier noe om forventet
+etterspørsel etter tjenestene, hva slags ressurser som trengs, hva slags kompetanse som trengs,
+samt hva slags markedsmateriell man bør utvikle og hva slags markedsføringsaktiviteter man
+bør gjennomføre i forbindelse med tjenestetilbudet. Produktsjefen kan være involvert i deler
+av dette arbeidet, f.eks. å estimere forventet etterspørsel etter tjenestene.
+
+ 1.3.2. Leveranse av tjenester
+ Leveranse av tjenester (eng. Service Execution) handler om å utføre de planene man har lagt i
+forhold til tjenesteleveranser. Som en del av dette er det relevant å gjennomføre målinger for å
+se om man leverer i henhold til planene og forventningene og å sette inn eventuelle
+korrektivtiltak der målingene avviker fra planene.
+ Dette området fokuserer altså på effektiv levering av tjenester og støtte til kundene og
+brukerne av programvareproduktet, etter at produktet er tatt i bruk av kundene. Dette kan
+inkludere opplæring i bruk av programvareproduktet, teknisk støtte i forbindelse med drift av
+produktet, vedlikeholdstjenester og generell rådgivning i forhold til optimal bruk av
+produktene i en forretningsmessig kontekst. Dette er sentralt for å opprettholde
+kundetilfredshet, bygge kundelojalitet og sikre at programvareproduktene leverer verdi for
+kundene i hele sin levetid. Effektive og godt gjennomførte tjenesteleveranser kan bidra til å
+bygge et positivt omdømme for både programvareproduktene og selskapet som leverer disse.
+ 1.3.3. Teknisk støtte
+ Teknisk støtte (eng. Technical Support) handler om å tilby hjelp og støtte til kundene når de
+får problemer i tilknytning til bruk av applikasjonen. Kundene inngår ofte en
+vedlikeholdskontrakt som inkluderer teknisk støtte eller de tegner en egen avtale for support
+og teknisk støtte og det er denne/disse avtalen(e) leverandøren må sørge for å etterleve.
+Teknisk støtte deles gjerne inn i flere nivå og her er noen eksempler i denne sammenheng:
+ •   Førstenivå (Level 1): Dette er kundene sitt kontaktpunkt (ofte kalt   Single Point of
+Contact ) og det er hit de henvender seg når problemer har oppstått. Dette kan også kalles
+en   «help desk»   og man kan som regel henvende seg dit ved hjelp av flere medier som
+telefon, internett, etc.
+ •   Andrenivå (Level 2): Dette kan også ha flere navn (f.eks. teknisk vedlikehold) og det
+består typisk av folk som svarer på mer kompliserte spørsmål og gjerne spørsmål som
+ikke lar seg besvare umiddelbart på førstenivå. En større programvare- og
+tjenesteleverandør vil typisk ha flere personer på vakt på andrenivå, som løser «mer
+kompliserte» kundeproblemer, etter hvert som de oppstår. Kundene kan som regel ikke
+kontakte andrenivå direkte, men de må gå via førstenivå for å få sin sak registrert.
+ •   Tredjenivå (Level 3): Dette kan også ha forskjellige navn (f.eks. endringsteamet) og det er
+ofte utviklingsavdelingen som er ansvarlig for tredjenivå support. Henvendelser til
+tredjenivå kommer som regel fra andrenivå og disse henvendelsene utløses typisk av feil i
+programvaren, som utviklerne må se på og eventuelt rettet opp i.
+ Alle henvendelser fra kundene må kategoriseres i forhold til hva slags type henvendelser det
+er snakk om. Dette kan være kategorier som: (1) feil i programvaren, (2) ønske om ny
+funksjonalitet i programvaren, (3) ikke tekniske problemer som f.eks. råd om hvordan en
+oppgave best kan løses med programvaren, etc. Alle henvendelser fra kundene skal ideelt sett
+dokumenteres i en database for kundehenvendelser og dette er typisk en del av et CRM-
+system. Dokumentasjon av kundehenvendelser er også viktig i senere kommunikasjon med
+kunder.
+
+ 1.3.4. Driftsoperasjoner
+ Driftsoperasjoner (eng. Operations) handler i denne sammenheng om en tjenesteleverandørs
+drift av IT-produkter og tjenester som benyttes av eksterne kunder. Slik drift er et
+nøkkelelement for alle produkter som tilbys som SaaS (Software as a Service), samt produkter
+og tjenester som tilbys som kundespesifikke administrerte tjenester. Ved slike leveranser er
+det leverandøren som påtar seg ansvaret med å drifte programvaren på et internt eller eksternt
+datasenter, for så å gi kundene den tilgangen de skal ha. Kvalitetskravene for slike
+tjenesteleveranser er ofte definert i såkalte tjenestenivåavtaler (Service Level Agreement
+(SLA)) og disse SLA’ene er typisk en del av kontrakten med kunden.
+ Arbeidet inkluderer blant annet administrasjon av den daglige driften av
+programvareproduktene, inkludert overvåking av ytelsen, sikkerhetskopiering, rutinemessig
+vedlikehold og håndtering av programvareoppdateringer. Man etablerer gjerne kontinuerlig
+overvåking av programvarens ytelse for å oppdage og løse ytelsesproblemer, flaskehalser og
+feil i sanntid. Videre er identifikasjon og rask retting av feil og problemer som brukere
+rapporterer sentralt. Dette inkluderer implementering av feilrettingsprosedyrer og testing av
+rettelsene før endringer gjøres tilgjengelig for kundene.
+ Gode driftsoperasjoner er avgjørende for å sikre at programvareproduktene levere verdi for
+kundene og at man opprettholder en høy standard for ytelse og pålitelighet etter at produktene
+er lansert. Godt gjennomførte driftsoperasjoner bidrar til å bygge et sterkt omdømme og
+lojalitet blant brukerne.
+ For mer informasjon om leveransetjenester og support, se læreboken [1, pp. 272–278]
+ 1.4.   Referanseliste
+ [1]   H.-B. Kittlaus,   Software Product Management - The ISPMA-Compliant Study Guide
+and Handbook, 2nd Edition . Springer, 2022.
+ [2]   S. A. Fricker, “Software Product Management,” in   Software for People , Springer,
+2012, pp. 53–81. Accessed: Aug. 29, 2023. [Online]. Available:
+http://link.springer.com/10.1007/978-3-642-31371-4_4
+ [3]   W. Bekkers, I. van de Weerd, M. Spruit, and S. Brinkkemper, “A framework for
+process improvement in software product management,” in   Systems, software and services
+process improvement , Springer, 2010, pp. 1–12. Accessed: Aug. 29, 2023. [Online].
+Available: http://link.springer.com/chapter/10.1007/978-3-642-15666-3_1
+ [4]   C. Ebert, “The impacts of software product management,”   J. Syst.   Softw. , vol. 80, no.
+6, pp. 850–861, 2007.

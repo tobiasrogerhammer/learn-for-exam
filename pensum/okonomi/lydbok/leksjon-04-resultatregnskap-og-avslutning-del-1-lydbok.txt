@@ -1,0 +1,323 @@
+# Leksjon 4: Resultatregnskapet og avslutning av regnskapet, del 1
+
+Velkommen til leksjon 4. I forrige leksjon gikk vi gjennom balansen, og du så hvilken effekt økonomiske transaksjoner har på den. Nå skal vi se på den andre store delen av regnskapet, nemlig resultatregnskapet. Resultatregnskapet består av inntekter og kostnader.
+
+Du skal lære hvordan inntekter og kostnader føres, hva periodisering er, hvordan avskrivinger fungerer, og hvordan du avslutter regnskapet ved overskudd og ved underskudd. Til slutt setter vi opp en komplett kontoplan for Jostein AS, og vi avslutter regnskapet for januar med både resultatregnskap og balanse.
+
+# Hva resultatregnskapet er
+
+Dette kapitlet handler om hva et resultatregnskap skal vise, og hvorfor bedriften trenger det.
+
+Et resultatregnskap skal vise en bedrifts resultat for en bestemt periode. Perioden kan være en måned, et halvt år eller et år. Små foretak avslutter ofte regnskapet bare én gang i året. Større selskaper kan avslutte oftere. Resultatregnskapet skal inneholde alle inntekter og alle kostnader for bedriften i den aktuelle perioden.
+
+Resultatregnskapet er et hjelpemiddel i den økonomiske styringen. Når du beregner resultatet, blir det lettere å planlegge virksomheten. Det er vanlig å sammenligne flere perioder, for å se hvordan det går nå sammenlignet med forrige periode. Har bedriften store sesongsvingninger, er det lurt å sammenligne med samme periode året før. Et annet styringsverktøy er å sammenligne regnskapstallene med budsjettet, for å se om det er samsvar mellom budsjett og resultatregnskap.
+
+Formelen for resultatet er enkel. Resultatet er inntektene minus kostnadene.
+
+De fleste virksomheter har som hovedmål å tjene penger, altså å gå med overskudd. Bedriften får overskudd når inntektene er større enn kostnadene. Er kostnadene størst, har bedriften gått med underskudd i perioden.
+
+# Inntekter og innbetaling
+
+Nå skal vi se på hvordan inntekter føres, og hva som skiller en inntekt fra en innbetaling.
+
+Alt salg av varer og tjenester skal føres som salgsinntekt. Inntekten føres i det øyeblikket du leverer varen eller tjenesten. Inntekten er godtgjørelsen, eller betalingen, for det du har levert.
+
+En innbetaling er noe annet. Innbetalingen skjer i det øyeblikket du faktisk mottar pengene for varen eller tjenesten.
+
+I leksjon 3 førte vi alle transaksjoner direkte mot balansen. I virkeligheten skal alle transaksjoner som påvirker egenkapitalen føres via resultatregnskapet. Inntekter er en underkonto av egenkapitalen. Derfor følger inntekter de samme reglene som egenkapitalen. Når inntektene øker, fører du i kredit. Når inntektene reduseres, fører du i debet.
+
+Motposten til en salgsinntekt er som regel at en eiendel i balansen øker, og det føres i debet. Det kan være kontanter, bank eller kundefordringer. Det kommer an på hvordan kunden betaler. Betaler kunden kontant, debiterer du kontanter. Setter kunden penger inn på bedriftens bankkonto, debiterer du bank. Får kunden kreditt, debiterer du kundefordringer. I alle tre tilfellene krediterer du inntekten.
+
+Noen ganger kan du også debitere kontoen for salgsinntekter. Det skjer for eksempel hvis du får varer i retur, eller hvis kunden får en eller annen form for rabatt.
+
+La oss se på tre eksempler med T-kontoer. Bedriften har solgt varer for 5000 kroner. I det første eksemplet er det kontantsalg. Konto 30 10 Salgsinntekter får 5000 kroner i kredit, og konto 19 hundre Kontanter får 5000 kroner i debet. I det andre eksemplet blir pengene satt inn på bankkontoen. Da får konto 30 10 Salgsinntekter 5000 kroner i kredit, og konto 19 20 Bankinnskudd får 5000 kroner i debet. I det tredje eksemplet er det kredittsalg. Da får konto 30 10 Salgsinntekter 5000 kroner i kredit, og konto 15 hundre Kundefordringer får 5000 kroner i debet.
+
+# Kontantsalg, kredittsalg og renteinntekter
+
+Her ser vi nærmere på forskjellen mellom kontantsalg og kredittsalg, og på hvordan renter på bankinnskudd føres.
+
+Når du får betalt i det du leverer varen eller tjenesten, har du et kontantsalg. Salgsinntektene øker, og det føres i kredit. Eiendelen kontanter øker, og det føres i debet. Et kontantsalg gir bare én transaksjon i regnskapet.
+
+Hvis kunden får kreditt, har du et kredittsalg. Da får du ikke betalt når varen leveres. Du kan derfor ikke øke kontanter eller bank. I stedet bruker du kontoen for kundefordringer. Et kredittsalg består av to transaksjoner.
+
+Den første transaksjonen skjer ved levering av varen. Salgsinntektene øker, og det føres i kredit. Eiendelen kundefordringer øker, og det føres i debet.
+
+Den andre transaksjonen skjer når kunden betaler. Eiendelen kundefordringer reduseres, og det føres i kredit. Eiendelen bank øker, og det føres i debet.
+
+Så til renteinntekter. Et bankinnskudd er en finansiell plassering. Man skiller vanligvis mellom brukskonto og sparekonto. Brukskontoen bruker bedriften i det daglige. Penger fra kunder kommer inn på den, og bedriften betaler fakturaene sine fra den. I tillegg er det vanlig å ha en eller flere sparekontoer for mer langsiktig plassering. En sparekonto gir som regel høyere rente enn brukskontoen.
+
+Godtgjørelsen bedriften får for å ha pengene stående i banken, kalles renter. Når du fører renter på bankinnskudd, øker eiendelen bankinnskudd, og det føres i debet. Renteinntektene øker, og det føres i kredit.
+
+Kort oppsummert: inntekter føres i kredit når de øker. Motposten er nesten alltid en eiendel som øker i debet, enten kontanter, bank eller kundefordringer.
+
+# Kostnader og utbetaling
+
+Dette kapitlet handler om forskjellen mellom kostnad, utgift og utbetaling, og om hvilke typer kostnader en bedrift har.
+
+En kostnad er bedriftens forbruk av varer og tjenester i perioden, målt i penger. Det bedriften har kjøpt av ressurser i perioden, kalles en utgift. I det øyeblikket bedriften betaler, har den gjort en utbetaling.
+
+Legg merke til skillet mellom forbruk og kjøp. En utgift gjelder tidspunktet da du anskaffer varen. En kostnad gjelder en periode, for eksempel en måned. Man kan si at en kostnad er en periodisert utgift. Hva periodisering betyr, kommer vi til om litt.
+
+En kostnad fører enten til at en eiendel reduseres, eller til at gjelden øker. Regnskapsreglene for kostnader er motsatt av inntektene. Når kostnadene øker, fører du i debet. Når kostnadene reduseres, fører du i kredit.
+
+En bedrifts kostnader kan deles inn i fire hovedkategorier. Den første er varekostnader. Den andre er lønnskostnader. Den tredje er andre driftskostnader, der blant annet avskrivinger hører med. Den fjerde er finanskostnader, for eksempel renter på lån.
+
+Varekostnader er vareforbruket bedriften har for å lage eller skaffe varer for salg. Det er bare handelsbedrifter og produksjonsbedrifter som har varekostnader.
+
+Det de ansatte får for å utføre arbeidet sitt, kalles lønn. Lønnskostnadene føres på konto for lønnskostnader.
+
+Varige driftsmidler, som biler og lignende, føres som eiendeler i balansen. Som du vet, faller biler i verdi. Derfor gjør bedriften avskrivinger på driftsmidlet, slik at verdien til enhver tid blir riktig. Avskrivingen føres som en kostnad i regnskapet.
+
+De fleste bedrifter må kjøpe tjenester fra andre. Slike tjenester føres som andre driftskostnader. Eksempler er reisekostnader, finansiell, økonomisk eller juridisk rådgivning, reklamekostnader, reparasjon og vedlikehold av bygninger, og frakt og transport. Andre eksempler er telefon, strøm, leie av lokaler, forsikringsavtaler og banktjenester.
+
+Kort oppsummert: en utgift er kjøpet, en utbetaling er betalingen, og en kostnad er forbruket i perioden. Kostnader føres i debet når de øker.
+
+# Periodisering av inntekter og kostnader
+
+Nå skal vi se på periodisering, det vil si å plassere inntekter og kostnader i riktig periode.
+
+Resultatregnskapet skal vise inntekter og kostnader for én periode. For at bildet av resultatet skal bli riktig, må inntekter og kostnader føres på riktig periode. Å beregne inntekten og kostnaden for en periode kalles å tidsavgrense eller å periodisere. Periodisering påvirker også balansen.
+
+Inntekter føres når de er opptjent, altså når varen er levert. Kostnader føres når de er forbrukt eller påløpt. Derfor må du ved avslutningen av regnskapet fordele inntekter og kostnader på riktig periode.
+
+Her er et eksempel. En bedrift kjøper printerpapir i januar for hele første halvår, for 3000 kroner. Utgiften, altså det bedriften betaler, er 3000 kroner i januar, hvis betalingen skjer i januar. Vi antar at bedriften bruker like mye papir hver måned. Da blir kostnaden per måned 3000 kroner delt på 6 måneder, som er 500 kroner.
+
+Hele utgiften på 3000 kroner hører til januar. Men kostnaden fordeles med 500 kroner per måned, for å gi et så riktig bilde av resultatet som mulig. Det du gjør, er å føre 3000 kroner i balansen først, og så kostnadsføre 500 kroner hver måned i resultatregnskapet. Hvordan dette føres teknisk, ser vi under forskuddsbetalte utgifter.
+
+Hvor nøye bedriftene er med periodisering gjennom året, varierer mye. Men de fleste periodiserer, særlig ved årsskiftet, for å få et så korrekt årsresultat som mulig.
+
+Det er fire ulike korreksjoner som kan være aktuelle når du periodiserer. Vi tar dem én etter én.
+
+Den første typen er inntekter som er opptjent, men som ikke er regnskapsført. Det kan være at faktura ikke er sendt ennå. Dette påvirker en inntektskonto og en eiendelskonto. Du krediterer inntektskontoen, for eksempel konto 30 10 Salgsinntekt, og inntekten øker. Du debiterer en eiendel, for eksempel konto 17 hundre Påløpt inntekt, og eiendelen øker.
+
+Den andre typen er inntekter som ikke er opptjent ennå, og som skal fordeles på to eller flere perioder. Et typisk eksempel er forskuddsbetaling fra en kunde. Dette påvirker en inntektskonto og en gjeldskonto. Når inntekten blir opptjent, krediterer du inntektskontoen, for eksempel konto 30 10 Salgsinntekt, og inntekten øker. Samtidig debiterer du gjeldskontoen, for eksempel konto 29 90 Annen kortsiktig gjeld, og gjelden reduseres.
+
+Den tredje typen er utgifter som skal fordeles på to eller flere perioder. Eksempler er husleie og forsikring som er betalt på forskudd. Dette påvirker en kostnadskonto og en eiendelskonto. Du debiterer riktig kostnadskonto, og kostnaden øker. Du krediterer eiendelskontoen, for eksempel konto 15 70 Andre kortsiktige fordringer, og eiendelen reduseres.
+
+Den fjerde typen er kostnader som er påløpt, men som ikke er regnskapsført. Eksempler er ubetalt lønn og skyldige renter. Dette påvirker en kostnadskonto og en gjeldskonto. Du debiterer riktig kostnadskonto, og kostnaden øker. Du krediterer gjeldskontoen, for eksempel konto 29 90 Annen kortsiktig gjeld, og gjelden øker.
+
+Kort oppsummert: det finnes fire tilfeller. Opptjent inntekt som ikke er ført, forskuddsbetalt inntekt fra kunde, forskuddsbetalt utgift, og påløpt kostnad som ikke er ført.
+
+# Forskuddsbetalte utgifter og påløpte kostnader
+
+Her går vi i dybden på type tre og fire, med regneeksempler fra Jostein AS.
+
+Først to definisjoner. En forskuddsbetalt utgift er en utgift som gjelder neste periode, men som er betalt på forskudd. En påløpt kostnad er en kostnad som gjelder inneværende periode, men som ikke er betalt.
+
+Det er vanlig at bedrifter betaler utgifter som gjelder flere perioder. Da forskuddsbetaler de. Når de betaler, føres utgiften som en eiendel i balansen. Deretter kostnadsføres den etter hvert som den blir forbrukt. Eksempler på utgifter som forskuddsbetales, er husleie, strøm, lønn og forsikringer.
+
+Her er eksemplet. Jostein AS betalte 20. januar husleie for hele året, det vil si 12 måneder. De betalte totalt 24000 kroner. De skal kostnadsføre en tolvdel av husleia hver måned, og 24000 kroner delt på 12 er 2000 kroner.
+
+Den 20. januar føres betalingen. Forskuddsbetalte utgifter øker med 24000 kroner, og det føres i debet. Bank reduseres med 24000 kroner, og det føres i kredit.
+
+Den 31. januar føres husleiekostnaden for januar. Husleiekostnad øker med 2000 kroner, og det føres i debet. Forskuddsbetalte utgifter reduseres med 2000 kroner, og det føres i kredit. I februar og resten av året blir føringen den samme som 31. januar.
+
+Legg merke til at det bare er kostnaden på 2000 kroner som påvirker resultatet i januar. Utgiften på 24000 kroner øker eiendelen forskuddsbetalte utgifter og reduserer eiendelen bank. Det er bare en flytting mellom to eiendeler, så egenkapitalen påvirkes ikke.
+
+Hva om bedriften hadde kostnadsført hele husleia i januar? Da ville januarresultatet blitt 22000 kroner dårligere enn det egentlig er. Regnestykket er 24000 minus 2000, som er 22000. Her ser du hvor viktig det er å periodisere.
+
+Så til påløpte kostnader. Ved slutten av en periode kan bedriften ha kostnader som den ennå ikke har betalt. Påløpte kostnader som ikke er betalt, føres som gjeld i balansen. De øker kostnadene i perioden og reduserer overskuddet. Hvis du ikke periodiserer påløpte kostnader, blir resultatet i perioden for høyt. Det er altså motsatt av det som skjer hvis du ikke periodiserer forskuddsbetalte utgifter. Eksempler på påløpte kostnader er lønn, strøm, renter og husleie.
+
+La oss snu eksemplet. Nå betaler Jostein AS husleie på etterskudd, og de må føre en påløpt kostnad for januar. Den 31. januar øker husleiekostnaden med 2000 kroner, og det føres i debet. Kortsiktig gjeld øker med 2000 kroner, og det føres i kredit.
+
+Kort oppsummert: forskuddsbetalte utgifter ligger som en eiendel og kostnadsføres litt etter litt. Påløpte kostnader føres som kostnad nå og som gjeld i balansen til de blir betalt.
+
+# Avskriving av varige driftsmidler
+
+Dette kapitlet handler om hvordan verdifallet på varige driftsmidler føres i regnskapet.
+
+De fleste bedrifter kjøper varige driftsmidler. Det er ressurser som er ment for varig eie eller bruk i virksomheten. Eksempler er bygninger, tomter, biler, inventar og kontorutstyr. Som du lærte i leksjon 3, føres slike anskaffelser som eiendeler i balansen. Hvor lenge bedriften har driftsmidlet, kommer an på typen. En bygning har du som regel lenger enn en bil.
+
+Driftsmidler faller i verdi på grunn av slitasje og utrangering. I regnskapet tar vi hensyn til dette verdifallet ved å gjøre avskrivinger.
+
+Her er to definisjoner. En avskriving er en systematisk periodisering av anskaffelsesverdien over driftsmidlets økonomiske levetid. Den årlige verdiforringelsen som føres i regnskapet, kalles årets avskriving.
+
+Driftsmidler med begrenset økonomisk levetid skal avskrives etter en fornuftig avskrivingsplan. I praksis finnes det flere metoder for å beregne de årlige avskrivingene. Det kommer vi tilbake til i leksjonen om verdivurderinger.
+
+Regnskapsreglene for avskriving er slik. Eiendelen reduseres, og det føres i kredit på eiendelen. Kostnadene øker, og det føres i debet på kostnaden.
+
+Hvilke anskaffelser skal føres som varige driftsmidler og avskrives, og hvilke skal kostnadsføres med en gang? Det er vanlig å bruke skattelovens regler som grunnlag. Ifølge leksjonsteksten må to krav være oppfylt for at du skal balanseføre en anskaffelse. Det første kravet er at kostprisen er over 30000 kroner. Det andre kravet er at levetiden er mer enn 3 år. Legg merke til at regneeksemplet senere i leksjonen bruker en grense på 15000 kroner i stedet. Sjekk med læreboka hvilken grense du skal bruke.
+
+Er kravene ikke oppfylt, er det vanlig å kostnadsføre kjøpet direkte i resultatregnskapet. Typiske eksempler på kjøp som ikke oppfyller kravene, er papir, kontorrekvisita og datarekvisita.
+
+# Fasene i regnskapsarbeidet
+
+Før vi avslutter regnskapet, ser vi på de tre fasene regnskapsarbeidet deles inn i.
+
+Den første fasen er at alle kontoer åpnes. Det vil si at kontoer som konto 19 20 Bankinnskudd og konto 19 hundre Kontanter gjøres klare til bruk. Det første du gjør, er å legge inn inngående balanse. Som du lærte i leksjon 3, er inngående balanse i en periode det samme beløpet som utgående balanse i forrige periode.
+
+Her er et eksempel. Ved slutten av et år hadde bankkontoen, konto 19 20, en utgående balanse på 200000 kroner. Da blir inngående balanse 1. januar året etter også 200000 kroner på samme konto. Hvis bankinnskuddet står i debet i balansen, får konto 19 20 en inngående balanse på 200000 kroner i debet. Har en konto kreditsaldo i balansen, føres beløpet som inngående balanse i kredit. Regelen er altså at debet i balansen blir debet inngående balanse på kontoen, og kredit i balansen blir kredit inngående balanse på kontoen.
+
+Den andre fasen er at periodens økonomiske transaksjoner føres. Når alle inngående balanser er lagt inn, er du klar til å føre transaksjonene. Husk at alle transaksjoner skal føres på minst to kontoer, med like store beløp i debet og kredit. Dette kalles det dobbelte bokholderis prinsipp. Å registrere én transaksjon i regnskapet kalles en postering.
+
+Den tredje fasen er at regnskapet avsluttes. Saldoen på hver konto avsluttes og overføres enten til balansen eller til resultatregnskapet. Saldoen på inntekts- og kostnadskontoene avsluttes mot resultatregnskapet. Etter det beregner du periodens resultat, altså overskudd eller underskudd. Til slutt avsluttes resultatet mot egenkapitalkontoen i balansen. Hos Jostein AS føres resultatet i resultatregnskapet på konto 89 hundre Overføringer og disponeringer. Egenkapitalkontoen i balansen er konto 20 50 Annen egenkapital.
+
+Fase én og to har du jobbet med i leksjon 3 og tidligere i denne leksjonen. Nå ser vi nærmere på fase tre.
+
+Når regnskapet avsluttes, beregner du periodens resultat og overfører det til egenkapitalen i balansen. Ved overskudd øker egenkapitalen. Ved underskudd reduseres egenkapitalen. Alle kontoer i resultatregnskapet avsluttes ved slutten av perioden. Avslutter bedriften regnskapet én gang i året, den 31. desember, vil alle kontoer som starter på sifrene 3 til 8 begynne på null den 1. januar. Balansen viser derimot bedriftens finansielle stilling på et bestemt tidspunkt. Den viser eiendeler, gjeld og egenkapital ved slutten av perioden. Balansekontoene blir derfor aldri nullstilt på samme måte.
+
+Kort oppsummert: kontoene åpnes med inngående balanse, transaksjonene føres etter det dobbelte bokholderis prinsipp, og til slutt avsluttes resultatkontoene og resultatet flyttes til egenkapitalen.
+
+# Avslutning ved overskudd og underskudd
+
+Dette kapitlet viser hvordan resultatet beregnes og føres over til egenkapitalen, både ved overskudd og ved underskudd.
+
+For å beregne resultatet tar du inntektene og trekker fra kostnadene. Er inntektene størst, viser resultatkontoen en kreditsaldo. Er kostnadene størst, viser resultatkontoen en debetsaldo.
+
+Du har lært at alle kontoer skal balansere, altså ha lik sum i debet og kredit. Summerer du alle inntektskontoer og alle kostnadskontoer, blir debet og kredit som regel ikke like. Differansen mellom inntektene og kostnadene er resultatet, og det skal overføres til egenkapitalen i balansen.
+
+Leksjonen viser dette med en figur med to store T-kontoer. Den øverste er resultatregnskapet. På debetsiden, til venstre, står kostnadskontoene, det vil si kontoer som starter med 5, 6, 7 og 8. På kreditsiden, til høyre, står inntektskontoene, det vil si kontoer som starter med 3 og 8. Den nederste er balansen. På debetsiden står eiendelskontoene, som starter med 1. På kreditsiden står egenkapital og gjeldskontoene, som starter med 2. Under begge T-kontoene står det at sum debet er lik sum kredit.
+
+Først overskudd. Hvis summen av inntektene er større enn summen av kostnadene, har bedriften gått med overskudd. Da er kreditsiden større enn debetsiden i resultatregnskapet. For at debet og kredit skal bli like, bruker vi en resultatkonto. Jostein AS bruker konto 89 hundre Overføringer og disponeringer. Overskuddet føres i debet på konto 89 hundre. Det står da nederst på kostnadssiden i resultatregnskapet, slik at sidene blir like. Motposten føres i kredit på konto 20 50 Annen egenkapital i balansen. Kredit øker egenkapitalen. Overskudd øker altså egenkapitalen, og bedriften har mer midler til disposisjon i neste periode.
+
+Regelen ved overskudd er altså: debet konto 89 hundre Overføringer og disponeringer, og kredit konto 20 50 Annen egenkapital.
+
+Så underskudd. Da blir føringen motsatt. Summen av kostnadene er større enn summen av inntektene, så debetsiden er størst. For at resultatregnskapet skal balansere, føres underskuddet i kredit på konto 89 hundre Overføringer og disponeringer. Motposten føres i debet på konto 20 50 Annen egenkapital i balansen. Debet reduserer egenkapitalen.
+
+Regelen ved underskudd er altså: kredit konto 89 hundre Overføringer og disponeringer, og debet konto 20 50 Annen egenkapital.
+
+Kort oppsummert: resultatet er det beløpet som får resultatregnskapet til å balansere. Overskudd gir debet 89 hundre og kredit 20 50. Underskudd gir kredit 89 hundre og debet 20 50.
+
+# Oppstilling av resultatregnskapet og kontoklassene
+
+Her ser vi på hvordan resultatregnskapet stilles opp, og hvordan kontoplanen etter Norsk Standard 41 02 er bygd opp.
+
+På kreditsiden i resultatregnskapet finner du alle inntektene. På debetsiden finner du alle kostnadene. Inntektene deles inn i salgsinntekter og i finansinntekter og ekstraordinære inntekter. Kostnadene deles inn i varekostnader, lønnskostnader, andre driftskostnader og finanskostnader og ekstraordinære kostnader.
+
+Norsk Standard 41 02 er bygd opp med 8 kontoklasser. Klasse 1 er eiendeler. Klasse 2 er egenkapital og gjeld. Klasse 3 er salgsinntekter og driftsinntekter. Klasse 4 er varekostnader. Klasse 5 er lønnskostnader. Klasse 6 og 7 er andre driftskostnader. Klasse 8 er finansinntekter og finanskostnader, ekstraordinære inntekter og kostnader, skatter og årsresultat.
+
+Klasse 1 og 2 hører til balansen, og dem gikk vi gjennom i leksjon 3. Klasse 3 til 8 hører til resultatregnskapet, og dem ser vi på nå.
+
+Hver klasse deles videre inn i kontogrupper med to siffer. Vi går gjennom dem klasse for klasse.
+
+I klasse 3, salgsinntekter og driftsinntekter, er gruppene slik. Gruppe 30 er salgsinntekt, avgiftspliktig. Gruppe 31 er salgsinntekt, avgiftsfri. Gruppe 32 er salgsinntekt utenfor avgiftsområdet. Gruppe 33 er offentlig avgift knyttet til omsetning. Gruppe 34 er offentlig tilskudd og refusjon. Gruppe 35 er uopptjent inntekt. Gruppe 36 er leieinntekt. Gruppe 37 er provisjonsinntekt. Gruppe 38 er gevinst ved avgang av anleggsmidler. Gruppe 39 er annen relatert inntekt.
+
+I klasse 4, varekostnader, er gruppene slik. Gruppe 40 er forbruk av råvarer og innkjøpte halvfabrikater. Gruppe 41 er forbruk av varer under tilvirkning. Gruppe 42 er forbruk av ferdig tilvirkede varer. Gruppe 43 er forbruk av varer til videresalg. Gruppe 45 er fremmedytelse og underentreprise. Gruppe 49 er annen periodisering. Gruppene 44, 46, 47 og 48 er ledige.
+
+I klasse 5, lønnskostnader, er gruppene slik. Gruppe 50 og 51 er begge lønn til ansatte. Gruppe 52 er fordel i arbeidsforhold. Gruppe 53 er annen oppgavepliktig godtgjørelse. Gruppe 54 er arbeidsgiveravgift og pensjonskostnad. Gruppe 55 er annen kostnadsgodtgjørelse. Gruppe 56 er arbeidsgodtgjørelse til eiere og lignende. Gruppe 57 er offentlig tilskudd knyttet til arbeidskraft. Gruppe 58 er offentlig refusjon knyttet til arbeidskraft. Gruppe 59 er annen personalkostnad.
+
+I klasse 6, andre driftskostnader, er gruppene slik. Gruppe 60 er avskriving og nedskriving. Gruppe 61 er frakt og transportkostnad knyttet til salg. Gruppe 62 er energi, brensel og vann knyttet til produksjon. Gruppe 63 er kostnad for lokaler. Gruppe 64 er leie av maskiner, inventar og lignende. Gruppe 65 er verktøy, inventar og driftsmateriale som ikke skal avskrives. Gruppe 66 er reparasjon og vedlikehold. Gruppe 67 er fremmed tjeneste. Gruppe 68 er kontorkostnad, trykksaker og lignende. Gruppe 69 er telefon, porto og lignende.
+
+I klasse 7, også andre driftskostnader, er gruppene slik. Gruppe 70 er kostnad for transportmidler. Gruppe 71 er kostnad og godtgjørelse for reiser, diett, bil og lignende. Gruppe 72 er provisjonskostnad. Gruppe 73 er salgskostnad, reklamekostnad og representasjonskostnad. Gruppe 74 er kontingent og gave. Gruppe 75 er forsikringspremie, garanti og servicekostnad. Gruppe 76 er lisens og patentkostnad. Gruppe 77 er annen kostnad. Gruppe 78 er tap og lignende. Gruppe 79 er periodiseringskonto.
+
+I klasse 8 er gruppene slik. Gruppe 80 er finansinntekt. Gruppe 81 er finanskostnad. Gruppe 82 er ledig. Gruppe 83 er skattekostnad på ordinært resultat. Gruppe 84 er ekstraordinær inntekt. Gruppe 85 er ekstraordinær kostnad. Gruppe 86 er skattekostnad på ekstraordinært resultat. Gruppe 87 er ledig. Gruppe 88 er årsresultat. Gruppe 89 er overføringer og disponeringer.
+
+Kort oppsummert: det første sifferet i kontonummeret forteller hvilken klasse kontoen hører til, og klassene 3 til 8 utgjør resultatregnskapet.
+
+# Kontoplanen for Jostein AS
+
+Nå setter Jo og Stein opp den komplette kontoplanen for Jostein AS, med både balansekontoer og resultatkontoer.
+
+For å gjøre det enklere har vi noen begrensninger. Jo og Stein driver et konsulentfirma, så de trenger ikke kontoer for varekostnader. Slike kontoer brukes bare av handelsbedrifter og produksjonsbedrifter. Skatt er ikke pensum i dette kurset, så de setter heller ikke opp kontoer for skattekostnad. Som konsulentfirma skal de egentlig beregne merverdiavgift på fakturaene sine. Men for å holde oppgavene enkle ser vi bort fra merverdiavgift inntil videre. Det kommer en egen leksjon om det senere.
+
+Først eiendelene. Konto 12 hundre er Maskiner. Konto 12 50 er Inventar. Konto 15 hundre er Kundefordringer. Konto 15 70 er Andre kortsiktige fordringer, som her brukes for forskutterte utgifter. Konto 17 hundre er Påløpt inntekt. Konto 19 hundre er Kontanter. Konto 19 20 er Bankinnskudd. Konto 19 50 er Bankinnskudd for skattetrekk.
+
+Så egenkapital og gjeld. Konto 2000 er Aksjekapital. Konto 20 50 er Annen egenkapital. Konto 22 hundre er Annen langsiktig gjeld. Konto 23 80 er Kassakreditt. Konto 24 hundre er Leverandørgjeld. Konto 26 hundre er Skattetrekk. Konto 27 hundre er Skyldige offentlige avgifter, merverdiavgift. Konto 27 70 er Skyldig arbeidsgiveravgift. Konto 27 80 er Påløpt arbeidsgiveravgift av feriepenger. Konto 29 30 er Påløpt lønn. Konto 29 40 er Feriepenger. Konto 29 90 er Annen kortsiktig gjeld.
+
+Under salgsinntekter og driftsinntekter har de bare én konto, konto 30 10 Salgsinntekt, avgiftspliktig.
+
+Under lønnskostnader har de disse kontoene. Konto 50 10 er Lønn til ansatte. Konto 51 80 er Påløpte feriepenger. Konto 51 82 er Arbeidsgiveravgift på feriepenger. Konto 54 hundre er Arbeidsgiveravgift. Konto 59 hundre er Andre personalkostnader.
+
+Under andre driftskostnader har de disse kontoene. Konto 60 10 er Avskrivinger. Konto 63 hundre er Husleie, leie av lokaler. Konto 65 hundre er Verktøy, inventar og driftsmaterialer som ikke skal avskrives. Konto 67 hundre er Fremmed tjeneste, konsulenthonorarer. Konto 68 hundre er Kontorrekvisita. Konto 68 40 er Aviser, tidsskrifter, bøker og lignende. Konto 69 hundre er Telefon. Konto 69 40 er Porto. Konto 71 hundre er Reisekostnader. Konto 73 hundre er Salgskostnader, reklamekostnader og representasjonskostnader. Konto 74 hundre er Kontingent og gaver. Konto 75 hundre er Forsikringspremie. Konto 77 70 er Bank og kortgebyrer. Konto 77 90 er Andre driftskostnader.
+
+Under finansinntekter og finanskostnader har de tre kontoer. Konto 80 40 er Renteinntekter. Konto 80 60 er Rentekostnader. Konto 89 hundre er Overføringer og disponeringer.
+
+Poenget med en fast kontoplan er å gjøre det lettere å forstå hvor ting hører hjemme. Kontoer som starter med 1, er eiendelskontoer og hører til balansen. Kontoer som starter med 2, er egenkapital og gjeldskontoer og hører også til balansen. Kontoer som starter med 3, er inntektskontoer og hører til resultatregnskapet. Kontoer som starter med 5, er lønnskostnader og hører til resultatregnskapet. Kontoer som starter med 6 og 7, er andre driftskostnader og hører til resultatregnskapet. Kontoer som starter med 8, er kontoer for finansinntekter, finanskostnader og årsresultat, og de hører også til resultatregnskapet.
+
+Kort oppsummert: kontoer som starter med 1 eller 2 avsluttes mot balansen, og kontoer som starter med 3 til 8 avsluttes mot resultatregnskapet.
+
+# Regnskapsavslutning for Jostein AS
+
+I dette kapitlet avslutter vi januar for Jostein AS, med både resultatregnskap og balanse.
+
+I leksjon 3 satte vi opp en åpningsbalanse for Jostein AS og avsluttet noen transaksjoner direkte mot balansen. Nå kan vi også avslutte mot resultatkontoer og finne ut om firmaet har gått med overskudd eller underskudd. Vi bruker samme åpningsbalanse som i leksjon 3, og vi setter opp en tabellarisk avslutning. Du kan også prøve å løse oppgaven med T-kontoer.
+
+Åpningsbalansen per 1. januar er enkel. Konto 19 20 Bank har 100000 kroner i debet. Konto 2000 Aksjekapital har 100000 kroner i kredit. Summen på hver side er 100000 kroner. I oppstillingene i leksjonen er kreditbeløp vist med minustegn foran, mens debetbeløp står uten fortegn.
+
+I perioden fra 1. januar til 31. januar har Jostein AS sju transaksjoner. Noen av dem er like som i leksjon 3, men nå er det også med poster som skal avsluttes mot resultatregnskapet.
+
+Transaksjon nummer én. Den 5. januar kjøper de brukt inventar for 16000 kroner. De betaler ved å ta ut 16000 kroner fra kassakredittkontoen. I dette eksemplet sier leksjonen at bare eiendeler med verdi over 15000 kroner og levetid over 3 år skal føres som eiendel i balansen. Ellers skal kjøpet kostnadsføres. Inventaret er forventet å vare over 3 år og koster over 15000 kroner, så det føres som eiendel. Kassakreditten er en gjeldskonto i balansen. Konto 12 50 Inventar øker med 16000 kroner i debet, og konto 23 80 Kassakreditt øker med 16000 kroner i kredit.
+
+Transaksjon nummer to. Den 10. januar har Jostein AS en annonse i lokalavisa. Den koster 3000 kroner, og de får 30 dagers kreditt. Kostnaden føres i resultatregnskapet på konto 73 hundre Salgskostnader, reklamekostnader og representasjonskostnader, med 3000 kroner i debet. Gjelden føres i balansen på konto 24 hundre Leverandørgjeld, med 3000 kroner i kredit.
+
+Transaksjon nummer tre. Den 15. januar kjøper Jo og Stein PC-er og annet IT-utstyr for 20000 kroner, med 30 dagers kreditt. Utstyret er verdt over 15000 kroner, så det føres som eiendel. Konto 12 hundre Maskiner øker med 20000 kroner i debet, og konto 24 hundre Leverandørgjeld øker med 20000 kroner i kredit.
+
+Transaksjon nummer fire. Den 21. januar skaffer de ekstra kapital og øker egenkapitalen med 25000 kroner. Av dette legges 5000 kroner i kassen, og 20000 kroner settes i banken. Dette føres bare mot balansen. Konto 19 hundre Kontanter får 5000 kroner i debet. Konto 19 20 Bank får 20000 kroner i debet. Konto 20 50 Annen egenkapital får 25000 kroner i kredit.
+
+Transaksjon nummer fem. Den 27. januar får Jo og Stein til sammen 10000 kroner i forskudd på lønn, utbetalt fra bankkontoen. Et lønnsforskudd er en fordring, altså noe bedriften har til gode. Konto 15 70 Andre kortsiktige fordringer øker med 10000 kroner i debet, og konto 19 20 Bank reduseres med 10000 kroner i kredit.
+
+Transaksjon nummer seks. Den 31. januar får de 40000 kroner inn på bankkontoen for et oppdrag de har utført. Dette er en inntekt. Konto 19 20 Bank øker med 40000 kroner i debet, og konto 30 10 Salgsinntekt øker med 40000 kroner i kredit.
+
+Transaksjon nummer sju. Den 31. januar har de fakturert timer for 10000 kroner, og kundene har fått kreditt. Når fakturaen sendes, føres beløpet som salgsinntekt. Siden kunden får kreditt, føres beløpet også som kundefordring. Konto 15 hundre Kundefordringer øker med 10000 kroner i debet, og konto 30 10 Salgsinntekt øker med 10000 kroner i kredit.
+
+# Den tabellariske avslutningen
+
+Nå samler vi alle transaksjonene i en tabell og finner saldoen på hver konto.
+
+Regelen er at kontoer som starter med 1 og 2 avsluttes mot balansen, og kontoer som starter med 3 til 8 avsluttes mot resultatregnskapet. Vi tar kontoene én etter én.
+
+Konto 12 hundre Maskiner har 20000 kroner i debet fra IT-utstyret. Saldoen er 20000 kroner i debet, og den går til balansen.
+
+Konto 12 50 Inventar har 16000 kroner i debet. Saldoen er 16000 kroner i debet, og den går til balansen.
+
+Konto 15 hundre Kundefordringer har 10000 kroner i debet fra kredittsalget. Saldoen er 10000 kroner i debet, og den går til balansen.
+
+Konto 15 70 Forskuddsbetalte utgifter har 10000 kroner i debet fra lønnsforskuddet. Saldoen er 10000 kroner i debet, og den går til balansen.
+
+Konto 19 hundre Kontanter har 5000 kroner i debet. Saldoen er 5000 kroner i debet, og den går til balansen.
+
+Konto 19 20 Bank har inngående balanse på 100000 kroner i debet. I tillegg kommer 20000 kroner fra den ekstra kapitalen og 40000 kroner fra oppdraget. Det gir 160000 kroner i debet. I kredit står 10000 kroner for lønnsforskuddet. Saldoen er 160000 minus 10000, altså 150000 kroner i debet, og den går til balansen.
+
+Konto 2000 Aksjekapital har inngående balanse på 100000 kroner i kredit, og ingen bevegelser. Saldoen er 100000 kroner i kredit, og den går til balansen.
+
+Konto 20 50 Annen egenkapital har 25000 kroner i kredit fra den ekstra kapitalen. Saldoen er 25000 kroner i kredit, og den går til balansen.
+
+Konto 23 80 Kassakreditt har 16000 kroner i kredit. Saldoen er 16000 kroner i kredit, og den går til balansen.
+
+Konto 24 hundre Leverandørgjeld har 3000 kroner i kredit for annonsen og 20000 kroner i kredit for IT-utstyret. Det blir 23000 kroner i kredit, og saldoen går til balansen.
+
+Konto 30 10 Salgsinntekt har 40000 kroner i kredit fra oppdraget og 10000 kroner i kredit fra kredittsalget. Det blir 50000 kroner i kredit, og saldoen går til resultatregnskapet.
+
+Konto 73 hundre Reklame har 3000 kroner i debet. Saldoen er 3000 kroner i debet, og den går til resultatregnskapet.
+
+Når saldoen er overført, balanserer hver konto. For eksempel har bankkontoen nå 160000 kroner på begge sider.
+
+# Resultatregnskap og balanse for januar
+
+Nå setter vi opp resultatregnskapet og balansen ut fra linjene som går til resultat og til balanse.
+
+Først resultatregnskapet for januar. På kreditsiden står konto 30 10 Salgsinntekt med 50000 kroner. På debetsiden står konto 73 hundre Salgskostnader og reklamekostnader med 3000 kroner. Inntektene er 50000 kroner og kostnadene 3000 kroner. Resultatet er 50000 minus 3000, altså et overskudd på 47000 kroner. Overskuddet føres i debet på konto 89 hundre Overføringer og disponeringer med 47000 kroner. Nå er summen på debetsiden 3000 pluss 47000, som er 50000 kroner. Summen på kreditsiden er også 50000 kroner, så resultatregnskapet balanserer.
+
+Overskuddet skal overføres til balansen. Det skal være det samme beløpet i resultatregnskapet og i balansen, alltid. Får du en forskjell på resultatet, har du gjort en feil.
+
+Så beregner vi ny saldo på konto 20 50 Annen egenkapital. Inngående saldo er 25000 kroner i kredit. Overskuddet føres med 47000 kroner i kredit på konto 20 50, med debet på konto 89 hundre. Ny utgående saldo er 25000 pluss 47000, altså 72000 kroner i kredit. Egenkapitalen på denne kontoen har økt med 47000 kroner i perioden, og det er nøyaktig bedriftens overskudd.
+
+Til slutt balansen per 31. januar. På eiendelssiden, i debet, står konto 12 hundre Maskiner med 20000 kroner, konto 12 50 Inventar med 16000 kroner, konto 15 hundre Kundefordringer med 10000 kroner, konto 15 70 Forskutterte utgifter med 10000 kroner, konto 19 hundre Kontanter med 5000 kroner og konto 19 20 Bank med 150000 kroner. Summen av eiendelene er 211000 kroner.
+
+På egenkapital og gjeldssiden, i kredit, står konto 2000 Aksjekapital med 100000 kroner, konto 20 50 Annen egenkapital med 72000 kroner, konto 23 80 Kassakreditt med 16000 kroner og konto 24 hundre Leverandørgjeld med 23000 kroner. Summen er også 211000 kroner. Balansen går altså opp.
+
+Kort oppsummert: inntekter på 50000 kroner minus kostnader på 3000 kroner gir et overskudd på 47000 kroner. Overskuddet øker annen egenkapital fra 25000 til 72000 kroner, og balansen summerer seg til 211000 kroner på begge sider.
+
+Til denne leksjonen hører det også en øving, der du kan prøve deg på det du har lært.
+
+# Oppsummering
+
+Her er de viktigste punktene fra leksjonen.
+
+Resultatregnskapet består av inntekter og kostnader for en periode. Resultatet er inntektene minus kostnadene. Er inntektene størst, blir det overskudd. Er kostnadene størst, blir det underskudd.
+
+Inntekter føres når varen eller tjenesten er levert, og de føres i kredit når de øker. Motposten er en eiendel som øker i debet, som kontanter, bank eller kundefordringer. Et kontantsalg gir én transaksjon, mens et kredittsalg gir to, én ved levering og én ved betaling.
+
+En utgift er kjøpet, en utbetaling er betalingen, og en kostnad er forbruket i perioden. Kostnader føres i debet når de øker. Hovedkategoriene er varekostnader, lønnskostnader, andre driftskostnader og finanskostnader.
+
+Periodisering betyr å plassere inntekter og kostnader i riktig periode. Det finnes fire tilfeller: opptjent inntekt som ikke er ført, forskuddsbetaling fra kunde, forskuddsbetalt utgift og påløpt kostnad. En forskuddsbetalt utgift føres som eiendel og kostnadsføres litt hver periode, slik som husleia på 24000 kroner som ble kostnadsført med 2000 kroner i måneden. En påløpt kostnad føres som kostnad og som kortsiktig gjeld.
+
+Avskriving er en systematisk fordeling av anskaffelsesverdien over driftsmidlets økonomiske levetid. Eiendelen krediteres, og kostnaden debiteres. Små anskaffelser med kort levetid kostnadsføres direkte.
+
+Regnskapsarbeidet har tre faser: kontoene åpnes med inngående balanse, transaksjonene føres etter det dobbelte bokholderis prinsipp, og regnskapet avsluttes. Ved avslutningen nullstilles resultatkontoene, og resultatet flyttes til egenkapitalen. Ved overskudd føres debet konto 89 hundre og kredit konto 20 50. Ved underskudd føres kredit konto 89 hundre og debet konto 20 50.
+
+Kontoplanen etter Norsk Standard 41 02 har 8 klasser. Klasse 1 og 2 hører til balansen, og klasse 3 til 8 hører til resultatregnskapet.
+
+I eksemplet med Jostein AS fikk bedriften inntekter på 50000 kroner og kostnader på 3000 kroner i januar. Overskuddet ble 47000 kroner, og balansen summerte seg til 211000 kroner.
+
+I neste leksjon jobber Jo og Stein videre med balansen og resultatregnskapet. Da ser vi på hva råbalanse og saldobalanse er, og vi avslutter regnskapet på nytt.

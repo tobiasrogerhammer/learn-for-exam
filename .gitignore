@@ -1,0 +1,26 @@
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/.env*
+frontend/*.tsbuildinfo
+
+# Backend
+backend/.venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/*.pyc
+backend/data/jobs/
+backend/data/audio/
+backend/data/store/
+backend/.env
+
+# Piper voice models (large binaries — download via setup)
+backend/models/*.onnx
+backend/models/*.onnx.json
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+*.pem

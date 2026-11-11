@@ -1,0 +1,778 @@
+<title>Tabellarisk avslutning</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@75..100,500..800&family=Source+Sans+3:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+<style>
+/* Layout: ett arbeidsark som et regnskapsbilag. Oppgave øverst, kontoark i blokker à 6 kontoer, kontroll nederst. */
+:root {
+  --paper: #f3f6f5;
+  --sheet: #ffffff;
+  --ink: #17212b;
+  --muted: #5b6b70;
+  --rule: #cfdcd8;
+  --rule-strong: #93aaa4;
+  --accent: #2a4c9e;
+  --accent-soft: #e4ebf8;
+  --debet: #f6f9ff;
+  --kredit: #fbf8f3;
+  --ok: #17703f;
+  --ok-soft: #dff3e6;
+  --bad: #b3261e;
+  --bad-soft: #fbe3e1;
+  --fasit: #6a4bb0;
+  --fasit-soft: #eee8fa;
+  --font-display: "Archivo", "Arial Narrow", system-ui, sans-serif;
+  --font-body: "Source Sans 3", "Segoe UI", system-ui, sans-serif;
+  --font-num: "IBM Plex Mono", ui-monospace, "SF Mono", Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #101618; --sheet: #172024; --ink: #e2eaeb; --muted: #95a8ab;
+    --rule: #2b3a3e; --rule-strong: #4d6569; --accent: #94b2ff; --accent-soft: #1e2a45;
+    --debet: #18222c; --kredit: #1f2120; --ok: #6ad497; --ok-soft: #173426;
+    --bad: #ff8f86; --bad-soft: #3d1b19; --fasit: #c3a8ff; --fasit-soft: #2a2140;
+    color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #101618; --sheet: #172024; --ink: #e2eaeb; --muted: #95a8ab;
+  --rule: #2b3a3e; --rule-strong: #4d6569; --accent: #94b2ff; --accent-soft: #1e2a45;
+  --debet: #18222c; --kredit: #1f2120; --ok: #6ad497; --ok-soft: #173426;
+  --bad: #ff8f86; --bad-soft: #3d1b19; --fasit: #c3a8ff; --fasit-soft: #2a2140;
+  color-scheme: dark;
+}
+* { box-sizing: border-box; }
+body {
+  background: var(--paper); color: var(--ink);
+  font-family: var(--font-body); font-size: 16px; line-height: 1.5;
+  padding-left: max(16px, env(safe-area-inset-left, 0px));
+  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-block: 28px 64px;
+}
+main { max-width: 1180px; margin: 0 auto; display: grid; gap: 28px; }
+h1, h2, h3 { font-family: var(--font-display); text-wrap: balance; margin: 0; line-height: 1.15; }
+h1 { font-size: clamp(30px, 5vw, 44px); font-weight: 800; font-stretch: 82%; letter-spacing: -0.01em; }
+h2 { font-size: 22px; font-weight: 700; font-stretch: 90%; }
+h3 { font-size: 17px; font-weight: 700; }
+p { margin: 0; }
+.eyebrow { font-family: var(--font-num); font-size: 12px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--accent); }
+.lede { color: var(--muted); max-width: 66ch; }
+header { display: grid; gap: 8px; }
+
+/* Kontrollpanel */
+.controls { display: flex; flex-wrap: wrap; gap: 14px 22px; align-items: end; padding: 16px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+.field { display: grid; gap: 4px; }
+.field > span { font-size: 12px; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); }
+select, .text-in { font: inherit; font-size: 15px; padding: 6px 10px; border: 1px solid var(--rule-strong); border-radius: 4px; background: var(--sheet); color: var(--ink); }
+.seg { display: inline-flex; border: 1px solid var(--rule-strong); border-radius: 4px; overflow: hidden; }
+.seg button { font: inherit; font-size: 14px; padding: 6px 12px; border: 0; background: var(--sheet); color: var(--ink); cursor: pointer; border-left: 1px solid var(--rule); }
+.seg button:first-child { border-left: 0; }
+.seg button[aria-pressed="true"] { background: var(--accent); color: var(--sheet); font-weight: 600; }
+.check { display: inline-flex; gap: 8px; align-items: center; font-size: 15px; cursor: pointer; padding-bottom: 6px; }
+.btn { font: inherit; font-weight: 600; font-size: 15px; padding: 8px 16px; border-radius: 4px; border: 1px solid var(--accent); background: var(--accent); color: var(--sheet); cursor: pointer; }
+.btn.ghost { background: transparent; color: var(--accent); }
+.btn:focus-visible, .seg button:focus-visible, select:focus-visible, input:focus-visible, summary:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+.push { margin-left: auto; display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+.task-id { font-family: var(--font-num); font-size: 13px; color: var(--muted); }
+
+/* Oppgavetekst */
+.task { display: grid; grid-template-columns: minmax(0, 420px) minmax(0, 1fr); gap: 28px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 22px; }
+.task > div { min-width: 0; display: grid; gap: 12px; align-content: start; }
+.ib { width: 100%; border-collapse: collapse; font-size: 15px; }
+.ib th { text-align: left; font-size: 12px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); font-weight: 600; padding: 4px 0; border-bottom: 1px solid var(--rule-strong); }
+.ib td { padding: 4px 0; border-bottom: 1px solid var(--rule); white-space: nowrap; }
+.ib td.n { padding-left: 10px; }
+.ib td.n, .ib th.n { text-align: right; font-family: var(--font-num); font-variant-numeric: tabular-nums; }
+.ib tr.total td { font-weight: 600; border-bottom: 0; border-top: 1px solid var(--rule-strong); }
+.konto { font-family: var(--font-num); font-size: 13px; color: var(--muted); margin-right: 6px; }
+ol.trans { margin: 0; padding: 0; list-style: none; display: grid; gap: 8px; counter-reset: t; }
+ol.trans li { display: grid; grid-template-columns: 30px 64px minmax(0, 1fr); gap: 8px; align-items: baseline; padding-bottom: 8px; border-bottom: 1px dashed var(--rule); }
+ol.trans li:last-child { border-bottom: 0; }
+.tnum { font-family: var(--font-num); font-weight: 600; color: var(--accent); }
+.tdate { font-family: var(--font-num); font-size: 13px; color: var(--muted); }
+.hint { font-family: var(--font-num); font-size: 13px; color: var(--accent); white-space: nowrap; }
+
+/* Arbeidsark */
+.sheet { display: grid; gap: 22px; }
+.sheet-head { display: flex; flex-wrap: wrap; gap: 8px 18px; align-items: baseline; justify-content: space-between; }
+.note { font-size: 14px; color: var(--muted); }
+.scroll { overflow-x: auto; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+table.ledger { border-collapse: collapse; font-size: 14px; min-width: 100%; }
+.ledger th, .ledger td { border: 1px solid var(--rule); padding: 0; }
+.ledger thead th { font-weight: 600; padding: 6px 6px; background: var(--sheet); white-space: nowrap; }
+.ledger thead .acc-no { font-family: var(--font-num); color: var(--accent); }
+.ledger thead .dk { font-size: 11px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); font-weight: 600; }
+.ledger .lbl { position: sticky; left: 0; z-index: 1; background: var(--sheet); text-align: left; padding: 4px 10px; white-space: nowrap; min-width: 168px; max-width: 220px; overflow: hidden; text-overflow: ellipsis; font-weight: 400; }
+.ledger .lbl .tdate { margin-right: 6px; }
+.ledger td.d { background: var(--debet); }
+.ledger td.k { background: var(--kredit); }
+.ledger tr.close .lbl { font-weight: 600; }
+.ledger tr.close.first > * { border-top: 2px solid var(--rule-strong); }
+.ledger tr.tot > * { border-bottom: 3px double var(--rule-strong); }
+.ledger tr.rowbad .lbl { color: var(--bad); }
+.cell { width: 92px; border: 0; background: transparent; color: var(--ink); font-family: var(--font-num); font-variant-numeric: tabular-nums; font-size: 14px; text-align: right; padding: 6px 8px; display: block; }
+.cell::placeholder { color: transparent; }
+.cell:focus { background: var(--accent-soft); outline: 2px solid var(--accent); outline-offset: -2px; }
+span.cell { min-height: 32px; }
+.cell.ok { background: var(--ok-soft); color: var(--ok); font-weight: 600; }
+.cell.bad { background: var(--bad-soft); color: var(--bad); font-weight: 600; }
+.cell.fasit { background: var(--fasit-soft); color: var(--fasit); }
+.cell.given { color: var(--muted); }
+
+/* Kontrollspørsmål */
+.summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px 20px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 18px; }
+.summary .field input { font-family: var(--font-num); text-align: right; width: 100%; }
+.summary .row2 { display: flex; gap: 8px; }
+.summary .row2 select { flex: 0 0 auto; }
+.text-in.ok { border-color: var(--ok); background: var(--ok-soft); color: var(--ok); }
+.text-in.bad { border-color: var(--bad); background: var(--bad-soft); color: var(--bad); }
+.text-in.fasit { border-color: var(--fasit); background: var(--fasit-soft); color: var(--fasit); }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.feedback { font-weight: 600; }
+.feedback.good { color: var(--ok); }
+.feedback.meh { color: var(--bad); }
+.stats { font-size: 14px; color: var(--muted); margin-left: auto; }
+
+/* Fasit-oppstilling */
+.statements { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
+.statement { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 18px; display: grid; gap: 10px; align-content: start; }
+.explain { font-size: 15px; color: var(--muted); }
+
+/* Drill */
+.drill { display: grid; gap: 10px; }
+.drill-row { display: grid; grid-template-columns: 30px minmax(0, 1fr) 150px 150px; gap: 12px; align-items: center; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 12px 14px; }
+.drill-row .text-in { width: 100%; font-family: var(--font-num); }
+.drill-ans { grid-column: 2 / -1; font-family: var(--font-num); font-size: 13px; color: var(--fasit); }
+.drill-lbl { font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--muted); display: block; margin-bottom: 2px; }
+
+/* Hjelp */
+details { background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; }
+summary { cursor: pointer; padding: 12px 16px; font-family: var(--font-display); font-weight: 700; font-size: 17px; }
+.details-body { padding: 0 16px 16px; display: grid; gap: 12px; }
+.rules { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 10px 24px; font-size: 15px; }
+.rules div { display: flex; justify-content: space-between; gap: 12px; border-bottom: 1px solid var(--rule); padding: 4px 0; }
+.rules b { font-family: var(--font-num); font-weight: 600; color: var(--accent); white-space: nowrap; }
+.plan { columns: 3 220px; column-gap: 28px; font-size: 14px; }
+.plan h3 { font-size: 13px; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin: 8px 0 4px; break-after: avoid; }
+.plan div { break-inside: avoid; padding: 1px 0; }
+
+@media (max-width: 760px) {
+  .task { grid-template-columns: minmax(0, 1fr); padding: 16px; }
+  .drill-row { grid-template-columns: 26px minmax(0, 1fr); }
+  .drill-row > label { grid-column: 2; }
+  .push { margin-left: 0; }
+  ol.trans li { grid-template-columns: 26px minmax(0, 1fr); }
+  ol.trans li .tdate { grid-column: 2; }
+  ol.trans li .ttext { grid-column: 2; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .cell, .text-in { transition: background-color .15s ease, color .15s ease; }
+}
+</style>
+
+<main>
+  <header>
+    <span class="eyebrow">Økonomisk styring og regnskap · mengdetrening</span>
+    <h1>Tabellarisk avslutning</h1>
+    <p class="lede">Hver oppgave er ny: åpningsbalanse og transaksjoner i samme oppsett som Jostein AS-eksempelet fra leksjon 4. Før posteringene i debet og kredit, summer kontoene, avslutt mot resultat eller balanse og trykk Rett.</p>
+  </header>
+
+  <section class="controls" aria-label="Innstillinger">
+    <div class="field">
+      <span>Nivå</span>
+      <div class="seg" id="level" role="group" aria-label="Nivå">
+        <button type="button" data-v="1" title="Bare balansekontoer">1 Balanse</button>
+        <button type="button" data-v="2" title="Inntekter og kostnader">2 Resultat</button>
+        <button type="button" data-v="3" title="Lønn, lån, avskrivninger">3 Lønn og avskr.</button>
+        <button type="button" data-v="4" title="Merverdiavgift 25 %">4 Mva</button>
+      </div>
+    </div>
+    <label class="field"><span>Transaksjoner</span>
+      <select id="count"><option>5</option><option>7</option><option selected>9</option><option>12</option></select>
+    </label>
+    <label class="field"><span>Modus</span>
+      <select id="mode">
+        <option value="full">Hele tabellen</option>
+        <option value="close">Bare avslutning (posteringer gitt)</option>
+        <option value="drill">Konteringsdrill (hvilke kontoer?)</option>
+      </select>
+    </label>
+    <label class="check"><input type="checkbox" id="hints"> Vis kontohint</label>
+    <div class="push">
+      <span class="task-id" id="taskId"></span>
+      <button class="btn" id="newTask" type="button">Ny oppgave</button>
+    </div>
+  </section>
+
+  <section class="task" aria-label="Oppgave">
+    <div>
+      <h2 id="company"></h2>
+      <p class="note">Åpningsbalanse pr. 01.01.x1</p>
+      <table class="ib" id="ibTable"></table>
+    </div>
+    <div>
+      <h2>Transaksjoner i x1</h2>
+      <ol class="trans" id="transList"></ol>
+    </div>
+  </section>
+
+  <section class="sheet" id="sheetSection">
+    <div class="sheet-head">
+      <h2 id="sheetTitle">Tabellarisk avslutning pr. 31.12.x1</h2>
+      <p class="note" id="sheetNote">Kontoer som starter med 1 og 2 avsluttes mot balansen, 3 til 8 mot resultatet. Tomme celler teller som 0.</p>
+    </div>
+    <div id="blocks" class="sheet"></div>
+    <div class="summary" id="summary"></div>
+  </section>
+
+  <section class="drill" id="drillSection" hidden>
+    <div class="sheet-head">
+      <h2>Konteringsdrill</h2>
+      <p class="note">Skriv kontonumrene som skal debiteres og krediteres. Flere kontoer skilles med komma.</p>
+    </div>
+    <div id="drillRows" class="drill"></div>
+  </section>
+
+  <div class="actions">
+    <button class="btn" id="checkBtn" type="button">Rett</button>
+    <button class="btn ghost" id="fasitBtn" type="button">Vis fasit</button>
+    <button class="btn ghost" id="clearBtn" type="button">Tøm</button>
+    <span class="feedback" id="feedback" role="status"></span>
+    <span class="stats" id="stats"></span>
+  </div>
+
+  <section class="statements" id="statements" hidden></section>
+
+  <details>
+    <summary>Huskeregler for debet og kredit</summary>
+    <div class="details-body">
+      <div class="rules">
+        <div>Eiendel øker <b>Debet</b></div>
+        <div>Eiendel minker <b>Kredit</b></div>
+        <div>Gjeld eller egenkapital øker <b>Kredit</b></div>
+        <div>Gjeld eller egenkapital minker <b>Debet</b></div>
+        <div>Kostnad <b>Debet</b></div>
+        <div>Inntekt <b>Kredit</b></div>
+        <div>Overskudd <b>D 8900, K 2050</b></div>
+        <div>Underskudd <b>D 2050, K 8900</b></div>
+      </div>
+      <p class="explain">Avslutningsbeløpet ("Til resultat" eller "Til balanse") er saldoen, og det føres på den siden som er minst, slik at kontoen går i null. Bank med sum 160 000 i debet og 10 000 i kredit får 150 000 til balanse på kreditsiden. Siste sum-linje er da lik på begge sider. Eiendeler under grensen for balanseføring kostnadsføres direkte på 6500.</p>
+    </div>
+  </details>
+
+  <details>
+    <summary>Kontoplan</summary>
+    <div class="details-body"><div class="plan" id="plan"></div></div>
+  </details>
+</main>
+
+<script>
+/*GEN-START*/
+const ACC = {
+  '1200': ['Maskiner og IT-utstyr', 'Maskiner'],
+  '1250': ['Inventar', 'Inventar'],
+  '1500': ['Kundefordringer', 'Kundef.'],
+  '1570': ['Forskutterte utgifter', 'Forsk.utg'],
+  '1900': ['Kontanter', 'Kontanter'],
+  '1920': ['Bankinnskudd', 'Bank'],
+  '2000': ['Aksjekapital', 'Aksjekap.'],
+  '2050': ['Annen egenkapital', 'Annen EK'],
+  '2200': ['Annen langsiktig gjeld', 'Lån'],
+  '2380': ['Kassakreditt', 'Kassakr.'],
+  '2400': ['Leverandørgjeld', 'Lev.gjeld'],
+  '2600': ['Skattetrekk', 'Skattetr.'],
+  '2700': ['Utgående merverdiavgift', 'Utg. mva'],
+  '2710': ['Inngående merverdiavgift', 'Inng. mva'],
+  '3010': ['Salgsinntekt, avgiftspliktig', 'Salgsinnt.'],
+  '5010': ['Lønn til ansatte', 'Lønn'],
+  '6010': ['Avskrivninger', 'Avskr.'],
+  '6300': ['Husleie, leie lokaler', 'Husleie'],
+  '6500': ['Verktøy, inventar som ikke skal avskrives', 'Sm.inventar'],
+  '6700': ['Fremmed tjeneste', 'Fremmed tj.'],
+  '6800': ['Kontorrekvisita', 'Kontorrekv.'],
+  '6900': ['Telefon', 'Telefon'],
+  '7100': ['Reisekostnader', 'Reise'],
+  '7300': ['Salgs-, reklame- og representasjonskostnader', 'Reklame'],
+  '7500': ['Forsikringspremie', 'Forsikring'],
+  '7770': ['Bank- og kortgebyrer', 'Bankgebyr'],
+  '8040': ['Renteinntekter', 'Renteinnt.'],
+  '8060': ['Rentekostnader', 'Rentekost.'],
+  '8900': ['Overføringer og disponeringer', 'Overf./disp.']
+};
+const COMPANIES = ['Jostein AS', 'Fjordlys Data AS', 'Granly Konsult AS', 'Kodeverket AS', 'Nordre Nett AS', 'Bølge Studio AS', 'Mosvik IT AS', 'Lysthus Design AS', 'Tindvik Analyse AS', 'Skarven Systemer AS', 'Brattli Web AS', 'Elvebredd Media AS'];
+const MONTHS = ['jan', 'feb', 'mar', 'apr', 'mai', 'jun', 'jul', 'aug', 'sep', 'okt', 'nov', 'des'];
+const MDAYS = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31];
+
+function rng(seed) {
+  let a = seed >>> 0;
+  const next = () => { a = (a + 0x6D2B79F5) >>> 0; let t = a; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+  const r = {
+    next,
+    int: (lo, hi) => lo + Math.floor(next() * (hi - lo + 1)),
+    pick: arr => arr[Math.floor(next() * arr.length)],
+    chance: p => next() < p,
+    amt: (lo, hi, step) => { hi = Math.max(lo, hi); return lo + step * Math.floor(next() * (Math.floor((hi - lo) / step) + 1)); }
+  };
+  return r;
+}
+const fmt = n => String(Math.round(Math.abs(n))).replace(/\B(?=(\d{3})+(?!\d))/g, ' ');
+const floorTo = (x, s) => Math.floor(x / s) * s;
+const deb = (b, a) => b[a] || 0;
+const cred = (b, a) => -(b[a] || 0);
+const kr = n => fmt(n) + ' kr';
+
+// Hver mal: lvl = laveste nivå, ok = forutsetning gitt saldoene, make = tekst og posteringslinjer [konto, 'd'|'k', beløp]
+const TEMPLATES = [
+  { lvl: 1, ok: b => deb(b, '1920') >= 40000, make: (b, r) => { const a = r.amt(30000, Math.min(90000, floorTo(deb(b, '1920') - 5000, 1000)), 1000); const w = r.pick(['kontormøbler', 'skrivebord og reoler', 'møteromsmøbler']); return { short: 'Inventar', text: `Kjøper ${w} for ${kr(a)}. Betalt fra bankkontoen.`, lines: [['1250', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 1, ok: () => true, make: (b, r) => { const a = r.amt(40000, 150000, 5000); const w = r.pick(['nye PC-er og skjermer', 'en server', 'nettverksutstyr', 'en 3D-printer']); return { short: 'IT-utstyr', text: `Kjøper ${w} for ${kr(a)} med 30 dagers kreditt.`, lines: [['1200', 'd', a], ['2400', 'k', a]] }; } },
+  { lvl: 1, ok: () => true, make: (b, r) => { const a = r.amt(20000, 60000, 1000); return { short: 'Brukt inventar', text: `Kjøper brukt inventar for ${kr(a)}. Pengene tas fra kassakreditten.`, lines: [['1250', 'd', a], ['2380', 'k', a]] }; } },
+  { lvl: 1, ok: b => deb(b, '1920') >= 5000, make: (b, r) => { const a = r.amt(2000, Math.min(15000, floorTo(deb(b, '1920') - 2000, 1000)), 1000); return { short: 'Uttak til kassa', text: `Tar ut ${kr(a)} fra banken til kontantkassa.`, lines: [['1900', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 1, ok: b => cred(b, '2400') >= 1000 && deb(b, '1920') >= cred(b, '2400'), make: (b, r) => { const full = cred(b, '2400'); const part = floorTo(full * r.pick([0.4, 0.5, 0.6]), 1000); const a = r.chance(0.6) || part < 1000 ? full : part; return { short: 'Betalt lev.gjeld', text: a === full ? `Betaler all leverandørgjeld, ${kr(a)}, fra bank.` : `Betaler ${kr(a)} av leverandørgjelden fra bank.`, lines: [['2400', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 1, ok: b => deb(b, '1500') >= 1000, make: (b, r) => { const full = deb(b, '1500'); const part = floorTo(full * r.pick([0.4, 0.5, 0.7]), 1000); const a = r.chance(0.55) || part < 1000 ? full : part; return { short: 'Innbet. kunde', text: a === full ? `Alle kunder betaler det de skylder, ${kr(a)}, inn på bankkontoen.` : `Kunder betaler ${kr(a)} av utestående fordringer inn på bankkontoen.`, lines: [['1920', 'd', a], ['1500', 'k', a]] }; } },
+  { lvl: 1, ok: b => deb(b, '1920') >= 5000, make: (b, r) => { const a = r.amt(3000, Math.min(15000, floorTo(deb(b, '1920') - 1000, 1000)), 1000); return { short: 'Forskudd lønn', text: `En ansatt får ${kr(a)} i forskudd på lønn, utbetalt fra bank.`, lines: [['1570', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 1, ok: () => true, make: (b, r) => { const a = r.amt(20000, 100000, 5000); return { short: 'Økt egenkapital', text: `Eierne skyter inn ${kr(a)} i ny egenkapital. Pengene settes inn i banken.`, lines: [['1920', 'd', a], ['2050', 'k', a]] }; } },
+  { lvl: 1, ok: b => cred(b, '2200') === 0, make: (b, r) => { const a = r.amt(50000, 300000, 10000); return { short: 'Lånopptak', text: `Tar opp et langsiktig lån på ${kr(a)}. Lånet utbetales til bankkontoen.`, lines: [['1920', 'd', a], ['2200', 'k', a]] }; } },
+  { lvl: 1, ok: b => cred(b, '2200') >= 20000 && deb(b, '1920') >= 10000, make: (b, r) => { const a = Math.max(1000, floorTo(Math.min(cred(b, '2200') * r.pick([0.1, 0.2, 0.25]), deb(b, '1920') - 1000), 1000)); return { short: 'Avdrag lån', text: `Betaler ${kr(a)} i avdrag på lånet fra bank. Ingen renter i denne betalingen.`, lines: [['2200', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 1, ok: b => cred(b, '2380') >= 2000 && deb(b, '1920') >= cred(b, '2380'), make: (b, r) => { const a = cred(b, '2380'); return { short: 'Nedbet. kassakr.', text: `Overfører ${kr(a)} fra bankkontoen og nedbetaler hele kassakreditten.`, lines: [['2380', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 1, ok: b => deb(b, '1900') >= 3000, make: (b, r) => { const a = Math.max(1000, floorTo(deb(b, '1900') * r.pick([0.5, 0.7]), 1000)); return { short: 'Kontanter i bank', text: `Setter inn ${kr(a)} fra kontantkassa i banken.`, lines: [['1920', 'd', a], ['1900', 'k', a]] }; } },
+
+  { lvl: 2, ok: () => true, make: (b, r) => { const a = r.amt(10000, 80000, 1000); return { short: 'Salg, bank', text: `Får betalt ${kr(a)} for et oppdrag. Pengene settes rett inn på bankkontoen.`, lines: [['1920', 'd', a], ['3010', 'k', a]] }; } },
+  { lvl: 2, ok: () => true, make: (b, r) => { const a = r.amt(10000, 80000, 1000); return { short: 'Salg på kreditt', text: `Sender faktura på ${kr(a)} for utført arbeid. Kunden får 30 dagers kreditt.`, lines: [['1500', 'd', a], ['3010', 'k', a]] }; } },
+  { lvl: 2, ok: () => true, make: (b, r) => { const a = r.amt(2000, 15000, 500); return { short: 'Salg, kontant', text: `Holder et kurs og får ${kr(a)} betalt kontant.`, lines: [['1900', 'd', a], ['3010', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1920') >= 8000, make: (b, r) => { const a = r.amt(8000, Math.min(36000, floorTo(deb(b, '1920'), 1000)), 1000); return { short: 'Husleie', text: `Betaler husleie for kontoret, ${kr(a)}, fra bank.`, lines: [['6300', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 2, ok: () => true, make: (b, r) => { const a = r.amt(2000, 15000, 500); return { short: 'Annonse', text: `Kjører en annonsekampanje for ${kr(a)} og får 30 dagers kreditt.`, lines: [['7300', 'd', a], ['2400', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1920') >= 3000, make: (b, r) => { const a = r.amt(500, 3000, 100); return { short: 'Telefon', text: `Betaler telefonregningen på ${kr(a)} fra bank.`, lines: [['6900', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1900') >= 600, make: (b, r) => { const a = r.amt(300, Math.min(3000, floorTo(deb(b, '1900'), 100)), 100); return { short: 'Kontorrekvisita', text: `Kjøper papir og kontorrekvisita for ${kr(a)}. Betalt kontant.`, lines: [['6800', 'd', a], ['1900', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1920') >= 9000, make: (b, r) => { const a = r.amt(2000, 9000, 500); const w = r.pick(['to kontorstoler', 'en ekstra skjerm', 'en skriver']); return { short: 'Småinventar', text: `Kjøper ${w} for ${kr(a)}, betalt med bank. Beløpet er under grensen for balanseføring.`, lines: [['6500', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1920') >= 12000, make: (b, r) => { const a = r.amt(1500, 12000, 500); return { short: 'Reise', text: `Betaler reise til et kundemøte, ${kr(a)}, med bankkortet.`, lines: [['7100', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1920') >= 15000, make: (b, r) => { const a = r.amt(3000, 15000, 500); return { short: 'Forsikring', text: `Betaler forsikringspremie for året, ${kr(a)}, fra bank.`, lines: [['7500', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 2, ok: () => true, make: (b, r) => { const a = r.amt(5000, 40000, 1000); return { short: 'Innleid konsulent', text: `Leier inn en konsulent for ${kr(a)}. Fakturaen betales om 30 dager.`, lines: [['6700', 'd', a], ['2400', 'k', a]] }; } },
+  { lvl: 2, ok: () => true, make: (b, r) => { const a = r.amt(200, 3000, 50); return { short: 'Renteinntekt', text: `Banken godskriver ${kr(a)} i renter på bankkontoen.`, lines: [['1920', 'd', a], ['8040', 'k', a]] }; } },
+  { lvl: 2, ok: b => deb(b, '1920') >= 800, make: (b, r) => { const a = r.amt(100, 800, 50); return { short: 'Bankgebyr', text: `Banken trekker ${kr(a)} i gebyrer fra bankkontoen.`, lines: [['7770', 'd', a], ['1920', 'k', a]] }; } },
+
+  { lvl: 3, ok: b => deb(b, '1920') >= 25000, make: (b, r) => { const a = r.amt(20000, Math.min(60000, floorTo(deb(b, '1920'), 1000)), 1000); return { short: 'Lønn', text: `Utbetaler lønn på ${kr(a)} fra bank. Den ansatte har frikort, så det er ikke skattetrekk.`, lines: [['5010', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 3, ok: b => deb(b, '1920') >= 60000, make: (b, r) => { const g = r.amt(30000, 60000, 1000); const t = floorTo(g * r.pick([0.25, 0.3, 0.35]), 100); return { short: 'Lønn m/trekk', text: `Bruttolønn for måneden er ${kr(g)}. Det trekkes ${kr(t)} i skatt, og resten utbetales fra bank.`, lines: [['5010', 'd', g], ['1920', 'k', g - t], ['2600', 'k', t]] }; } },
+  { lvl: 3, ok: b => deb(b, '1570') >= 1000 && deb(b, '1920') >= 60000, make: (b, r) => { const f = deb(b, '1570'); const g = r.amt(Math.max(20000, f + 5000), 60000, 1000); return { short: 'Lønn mot forsk.', text: `Utbetaler lønn på ${kr(g)}. Forskuddet på ${kr(f)} som ble utbetalt tidligere trekkes fra, og resten betales fra bank.`, lines: [['5010', 'd', g], ['1570', 'k', f], ['1920', 'k', g - f]] }; } },
+  { lvl: 3, ok: b => cred(b, '2200') >= 20000 && deb(b, '1920') >= 40000, make: (b, r) => { const L = cred(b, '2200'); const av = Math.max(1000, floorTo(L * r.pick([0.05, 0.1, 0.2]), 1000)); const re = Math.max(100, floorTo(L * r.pick([0.04, 0.05, 0.06]), 100)); return { short: 'Renter og avdrag', text: `Betaler terminbeløp på lånet fra bank: ${kr(av)} i avdrag og ${kr(re)} i renter, til sammen ${kr(av + re)}.`, lines: [['2200', 'd', av], ['8060', 'd', re], ['1920', 'k', av + re]] }; } },
+  { lvl: 3, ok: b => cred(b, '2380') >= 1000 && deb(b, '1920') >= 2000, make: (b, r) => { const a = r.amt(200, 2000, 50); return { short: 'Renter kassakr.', text: `Banken belaster ${kr(a)} i renter på kassakreditten. Beløpet trekkes fra bankkontoen.`, lines: [['8060', 'd', a], ['1920', 'k', a]] }; } },
+  { lvl: 3, end: true, ok: b => deb(b, '1200') >= 20000, make: (b, r) => { const a = floorTo(deb(b, '1200') * r.pick([0.1, 0.15, 0.2, 0.25]), 500); return { short: 'Avskr. maskiner', text: `Årets avskrivning på maskiner og IT-utstyr er beregnet til ${kr(a)}.`, lines: [['6010', 'd', a], ['1200', 'k', a]] }; } },
+  { lvl: 3, end: true, ok: b => deb(b, '1250') >= 10000, make: (b, r) => { const a = floorTo(deb(b, '1250') * r.pick([0.1, 0.15, 0.2]), 500); return { short: 'Avskr. inventar', text: `Årets avskrivning på inventaret er beregnet til ${kr(a)}.`, lines: [['6010', 'd', a], ['1250', 'k', a]] }; } },
+
+  { lvl: 4, ok: () => true, make: (b, r) => { const n = r.amt(10000, 80000, 1000), m = n / 4; const inkl = r.chance(0.5); return { short: 'Salg m/mva, kred.', text: inkl ? `Fakturerer en kunde ${kr(n + m)} inkl. 25 % mva. Kunden får 30 dagers kreditt.` : `Fakturerer en kunde ${kr(n)} + 25 % mva. Kunden får 30 dagers kreditt.`, lines: [['1500', 'd', n + m], ['3010', 'k', n], ['2700', 'k', m]] }; } },
+  { lvl: 4, ok: () => true, make: (b, r) => { const n = r.amt(8000, 60000, 1000), m = n / 4; const inkl = r.chance(0.5); return { short: 'Salg m/mva, bank', text: inkl ? `Får ${kr(n + m)} inkl. 25 % mva inn på bankkontoen for et oppdrag.` : `Får betalt for et oppdrag på ${kr(n)} + 25 % mva. Pengene kommer inn på bankkontoen.`, lines: [['1920', 'd', n + m], ['3010', 'k', n], ['2700', 'k', m]] }; } },
+  { lvl: 4, ok: () => true, make: (b, r) => { const n = r.amt(4000, 20000, 1000), m = n / 4; const inkl = r.chance(0.5); return { short: 'Annonse m/mva', text: inkl ? `Mottar faktura for annonser på ${kr(n + m)} inkl. 25 % mva, med 30 dagers kreditt.` : `Mottar faktura for annonser på ${kr(n)} + 25 % mva, med 30 dagers kreditt.`, lines: [['7300', 'd', n], ['2710', 'd', m], ['2400', 'k', n + m]] }; } },
+  { lvl: 4, ok: b => deb(b, '1920') >= 8000, make: (b, r) => { const n = r.amt(1000, 6000, 200), m = n / 4; return { short: 'Rekvisita m/mva', text: `Kjøper kontorrekvisita for ${kr(n + m)} inkl. 25 % mva, betalt med bank.`, lines: [['6800', 'd', n], ['2710', 'd', m], ['1920', 'k', n + m]] }; } },
+  { lvl: 4, ok: () => true, make: (b, r) => { const n = r.amt(40000, 120000, 4000), m = n / 4; return { short: 'IT-utstyr m/mva', text: `Kjøper IT-utstyr for ${kr(n)} + 25 % mva på 30 dagers kreditt. Utstyret skal balanseføres.`, lines: [['1200', 'd', n], ['2710', 'd', m], ['2400', 'k', n + m]] }; } },
+  { lvl: 4, ok: () => true, make: (b, r) => { const n = r.amt(8000, 40000, 1000), m = n / 4; return { short: 'Konsulent m/mva', text: `Leier inn en konsulent. Fakturaen er på ${kr(n + m)} inkl. 25 % mva og betales om 30 dager.`, lines: [['6700', 'd', n], ['2710', 'd', m], ['2400', 'k', n + m]] }; } }
+];
+
+const INCOME = new Set(TEMPLATES.filter(t => /Salg|Fakturerer|Får|Holder et kurs/.test(String(t.make))));
+function makeIB(r, level) {
+  const ib = {};
+  ib['1920'] = r.amt(150000, 400000, 10000);
+  ib['1900'] = r.amt(3000, 15000, 1000);
+  if (r.chance(0.6) || level >= 3) ib['1200'] = r.amt(40000, 200000, 5000);
+  if (r.chance(0.5)) ib['1250'] = r.amt(20000, 80000, 1000);
+  if (r.chance(0.5)) ib['1500'] = r.amt(10000, 60000, 1000);
+  if (r.chance(0.6)) ib['2400'] = -r.amt(5000, 40000, 1000);
+  if (r.chance(0.45)) ib['2200'] = -r.amt(50000, 250000, 10000);
+  if (r.chance(0.35)) ib['2380'] = -r.amt(5000, 40000, 1000);
+  ib['2000'] = -r.pick([30000, 100000]);
+  let plug = Object.values(ib).reduce((s, v) => s + v, 0);
+  if (plug < 10000) { ib['1920'] += 10000 - plug + r.amt(20000, 80000, 10000); plug = Object.values(ib).reduce((s, v) => s + v, 0); }
+  ib['2050'] = -plug;
+  return ib;
+}
+
+function dayToDate(d) {
+  let m = 0; while (d > MDAYS[m]) { d -= MDAYS[m]; m++; }
+  return String(d).padStart(2, '0') + '.' + MONTHS[m];
+}
+
+function generate(seed, level, n) {
+  for (let attempt = 0; attempt < 400; attempt++) {
+    const r = rng(seed * 31 + attempt * 7919 + level * 101 + n);
+    const ib = makeIB(r, level);
+    const b = { ...ib };
+    const pool = TEMPLATES.filter(t => t.lvl <= level && !t.end);
+    const ends = TEMPLATES.filter(t => t.lvl <= level && t.end);
+    const nEnd = level >= 3 ? r.int(1, 2) : 0;
+    const used = new Map();
+    const trans = [];
+    const apply = tx => { for (const [a, s, v] of tx.lines) b[a] = (b[a] || 0) + (s === 'd' ? v : -v); };
+    let failed = false;
+    for (let i = 0; i < n - nEnd; i++) {
+      const cand = pool.filter(t => t.ok(b));
+      if (!cand.length) { failed = true; break; }
+      const w = cand.map(t => (t.lvl === level ? 3 : 1) * (INCOME.has(t) ? 2 : 1) * Math.pow(0.25, used.get(t) || 0));
+      let x = r.next() * w.reduce((s, v) => s + v, 0), k = 0;
+      while (x > w[k]) { x -= w[k]; k++; }
+      const t = cand[Math.min(k, cand.length - 1)];
+      used.set(t, (used.get(t) || 0) + 1);
+      const tx = t.make(b, r); apply(tx); trans.push(tx);
+    }
+    if (failed) continue;
+    for (let i = 0; i < nEnd; i++) {
+      const cand = ends.filter(t => t.ok(b) && !used.has(t));
+      if (!cand.length) break;
+      const t = r.pick(cand); used.set(t, 1);
+      const tx = t.make(b, r); tx.end = true; apply(tx); trans.push(tx);
+    }
+    // Realistiske saldoer: eiendeler i debet, gjeld i kredit
+    let bad = false;
+    for (const [a, v] of Object.entries(b)) {
+      if (a[0] === '1' && v < 0) bad = true;
+      if (a[0] === '2' && !a.startsWith('27') && v > 0) bad = true;
+    }
+    const accs = Object.keys(b);
+    if (level >= 2 && (!accs.some(a => a[0] === '3' || a === '8040') || !accs.some(a => /^[4-7]/.test(a) || a === '8060'))) bad = true;
+    if (level >= 3 && !trans.some(t => t.lines.some(l => l[0] === '5010'))) bad = true;
+    if (level >= 4 && !accs.includes('2700') && !accs.includes('2710')) bad = true;
+    if (bad) continue;
+    if (level >= 2) {
+      const s = solve({ ib, trans, accounts: accs.slice().sort() });
+      if (s.ek <= 0 || (s.resultat < 0 && !r.chance(0.35))) continue;
+    }
+    const normal = trans.filter(t => !t.end).length;
+    const days = new Set();
+    while (days.size < normal) days.add(r.int(2, 350));
+    const sorted = [...days].sort((x, y) => x - y);
+    trans.forEach((t, i) => { t.date = t.end ? '31.des' : dayToDate(sorted[i]); t.hint = '(' + t.lines.map(([a, s]) => (s === 'd' ? 'D' : 'K') + a).join(', ') + ')'; });
+    return { seed, level, n, company: r.pick(COMPANIES), ib, trans, accounts: accs.sort() };
+  }
+  throw new Error('Fant ingen gyldig oppgave');
+}
+
+function solve(task) {
+  const E = {};
+  const tot = {};
+  for (const a of task.accounts) tot[a] = { d: 0, k: 0 };
+  for (const [a, v] of Object.entries(task.ib)) { const s = v > 0 ? 'd' : 'k'; E[`ib|${a}|${s}`] = Math.abs(v); tot[a][s] += Math.abs(v); }
+  task.trans.forEach((t, i) => { for (const [a, s, v] of t.lines) { E[`t${i}|${a}|${s}`] = (E[`t${i}|${a}|${s}`] || 0) + v; tot[a][s] += v; } });
+  let inn = 0, kost = 0, balsum = 0;
+  const saldo = {};
+  for (const a of task.accounts) {
+    const { d, k } = tot[a];
+    const sal = d - k; saldo[a] = sal;
+    E[`sum|${a}|d`] = d; E[`sum|${a}|k`] = k;
+    const row = Number(a[0]) <= 2 ? 'bal' : 'res';
+    if (sal > 0) E[`${row}|${a}|k`] = sal;
+    if (sal < 0) E[`${row}|${a}|d`] = -sal;
+    const m = Math.max(d, k);
+    E[`tot|${a}|d`] = m; E[`tot|${a}|k`] = m;
+    if (row === 'res') { if (sal < 0) inn += -sal; else kost += sal; }
+    else if (sal > 0) balsum += sal;
+  }
+  const resultat = inn - kost;
+  const ek = -(saldo['2050'] || 0) + resultat;
+  return { E, tot, saldo, inn, kost, resultat, ek, balsum };
+}
+/*GEN-END*/
+
+/* ---------- Grensesnitt ---------- */
+const $ = id => document.getElementById(id);
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('tabav:' + k); return v == null ? d : JSON.parse(v); } catch { return d; } },
+  set(k, v) { try { localStorage.setItem('tabav:' + k, JSON.stringify(v)); } catch {} }
+};
+const state = {
+  level: store.get('level', 2),
+  count: store.get('count', 9),
+  mode: store.get('mode', 'full'),
+  hints: store.get('hints', false),
+  seed: Math.floor(Math.random() * 90000) + 10000,
+  task: null, sol: null, fasit: false, checked: false
+};
+
+function parseAmt(s) {
+  if (s == null) return null;
+  const t = String(s).replace(/kr/gi, '').replace(/[\s .]/g, '').replace(/,-$/, '').replace(/,00$/, '');
+  if (t === '') return null;
+  return /^-?\d+$/.test(t) ? Number(t) : NaN;
+}
+const esc = s => s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+function renderTask() {
+  const { task } = state;
+  $('company').textContent = task.company;
+  $('taskId').textContent = `Oppgave ${task.seed}`;
+  const assets = Object.entries(task.ib).filter(([, v]) => v > 0).sort();
+  const liabs = Object.entries(task.ib).filter(([, v]) => v < 0).sort();
+  const sum = assets.reduce((s, [, v]) => s + v, 0);
+  const rows = Math.max(assets.length, liabs.length);
+  let h = '<thead><tr><th>Eiendeler</th><th class="n">Beløp</th><th style="padding-left:16px">EK og gjeld</th><th class="n">Beløp</th></tr></thead><tbody>';
+  for (let i = 0; i < rows; i++) {
+    const a = assets[i], l = liabs[i];
+    h += '<tr>' + (a ? `<td><span class="konto">${a[0]}</span>${ACC[a[0]][1]}</td><td class="n">${fmt(a[1])}</td>` : '<td></td><td></td>')
+      + (l ? `<td style="padding-left:16px"><span class="konto">${l[0]}</span>${ACC[l[0]][1]}</td><td class="n">${fmt(l[1])}</td>` : '<td></td><td></td>') + '</tr>';
+  }
+  h += `<tr class="total"><td>Sum</td><td class="n">${fmt(sum)}</td><td style="padding-left:16px">Sum</td><td class="n">${fmt(sum)}</td></tr></tbody>`;
+  $('ibTable').innerHTML = h;
+  const showHint = state.hints && state.mode !== 'drill';
+  $('transList').innerHTML = task.trans.map((t, i) =>
+    `<li><span class="tnum">${i + 1}.</span><span class="tdate">${t.date}</span><span class="ttext">${esc(t.text)}${showHint ? ` <span class="hint">${t.hint}</span>` : ''}</span></li>`).join('');
+}
+
+function cellHTML(key, editable, val, label) {
+  if (!editable) return `<span class="cell given">${val ? fmt(val) : ''}</span>`;
+  return `<input class="cell" data-key="${key}" inputmode="numeric" autocomplete="off" aria-label="${esc(label)}" id="c-${key.replace(/\|/g, '-')}">`;
+}
+
+function renderSheet() {
+  const { task, sol } = state;
+  const closeOnly = state.mode === 'close';
+  const rows = [
+    { id: 'ib', label: 'IB', date: '01.jan' },
+    ...task.trans.map((t, i) => ({ id: `t${i}`, label: `${i + 1}. ${t.short}`, date: t.date })),
+    { id: 'sum', label: 'Sum', cls: 'close first' },
+    { id: 'res', label: 'Til resultat', cls: 'close' },
+    { id: 'bal', label: 'Til balanse', cls: 'close' },
+    { id: 'tot', label: 'Sum', cls: 'close tot' }
+  ];
+  const accs = task.accounts;
+  const blocks = [];
+  for (let i = 0; i < accs.length; i += 6) blocks.push(accs.slice(i, i + 6));
+  $('blocks').innerHTML = blocks.map(bl => {
+    let h = '<div class="scroll"><table class="ledger"><thead><tr><th class="lbl">' + esc(task.company) + '</th>';
+    h += bl.map(a => `<th colspan="2"><span class="acc-no">${a}</span> ${ACC[a][1]}</th>`).join('') + '</tr><tr><th class="lbl dk">Dato · tekst</th>';
+    h += bl.map(() => '<th class="dk">Debet</th><th class="dk">Kredit</th>').join('') + '</tr></thead><tbody>';
+    for (const r of rows) {
+      const given = closeOnly && (r.id === 'ib' || r.id[0] === 't' && r.id !== 'tot');
+      h += `<tr class="${r.cls || ''}" data-row="${r.id}"><th class="lbl" scope="row">${r.date ? `<span class="tdate">${r.date}</span>` : ''}${esc(r.label)}</th>`;
+      for (const a of bl) for (const s of ['d', 'k']) {
+        const key = `${r.id}|${a}|${s}`;
+        h += `<td class="${s}">${cellHTML(key, !given, sol.E[key] || 0, `${a} ${ACC[a][1]}, ${s === 'd' ? 'debet' : 'kredit'}, ${r.label}`)}</td>`;
+      }
+      h += '</tr>';
+    }
+    return h + '</tbody></table></div>';
+  }).join('');
+
+  const lvl1 = task.level === 1;
+  $('summary').innerHTML = `
+    <label class="field" ${lvl1 ? 'hidden' : ''}><span>Sum inntekter</span><input class="text-in" id="s-inn" data-sum="inn" inputmode="numeric" autocomplete="off"></label>
+    <label class="field" ${lvl1 ? 'hidden' : ''}><span>Sum kostnader</span><input class="text-in" id="s-kost" data-sum="kost" inputmode="numeric" autocomplete="off"></label>
+    <div class="field" ${lvl1 ? 'hidden' : ''}><span>Årets resultat</span><div class="row2">
+      <select class="text-in" id="s-type" aria-label="Overskudd eller underskudd"><option value="">Velg</option><option value="o">Overskudd</option><option value="u">Underskudd</option></select>
+      <input class="text-in" id="s-res" data-sum="res" inputmode="numeric" autocomplete="off" aria-label="Resultat i kroner"></div></div>
+    <label class="field"><span>2050 Annen EK etter disponering</span><input class="text-in" id="s-ek" data-sum="ek" inputmode="numeric" autocomplete="off"></label>
+    <label class="field"><span>Balansesum 31.12.x1</span><input class="text-in" id="s-bal" data-sum="balsum" inputmode="numeric" autocomplete="off"></label>`;
+}
+
+function renderDrill() {
+  $('drillRows').innerHTML = state.task.trans.map((t, i) => `
+    <div class="drill-row" data-i="${i}">
+      <span class="tnum">${i + 1}.</span>
+      <div><span class="tdate">${t.date}</span> ${esc(t.text)}</div>
+      <label><span class="drill-lbl">Debet</span><input class="text-in" id="dd-${i}" data-drill="d" inputmode="numeric" autocomplete="off"></label>
+      <label><span class="drill-lbl">Kredit</span><input class="text-in" id="dk-${i}" data-drill="k" inputmode="numeric" autocomplete="off"></label>
+      <div class="drill-ans" hidden></div>
+    </div>`).join('');
+}
+
+function renderAll() {
+  state.task = generate(state.seed, state.level, state.count);
+  state.sol = solve(state.task);
+  state.fasit = false; state.checked = false;
+  document.querySelectorAll('#level button').forEach(b => b.setAttribute('aria-pressed', String(Number(b.dataset.v) === state.level)));
+  $('count').value = String(state.count);
+  $('mode').value = state.mode;
+  $('hints').checked = state.hints;
+  const drill = state.mode === 'drill';
+  $('sheetSection').hidden = drill;
+  $('drillSection').hidden = !drill;
+  $('sheetNote').textContent = state.mode === 'close'
+    ? 'Posteringene er ført. Fyll ut Sum, Til resultat, Til balanse og siste Sum, og svar på spørsmålene under.'
+    : 'Kontoer som starter med 1 og 2 avsluttes mot balansen, 3 til 8 mot resultatet. Tomme celler teller som 0.';
+  renderTask();
+  if (drill) renderDrill(); else renderSheet();
+  $('statements').hidden = true;
+  $('feedback').textContent = ''; $('feedback').className = 'feedback';
+  $('fasitBtn').textContent = 'Vis fasit';
+  renderStats();
+}
+
+function renderStats() {
+  const s = store.get('stats', { tasks: 0, right: 0, total: 0 });
+  $('stats').textContent = s.tasks ? `${s.tasks} oppgaver rettet · ${Math.round(100 * s.right / Math.max(1, s.total))} % riktige celler totalt` : '';
+}
+function recordStats(right, total) {
+  if (state.checked) return;
+  state.checked = true;
+  const s = store.get('stats', { tasks: 0, right: 0, total: 0 });
+  s.tasks++; s.right += right; s.total += total;
+  store.set('stats', s); renderStats();
+}
+
+function sumExpected() {
+  const { sol } = state;
+  return { inn: sol.inn, kost: sol.kost, res: Math.abs(sol.resultat), ek: sol.ek, balsum: sol.balsum };
+}
+
+function check() {
+  if (state.fasit) toggleFasit();
+  if (state.mode === 'drill') return checkDrill();
+  const { E } = state.sol;
+  let right = 0, total = 0;
+  const badRows = new Set();
+  document.querySelectorAll('input.cell').forEach(inp => {
+    inp.classList.remove('ok', 'bad');
+    const exp = E[inp.dataset.key] || 0;
+    const v = parseAmt(inp.value);
+    if (v === null && exp === 0) return;
+    total++;
+    if ((v ?? 0) === exp) { right++; if (v !== null) inp.classList.add('ok'); }
+    else { inp.classList.add('bad'); badRows.add(inp.dataset.key.split('|')[0]); }
+  });
+  document.querySelectorAll('tr[data-row]').forEach(tr => tr.classList.toggle('rowbad', badRows.has(tr.dataset.row)));
+  const exp = sumExpected();
+  let sRight = 0, sTotal = 0;
+  document.querySelectorAll('[data-sum]').forEach(inp => {
+    if (inp.closest('[hidden]')) return;
+    sTotal++;
+    const ok = parseAmt(inp.value) === exp[inp.dataset.sum];
+    inp.classList.toggle('ok', ok); inp.classList.toggle('bad', !ok);
+    if (ok) sRight++;
+  });
+  const typeSel = $('s-type');
+  if (!typeSel.closest('[hidden]')) {
+    sTotal++;
+    const want = state.sol.resultat >= 0 ? 'o' : 'u';
+    const ok = typeSel.value === want || (state.sol.resultat === 0 && typeSel.value !== '');
+    typeSel.classList.toggle('ok', ok); typeSel.classList.toggle('bad', !ok);
+    if (ok) sRight++;
+  }
+  recordStats(right, total);
+  const allGood = right === total && sRight === sTotal;
+  const fb = $('feedback');
+  fb.className = 'feedback ' + (allGood ? 'good' : 'meh');
+  const rowNames = [...badRows].map(r => r === 'ib' ? 'IB' : r[0] === 't' ? `transaksjon ${Number(r.slice(1)) + 1}` : ({ sum: 'Sum', res: 'Til resultat', bal: 'Til balanse', tot: 'siste Sum' })[r]);
+  fb.textContent = allGood
+    ? `Alt stemmer. ${right} av ${total} celler og alle kontrollsvar riktige.`
+    : `${right} av ${total} celler riktige, ${sRight} av ${sTotal} kontrollsvar.` + (rowNames.length ? ` Se på: ${rowNames.slice(0, 6).join(', ')}${rowNames.length > 6 ? ' og flere' : ''}.` : '');
+}
+
+function accSet(s) { return [...new Set((s.match(/\d{4}/g) || []))].sort().join(','); }
+function checkDrill() {
+  let right = 0, total = 0;
+  state.task.trans.forEach((t, i) => {
+    const row = document.querySelector(`.drill-row[data-i="${i}"]`);
+    const wantD = [...new Set(t.lines.filter(l => l[1] === 'd').map(l => l[0]))].sort().join(',');
+    const wantK = [...new Set(t.lines.filter(l => l[1] === 'k').map(l => l[0]))].sort().join(',');
+    let rowOk = true;
+    for (const [side, want] of [['d', wantD], ['k', wantK]]) {
+      const inp = $(`d${side}-${i}`);
+      const ok = accSet(inp.value) === want;
+      inp.classList.toggle('ok', ok); inp.classList.toggle('bad', !ok);
+      total++; if (ok) right++; else rowOk = false;
+    }
+    const ans = row.querySelector('.drill-ans');
+    ans.hidden = rowOk;
+    ans.textContent = rowOk ? '' : 'Fasit: ' + t.lines.map(([a, s, v]) => `${s === 'd' ? 'D' : 'K'} ${a} ${ACC[a][1]} ${fmt(v)}`).join(' · ');
+  });
+  recordStats(right, total);
+  const fb = $('feedback');
+  fb.className = 'feedback ' + (right === total ? 'good' : 'meh');
+  fb.textContent = right === total ? `Alle ${total} konteringer riktige.` : `${right} av ${total} riktige. Fasit vises under de som er feil.`;
+}
+
+function toggleFasit() {
+  state.fasit = !state.fasit;
+  $('fasitBtn').textContent = state.fasit ? 'Skjul fasit' : 'Vis fasit';
+  if (state.mode === 'drill') {
+    state.task.trans.forEach((t, i) => {
+      for (const s of ['d', 'k']) {
+        const inp = $(`d${s}-${i}`);
+        if (state.fasit) { inp.dataset.user = inp.value; inp.value = [...new Set(t.lines.filter(l => l[1] === s).map(l => l[0]))].join(', '); inp.readOnly = true; inp.classList.add('fasit'); }
+        else { inp.value = inp.dataset.user || ''; inp.readOnly = false; inp.classList.remove('fasit'); }
+      }
+    });
+    return;
+  }
+  const { E } = state.sol;
+  document.querySelectorAll('input.cell').forEach(inp => {
+    if (state.fasit) { inp.dataset.user = inp.value; const v = E[inp.dataset.key] || 0; inp.value = v ? fmt(v) : ''; inp.readOnly = true; inp.classList.add('fasit'); }
+    else { inp.value = inp.dataset.user || ''; inp.readOnly = false; inp.classList.remove('fasit'); }
+  });
+  const exp = sumExpected();
+  document.querySelectorAll('[data-sum]').forEach(inp => {
+    if (state.fasit) { inp.dataset.user = inp.value; inp.value = fmt(exp[inp.dataset.sum]); inp.readOnly = true; inp.classList.add('fasit'); }
+    else { inp.value = inp.dataset.user || ''; inp.readOnly = false; inp.classList.remove('fasit'); }
+  });
+  const ts = $('s-type');
+  if (state.fasit) { ts.dataset.user = ts.value; ts.value = state.sol.resultat >= 0 ? 'o' : 'u'; ts.disabled = true; }
+  else { ts.value = ts.dataset.user || ''; ts.disabled = false; }
+  $('statements').hidden = !state.fasit;
+  if (state.fasit) renderStatements();
+}
+
+function renderStatements() {
+  const { task, sol } = state;
+  const res = task.accounts.filter(a => Number(a[0]) >= 3);
+  const bal = task.accounts.filter(a => Number(a[0]) <= 2);
+  let rr = '<table class="ib"><thead><tr><th>Konto</th><th class="n">Debet</th><th class="n">Kredit</th></tr></thead><tbody>';
+  for (const a of res) { const s = sol.saldo[a]; rr += `<tr><td><span class="konto">${a}</span>${ACC[a][0]}</td><td class="n">${s > 0 ? fmt(s) : ''}</td><td class="n">${s < 0 ? fmt(s) : ''}</td></tr>`; }
+  const r = sol.resultat;
+  rr += `<tr><td><span class="konto">8900</span>${ACC['8900'][0]}</td><td class="n">${r > 0 ? fmt(r) : ''}</td><td class="n">${r < 0 ? fmt(r) : ''}</td></tr>`;
+  const rs = Math.max(sol.inn, sol.kost);
+  rr += `<tr class="total"><td>Sum</td><td class="n">${fmt(rs)}</td><td class="n">${fmt(rs)}</td></tr></tbody></table>`;
+
+  const assets = bal.filter(a => sol.saldo[a] > 0);
+  const liabs = bal.filter(a => sol.saldo[a] < 0 || a === '2050');
+  let bb = '<table class="ib"><thead><tr><th>Konto</th><th class="n">Debet</th><th class="n">Kredit</th></tr></thead><tbody>';
+  for (const a of assets) bb += `<tr><td><span class="konto">${a}</span>${ACC[a][0]}</td><td class="n">${fmt(sol.saldo[a])}</td><td></td></tr>`;
+  for (const a of liabs) { const v = a === '2050' ? sol.ek : -sol.saldo[a]; bb += `<tr><td><span class="konto">${a}</span>${ACC[a][0]}</td><td class="n">${v < 0 ? fmt(v) : ''}</td><td class="n">${v >= 0 ? fmt(v) : ''}</td></tr>`; }
+  bb += `<tr class="total"><td>Sum</td><td class="n">${fmt(sol.balsum)}</td><td class="n">${fmt(sol.balsum)}</td></tr></tbody></table>`;
+
+  const ekIB = -(sol.saldo['2050'] || 0);
+  const resTxt = task.level === 1 ? 'Ingen resultatkontoer på nivå 1, så egenkapitalen endres bare av transaksjonene.'
+    : r >= 0 ? `Inntekter ${fmt(sol.inn)} minus kostnader ${fmt(sol.kost)} gir overskudd på ${fmt(r)}. Føres D 8900, K 2050.`
+      : `Inntekter ${fmt(sol.inn)} minus kostnader ${fmt(sol.kost)} gir underskudd på ${fmt(r)}. Føres D 2050, K 8900.`;
+  $('statements').innerHTML = `
+    <div class="statement"><h2>Resultatregnskap x1</h2>${task.level === 1 ? '<p class="explain">Ingen resultatkontoer i denne oppgaven.</p>' : rr}<p class="explain">${resTxt}</p></div>
+    <div class="statement"><h2>Balanse pr. 31.12.x1</h2>${bb}<p class="explain">Annen EK: ${fmt(ekIB)} fra tabellen ${task.level === 1 ? '' : (r >= 0 ? `+ ${fmt(r)} overskudd` : `minus ${fmt(r)} underskudd`)} = ${fmt(sol.ek)}.</p></div>`;
+}
+
+let clearArmed = null;
+function clearAll() {
+  if (!clearArmed) {
+    $('clearBtn').textContent = 'Klikk igjen for å tømme';
+    clearArmed = setTimeout(() => { clearArmed = null; $('clearBtn').textContent = 'Tøm'; }, 3000);
+    return;
+  }
+  clearTimeout(clearArmed); clearArmed = null; $('clearBtn').textContent = 'Tøm';
+  if (state.fasit) toggleFasit();
+  document.querySelectorAll('input.cell, .text-in').forEach(el => { if (el.tagName === 'SELECT') { if (el.id === 's-type') el.value = ''; } else el.value = ''; el.classList.remove('ok', 'bad'); });
+  document.querySelectorAll('.drill-ans').forEach(el => el.hidden = true);
+  document.querySelectorAll('tr.rowbad').forEach(el => el.classList.remove('rowbad'));
+  $('feedback').textContent = '';
+}
+
+function renderPlan() {
+  const groups = [['1', 'Eiendeler'], ['2', 'Egenkapital og gjeld'], ['3', 'Salgsinntekter'], ['5', 'Lønnskostnader'], ['67', 'Andre driftskostnader'], ['8', 'Finans og disponering']];
+  $('plan').innerHTML = groups.map(([p, name]) => `<h3>${name}</h3>` + Object.entries(ACC).filter(([a]) => p.includes(a[0])).map(([a, [n]]) => `<div><span class="konto">${a}</span>${n}</div>`).join('')).join('');
+}
+
+document.querySelectorAll('#level button').forEach(b => b.addEventListener('click', () => { state.level = Number(b.dataset.v); store.set('level', state.level); renderAll(); }));
+$('count').addEventListener('change', e => { state.count = Number(e.target.value); store.set('count', state.count); renderAll(); });
+$('mode').addEventListener('change', e => { state.mode = e.target.value; store.set('mode', state.mode); renderAll(); });
+$('hints').addEventListener('change', e => { state.hints = e.target.checked; store.set('hints', state.hints); renderTask(); });
+$('newTask').addEventListener('click', () => { state.seed = Math.floor(Math.random() * 90000) + 10000; renderAll(); window.scrollTo({ top: 0 }); });
+$('checkBtn').addEventListener('click', check);
+$('fasitBtn').addEventListener('click', toggleFasit);
+$('clearBtn').addEventListener('click', clearAll);
+document.addEventListener('keydown', e => {
+  if (e.key !== 'Enter' || !e.target.classList?.contains('cell')) return;
+  e.preventDefault();
+  const all = [...document.querySelectorAll('input.cell')];
+  const nxt = all[all.indexOf(e.target) + 1]; if (nxt) nxt.focus();
+});
+document.addEventListener('blur', e => {
+  if (!(e.target instanceof HTMLInputElement) || state.fasit) return;
+  if (!e.target.classList.contains('cell') && !e.target.dataset.sum) return;
+  const v = parseAmt(e.target.value); if (v !== null && !Number.isNaN(v)) e.target.value = fmt(v);
+}, true);
+
+renderPlan();
+renderAll();
+</script>

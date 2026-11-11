@@ -1,0 +1,396 @@
+{
+  "summary": "Leksjonen tar for seg de funksjonene i The software product management body of knowledge der produktsjefen ikke nødvendigvis gjør jobben selv, men er støttespiller, premissleverandør og bedriftsintern kunde: markedsføring, salg og ferdigstillelse, og leveransetjenester og support. Markedsføring omfatter planlegging, verdi-kommunikasjon, produktlansering, mulighetsledelse, kanalforberedelse og operasjonell markedsføring. Salg og ferdigstillelse dekker salgsplanlegging, CRM, operasjonelt salg og operasjonell ferdigstillelse, og produktsjefen må blant annet unngå oversalg av promiseware. Leveransetjenester og support omfatter planlegging av tjenester, tjenesteleveranse, teknisk støtte på tre nivåer og driftsoperasjoner med SLA.",
+  "flashcards": [
+    {
+      "front": "Hvilken rolle har produktsjefen overfor markedsføring, salg og support?",
+      "back": "Produktsjefen er en bedriftsintern kunde som gir bestillinger og input, og en støttespiller og premissleverandør. Selve ansvaret for å utføre funksjonene ligger hos andre.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Hva er markedsføringsavdelingen typisk ansvarlig for?",
+      "back": "Alle aktiviteter som forbereder og støtter salget, inkludert å etablere kjennskap til produktet og oppnå en hensiktsmessig posisjonering i markedet.",
+      "section": "Markedsføring"
+    },
+    {
+      "front": "Hva avgjør ofte om markedsføring og salg er egne avdelinger?",
+      "back": "Bedriftens størrelse. Større foretak rendyrker rollene, mens mindre foretak ofte kombinerer dem.",
+      "section": "Markedsføring"
+    },
+    {
+      "front": "Hva er planlegging av markedsføringsaktiviteter (Marketing Planning)?",
+      "back": "Å utvikle og få aksept for planer for alle markedsføringsaktiviteter, vanligvis for et år med budsjett, synkronisert med overordnet strategi, produktstrategi, utviklingsplaner og salgsplaner.",
+      "section": "Markedsføringsplanlegging"
+    },
+    {
+      "front": "Hva er verdi-kommunikasjon (Value Communication)?",
+      "back": "Å formidle verdien av produktet effektivt til målgruppen og interessenter, ofte gjennom en verdiproposisjon.",
+      "section": "Verdi-kommunikasjon"
+    },
+    {
+      "front": "Hva er en verdiproposisjon?",
+      "back": "En beskrivelse av hva som gjør produktet unikt og verdifullt for kundene og hvordan det løser kundenes behov.",
+      "section": "Verdi-kommunikasjon"
+    },
+    {
+      "front": "Hva er målet med verdi-kommunikasjon?",
+      "back": "Å få nye kunder, beholde eksisterende og bygge en lojal kundebase over tid.",
+      "section": "Verdi-kommunikasjon"
+    },
+    {
+      "front": "Hva er produktlansering (Product Launches)?",
+      "back": "Innføring av et nytt produkt, en ny versjon eller en ny utgivelse i et marked, med aktiviteter som skaper oppmerksomhet, f.eks. via fagpresse, markedsbyråer og kampanjer.",
+      "section": "Produktlansering"
+    },
+    {
+      "front": "Hva er mulighetsledelse (Opportunity Management)?",
+      "back": "Kontinuerlig å identifisere nye forretningsmuligheter og utvikle dem til konkret forretningsmessig suksess for produktene.",
+      "section": "Mulighetsledelse"
+    },
+    {
+      "front": "Hva er kanalforberedelse (Channel Preparation)?",
+      "back": "Å gjøre salgs- og distribusjonskanaler klare til å selge et nytt produkt, en ny versjon eller utgivelse, inkludert materialer, nettsider og kundehistorier.",
+      "section": "Kanalforberedelse"
+    },
+    {
+      "front": "Hvilke typer salgs- og distribusjonskanaler nevnes?",
+      "back": "Direkte salg fra leverandøren, online markedsføring og salg via nettsider, og salg og distribusjon via forhandlere eller andre partnere.",
+      "section": "Kanalforberedelse"
+    },
+    {
+      "front": "Hva avgjør valg av kanal ifølge leksjonen?",
+      "back": "Produktets natur: noen produkter krever lange innsalgsprosesser med demonstrasjoner, andre kan selges som standard hyllevare. Også målgruppe, marked og konkurranse spiller inn.",
+      "section": "Kanalforberedelse"
+    },
+    {
+      "front": "Hva er operasjonell markedsføring (Operational Marketing)?",
+      "back": "Å gjennomføre markedsføringsplanen, skaffe data fra målinger og sette inn korrigerende tiltak ved avvik.",
+      "section": "Operasjonell markedsføring"
+    },
+    {
+      "front": "Hva er markedsføringsstøtte (Marketing Support)?",
+      "back": "Hjelp fra folk som ikke har markedsføring som hovedoppgave, f.eks. produksjon av markedsmateriell, organisering av konferanser og brukergruppemøter og dokumentasjon av resultater.",
+      "section": "Operasjonell markedsføring"
+    },
+    {
+      "front": "Hva er ferdigstillelse (Fulfillment)?",
+      "back": "Distribusjon og det å gjøre produktene tilgjengelige for kunder, f.eks. logistikk til butikker, nedlasting via internett eller fysiske lagringsmedier.",
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "front": "Hva er promiseware?",
+      "back": "Det å selge mer enn man faktisk kan levere. Produktsjefen skal påse at man unngår slikt oversalg.",
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "front": "Hva er produktsjefens koordinerende ansvar i salg?",
+      "back": "Sørge for at produktet og insentiver (f.eks. salgsbonuser) er med i salgsplanene, at planene følges, balansere kortsiktige salgskrav mot langsiktig utvikling, unngå promiseware og holde seg til prisstrukturer.",
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "front": "Hva inneholder en salgsplan (Sales Planning)?",
+      "back": "Salgsmål og hvilke insentiver som utløses ved hvilke nivåer, typisk for ett år, forankret i organisasjonen og synkronisert med strategi, produktplaner og markedsføringsplan.",
+      "section": "Salgsplanlegging"
+    },
+    {
+      "front": "Hva er CRM (Customer Relationship Management)?",
+      "back": "Systematisk styring av samhandlingen med kunder, salgskanaler og partnere: kommunikasjon, kunnskapsforvaltning og involvering av kunder i kravutvikling, med fokus på langsiktige relasjoner.",
+      "section": "CRM"
+    },
+    {
+      "front": "Hva omfatter operasjonelt salg (Operational Sales)?",
+      "back": "Gjennomføre salgsplanen, måle mot salgsbudsjettet, korrigere avvik, utarbeide tilbud, forhandle og etablere endelig kontrakt.",
+      "section": "Operasjonelt salg"
+    },
+    {
+      "front": "Hva er operasjonell ferdigstillelse (Operational Fulfillment)?",
+      "back": "Å sørge for jevn ordrehåndtering og distribusjon, nok forsyninger ved fysisk distribusjon, stabile løsninger for elektronisk bestilling og effektiv fakturering.",
+      "section": "Operasjonell ferdigstillelse"
+    },
+    {
+      "front": "Hvilke produktrelaterte tjenester kan leveres til kunder?",
+      "back": "Opplæring, bistand til installasjon, tilpasning (parametersetting, integrasjon), drift av systemene og supportsenter for tekniske og faglige problemer.",
+      "section": "Leveransetjenester og support"
+    },
+    {
+      "front": "Hva ligger utenfor produktsjefens ansvarsområde innen tjenester?",
+      "back": "Konsulenttjenester som ikke er knyttet til et bestemt produkt.",
+      "section": "Leveransetjenester og support"
+    },
+    {
+      "front": "Hva er førstenivå (Level 1) i teknisk støtte?",
+      "back": "Kundenes kontaktpunkt (Single Point of Contact), ofte kalt help desk, som nås via telefon, internett osv.",
+      "section": "Teknisk støtte"
+    },
+    {
+      "front": "Hva er tredjenivå (Level 3) i teknisk støtte?",
+      "back": "Ofte utviklingsavdelingen (f.eks. endringsteamet), som får henvendelser fra andrenivå, typisk utløst av feil i programvaren som må rettes.",
+      "section": "Teknisk støtte"
+    },
+    {
+      "front": "Hvilke kategorier kan kundehenvendelser deles inn i?",
+      "back": "Feil i programvaren, ønske om ny funksjonalitet og ikke-tekniske problemer, f.eks. råd om hvordan en oppgave best løses.",
+      "section": "Teknisk støtte"
+    },
+    {
+      "front": "Hva er en SLA (Service Level Agreement)?",
+      "back": "En tjenestenivåavtale som definerer kvalitetskravene for tjenesteleveranser, typisk en del av kontrakten med kunden.",
+      "section": "Driftsoperasjoner"
+    },
+    {
+      "front": "Hva omfatter driftsoperasjoner (Operations)?",
+      "back": "Leverandørens drift av programvare for eksterne kunder, f.eks. SaaS: overvåking av ytelse, sikkerhetskopiering, rutinemessig vedlikehold, oppdateringer og rask feilretting.",
+      "section": "Driftsoperasjoner"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hvordan beskrives produktsjefens rolle overfor markedsføring, salg og support?",
+      "options": [
+        "Som den som utfører alt arbeidet selv",
+        "Som en bedriftsintern kunde som gir bestillinger og input",
+        "Som ekstern konsulent",
+        "Som eier av salgsbudsjettet"
+      ],
+      "answer_index": 1,
+      "explanation": "Produktsjefen er bedriftsintern kunde og premissleverandør, mens ansvaret for å utføre funksjonene ligger hos andre.",
+      "section": "Innledning"
+    },
+    {
+      "question": "En bedrift beskriver hva som gjør produktet unikt og hvordan det løser kundenes behov. Hvilken aktivitet er dette?",
+      "options": [
+        "Kanalforberedelse",
+        "Operasjonell ferdigstillelse",
+        "Verdi-kommunikasjon",
+        "Mulighetsledelse"
+      ],
+      "answer_index": 2,
+      "explanation": "Å utforme en verdiproposisjon er en sentral del av verdi-kommunikasjon.",
+      "section": "Verdi-kommunikasjon"
+    },
+    {
+      "question": "En leverandør oppdaterer nettsidene, lager kundehistorier og inngår provisjonsavtaler med forhandlere før en ny versjon. Hvilken aktivitet er dette?",
+      "options": [
+        "Kanalforberedelse",
+        "Produktlansering",
+        "Operasjonelt salg",
+        "CRM"
+      ],
+      "answer_index": 0,
+      "explanation": "Kanalforberedelse gjør salgs- og distribusjonskanalene klare, inkludert materialer og avtaler med partnere.",
+      "section": "Kanalforberedelse"
+    },
+    {
+      "question": "Hva innebærer mulighetsledelse (Opportunity Management)?",
+      "options": [
+        "Å håndtere ordrer og fakturering",
+        "Å forhandle kontrakter",
+        "Å drifte et supportsenter",
+        "Kontinuerlig å identifisere nye forretningsmuligheter og gjøre dem til suksess"
+      ],
+      "answer_index": 3,
+      "explanation": "Mulighetsledelse handler om å jakte på og utvikle nye forretningsmuligheter, f.eks. via nye krav, markedsføringstiltak eller kampanjer med salg.",
+      "section": "Mulighetsledelse"
+    },
+    {
+      "question": "Hva skiller operasjonell markedsføring fra planlegging av markedsføringsaktiviteter?",
+      "options": [
+        "Operasjonell markedsføring gjennomfører planen, måler og korrigerer avvik",
+        "Operasjonell markedsføring lager budsjettet",
+        "Det er ingen forskjell",
+        "Operasjonell markedsføring gjelder kun lanseringer"
+      ],
+      "answer_index": 0,
+      "explanation": "Planleggingen lager og forankrer planen, mens den operasjonelle delen setter den ut i livet og følger opp med målinger.",
+      "section": "Operasjonell markedsføring"
+    },
+    {
+      "question": "En selger lover kunden funksjonalitet som ikke finnes og ikke er planlagt. Hva kalles dette?",
+      "options": [
+        "Pre-sales",
+        "Promiseware",
+        "Mulighetsledelse",
+        "Salgsstøtte"
+      ],
+      "answer_index": 1,
+      "explanation": "Promiseware er oversalg av noe man ikke kan levere, og produktsjefen skal bidra til å unngå det.",
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "question": "Hva handler ferdigstillelse (fulfillment) om?",
+      "options": [
+        "Å skrive kravspesifikasjoner",
+        "Å teste programvaren",
+        "Å avslutte utviklingsprosjektet",
+        "Distribusjon og å gjøre produktene tilgjengelige for kundene"
+      ],
+      "answer_index": 3,
+      "explanation": "Ferdigstillelse er distribusjon, f.eks. logistikk, nedlasting eller fysiske lagringsmedier.",
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "question": "Hvilken aktivitet omfatter å utarbeide tilbud, forhandle med kunder og etablere endelig kontrakt?",
+      "options": [
+        "Salgsplanlegging",
+        "Operasjonelt salg",
+        "Operasjonell ferdigstillelse",
+        "Verdi-kommunikasjon"
+      ],
+      "answer_index": 1,
+      "explanation": "Operasjonelt salg gjennomfører salgsplanen, inkludert tilbud, forhandlinger og kontrakt.",
+      "section": "Operasjonelt salg"
+    },
+    {
+      "question": "Hva er en viktig advarsel knyttet til CRM i leksjonen?",
+      "options": [
+        "CRM skal kun brukes av utviklere",
+        "CRM erstatter behovet for support",
+        "CRM kan ikke involvere kunder i kravarbeid",
+        "Man må ikke bare fokusere på kortsiktig salgssuksess, men også langsiktige kunderelasjoner"
+      ],
+      "answer_index": 3,
+      "explanation": "De som jobber med CRM skal sikre gode og langsiktige kunderelasjoner, ikke bare kortsiktig salg.",
+      "section": "CRM"
+    },
+    {
+      "question": "En leverandør sørger for stabile løsninger for elektronisk bestilling og effektiv fakturering. Hvilken aktivitet er dette?",
+      "options": [
+        "Operasjonell ferdigstillelse",
+        "Driftsoperasjoner",
+        "Teknisk støtte",
+        "Kanalforberedelse"
+      ],
+      "answer_index": 0,
+      "explanation": "Operasjonell ferdigstillelse handler om jevn ordrehåndtering, distribusjon og fakturering.",
+      "section": "Operasjonell ferdigstillelse"
+    },
+    {
+      "question": "Hvilken tjeneste ligger utenfor produktsjefens ansvarsområde?",
+      "options": [
+        "Opplæring i bruk av produktet",
+        "Konsulenttjenester som ikke er knyttet til et bestemt produkt",
+        "Bistand til installasjon",
+        "Drift av supportsenter for produktet"
+      ],
+      "answer_index": 1,
+      "explanation": "Konsulenttjenester uten kobling til et produkt ligger utenfor produktsjefens ansvar.",
+      "section": "Leveransetjenester og support"
+    },
+    {
+      "question": "En kunde ringer help desk med et problem. Saken er komplisert og sendes videre til folk på vakt som løser mer kompliserte problemer. Hvilket nivå er saken nå på?",
+      "options": [
+        "Førstenivå",
+        "Driftsnivå",
+        "Tredjenivå",
+        "Andrenivå"
+      ],
+      "answer_index": 3,
+      "explanation": "Andrenivå tar mer kompliserte saker som ikke kan løses umiddelbart på førstenivå, og kundene går via førstenivå dit.",
+      "section": "Teknisk støtte"
+    },
+    {
+      "question": "Hvem er ofte ansvarlig for tredjenivå support?",
+      "options": [
+        "Salgsavdelingen",
+        "Markedsavdelingen",
+        "Utviklingsavdelingen",
+        "Kunden selv"
+      ],
+      "answer_index": 2,
+      "explanation": "Tredjenivå håndteres ofte av utviklingsavdelingen, typisk ved feil i programvaren.",
+      "section": "Teknisk støtte"
+    },
+    {
+      "question": "Hvor defineres kvalitetskravene for en SaaS-leveranse typisk?",
+      "options": [
+        "I roadmapet",
+        "I en tjenestenivåavtale (SLA)",
+        "I markedsføringsplanen",
+        "I verdiproposisjonen"
+      ],
+      "answer_index": 1,
+      "explanation": "Kvalitetskrav for driftsleveranser defineres ofte i SLA, som er en del av kontrakten med kunden.",
+      "section": "Driftsoperasjoner"
+    },
+    {
+      "question": "Hva kan produktsjefen være involvert i ved planlegging og etablering av tjenester?",
+      "options": [
+        "Å estimere forventet etterspørsel etter tjenestene",
+        "Å bemanne help desk",
+        "Å fakturere kundene",
+        "Å skrive alle SLA-er alene"
+      ],
+      "answer_index": 0,
+      "explanation": "Leksjonen nevner at produktsjefen kan være involvert i deler av planleggingen, f.eks. å estimere etterspørsel.",
+      "section": "Planlegging av tjenester"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Forklar de seks markedsføringsaktivitetene i rammeverket.",
+      "key_points": [
+        "Planlegging: årsplan med budsjett, synkronisert med strategi og andre planer",
+        "Verdi-kommunikasjon: verdiproposisjon og budskap til målgruppen",
+        "Produktlansering: skape oppmerksomhet om nye produkter, versjoner og utgivelser",
+        "Mulighetsledelse: identifisere og utvikle nye forretningsmuligheter",
+        "Kanalforberedelse: gjøre salgs- og distribusjonskanaler klare",
+        "Operasjonell markedsføring: gjennomføre planen, måle og korrigere"
+      ],
+      "section": "Markedsføring"
+    },
+    {
+      "prompt": "Gjør rede for produktsjefens koordinerende ansvar innen salg og ferdigstillelse.",
+      "key_points": [
+        "Sørge for at produktet og insentiver er med i salgsplanene",
+        "Påse at planene følges og at kundene blir fornøyde",
+        "Balansere kortsiktige salgskrav mot langsiktig produktutvikling",
+        "Unngå oversalg av promiseware",
+        "Holde seg til minste akseptable prisnivå og etablerte prisstrukturer",
+        "Kan delta i pre-sales med nøkkelkunder"
+      ],
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "prompt": "Forklar de fire aktivitetene innen salg og ferdigstillelse.",
+      "key_points": [
+        "Salgsplanlegging: salgsmål og insentiver for en periode, forankret og synkronisert",
+        "CRM: systematisk samhandling med kunder, kanaler og partnere, langsiktige relasjoner",
+        "Operasjonelt salg: tilbud, forhandlinger, kontrakt og salgsstøtte",
+        "Operasjonell ferdigstillelse: ordrehåndtering, distribusjon og fakturering"
+      ],
+      "section": "Salg og ferdigstillelse"
+    },
+    {
+      "prompt": "Gjør rede for de tre nivåene i teknisk støtte og hvordan henvendelser håndteres.",
+      "key_points": [
+        "Førstenivå: kundenes Single Point of Contact, help desk",
+        "Andrenivå: mer kompliserte saker, kunder går via førstenivå",
+        "Tredjenivå: ofte utviklingsavdelingen, typisk feil i programvaren",
+        "Henvendelser kategoriseres: feil, ny funksjonalitet, ikke-tekniske problemer",
+        "Dokumenteres i en database, typisk del av et CRM-system"
+      ],
+      "section": "Teknisk støtte"
+    },
+    {
+      "prompt": "Forklar hva leveransetjenester og support omfatter og produktsjefens rolle.",
+      "key_points": [
+        "Kan organiseres som konsulentavdeling, kundestøtteavdeling og kursavdeling",
+        "Produktrelaterte tjenester: opplæring, installasjon, tilpasning, drift og support",
+        "Tjenester prises ofte separat, men support kan inngå i tilbudet",
+        "Produktsjefen sørger for at tjenestene er del av produkttilbudet, loggfører og sikrer ressurser og kompetanse",
+        "Aktiviteter: planlegging, leveranse, teknisk støtte og driftsoperasjoner"
+      ],
+      "section": "Leveransetjenester og support"
+    },
+    {
+      "prompt": "Forklar hva driftsoperasjoner er og hvorfor de er viktige.",
+      "key_points": [
+        "Leverandøren drifter programvaren for eksterne kunder, f.eks. SaaS eller administrerte tjenester",
+        "Kvalitetskrav defineres i SLA som del av kontrakten",
+        "Omfatter overvåking av ytelse, sikkerhetskopiering, vedlikehold og oppdateringer",
+        "Rask identifikasjon og retting av feil, med testing før endringer gjøres tilgjengelige",
+        "Gir verdi, pålitelighet, omdømme og lojalitet"
+      ],
+      "section": "Driftsoperasjoner"
+    }
+  ]
+}

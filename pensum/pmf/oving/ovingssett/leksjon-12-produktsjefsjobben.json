@@ -1,0 +1,413 @@
+{
+  "summary": "Leksjonen oppsummerer produktforvaltning ved å se på hvem produktsjefen er og hvilke egenskaper som kreves, med produktsjefen i skjæringspunktet mellom forretning, teknologi og brukeropplevelse. Den presenterer kjennetegn ved dem som ikke lykkes og fire suksessfaktorer: kjerneteam, standardisert produktlivssyklus, kundefokus og roadmaps. Videre vises det at produktforvaltning er teamarbeid og handler om løpende prosesser, med konkrete eksempler som klargjøring av programutsendelse og håndtering av feil og ønsker. Til slutt omtales smidig produktforvaltning basert på Scrum, forholdet mellom produktsjef og produkteier, og bærekraftig forvaltning med rammeverket SusAF.",
+  "flashcards": [
+    {
+      "front": "Hvilke tre områder jobber produktsjefen i skjæringspunktet mellom?",
+      "back": "Det forretningsmessige, teknologien og brukeropplevelsen. En god produktsjef har erfaring fra minst ett og er lidenskapelig opptatt av alle tre.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "front": "Hva må produktsjefen vite om teknologien i produktet?",
+      "back": "Ikke alle tekniske detaljer, men overordnet arkitektur, utviklingsmiljø, utviklingsspråk, verktøy og standarder, slik at vedkommende kan delta i diskusjoner.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "front": "Nevn de syv egenskapene til en dyktig produktsjef.",
+      "back": "Kjenner produktet og egne begrensninger, lytter, stiller kritiske spørsmål, er besluttsom, responderer, kommuniserer godt og formidler lidenskap og trygghet.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "front": "Hva betyr det at produktsjefen stiller kritiske spørsmål?",
+      "back": "Man tar ikke alle forslag til endringer for god fisk, men må vite hvorfor en endring er viktig før man bruker tid, penger og ressurser på den.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "front": "Hva innebærer det å være besluttsom som produktsjef?",
+      "back": "Ta beslutninger jevnlig, være fast og kunne forsvare dem, basere dem på tilgjengelige data og kunne endre mening ved ny informasjon.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "front": "Hvilke fire utfordringer kjennetegner svak produktforvaltning?",
+      "back": "Dysfunksjonelle organisasjoner med siloer, ingen standardiserte prosesser, utilstrekkelige og mangelfulle krav, og uklare eller manglende strategier og roadmaps.",
+      "section": "De som ikke lykkes"
+    },
+    {
+      "front": "Hva kjennetegner mangelfulle krav i bedrifter som ikke lykkes?",
+      "back": "Kravene er bare en samling av det man har hørt på kundebesøk, er ikke kartlagt mot verdiskaping, mangler businesscase og kostnadene er ikke vurdert.",
+      "section": "De som ikke lykkes"
+    },
+    {
+      "front": "Hvilke fire suksessfaktorer trekkes fram for produktforvaltning?",
+      "back": "Kjerneteam, standardisert produktlivssyklus, kundefokus og veibeskrivelser (roadmaps).",
+      "section": "De som lykkes"
+    },
+    {
+      "front": "Hva er et kjerneteam?",
+      "back": "Et formelt, tverrfaglig team med tilstrekkelig autoritet som jobber med markedsføring, prosjektledelse og utvikling av produktet, er fullt ansvarlig for suksessen og har mandat til å eie prosjektet gjennom hele livssyklusen.",
+      "section": "De som lykkes"
+    },
+    {
+      "front": "Hva skal en nyttig standardisert produktlivssyklus ta høyde for?",
+      "back": "At kravene aldri kan være komplett beskrevet og utvikles underveis. Den skal gi klare føringer og milepæler, men være fleksibel nok for ulike prosjekter.",
+      "section": "De som lykkes"
+    },
+    {
+      "front": "Hva betyr kundefokus som suksessfaktor?",
+      "back": "Kravhåndtering der kundens verdi får forretningsmessig fokus. Hvert krav må begrunnes og kunne forsvares med en businesscase.",
+      "section": "De som lykkes"
+    },
+    {
+      "front": "Hva skjer hvis målene i roadmapet blir for løse?",
+      "back": "Salg får lite støtte i å påvirke kundene, og utviklingsavdelingen tar avgjørelser på egen hånd om hva, med hvilke ressurser og når.",
+      "section": "De som lykkes"
+    },
+    {
+      "front": "Hvordan skal endringer i forpliktede milepæler eller innhold håndteres?",
+      "back": "Først godkjennes av kjerneteamet, deretter vurderes om ledelsen skal involveres, og til slutt dokumenteres og kommuniseres med begrunnelser.",
+      "section": "De som lykkes"
+    },
+    {
+      "front": "Hva er produktsjefens hovedoppgave?",
+      "back": "Å maksimere forretningsmessig verdi gjennom hele produktets livssyklus, fra idé til utfasing.",
+      "section": "Teamarbeid"
+    },
+    {
+      "front": "Hva er forretningsverdi?",
+      "back": "Verdien et produkt har for en virksomhet. Den avhenger av kundeverdi og hvordan produktet oppfattes i markedet, og uttrykkes i penger eller pris bestemt av tilbud og etterspørsel.",
+      "section": "Teamarbeid"
+    },
+    {
+      "front": "Hva er forskjellen på et prosjekt og en prosess?",
+      "back": "Et prosjekt er tidsbegrenset med definert start og forventet slutt. En prosess er aktiviteter som repeteres løpende i en rekkefølge for et mål, uten fast start og slutt.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "front": "Hva er en Master eller RTM (Release To Manufacturing)?",
+      "back": "En versjon av programvaren som inneholder alt som skal med i leveransen til kunden, altså klar for overlevering.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "front": "Hva er hensikten med prosessen Klargjøre programutsendelse?",
+      "back": "Å klargjøre en programversjon fra utvikling slik at prosessen leverer en ferdig Master-fil klar for intern og ekstern distribusjon.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "front": "Hvilke delprosesser består Håndtere feil i programmet av?",
+      "back": "Registrere feilmelding, verifisere feilmelding, overføring til kvalitetssikringsdatabase (QA-database) og status på feilmeldinger.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "front": "Hva skjer med en verifisert feilmelding som egentlig er et ønske om programendring?",
+      "back": "Den tilordnes produktsjefen og dekkes av prosessen for håndtering av ønsker.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "front": "Hva omfatter ikke prosessen Håndtere intern og ekstern programinformasjon?",
+      "back": "Håndtering av feil og ønsker (egne prosesser) og markedsrelatert kommunikasjon.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "front": "Hva er alternerende sprinter i smidig produktforvaltning?",
+      "back": "Produktforvaltningssprinter og utviklingssprinter går kontinuerlig, men forskjøvet med omtrent en halv sprint, slik at produktkøen er klar når utviklingsteamet starter ny sprint.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "front": "Hva er en produktkø (Product Backlog)?",
+      "back": "En prioritert liste over alle elementer som er relevante for et produkt, f.eks. feil, ønsker fra kunder, funksjonalitet for konkurransekraft og teknologiske krav.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "front": "Hva er en sprintkø for produktforvaltning?",
+      "back": "Elementene hver produktsjef må fullføre i produktforvaltningssprinten: tema, konsepter og krav fra produktkøen som må spesifiseres videre før de går til utviklingssprinten.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "front": "Hva er en produkteier (Product Owner) i Scrum?",
+      "back": "Én person som eier visjonen, representerer interessentene og har ansvar for at Product Backlog er estimert, prioritert og tilgjengelig. Kan være del av Scrum-teamet, men aldri Scrum-master.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "front": "Hva er forskjellen i fokus mellom produkteier og produktsjef?",
+      "back": "Produkteieren er del av utviklingsteamet og fokuserer på neste versjon. Produktsjefen ivaretar mer langsiktige og strategiske oppgaver.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "front": "Hva er SusAF?",
+      "back": "Sustainability Awareness Framework: et rammeverk som hjelper utviklere og designere å identifisere og vurdere bærekraftsaspekter ved programvare, basert på Karlskrona Manifesto for Sustainability Design.",
+      "section": "Bærekraft"
+    },
+    {
+      "front": "Hvilke tre effektnivåer vurderer SusAF?",
+      "back": "Direkte effekter (umiddelbare konsekvenser av bruk), muliggjørende effekter (over tid og via bruksmønstre) og strukturelle effekter (langsiktige endringer i samfunn eller miljø).",
+      "section": "Bærekraft"
+    },
+    {
+      "front": "Hvilke fem dimensjoner av bærekraft har SusAF?",
+      "back": "Økonomisk, teknisk, sosial, individuell og miljømessig bærekraft.",
+      "section": "Bærekraft"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "En produktsjef godtar ikke et forslag om ny prismodell før hun forstår hvorfor endringen er viktig. Hvilken egenskap viser hun?",
+      "options": [
+        "Hun responderer",
+        "Hun stiller kritiske spørsmål",
+        "Hun formidler lidenskap",
+        "Hun kjenner egne begrensninger"
+      ],
+      "answer_index": 1,
+      "explanation": "En dyktig produktsjef tar ikke forslag for god fisk, men vil vite hvorfor en endring er viktig før ressurser brukes.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "question": "Hvilket utsagn om produktsjefens tekniske kunnskap stemmer med leksjonen?",
+      "options": [
+        "Produktsjefen må kunne alle tekniske detaljer",
+        "Produktsjefen trenger ingen teknisk innsikt",
+        "Produktsjefen bør kjenne overordnet arkitektur, verktøy og standarder, men overlate utviklingen til andre",
+        "Produktsjefen skal selv programmere kritiske moduler"
+      ],
+      "answer_index": 2,
+      "explanation": "Produktsjefen bør vite nok til å delta i diskusjoner, men overlate utviklingen til dem som har ansvaret.",
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "question": "I en bedrift jobber salg, markedsføring og utvikling hver for seg, og planene endres stadig. Hvilken utfordring er dette?",
+      "options": [
+        "Dysfunksjonell organisasjon med siloer",
+        "Mangelfulle krav",
+        "Manglende roadmaps",
+        "For mye standardisering"
+      ],
+      "answer_index": 0,
+      "explanation": "Uklare ansvarsforhold og arbeid i siloer fører til stadig endret fokus og planer.",
+      "section": "De som ikke lykkes"
+    },
+    {
+      "question": "Hvilken suksessfaktor handler om et formelt, tverrfaglig team med mandat til å eie produktet?",
+      "options": [
+        "Kundefokus",
+        "Roadmaps",
+        "Kjerneteam",
+        "Produktlivssyklus"
+      ],
+      "answer_index": 2,
+      "explanation": "Kjerneteamet har autoritet over nødvendige funksjoner og er fullt ansvarlig for produktets suksess.",
+      "section": "De som lykkes"
+    },
+    {
+      "question": "En selger avtaler en ny funksjon med en kunde i et salgsmøte uten å sjekke om den er gjennomførbar. Hvilken suksessfaktor brytes tydeligst?",
+      "options": [
+        "En standardisert produktlivssyklus som brukes til å utlede beslutninger",
+        "Formidle lidenskap",
+        "Daglige stå-opp-møter",
+        "Sosial bærekraft"
+      ],
+      "answer_index": 0,
+      "explanation": "Leksjonen nevner at endringer altfor ofte avtales i salgsmøter uten sjekk, noe en brukt produktlivssyklus skal forhindre.",
+      "section": "De som lykkes"
+    },
+    {
+      "question": "Hva skal hvert krav kunne forsvares med under suksessfaktoren kundefokus?",
+      "options": [
+        "En prototype",
+        "En brukermanual",
+        "En SLA",
+        "En businesscase"
+      ],
+      "answer_index": 3,
+      "explanation": "Hvert krav må begrunnes og justeres slik at det kan forsvares ut fra en businesscase.",
+      "section": "De som lykkes"
+    },
+    {
+      "question": "Et prosjekt som realiserer en utgivelse blir forsinket fordi en underleverandør er sen. Hva er riktig første steg ved endring av forpliktede milepæler?",
+      "options": [
+        "Informere kundene direkte",
+        "Godkjenning i kjerneteamet",
+        "La utviklingsavdelingen bestemme",
+        "Utsette all kommunikasjon til neste utgivelse"
+      ],
+      "answer_index": 1,
+      "explanation": "Endringer godkjennes først av kjerneteamet, så vurderes ledelsen, og til slutt dokumenteres og kommuniseres de.",
+      "section": "De som lykkes"
+    },
+    {
+      "question": "Hva er prosjektlederens ansvar sammenlignet med produktsjefens?",
+      "options": [
+        "Hele produktets verdikjede gjennom livssyklusen",
+        "Å eie produktvisjonen",
+        "Å planlegge markedsaktiviteter for økt salg",
+        "Å levere et bestemt produkt innenfor avtalt tid, kostnad og kvalitet"
+      ],
+      "answer_index": 3,
+      "explanation": "Prosjektlederen er ansvarlig innenfor et tidsbegrenset prosjekt, mens produktsjefen har ansvar for hele verdikjeden.",
+      "section": "Teamarbeid"
+    },
+    {
+      "question": "Hva skiller en prosess fra et prosjekt?",
+      "options": [
+        "En prosess har fast slutt",
+        "En prosess er løpende og repeteres uten fast start og slutt",
+        "En prosess har alltid én eier",
+        "En prosess gjelder kun utvikling"
+      ],
+      "answer_index": 1,
+      "explanation": "Prosjekter er tidsbegrensede, mens prosesser er løpende, gjentatte aktiviteter.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "question": "Hva er output fra prosessen Klargjøre programutsendelse?",
+      "options": [
+        "En kravspesifikasjon",
+        "En markedsplan",
+        "En SLA",
+        "En offisiell programversjon med dokumentasjon og ferdig Master-fil"
+      ],
+      "answer_index": 3,
+      "explanation": "Output er en offisiell programversjon med bl.a. versjonsbrev, produktnotat, installasjonsbeskrivelse og en ferdig Master-fil.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "question": "Kundestøtte klarer ikke å gjenskape en innmeldt feil. Hva skal de gjøre?",
+      "options": [
+        "Lukke saken",
+        "Sende den direkte til utvikling",
+        "Kontakte kunden og be om datasett for videre testing",
+        "Tilordne den produktsjefen"
+      ],
+      "answer_index": 2,
+      "explanation": "Kan feilen ikke gjenskapes, skal kunden kontaktes og bes sende inn datasett.",
+      "section": "Løpende prosesser"
+    },
+    {
+      "question": "Hvorfor forskyves produktforvaltningssprinten omtrent en halv sprint i forhold til utviklingssprinten?",
+      "options": [
+        "For å spare møtetid",
+        "Slik at produktkøen er klar når utviklingsteamet starter ny sprint",
+        "Fordi produktsjefen ikke kan delta i stand-up",
+        "For å unngå sprint review"
+      ],
+      "answer_index": 1,
+      "explanation": "Krav flyttes fra produktkøen til sprintkøen ved sprintstart, så produktforvaltningen må være ferdig i god tid.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "question": "Hvilket utsagn om produkteieren i Scrum er riktig?",
+      "options": [
+        "Produkteieren kan være en gruppe",
+        "Produkteieren kan også være Scrum-master",
+        "Produkteieren er én person som tar beslutninger om prioriteringer",
+        "Produkteieren har ikke ansvar for Product Backlog"
+      ],
+      "answer_index": 2,
+      "explanation": "Produkteieren er en person, ikke en gruppe, og skal aldri være Scrum-master.",
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "question": "Et system gjør at brukerne over tid endrer reisevaner. Hvilket effektnivå i SusAF er dette?",
+      "options": [
+        "Direkte effekt",
+        "Teknisk effekt",
+        "Strukturell effekt",
+        "Muliggjørende effekt"
+      ],
+      "answer_index": 3,
+      "explanation": "Muliggjørende effekter oppstår over tid eller gjennom bruksmønstre. Strukturelle effekter er langsiktige endringer i samfunn eller miljø.",
+      "section": "Bærekraft"
+    },
+    {
+      "question": "Et team vurderer om koden er lett å endre, om systemet kan integreres med andre systemer og om de unngår teknologisk gjeld. Hvilken SusAF-dimensjon er dette?",
+      "options": [
+        "Økonomisk",
+        "Sosial",
+        "Teknisk",
+        "Individuell"
+      ],
+      "answer_index": 2,
+      "explanation": "Vedlikeholdbarhet, interoperabilitet og å unngå teknologisk gjeld er egenskaper ved teknisk bærekraft.",
+      "section": "Bærekraft"
+    },
+    {
+      "question": "Hvilken SusAF-dimensjon handler om digital balanse og brukerens autonomi og kontroll over egne data?",
+      "options": [
+        "Individuell",
+        "Sosial",
+        "Miljømessig",
+        "Økonomisk"
+      ],
+      "answer_index": 0,
+      "explanation": "Individuell bærekraft dreier seg om den enkelte brukerens helse, trivsel, autonomi og digitale balanse.",
+      "section": "Bærekraft"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Gjør rede for egenskapene til en dyktig produktsjef.",
+      "key_points": [
+        "Kjenner produktet (kunder, konkurranse, prismodeller) og egne begrensninger",
+        "Lytter før man engasjerer og lærer opp publikum",
+        "Stiller kritiske spørsmål om hvorfor endringer er viktige",
+        "Er besluttsom, men kan endre mening ved ny informasjon",
+        "Responderer og kommuniserer ofte, konkret og konsist via flere kanaler",
+        "Formidler ekte lidenskap og trygghet og søker vinn-vinn"
+      ],
+      "section": "Hvem er produktsjefen"
+    },
+    {
+      "prompt": "Forklar de fire suksessfaktorene for produktforvaltning.",
+      "key_points": [
+        "Kjerneteam: tverrfaglig, med autoritet og mandat til å eie produktet",
+        "Produktlivssyklus: standardisert med milepæler, brukt til beslutninger, fleksibel",
+        "Kundefokus: krav begrunnet i kundeverdi og businesscase, sterk visjon",
+        "Roadmaps: porteføljeforvaltning med åpenhet, avhengigheter og risikostyring"
+      ],
+      "section": "De som lykkes"
+    },
+    {
+      "prompt": "Forklar hvorfor produktforvaltning er teamarbeid, og beskriv rollene som bidrar med verdi.",
+      "key_points": [
+        "Alle funksjoner som påvirkes av beslutninger bør være representert",
+        "Verdiskapingen skjer i en syklus med gjensidig avhengighet mellom roller",
+        "Produktsjefen maksimerer forretningsverdi gjennom hele livssyklusen",
+        "Prosjektlederen leverer innenfor tid, kostnad og kvalitet i et tidsbegrenset prosjekt",
+        "Markedssjefen planlegger aktiviteter som øker salget og formidler verdi"
+      ],
+      "section": "Teamarbeid"
+    },
+    {
+      "prompt": "Gjør rede for prosessen Håndtere feil i programmet.",
+      "key_points": [
+        "Formål: ensartet og effektiv arbeidsflyt, alle feil håndteres og status gis til berørte",
+        "Registrere: feil registreres på kunden i CRM-systemet med all nødvendig informasjon",
+        "Verifisere: vakt sjekker daglig, ber om datasett hvis feilen ikke kan gjenskapes",
+        "Videre: QA-database og testansvarlig, ønsker til produktsjefen, kundespesifikke feil til 2. linje",
+        "Status: ukentlig statusliste fra QA-databasen"
+      ],
+      "section": "Løpende prosesser"
+    },
+    {
+      "prompt": "Forklar smidig produktforvaltning og forholdet mellom produktsjef og produkteier.",
+      "key_points": [
+        "Alternerende sprinter forskjøvet en halv sprint så produktkøen er klar",
+        "Komplekse krav deles i tema, konsepter og krav",
+        "Daglige stå-opp-møter og disiplin i sprintkøen",
+        "Tidlig samarbeid gir gjenbruk og høyere kvalitet",
+        "Produkteier fokuserer på neste versjon, produktsjefen på langsiktig strategi, og de må samarbeide tett"
+      ],
+      "section": "Smidig produktforvaltning"
+    },
+    {
+      "prompt": "Gjør rede for SusAF, effektnivåene og de fem bærekraftsdimensjonene.",
+      "key_points": [
+        "Rammeverk for å identifisere og vurdere bærekraft i programvare, basert på Karlskrona-manifestet",
+        "Tre effektnivåer: direkte, muliggjørende og strukturelle",
+        "Økonomisk: langsiktig levedyktighet, rettferdig fordeling, redusert risiko",
+        "Teknisk: levetid, vedlikeholdbarhet, skalerbarhet, interoperabilitet, unngå teknologisk gjeld",
+        "Sosial og individuell: inkludering, tillit, helse, autonomi og digital balanse",
+        "Miljømessig: energi, ressursbruk, e-avfall og livssyklusperspektiv"
+      ],
+      "section": "Bærekraft"
+    }
+  ]
+}

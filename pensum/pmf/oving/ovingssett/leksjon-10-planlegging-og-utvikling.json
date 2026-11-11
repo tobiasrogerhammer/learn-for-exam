@@ -1,0 +1,419 @@
+{
+  "summary": "Leksjonen ser nærmere på rammeverket The software product management body of knowledge, med vekt på produktplanlegging og produktutvikling. Produktplanlegging er en kjerneaktivitet for produktsjefen og består av kundeinnsikt, styring gjennom produktets livssyklus, veibeskrivelser (roadmaps), planlegging av nye utgivelser og utvikling av krav til produktene. Leksjonen går grundig gjennom kravhåndtering: kravkategorier, den sykliske kravprosessen, kravstatuser og hvordan de fire scenariene (motorbåt, racerbåt, isbryter og cruiseskip) påvirker kravutviklingen. Til slutt beskrives de seks områdene innen utvikling som produktsjefen orkestrerer: arkitektur, utviklingsmiljø, utvikling, UX Design, detaljert kravhåndtering og kvalitetsledelse.",
+  "flashcards": [
+    {
+      "front": "Hvilken rolle har produktsjefen i produktplanlegging sammenlignet med utvikling i rammeverket?",
+      "back": "Produktplanlegging er kjerneaktiviteter for produktsjefen. I utvikling orkestrerer produktsjefen, altså styrer og påvirker arbeidet uten nødvendigvis å gjøre selve jobben.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Hva er produktplanlegging (Product Planning)?",
+      "back": "Å beskrive hvilke programvareprodukter man trenger, hvordan de skal være sammensatt, når og hvordan de skal utvikles, når de skal være klare for markedet og hvilket marked de tilhører.",
+      "section": "Produktplanlegging"
+    },
+    {
+      "front": "Hvilke fem hovedaktiviteter inngår i produktplanlegging?",
+      "back": "Kundeinnsikt, styring og ledelse gjennom produktenes livssyklus, veibeskrivelse for produktene (roadmap), planlegging av nye utgivelser og utvikling av krav til produktene.",
+      "section": "Produktplanlegging"
+    },
+    {
+      "front": "Hvilke tre tidshorisonter må produktsjefen planlegge ressurser for?",
+      "back": "Kort sikt (daglig drift), mellomlang sikt (neste versjon) og lang sikt (neste generasjon).",
+      "section": "Produktplanlegging"
+    },
+    {
+      "front": "Hva er kundeinnsikt (Customer Insight)?",
+      "back": "Å forstå kundenes behov, ønsker og atferd for å kunne utvikle, forvalte og markedsføre programvareprodukter som tilfredsstiller disse mest mulig effektivt.",
+      "section": "Kundeinnsikt"
+    },
+    {
+      "front": "Hva er bruker-personas?",
+      "back": "Fiktive representasjoner av ideelle kunder eller brukere som hjelper oss å forstå deres mål, utfordringer og behov.",
+      "section": "Kundeinnsikt"
+    },
+    {
+      "front": "Hva betyr det at et produkt fungerer som en melkeku?",
+      "back": "Produktet er modent og etablert, genererer betydelige inntekter med lavt investeringsnivå, og overskuddet kan finansiere andre lovende produkter i porteføljen.",
+      "section": "Livssyklus"
+    },
+    {
+      "front": "Hva er de seks livssyklusfasene ifølge læreboken?",
+      "back": "Konseptualisering, introduksjon til markedet, vekst, modenhet, tilbakegang og utfasing.",
+      "section": "Livssyklus"
+    },
+    {
+      "front": "Hva kjennetegner modenhetsfasen?",
+      "back": "Fokus på revitalisering, f.eks. ved å utvide tjenestetilbudet. Tjenester og kundestøtte står sentralt, men salg kan også være viktig.",
+      "section": "Livssyklus"
+    },
+    {
+      "front": "Hva er hovedforskjellen mellom prosjektledelse og produktledelse?",
+      "back": "Prosjektlederen fokuserer på å levere et bestemt produkt i tide, innenfor budsjett og med riktig kvalitet. Produktsjefen ser på produktets totale markedssuksess og utvikling over tid med nye versjoner og tjenester.",
+      "section": "Livssyklus"
+    },
+    {
+      "front": "Hva er en veibeskrivelse for produktet (roadmap)?",
+      "back": "En overføring av produktstrategien til en rekke kommende utgivelser som skal oppfylle forretningsmålene innenfor en strategisk tidsramme, typisk ett til fem år.",
+      "section": "Roadmap"
+    },
+    {
+      "front": "Hva er de fire inputene til et roadmap?",
+      "back": "1) Visjon og strategi for produktet, 2) planer for nye utgivelser, 3) resultater fra utvikling av krav og 4) andre roadmaps (egne produkter, partnere eller teknologi).",
+      "section": "Roadmap"
+    },
+    {
+      "front": "Hvilke tre hensikter tjener et eksternt roadmap?",
+      "back": "Kommunisere produktstrategien, samle tilbakemeldinger og bygge tillit og engasjement ved å formidle langsiktige investeringsplaner.",
+      "section": "Roadmap"
+    },
+    {
+      "front": "Hvor ligger mye av nytten ved roadmapping?",
+      "back": "I selve prosessen, der aktører fra ulike avdelinger møtes og drøfter informasjon, meninger og perspektiver.",
+      "section": "Roadmap"
+    },
+    {
+      "front": "Hva er planlegging av nye utgivelser (Release Planning)?",
+      "back": "Å bestemme hvilken funksjonalitet som skal inngå i en ny utgivelse, på tilstrekkelig detaljnivå, og maksimere produktets verdi både for neste utgivelse og hele livssyklusen.",
+      "section": "Utgivelsesplanlegging"
+    },
+    {
+      "front": "Hvilke fire typer utgivelser nevnes?",
+      "back": "Hovedutgivelse (major), liten utgivelse (minor), oppdatering (update) og oppdateringspakke (service pack).",
+      "section": "Utgivelsesplanlegging"
+    },
+    {
+      "front": "Hva er fordelen med inkrementell utvikling med jevnlige utgivelser?",
+      "back": "Man begynner tidligere å tjene penger på investeringen, men det krever god prioritering av hva som skal med i hvilke utgivelser.",
+      "section": "Utgivelsesplanlegging"
+    },
+    {
+      "front": "Hva er de tre kategoriene av krav?",
+      "back": "Krav fra kunden, markedsmessige krav og prosjektmessige krav.",
+      "section": "Kravutvikling"
+    },
+    {
+      "front": "Hvem samler vanligvis inn krav fra enkeltkunder?",
+      "back": "Salgsavdelingen, som del av kundeoppfølgingsprosessen (Customer Relationship Management, CRM).",
+      "section": "Kravutvikling"
+    },
+    {
+      "front": "Hva er de fem stegene i den sykliske kravprosessen?",
+      "back": "Få fram kravene (elicitation), innledende evaluering (triage), analysere og spesifisere i detalj, velge hva som skal realiseres i hvilke versjoner, og validere valgene.",
+      "section": "Kravprosessen"
+    },
+    {
+      "front": "Hva er triage i kravhåndtering?",
+      "back": "En innledende evaluering for å avgjøre om hvert krav er godt nok beskrevet og om det skal være del av produktet, og om flere analyser trengs. Krav som hører sammen kan sorteres sammen.",
+      "section": "Kravprosessen"
+    },
+    {
+      "front": "Hva er sporbarhet for krav?",
+      "back": "Å følge kravene fra de opprettes til de realiseres i utviklingsprosjektene og tilbake igjen: hvor de kommer fra, status, når og hvor de realiseres.",
+      "section": "Kravprosessen"
+    },
+    {
+      "front": "Nevn kravstatusene i kravhåndteringens livssyklus.",
+      "back": "Nye, godkjente, spesifiserte, avvist, valgt til implementering, implementert, ferdig testet og realisert.",
+      "section": "Kravstatus"
+    },
+    {
+      "front": "Hva er målet for kravutviklingen i motorbåt-scenariet?",
+      "back": "Å være innovativ og kreativ og definere et minimumsprodukt (Minimum Viable Product, MVP) for første kunde som er attraktivt for markedet.",
+      "section": "Fire scenarier"
+    },
+    {
+      "front": "Hva kjennetegner kravutvikling i cruiseskip-scenariet?",
+      "back": "Få men store utgivelser (en til to ganger i året), kunder på ulike versjoner, en strøm av feilmeldinger og ønsker fra mange kilder, og behov for en etablert kravhåndteringsprosess.",
+      "section": "Fire scenarier"
+    },
+    {
+      "front": "Hvilke seks områder består utvikling av i rammeverket?",
+      "back": "Forvaltning av programvarearkitektur, forvaltning av utviklingsmiljø, utvikling (Development Execution), UX Design, detaljert kravhåndtering og kvalitetsledelse.",
+      "section": "Produktutvikling"
+    },
+    {
+      "front": "Hva er CMMI?",
+      "back": "Capability Maturity Model Integration: en metode som måler dyktighet og modenhet i en organisasjon og plasserer den på et nivå fra 1 til 5, og foreslår forbedringer av prosessene.",
+      "section": "Kvalitetsledelse"
+    },
+    {
+      "front": "Hvem har typisk ansvaret for detaljert kravhåndtering?",
+      "back": "Prosjektlederen. Produktsjefen kommuniserer kravene til prosjektet og kontrollerer framdrift og om løsningene kan godkjennes.",
+      "section": "Detaljert kravhåndtering"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hvilken del av rammeverket regnes som kjerneaktiviteter for produktsjefen?",
+      "options": [
+        "Utvikling",
+        "Produktplanlegging",
+        "Kvalitetsledelse",
+        "Forvaltning av utviklingsmiljø"
+      ],
+      "answer_index": 1,
+      "explanation": "Produktplanlegging (kolonne 3) er kjerneaktiviteter, mens utvikling (kolonne 4) er aktiviteter der produktsjefen orkestrerer.",
+      "section": "Innledning"
+    },
+    {
+      "question": "Et produkt er etablert i markedet, gir store inntekter og krever lite investering. Overskuddet brukes til å finansiere nye produkter. Hva kalles dette?",
+      "options": [
+        "En melkeku",
+        "Et MVP",
+        "Et isbryterprodukt",
+        "Et konseptualiseringsprodukt"
+      ],
+      "answer_index": 0,
+      "explanation": "Leksjonen beskriver et modent, lønnsomt produkt med lavt investeringsnivå som en melkeku.",
+      "section": "Livssyklus"
+    },
+    {
+      "question": "I hvilken livssyklusfase er fokuset å få de siste kundene over på alternative produkter og bli kvitt forvaltningskostnadene?",
+      "options": [
+        "Tilbakegangsfasen",
+        "Modenhetsfasen",
+        "Utfasing",
+        "Vekstfasen"
+      ],
+      "answer_index": 2,
+      "explanation": "I utfasingen fases produktet helt ut, og kundene flyttes over på alternativer. I tilbakegangsfasen er fokuset å beholde kundene.",
+      "section": "Livssyklus"
+    },
+    {
+      "question": "En bedrift investerer i utvidet funksjonalitet mens markedsandelene vokser. Hvilken fase er produktet i?",
+      "options": [
+        "Introduksjon til markedet",
+        "Konseptualiseringsfasen",
+        "Modenhetsfasen",
+        "Vekstfasen"
+      ],
+      "answer_index": 3,
+      "explanation": "Vekstfasen kjennetegnes av voksende markedsandeler og investering i utvidet funksjonalitet.",
+      "section": "Livssyklus"
+    },
+    {
+      "question": "Hva er en typisk strategisk tidsramme for et roadmap ifølge leksjonen?",
+      "options": [
+        "Tre til seks måneder",
+        "Ett til fem år",
+        "Fem til ti år",
+        "Kun neste utgivelse"
+      ],
+      "answer_index": 1,
+      "explanation": "Roadmapet skal oppfylle forretningsmålene innenfor en strategisk tidsramme som typisk er mellom ett og fem år.",
+      "section": "Roadmap"
+    },
+    {
+      "question": "Hvilken ulempe ved roadmaps trekkes fram i leksjonen?",
+      "options": [
+        "De kan ikke deles med kunder",
+        "De erstatter behovet for utgivelsesplanlegging",
+        "De kan bare lages for interne systemer",
+        "De blir fort utdatert og er krevende å holde oppdatert"
+      ],
+      "answer_index": 3,
+      "explanation": "Et utdatert roadmap er ubrukelig og kan føre til beslutninger på feil grunnlag. Det kan også bli et uoversiktlig ormebol.",
+      "section": "Roadmap"
+    },
+    {
+      "question": "Hva brukes et internt roadmap typisk som grunnlag for?",
+      "options": [
+        "Salgsprognoser, budsjettering og etablering av utviklingsprosjekter",
+        "Kun markedsføring mot nye kunder",
+        "Rekruttering av utviklere",
+        "Prising av konkurrentenes produkter"
+      ],
+      "answer_index": 0,
+      "explanation": "Et internt roadmap beskriver innholdet i lanseringer og gir grunnlag for salgsprognoser, budsjett og utviklingsprosjekter.",
+      "section": "Roadmap"
+    },
+    {
+      "question": "Hvorfor beskrives utgivelsesplanlegging i stor grad som forhandlinger?",
+      "options": [
+        "Fordi utviklerne bestemmer alt selv",
+        "Fordi interessenter har sterke og konkurrerende føringer, og konflikter må løses",
+        "Fordi kundene betaler for hver funksjon",
+        "Fordi utgivelser alltid styres av lovverk"
+      ],
+      "answer_index": 1,
+      "explanation": "Forskjellige interessenter har ulike behov, så planleggingen blir prioritering og konfliktløsning mellom konkurrerende behov.",
+      "section": "Utgivelsesplanlegging"
+    },
+    {
+      "question": "Et krav kommer ikke fra én enkelt kunde, men fra mange kunder med like, men noe varierende behov. Hvilken kravkategori er dette?",
+      "options": [
+        "Krav fra kunden",
+        "Prosjektmessig krav",
+        "Markedsmessig krav",
+        "Teknisk krav"
+      ],
+      "answer_index": 2,
+      "explanation": "Markedsmessige krav kommer fra en rekke kunder med like behov, og det er produktsjefens ansvar å utvikle dem.",
+      "section": "Kravutvikling"
+    },
+    {
+      "question": "Et krav avvises fordi det allerede finnes et tilsvarende krav. Hvilken status får det?",
+      "options": [
+        "Nytt",
+        "Realisert",
+        "Spesifisert",
+        "Avvist"
+      ],
+      "answer_index": 3,
+      "explanation": "Krav avvises bl.a. når de er duplikater, allerede implementert eller ligger utenfor det systemet skal løse.",
+      "section": "Kravstatus"
+    },
+    {
+      "question": "Hvilket steg i kravprosessen innebærer å utarbeide estimater for tid, kostnad og ressurser?",
+      "options": [
+        "Elicitation",
+        "Triage",
+        "Analyse og detaljert spesifisering",
+        "Validering"
+      ],
+      "answer_index": 2,
+      "explanation": "Når kravene er spesifisert på tilstrekkelig detaljnivå i analysesteget, utarbeides estimater for implementeringen.",
+      "section": "Kravprosessen"
+    },
+    {
+      "question": "Hva er hensikten med validering av krav?",
+      "options": [
+        "Å skrive brukerhistorier",
+        "Å sikre at løsningen tar tak i de reelle utfordringene og er akseptabel for interessentene",
+        "Å fjerne alle krav fra salg",
+        "Å teste koden for feil"
+      ],
+      "answer_index": 1,
+      "explanation": "Validering handler om systematiske gjennomganger for å avgjøre om man har prioritert riktig.",
+      "section": "Kravprosessen"
+    },
+    {
+      "question": "En leverandør bruker pilotkunder og grundig analyse av kundenes forretningsområde, og må avtale om ny funksjonalitet skal inn i standardproduktet eller tilhøre kunden. Hvilket scenario er dette?",
+      "options": [
+        "Motorbåt",
+        "Racerbåt",
+        "Isbryter",
+        "Cruiseskip"
+      ],
+      "answer_index": 2,
+      "explanation": "Isbryter-scenariet bruker pilotkunder, kundeprosjekter med kundespesifikke krav og må avklare eierskap til ny funksjonalitet.",
+      "section": "Fire scenarier"
+    },
+    {
+      "question": "Hva skal produktsjefen ifølge leksjonen gjøre forskjellig ved fossefallsmodellen sammenlignet med smidige metoder?",
+      "options": [
+        "Utarbeide mer av kravene i forkant",
+        "Involvere seg mer underveis",
+        "Ikke delta i kravarbeidet",
+        "Overlate all testing til kunden"
+      ],
+      "answer_index": 0,
+      "explanation": "Ved fossefall må kravene i større grad lages i forkant, mens produktsjefen involveres mer underveis ved iterative og smidige metoder.",
+      "section": "Utvikling"
+    },
+    {
+      "question": "Hvilket område handler om versjonskontroll, konfigurasjon og kopier av miljøer så utviklere kan jobbe parallelt?",
+      "options": [
+        "Forvaltning av programvarearkitektur",
+        "Kvalitetsledelse",
+        "UX Design",
+        "Forvaltning av utviklingsmiljø"
+      ],
+      "answer_index": 3,
+      "explanation": "Forvaltning av utviklingsmiljø (Development Environment Management) omfatter maskinvare, programvare, verktøy, versjonskontroll og automatisert oppsett.",
+      "section": "Utviklingsmiljø"
+    },
+    {
+      "question": "Hva er responsivt design?",
+      "options": [
+        "Et design som svarer raskt på serverkall",
+        "Et produktdesign som tilpasser seg ulike enheter og skjermstørrelser",
+        "En metode for å teste ytelse",
+        "En type brukbarhetstest"
+      ],
+      "answer_index": 1,
+      "explanation": "Responsivt design tilpasser seg datamaskiner, nettbrett og mobiltelefoner, og er viktig når produktet brukes på mange enheter.",
+      "section": "UX Design"
+    },
+    {
+      "question": "Hva er blant produktsjefens oppgaver i kvalitetsledelse?",
+      "options": [
+        "Å skrive all kildekode",
+        "Å drifte produksjonsserverne",
+        "Å sertifisere organisasjonen etter CMMI",
+        "Å akseptere planlegging og leveranser, følge framdrift og bidra i tester som grunnlag for aksept"
+      ],
+      "answer_index": 3,
+      "explanation": "Produktsjefen enes om omfang, estimater og tidsplaner, følger prioriteringer og bidrar til akseptansetester.",
+      "section": "Kvalitetsledelse"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Gjør rede for de seks fasene i produktets livssyklus og hvem produktsjefen samarbeider med i hver fase.",
+      "key_points": [
+        "Konseptualisering: innovasjon og investering, samarbeid med FoU, markedet og eventuelle regulerende organer",
+        "Introduksjon: lansering og investering for markedsandeler, tett med marked og salg",
+        "Vekst: økende markedsandeler og utvidet funksjonalitet, utvikling, markedsføring og salg",
+        "Modenhet: revitalisering og tjenestetilbud, kundestøtte og salg",
+        "Tilbakegang: beholde kundene via marked, salg og kundestøtte",
+        "Utfasing: flytte siste kunder til alternativer og kutte kostnader, markedsavdelingen aktiv"
+      ],
+      "section": "Livssyklus"
+    },
+    {
+      "prompt": "Forklar hva et roadmap er, hva det typisk inneholder, og fordeler og ulemper ved roadmapping.",
+      "key_points": [
+        "Overfører strategien til en rekke utgivelser over ett til fem år",
+        "Innhold: tidsplan, versjoner, hovedfunksjoner, målmarkeder, avhengigheter og teknologiske påvirkninger",
+        "Lages for interne og eksterne interessenter",
+        "Fordel: prosessen samler avdelinger og styrker koblingen mellom forretning og krav",
+        "Ulemper: blir fort utdatert og kan bli uoversiktlig (ormebol)"
+      ],
+      "section": "Roadmap"
+    },
+    {
+      "prompt": "Gjør rede for den sykliske prosessen for å håndtere krav til produktene.",
+      "key_points": [
+        "Elicitation: intervjuer, arbeidsmøter, observasjon, dokumenteres som user stories eller use cases",
+        "Triage: første vurdering av om kravet er godt beskrevet og hører hjemme i produktet",
+        "Analyse og spesifisering: detaljerte spesifikasjoner, modeller, prototyper og estimater",
+        "Utvelgelse: hvilke krav som realiseres i hvilke versjoner",
+        "Validering: sikre at løsningen løser reelle utfordringer og er akseptabel"
+      ],
+      "section": "Kravprosessen"
+    },
+    {
+      "prompt": "Forklar de tre kategoriene av krav og hvem som har ansvaret for hver.",
+      "key_points": [
+        "Krav fra kunden: enkeltkunders behov, samles av salg via CRM",
+        "Markedsmessige krav: felles behov hos mange kunder, produktsjefens ansvar",
+        "Markedsmessige krav kan også gjelde prismodeller, produktfamilier, leveransemodeller og support",
+        "Prosjektmessige krav: realiseres i en bestemt versjon eller prosjekt, prosjektlederens ansvar"
+      ],
+      "section": "Kravutvikling"
+    },
+    {
+      "prompt": "Forklar hvordan de fire scenariene påvirker kravutviklingen.",
+      "key_points": [
+        "Motorbåt: MVP for første kunde, lite kunnskap om behov, kreativ utforsking",
+        "Racerbåt: utvide funksjonalitet for markedsandeler, gå fra visjonære kunder til kunder generelt",
+        "Isbryter: MVP med pilotkunder og grundig forretningsanalyse, generelle løsninger og avtaler om eierskap",
+        "Cruiseskip: få store utgivelser, kunder på ulike versjoner, mange kravkilder og behov for etablert kravprosess"
+      ],
+      "section": "Fire scenarier"
+    },
+    {
+      "prompt": "Gjør rede for de seks områdene innen produktutvikling og produktsjefens rolle.",
+      "key_points": [
+        "Programvarearkitektur: struktur, skalering, sikkerhet, modularitet og dokumentasjon",
+        "Utviklingsmiljø: verktøy, versjonskontroll, konsistente og automatiserte miljøer",
+        "Utvikling: prosjekter, valg av utviklingsmodell, koding, testing og dokumentasjon",
+        "UX Design: brukerinnsikt, prototyper, personas, brukervennlighet og responsivt design",
+        "Detaljert kravhåndtering og kvalitetsledelse: prosjektlederens kravarbeid, sporing, CMMI",
+        "Produktsjefen orkestrerer: kommuniserer krav, følger framdrift og godkjenner leveranser"
+      ],
+      "section": "Produktutvikling"
+    }
+  ]
+}

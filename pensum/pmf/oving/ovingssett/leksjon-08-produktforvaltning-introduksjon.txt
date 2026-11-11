@@ -1,0 +1,924 @@
+Opphavsrett: Forfatter(e) og Stiftelsen TISIP
+ Leksjon 8 - Produktforvaltning
+ Knut Arne Strand, Institutt for datateknologi og informatikk (IDI), NTNU.
+ Lærestoffet er utviklet for faget Produktutvikling, marked og forvaltning av programvareprodukter
+ 1. Introduksjon til programvarebaserte produkter og
+tjenester
+ Resymé: Dette er første leksjon innen produktforvaltning hvor vi gir en introduksjon til programvarebaserte
+produkter og tjenester og definerer noen sentrale begreper. Videre gir vi en oversikt over noen juridiske
+begreper som benyttes i forbindelse med programvarebaserte produkter.
+ Innhold
+ 1.   INTRODUKSJON TIL PROGRAMVAREBASERTE PRODUKTER OG TJENESTER   .................. 1
+ 1.1.   INNLEDNING ......................................................................................................................................... 2
+ 1.2.   OM PRODUKTFORVALTNING ................................................................................................................. 3
+ 1.3.   HVA ER EGENTLIG EN PRODUKTSJEF ..................................................................................................... 4
+ 1.4.   BAKGRUNNEN FOR PRODUKTFORVALTNING ......................................................................................... 7
+ 1.4.1.   Produktforvaltning i en intern IT-avdeling ..................................................................................... 7
+ 1.4.2.   Produktforvaltning hos en programvareleverandør........................................................................ 8
+ 1.5.   PROGRAMVAREPRODUKTER ................................................................................................................. 8
+ 1.5.1.   Programvare ................................................................................................................................... 8
+ 1.5.2.   Produktplattformer, produktfamilier og produktlinjer   .................................................................... 9
+ 1.6.   NOEN EGENSKAPER VED PROGRAMVAREPRODUKTER ......................................................................... 11
+ 1.7.   PROGRAMVARE SOM FORRETNINGSOMRÅDE ...................................................................................... 12
+ 1.8.   FORRETNINGSMESSIGE ASPEKTER VED PROGRAMVARE ...................................................................... 15
+ 1.9.   FORRETNINGSMODELLER FOR PROGRAMVARELEVERANDØRER .......................................................... 16
+ 1.9.1.   Programvareleverandører (Software Product Company)   ............................................................. 16
+ 1.9.2.   Profesjonell Tjenesteleverandør versus Produktleverandør ......................................................... 17
+ 1.9.3.   Åpen kildekode .............................................................................................................................. 17
+ 1.9.4.   Fritt tilgjengelige produkter   .......................................................................................................... 18
+ 1.9.5.   Intern produktforvaltning   .............................................................................................................. 18
+ 1.10.   RAMMEVERK FOR PRODUKTFORVALTNING   ......................................................................................... 19
+ 1.11.   FIRE SCENARIER FOR PROGRAMVARELEVERANDØRER   ........................................................................ 21
+ 1.12.   REFERANSELISTE ................................................................................................................................ 23
+
+ 1.1.   Innledning
+ Dette er første leksjon som omhandler forvaltning av programvareprodukter (eng. Software
+Produkt Management) og i fortsettelsen benytter vi også begrepet   Produktforvaltning   når vi
+henviser til forvaltning av programvareprodukter. Det vil totalt komme fem leksjoner som
+omhandler forskjellige sider ved temaet produktforvaltning. Disse leksjonene vil imidlertid
+være forholdvis korte og det er viktig at du leser læreboken i tillegg.   Læreboken er   Software
+Product Management: The ISPMA-Compliant Study Guide and Handbook, 2nd Edition fra
+2022 av Hans-Bernd Kittlaus . Denne boken er utgitt på Springer forlag og den har ISBN nr.
+978-3-66265115-5 eller ISBN 978-3-662-65116-2 (eBook).
+ Leksjonene innen Produktforvaltning vil fungere som en leserveiledning til læreboken og det
+er helt avgjørende at du som student har tilgang på læreboken, når du skal tilegne deg pensum
+og jobbe med øvingsoppgavene i faget.   Produktforvaltning vil som nevnt deles inn i 5
+leksjoner og her følger en kort oversikt over hvilke tema disse leksjonene vil ta opp og hvilke
+deler av læreboken du skal lese sammen med leksjonene.
+ Introduksjon til programvarebaserte produkter og tjenester (Leksjon 8 –
+Produktforvaltning nr. 1)
+ Dette er første leksjon innen produktforvaltning (eng. Software Product Management) som
+skal leses sammen med kapittel 1 og 2 av læreboken [2, s. 1–50]. Hovedfokuset for denne
+leksjonen er å gi en introduksjon til programvarebaserte produkter og tjenester hvor sentrale
+begreper defineres, samt å introdusere et rammeverk for produktforvaltning som bidrar til å
+forklare hvilke oppgaver og ansvarsområder som er forbundet med produktforvaltning.
+ Produktledelse og produktstrategi (Leksjon 9 – Produktforvaltning nr. 2)
+ Andre leksjon innen produktforvaltning skal leses sammen med kapittel 3 og 5 i læreboken.
+Hovedfokuset for denne leksjonen er å starte gjennomgangen av
+produktforvaltningsrammeverket:   The software product management body of knowledge . Vi
+gjennomgår første del (ca. 1/3) av dette rammeverket som innebærer at vi konsentrerer oss om
+aktivitetene som ligger under strategisk ledelse (eng. Strategic Management) og
+Produktstrategi (eng. Product Strategy).
+ Planlegging og utvikling (Leksjon 10 - Produktforvaltning nr. 3)
+ Tredje leksjon innen produktforvaltning henter mye av sitt innhold fra kapittel 4 (s. 137 til
+210) og første del av kapittel 6 (s. 243 til 256) i læreboken. Hovedfokuset for denne leksjonen
+er planlegging og utvikling av nye programvarebaserte produkter og tjenester, med spesiell
+fokus på utarbeidelse av krav til slike løsninger. Leksjonen gjennomgår andre del (2/3) av
+rammeverket ( The software product management body of knowledge ) som ble introdusert i
+leksjon 9.
+ Markedsføring, salg og kundestøtte (Leksjon 11 - Produktforvaltning nr. 4)
+ Fjerde leksjon innen produktforvaltning henter mye av sitt innhold fra siste del av kapittel 6
+(side 256 til 285 i læreboken). Hovedfokuset for denne leksjonen er markedsføring, salg og
+kundestøtte for programvarebaserte produkter og tjenester, og vi ser spesielt på hvilken rolle
+
+ produktsjefen kan eller bør ha i denne sammenheng. Leksjonen gjennomgår tredje og siste del
+(3/3) av rammeverket ( The software product management body of knowledge   ) som ble
+introdusert i leksjon 9.
+ Å jobbe som produktsjef (Leksjon 12 - Produktforvaltning nr. 5)
+ Femte og siste leksjon innen produktforvaltning skal leses sammen med siste del av
+læreboken, altså kapittel 7 og Glossary [2, s. 287–307]. Leksjonen omhandler utøvelsen av
+produktforvaltning i forskjellige typer organisasjoner, samt hvilke kvalifikasjoner som kreves
+for å fylle rollen som produktsjef. Leksjonen kan også betraktes som en oppsummering av
+temaet: Forvaltning av programvareprodukter.
+ 1.2.   Om produktforvaltning
+ I dette faget benytter vi begrepet produktforvaltning
+når vi egentlig mener forvaltning av
+programvarebaserte produkter og tjenester. I engelskspråklig litteratur benyttes Product
+Management generelt om produktforvaltning mens Software Produkt Management benyttes
+spesielt om forvaltning av programvarebaserte produkter og tjenester. Dette betyr at vi kan
+finne relevant stoff i den generelle litteraturen om Product Management, men at vi med mye
+større sannsynlighet finne relevant stoff dersom vi søker på   Software   Product Management.
+På den engelske utgaven av wikipedia finner vi følgende definisjon av Software Product
+Management:
+ “Software product management (sometimes referred to as digital product management or just
+product management depending on the context) is the discipline of building, implementing
+and managing digital products, taking into account life cycle, user interface and user
+experience design, use cases, and user audience. It governs the development cycle of a
+product from its inception to the market or customer delivery and service in order to
+maximize revenue. This is in contrast to software that is delivered in an ad hoc manner,
+typically to a limited clientele, e.g. service.”   [3].
+ Produktsjefen er den personen (eller rollen) som har som primæroppgave å utøve
+produktforvaltning. I engelskspråklig litteratur benyttes både Product Manager (generelt) og
+Software Product Manager (spesielt for programvarebaserte produkter), mens vi på norsk og i
+dette faget benytter begrepet produktsjef om denne rollen. Produktsjef er imidlertid en
+utberedt tittel i det norske arbeidslivet og det kan være svært forskjellige oppgaver som er
+tilknyttet denne rollen, avhengig av hvilken bransje eller hvilket fagområde den aktuelle
+produktsjefen tilhører. I Norge har vi imidlertid svært mange organisasjoner (både private og
+offentlige foretak) som utvikler og forvalter programvarebaserte produkter og tjenester og
+svært mange av disse organisasjonene har en eller flere produktsjefer. Det er disse
+produktsjefene vi primært sikter til i denne delen av faget.
+På norsk så benyttes også begrepet produktledelse om dette fagområdet.
+
+ 1.3.   Hva er egentlig en produktsjef
+ Det finnes dessverre ingen felles og entydig definisjon på hva en produktsjef skal være og
+hvilke oppgaver vedkommende skal utføre. Det er faktisk slik at denne rollen kan inneholde
+svært forskjellige funksjoner innenfor ulike bransjer og det er også slik at forskjellige
+programvareselskaper kan ha svært forskjellig ansvars- og myndighetsområder for sine
+produktsjefer. På nettstedet Mind the Product (se [4]) fant vi imidlertid en god omtale av
+produktsjefsrollen som passer godt med definisjonen vi legger til grunn i dette faget. Følgende
+omtale av produktsjefsrollen er derfor inspirert av denne omtalen.
+ Figur 1 –Produktsjefen og samspillet mellom
+brukeropplevelser, teknologien og det forretningsmessige
+ Produktforvaltning (eller produktledelse) foregår i skjæringspunktet mellom det
+forretningsmessige (business), teknologien som anvendes og brukernes opplevelser. En god
+produktsjef bør derfor ha erfaring fra minst ett av disse områdene, samtidig som
+vedkommende er lidenskapelig opptatt av alle tre dimensjonene. Det er viktig at
+produktsjefen er komfortabel i forhold til å samarbeide med representanter fra alle disse tre
+fagområdene.
+ Det forretningsmessige   - Produktforvaltning er fremfor alt en forretningsfunksjon som
+fokuserer på å maksimere de forretningsmessige verdiene for et produkt. Produktsjefene bør
+derfor være opptatt av å optimalisere produktet slik at man oppnår forretningsmessige mål,
+samt maksimere avkastningen på investeringene som gjøres.
+ Det teknologiske   - Det er liten vits å definere hvilke produkter du skal utvikle dersom du ikke
+vet hvordan utviklingen skal foregå. Dette betyr ikke at produktsjefen må være i stand til å
+kode løsningene selv, men vedkommende bør kjenne til hvilke teknologiske muligheter som
+finnes, samt kunne delta i utviklingsprosesser hvor beslutninger i forhold til produktene
+
+ treffes. Dette er kanskje enda mer viktig i en smidig verden (f.eks. ved bruk av Scrum
+) der
+produktsjefene tilbringe mer tid sammen med utviklingsteamet, fra dag til dag, enn med noen
+andre i organisasjonen.
+ Brukernes behov –   Sist men ikke minst så representerer produktsjefen brukernes stemme
+innad i virksomheten og det er slik at produktsjefene helst bør være lidenskapelig opptatt av
+brukeropplevelsene. Dette betyr ikke at produktsjefen må være en aktiv bruker av produktet,
+men vedkommende bør delta i noe av uttestingen av produktet, snakke med brukerne og sørge
+for å få førstehånds tilbakemeldinger fra relevante brukere. Dette gjelder spesielt i
+introduksjonsfasen, når nye produkter introduseres i markedet.
+ Årsaken til at produktsjefene trenger denne bredden av kompetanse ligger i at rollen i seg selv
+er utrolig bred og variert, og at produktsjefene må trekke på disse kompetanseområdene i det
+daglige. Når et nytt programvareprodukt skal utvikles starter gjerne produktsjefen med å
+etablere en visjon for produktet. Dette krever at de utforsker både markedet, kundene og
+hvilket problem kundene har som skal løses med det aktuelle produktet. Produktsjefen må
+dermed forholde seg til store mengder informasjon som f.eks.: (1) tilbakemeldinger fra
+kunder, (2) kvantitative data fra eventuelle nettbaserte analyser som er gjennomført, (3)
+forskningsrapporter, og (4) statistikker og trender i markedsutviklingen. En produktsjef
+trenger å vite mest mulig om markedet og kundene slik at vedkommende kan utnytte denne
+informasjonen i en kreativ prosess hvor produktets visjon defineres og strategien for å nå
+visjonen legges. Neste figur (fig.2) inneholder en fiktiv visjonsbeskrivelse som er ment som
+en illustrasjon på hva en visjonsbeskrivelse kan inneholde. En faktisk visjonsbeskrivelse bør
+være tilpasset virkeligheten og ambisjonene til produktet og selskapet den omhandler.
+ Visjon   Å revolusjonere måten folk lærer språk på ved å tilby en unik og
+engasjerende digital læringsplattform.
+ Mål   Vårt mål er å gi en brukeropplevelse som gjør språklæring givende,
+tilgjengelig og effektiv for en global brukerbase. Vi ønsker å bryte ned
+barrierene som ofte er forbundet med språklæring ved å tilby interaktivt
+innhold, personlig tilpasning og støtte gjennom hele læringsreisen.
+ Kjerneverdier
+1-Innovasjon:   Vi vil stadig utforske nye måter å integrere teknologi og
+pedagogikk for å forbedre brukeropplevelsen og læringsresultatene.
+ 2-Brukerfokus:   Vi er forpliktet til å forstå og møte brukernes behov
+gjennom kontinuerlig tilbakemelding og iterativ utvikling.
+ 3-Kvalitet:   Vi streber etter å levere høykvalitetsinnhold og funksjoner
+som gir reell verdi for våre brukere.
+ 4-Mangfold:   Vi ønsker å inkludere en mangfoldig samling av språk,
+kulturer og læringsstiler for å imøtekomme globale behov.
+ Differensierende
+faktorer
+ 1-Adaptiv Læring:   Vi bruker avanserte algoritmer for å tilpasse
+læringsmateriale og aktiviteter til hver enkelt brukers styrker, svakheter
+og læringsmønster.
+ 2-Interaktivitet:   Vår plattform inkluderer interaktive øvelser, samtaler
+og utfordringer som gjenskaper ekte språksituasjoner.
+Scrum er en såkalt smidig (Agile) programvareutviklingsprosess som i dag er svært utberedt. I Scrum har man
+en egen rolle (Product Ovner) som skal ivareta kundens behov og at man oppnår forretningsmessige gevinster. I
+noen organisasjoner er det naturlig at produktsjefen inngår som Scrum-teamets Product Owner.
+
+ 3-Mobil tilgjengelighet:   Vårt produkt vil være tilgjengelig på flere
+enheter, slik at brukere kan lære når som helst og hvor som helst.
+ 4-Sosialt fellesskap:   Vi vil legge til rette for brukerinteraksjon og
+samarbeid gjennom diskusjonsforum, språkutvekslingsprogrammer og
+virtuelle møteplasser.
+ Langsiktige mål
+Vi har som mål å bli den ledende digitale plattformen for språklæring
+og anerkjent for vår innovative tilnærming, effektivitet og globale
+innvirkning på hvordan mennesker lærer og kommuniserer på tvers av
+språkbarrierer.
+ Figur 2 – Fiktiv visjonsbeskrivelse - et bilde av hva en visjonsbeskrivelse kan inneholde
+ Når visjonen er etablert og beskrevet så skal denne spres i organisasjonen. Produktsjefen bør
+da være en lidenskapelig talsmann for produktet og dets visjon. Dersom vedkommende ikke
+lykkes med dette så bør man vurdere om man er i feil jobb, eller eventuelt om visjonen ikke er
+god nok. Produktsjefens suksess er gjerne avhengig av produktets suksess, som igjen er
+avhengig av at alle involverte, fra utvikling til salg, forstår visjonen og til en viss grad er
+opptatt av den.
+ I neste omgang må produktsjefen begynne med å etablere en praktisk plan for å nå visjonen.
+Denne planen skal fungere som et veikart for en iterativ og inkrementell prosess (trinnvis
+forbedring og utvidelse over tid) mot oppnåelse av den endelige visjonen. Dersom
+produktsjefen har gjort jobben med «å selge inn» visjonen i organisasjonen, så skal dette nå gi
+avkastning i form av at utviklingsteamet produserer bedre design, bedre kode og bedre
+løsninger for kunden og de problemene kunden skal løse.
+ I utviklingsfasen må produktsjefen jobbe tett med utviklingsteamet, sørge for å ta fram nye og
+mer detaljerte beskrivelser av produktet, løse utfordringene som oppstår underveis, samt sørge
+for at omfanget tilpasses prosjektet man står ovenfor slik at produktet kan ferdigstilles til
+riktig tid.
+ Når produktet endelig er ute i markedet kan produktsjefen igjen tilbringe dagene med å
+fordype seg i hvordan produktet faktisk blir utnyttet. F.eks. ved å se på og observere hvordan
+kundene bruker produktet, ved å snakke med kundene om produktet og generelt ved å forsøke
+å forstå mest mulig om hvordan produktet fungerer i markedet. Dette skal i sin tur gi
+produktsjefen svar på om produktet faktisk løser det aktuelle problemet, om de aktuelle
+brukerne faktisk har tilgang på produktet, om de er villig til å betale for produktet, etc.
+ En produktsjef kan gjerne være ansvarlig for flere produkter samtidig og dette medfører i
+tilfelle at oppgavene skifter og gjøres om og om igjen. Man bytter fra å jobbe strategisk med
+visjonen for et nytt produkt, til f.eks. å ha kundekontakt vedrørende et eksisterende produkt, i
+løpet av et øyeblikk.
+ I boken Software Product Management [2, s. 45–47] trekker de også fram tre forskjellige
+typer produktforvaltning:
+ 1.   Strategisk produktforvaltning (Strategic SPM) hvor hovedfokuset er på det
+forretningsmessige, mens selve produktets løsninger og det markedsmessige tones ned.
+ 2.   Teknisk produktforvaltning (Technical SPM) hvor hovedfokuset er på produktets
+løsninger, mens det forretningsmessige og det markedsmessige tones ned.
+
+ 3.   Markedsfokus (Product Marketing Manager) hvor hovedfokuset er på markedsføring av
+produktet, mens selve produktets løsninger og det forretningsmessige tones ned.
+ 1.4.   Bakgrunnen for produktforvaltning
+ En IT-investering kan være både stor og uoversiktlig og det finnes faktisk mange eksempler
+på at store IT- investeringer ikke har endt med leveranser som forventet. Vi trenger derfor et
+fokus på hvordan pengene bør investeres i IT-verdenen, for å sikre bærekraftighet og
+økonomisk suksess. Det er nettopp dette systematisk produktforvaltning (eller systematisk
+utøvelse av produktsjefsrollen) skal føre til. Produktsjefsrollen har eksistert lenge innenfor
+forskjellige bransjer og i læreboken vises det til bruk av produktsjefer tilbake til 1931 [2, s. 1].
+Det finnes ingen entydig beskrivelse av hva produktforvaltning omhandler, men man er langt
+på vei enig om følgende: Produktforvaltning omhandler styring, ledelse og koordinering av
+relevante områder innenfor og utenfor et firma, med mål om å optimalisere suksessen til et
+produkt. Innenfor firmaet fokuserer produktforvaltning på utvikling, produksjon,
+markedsføring, kundestøtte og support, logistikk, prising og markedsanalyser. Programvare
+og programvarerelaterte produkter er (eller kan være) særdeles kompliserte og man kan ikke
+uten videre overføre erfaringer fra produktforvaltning (generelt), over til produktforvaltning
+for programvarebaserte produkter og tjenester. Derfor bør du også fortrinnsvis lese litteratur
+om «Software Product Management» nå du skal tilegne deg kunnskaper om produktforvalting
+av IT-systemer.
+ Et av ansvarsområdene til produktsjefen er å prise produktene slik at prisene er
+hensiktsmessig over tid og i relasjon til endringer i markedet, samt i forhold til produktets
+utvikling. Dette kan være en stor og komplisert oppgave som produktsjefen ikke kan utøve
+alene. Hos større IT-leverandører kan man faktisk ha egne enheter som jobber med prising av
+produktene og som er skilt fra selve produktforvaltningen. I en bok som kan betraktes som
+forgjengeren til læreboken [5] har man valgt å skille ut prising som et eget tema (siste del av
+boken), nettopp for at dette kan være en egen rolle. I Norge er imidlertid organisasjonene
+vanligvis ikke større enn at produktsjefen også er ansvarlig for prisingen. Dette kan
+selvfølgelig variere også i Norge, men jeg kjenner konkret eksempler på norske
+programvareleverandører hvor produktsjefene også har ansvar for produktenes prismodeller. I
+neste leksjon om produktledelse og produktstrategi har vi et eget avsnitt om prising av
+programvarebaserte produkter og tjenester.
+ Produktforvaltning kan foregå på forskjellige måter i forskjellige organisasjoner. Man skiller
+gjerne mellom programvarefirma   (Software Product Company eller Software vendors)   som
+har programvare som sin hovedgeskjeft og firma som har andre produkter eller tjenester som
+hovedgeskjeft. Sistnevnte kan gjerne ha en større intern IT avdeling   (Corporate IT
+Organisations)   som tilbyr programvare og tilhørende tjenester til moderbedriften. Her følger
+en forklaring på disse:
+ 1.4.1.   Produktforvaltning i en intern IT-avdeling
+ I læreboken (s.32) benyttes « Corporate IT Organizations»   om det som vi på norsk kan kalle
+en   intern IT-avdeling . Dette er gjerne en avdeling i en større bedrift eller organisasjon, og har
+som primæroppgave å levere IT-tjenester (primært programvare og brukerstøtte rundt IT-
+løsningene) til brukerne i andre avdelinger/deler av organisasjonen. Interne IT-avdelinger
+forvalter de programvarebaserte produktene som de selv har utviklet, og de har derfor behov
+for å utøve produktforvaltning, slik at de optimaliserer IT-investeringene. Det er ofte en
+
+ avveining for en bedrift eller organisasjon om en intern IT-avdeling skal levere denne typen
+IT-tjenester, eller om man skal kjøpe løsninger eksternt. Spesielt i bedrifter og organisasjoner
+hvor det er stort behov for   « skreddersøm »   av programvare vil det sannsynligvis være
+økonomisk optimalt å bruke intern IT-avdeling. Utviklingen av programvarebaserte produkter
+i interne IT-avdelinger kan også skje i kombinasjon med innleide eksterne konsulenter i de
+tilfellene hvor bedriften eller organisasjonen ikke besitter utviklerkompetansen selv, men
+likevel ønsker at den interne IT-avdelingen skal ha ansvar for å gjennomføre
+programvareutviklingen.
+ 1.4.2.   Produktforvaltning hos en programvareleverandør
+ I læreboken (s. 25) benyttes   «Software Product Company»   om det som vi på norsk kan kalle
+en programvareleverandør. Dette er typisk et firma som har som hovedoppgave å utvikle og
+selge programvarebaserte produkter og tjenester i et marked. Markedet for en
+programvareleverandør kan typisk være forbrukermarkedet (consumer customers) eller
+bedriftsmarkedet (business customers). Store programvareleverandører som Microsoft, SAP,
+Oracle, IBM eller Google er typiske eksempler på programvareleverandører [2]. I Norge har
+vi også svært mange egne programvareleverandører og her er noen konkrete eksempler:
+ •   UNIT4 – Som blant annet tilbyr forretningssystemer (Enterprise Resource Planning
+(ERP):   https://www.unit4.com/products/erp-accounting-software
+ •   DIPS – Som er den største leverandøren av systemer for elektronisk pasientjournal til
+sykehusene i Norge ( http://www.dips.no/ ).
+ •   Itslearning - Som er blant markedslederne globalt innen utvikling, drift, støtte og hosting
+av opplæringsplattformer og utdanningsprogramvare ( https://itslearning.com/no/   ).
+ •   Visma - Som er ledende leverandør av produkter og tjenester som gjør virksomheter mer
+effektive ( http://www.visma.no/ ).
+ •   Visma Multi (Bluegarden) – Bluegarden var Skandinavias ledende leverandør av
+programvare, tjenester og rådgiving innen lønn og personal ( https://www.visma.no/multi/
+ ). De ble kjøpt opp av Visma i 2017, og har nå endret navn til Visma Multi.
+ 1.5.   Programvareprodukter
+ Kapittel to i læreboken inneholder noen sentrale definisjoner i forhold til
+programvareprodukter og dette avsnittet inneholder noen av disse definisjonen på norsk.
+ 1.5.1.   Programvare
+ Programvare er på mange måter noe uhåndgripelig og det skiller seg klart fra tradisjonelle
+varer som eksisterer og gjerne overleveres til kunden i fysisk form. Å kjøpe programvare er
+egentlig ikke å kjøpe selve produktet, men snarere å kjøpe rettighetene til å benytte
+programvaren i henhold til inngåtte avtaler. Programvare tilhører ikke en av de tradisjonelle
+økonomiske innsatsfaktorene som kapital, landområder eller arbeidskraft, men en ny fjerde
+kategori som representerer   kunnskap . Programvare er en materialisering av menneskelig
+kunnskap som lett kan kopieres og spres over store avstander. Riktig programvare, brukt på
+riktig måte, kan representerer et viktigere strategisk konkurransefortrinn enn noen annen
+innsatsfaktor. Programvare kan være av avgjørende betydning i produksjonsprosesser, for å
+
+ tilby ønsket funksjonalitet, for tilgjengeligheten til gitte tjenester, og følgelig kan programvare
+være det som avgjør om et firma lykkes eller feiler i markedet. Dersom vi skal definere hva et
+programvareprodukt er kan vi dele opp ordet:
+ •   Produkt – Er en kombinasjon av varer og tjenester som en part (leverandøren) kombinerer
+for å oppnå forretningsmessige interesser, og hvor disse definerte rettigheter i neste
+omgang overføres til en annen part (kunden).
+ •   Programvareprodukter (Software Products) – Dette er produkter som i stor grad består av
+programvare. Noen definisjoner hevder at hovedkomponenten skal være programvare.
+ Det finne mange varianter av programvare og programvareprodukter og her følger en kort
+omtale av de meste sentrale:
+ •   Standard programvare – Dette er programvare som er hyllevare hos et bredt spekter av
+forhandlere. Det kan være snakk om programvare som benyttes av mange forskjellige
+kundegrupper som organisasjoner, bedrifter og privatpersoner. Dette kan f.eks. være ulike
+kontorstøttesystemer, eller det kan være snakk om mer nisjepregede programvare, som
+f.eks. programvare for bilderedigering eller video.
+ •   Embedded software (innebygd programvare) – Dette er programvare som ikke selges
+separat, men som selges som en integrert del av andre produkter. En mobiltelefon er et
+typisk eksempel på et produkt (et telekommunikasjonsprodukt) som altså ikke er et
+programvareprodukt, men hvor innebygd programvare inngår som en stor og viktig del av
+produktet. Innebygd programvare kan representerer en stor del av kostnadene forbundet
+med å utvikle produktet, men den kan ikke selges selvstendig.
+ •   OEM software product (Original Equipment Manufacturer programvareprodukt) – Jeg har
+ikke sett noen norsk oversettelse av dette, men snarer at dette omtales som «OEM-
+programvare». OEM programvare er et programvareprodukt som utvikles av én
+leverandør (Leverandør A), samtidig som det benyttes av en annen leverandør
+(Leverandør B), i produkter som selges av leverandør B. OEM-programvare kan være
+forhåndsinstallert programvare som leveres sammen med en datamaskin eller en annen
+fysisk enhet. Det kan altså være programvaren som medfølger andre produkter som f.eks.
+en GPS, en kartplotter, eller lignende.
+ •   Begrepet løsning (Solution) er populært fra et markedsføringsståsted siden det impliserer
+at kundenes problemer blir adressert og løst. En løsning kan være en kombinasjon av
+flere produkter og tjenester som er tilpasset spesifikke kunder sine behov. SAP har f.eks.
+løsninger for forskjellige industrier og forretningsområder.
+ 1.5.2.   Produktplattformer, produktfamilier og produktlinjer
+ Programvareleverandører skiller gjerne mellom produktplattformer (eng. Product Platform),
+produktfamilier (eng. Product Family) og produktlinjer (eng. Product Line) og her følger en
+forklaring på disse begrepene.
+ •   Produktplattform – Dette er ikke et produkt i seg selv, men et teknisk fundament (f. eks. et
+rammeverk av programvarekomponenter) som flere programvareprodukter er basert på.
+
+ Som et eksempel så trekker læreboken fram SAP
+sitt SAP Core System. Dette er en
+produktplattform som alle SAP produktene gjenbruker og implementerer i sine produkter.
+En programvareplattform er vanligvis ikke et uavhengig produkt, men snarer en samling
+teknologiske komponenter som benyttes i forskjellige produkter. Selv har jeg vært med på
+å utvikle en programvareplattform som blant annet inneholdte komponenter for definering
+av brukere, brukerrettigheter og tilganger, lisenskoder, komponenter for databaseaksess,
+komponenter for brukergrenesnittbygging, etc. Når alle produktene baseres på én
+produktplattform, kan man blant annet oppnå store besparelser, forbedret kvalitet og likhet
+på tvers av forskjellige applikasjonsmoduler. Besparelsene oppnås fordi store deler av
+koden utvikles en gang og vedlikeholdes på ett sted. Kvaliteten blir bedre siden nye
+løsninger i større grad baseres på eksiterende og uttestet kode, snarere enn nyutviklede
+moduler. Likhet på tvers av modulene oppnås siden de forskjellige modulene baseres på
+felles komponenter og kode som sikrer at implementasjonene er like. Har man f.eks. en
+felles input-kontroll for datoer så fungerer denne likedan i alle moduler hvor den
+gjenbrukes. Dette er en stor fordel både for brukeren og den som vedlikeholder
+programvaren, men det er ikke alltid at dette er tilfelle i programvareprodukter.
+ •   Produktfamilie – Dette er en samling programvareprodukter som av markedsmessige
+hensyn tilhører en og samme familie. Vær oppmerksom på at dette kan bety at produktene
+er svært forskjellige selv om de tilhører samme familie, siden de f.eks. kan være utviklet i
+forskjellige firma som senere er fusjonert. Produktene i en familie kan altså være basert på
+en felles produktplattform, men dette trenger ikke være tilfelle. I læreboken trekker de
+fram Microsoft Office som et eksempel på en produktfamilie som til sammen løser
+spesifikke problemer. Denne produktfamilien tilhører det som kalles kontorstøttesystemer,
+og det har ikke alltid vært sømløs integrasjon mellom produktene i denne familien. Oracle
+E-Business Suite
+er et annet eksempel på en produktfamilie som inneholder en serie med
+forretningsapplikasjoner. Denne produktfamilien er også utberedt i det norske markedet
+og da spesielt hos litt større kunder. Siden vi nevner Oracle E-Business Suite må vi også
+nevne SAP Business Technology Plattform (BTP) med tilhørende BTP produkter
+. Dette
+er en produktfamilie som kanskje er den viktigste konkurrenten til Oracle E-Business
+Suite.
+ •   Produktlinje – Dette er en gruppe med programvareprodukter som egentlige er forskjellige
+varianter av et basisprodukt som bygger på en felles programvarearkitektur. Et eksempel
+kan være et produkt som skal bidra til å beregne/kalkulere tilbud for håndverkere og som
+følgelig trenger spesielle versjoner for snekkere, rørleggere, elektrikere, murere, etc. Det
+kan være store forskjeller på disse versjonene som gjør at de ikke nødvendigvis kan
+baseres på en felles produktplattform. Likevel vil de ha noe til felles og det er dette vi
+omtaler som en felles programvarearkitektur i dette tilfellet.
+SAP er et tysk foretak som utvikler og leverer programvareprodukter, særlig rettet mot storbedriftsmarkedet. I
+følge wikipedia.no er selskapet Europas største innen programvare, og verdens fjerde største. Det ble grunnlagt i
+1972 i Weinheim av tidligere IBM-ansatte, og hovedkontoret ligger i Walldorf i Tyskland.
+Se omtale av Oracle E-Business Suite på
+ http://www.oracle.com/us/products/applications/ebusiness/overview/index.html
+Se omtale av SAP Business Technology Platform på   https://community.sap.com/topics/business-technology-
+ platform
+
+ 1.6.   Noen egenskaper ved programvareprodukter
+ Programvareprodukter har forskjellige egenskaper og attributter og her er noen av disse:
+ •   Forskjellige markeder
+ o   Noen programvareprodukter er beregnet på forbrukermarkedet. Når en
+programvareleverandør selger til forbrukermarkedet kalles det Business to
+Consumer (B2C) og dette kan f.eks. være underholdningsprodukter som dataspill
+eller apper som benyttes på mobile enheter.
+ o   Når programvareproduktene selges i forretningsmarkedet kalles det Business to
+Business (B2B). I dette markedet er det vanlig å skille på horisontale og vertikale
+løsninger.
+    Horisontale løsninger – Dette er generelle løsninger og produkter som kan
+fungere på tvers av forskjellige industrier og bransjer. Dette kan typisk
+være systemprogramvare, eller mellomvare, men også lønnsapplikasjoner,
+reiseregningsapplikasjoner eller kontorstøttesystemer. Disse horisontale
+programvareløsningene kan altså benyttes av organisasjoner og bedrifter
+innen svært forskjellige bransjer, siden kundebehovene som dekkes med
+programvareløsningene er lik på tvers av bransjer.
+    Vertikale løsninger – Dette er industrispesifikke løsninger eller løsninger
+som er utviklet for bestemte bransjer. Et eksempel her kan være løsningene
+til den nordiske programvareleverandøren TietoEvry
+( https://www.tieto.com/no/bransjer/ ) som tilbyr spesielle løsninger for
+ blant annet: (1) helse og velferd, (2) offentlig sektor, (3) olje og gass, (4)
+telekom, (5) bilindustrien, og (6) bank, finans og forsikring. Dette er
+konkrete eksempler på 6 vertikaler som krever helt spesielle løsninger.
+ •   Funksjonelle områder – I enhver programvareinstallasjon finnes det tre grunnleggende
+programvaretyper eller funksjonelle områder. Dette er:
+ o   Systemprogramvare som i praksis kan være selve operativsystemet eller en
+teknologisk plattform.
+ o   Mellomvare (eng. middleware) som er programvare som ligger mellom
+sluttbrukerapplikasjonene og systemprogramvaren. Dette kan typisk være
+databasesystemer (f.eks. Oracle eller SQL-Server), web-servere,
+transaksjonsservere eller applikasjonsservere som kan være basert på teknologiske
+plattformer som Java, .Net eller PHP (se
+ http://en.wikipedia.org/wiki/Application_server   for mer informasjon).
+ o   Applikasjonene er typisk skrevet for at brukerne kan interagere direkte med dem
+når de skal utøve personlige eller forretningsmessige oppgaver fra sin datamaskin.
+ •   Forskjellig utviklingsfokus
+ o   Standard programvare – Dette gjelder all programvare i B2C markedet og mye av
+programvaren i B2B markedet. Poenget er at man utvikler «standard»
+programvareprodukter hvor samme type funksjonalitet selges til flere kunder. I
+B2B markedet betegnes dette også som hyllevare.
+
+ o   Tjenester – Tjenester kan være mindre komponenter som utnyttes av en
+applikasjon (f.eks. web-tjenester i en tjenesteorientert arkitektur
+) eller det kan
+være det at hele systemer tilbys i form av tjenester.
+ o   Spesialutvikling (som gjerne kalles skreddersøm) er programvare som er laget for
+en bestemt kunde og tilpasset denne kundens særegne behov.
+ 1.7.   Programvare som forretningsområde
+ Programvare som forretningsområde har sin historie tilbake på 50 og 60 tallet når
+programmeringsspråk som FORTRAN og ALGOL ble utviklet og når programvaren ble
+uavhengig av maskinvaren. IBM annonserte den 23. juni 1969 at de ville skille programvaren
+fra maskinvaren i framtiden. Dette regnes som starten på programvareindustrien som i dag er
+meget stor og stadig voksende, både nasjonalt og internasjonalt.
+ Programvareindustrien har fått kraftig drahjelp av at maskinvarekapasiteten har økt voldsomt,
+både i form av prosessorkraft og lagringskapasitet. Videre har Internett med html-baserte
+utforskere fra starten av 1990 tallet bidratt til at nye applikasjoner og forretningsområder har
+kunnet vokse fram. F.eks. søkemotorer som Google, nettbaserte auksjoner som eBay, sosiale
+nettverk som LinkedIn og Instagram, nettbanker, nettbutikker, …
+ I dag er svært mange bransjer totalt avhengig av IT (f.eks bank, finans og forsikring) og det er
+slik at IT-investeringene virkelig kan bidra til effektivitet og konkurransefortrinn, samtidig
+som mangel på relevant teknologien kan medføre at man er «out of business» etter kort tid.
+ I de senere år har det kommet alternative distribusjonskanaler for programvare som gjør at
+programvare som forretningsområde er i stadig endring. Eksempler på dette er skybaserte
+tjenester (eng. Cloud Computing) eller programvare levert som tjenester (eng. Software as a
+Service (SaaS)).
+ •   Cloud Computing - ATEA er et firma i det norske markedet som har satset mye på Cloud
+Computing. Følgende informasjon om Cloud Computing er hentet fra ATEA’s nettsider:
+ o   Sammenligning av Cloud og lokale løsninger;
+    Det er mange forskjeller mellom lokale og skybaserte løsninger, og en av
+disse er hvordan løsningen nås. Mens lokale løsninger er installert på en
+brukers datamaskin og i bedriftens datarom, så er skybaserte løsninger
+tilgjengelig via Internett og levert av en tjenesteleverandør (Cloud Service
+Provider).
+    Kostnadseffektivitet er en nøkkeldriver for anskaffelser av sky-tjenester,
+hvor bedrifter går over til en forbruks- eller bruksbasert modell (On-
+demand “pay-as-you-go"). Man unngår store uforutsigbare kostnader og
+går over fra kapitalutgifter (capex) til driftsutgifter (opex), noe som
+normalt blir betraktet som fordelaktig i regnskapsmessig sammenheng.
+    Andre egenskaper med skybaserte løsninger:
+Tjenesteorientert arkitektur (eng. Service Oriented Architecture (SOA)) handler om å bygge opp en applikasjon
+som et sett med tjenester som utnyttes. Disse tjenestene kan typisk realiseres som web-tjenester slik at de kan
+gjøres tilgjengelig over internett. Se   http://en.wikipedia.org/wiki/Service-oriented_architecture   for mer
+ informasjon om SOA
+
+ •   Dynamisk infrastruktur (også kjent som "rapid elasticity”), som gir
+skalerbar kapasitet og gjør løsningene fleksibel. Ressurser og
+systemer deles på tvers av alle kunder på en
+multi-tenant plattform.
+ •   Høy grad av standardisering gjør det enkelt og raskt å komme i
+gang, og man sparer tid på oppgradering og vedlikehold av
+systemene. Man slipper å installere på nytt for hver enkelt kunde.
+ •   Plattform-nøytral og uavhengig av operativsystem, da man har
+tilgang via nettleser.
+ •   Selvbetjening via online kontroll-panel for etablering av tjenester,
+skalering av ytelse og rapportering.
+ o   Fordeler med å benytte Cloud-tjenester:
+    Skybaserte løsninger kan gi bedriften betydelige besparelser ved oppstart
+og i forhold til løpende IT-kostnader. I tillegg vil skyen, sammenliknet med
+lokalt installerte applikasjoner, gi mindre behov for maskinvare, annen
+programvare og intern IT-drift.
+    De lave oppstartskostnadene ved å ta i bruk skybaserte applikasjoner,
+besparelsen ved å slippe kapitalkostnader som påløper ved innkjøp og rask
+utrulling er gode grunner for å ta skyen i bruk.
+ o   Begrensninger med å benytte Cloud-tjenester:
+    Sikkerhet er den mest omtalte bekymringen for sky-tjenester, og den mest
+begrensende faktoren i forhold til adopsjon av skyen. I teorien kan dataenes
+plassering og tjenester deles med bedriftens største konkurrenter. Har man
+da tillit til at all informasjon og bedriftens forretningshemmeligheter er
+sikret i skyen? Hvor befinner dataene seg og hvem kan ha innsyn?
+    Andre begrensende faktorer kan være integrasjon av bedriftens
+eksisterende prosesser i skyen, samt at applikasjoner med skreddersøm og
+tilpasninger ikke alltid er kompatibel med tjenesteleverandørs
+standardiserte infrastruktur.
+    Tilgjengelighet kan være en annen begrensende faktor ved sky-tjenester.
+Selv om det ikke skjer ofte, så har det vært rapportert nedetid og datatap
+hos populære sky-tjenester. Avhengig av type data, så kan dette være
+katastrofalt for bedriften. Driftsstans og datatap kan også forekomme
+lokalt, men du slipper da å være prisgitt en skyleverandør.
+    En annen viktig faktor med å flytte data og applikasjoner til skyen er å få
+dataene tilbake. Data i skyen kan lagres i proprietære formater og
+tilbakeføring kan innebære en høy tilleggskostnad for å få dataene over på
+ønsket format.
+    Myndighetskrav og regulatoriske bestemmelser kan også være utfordrende
+for flytting til skyen. Noen land har for eksempel restriksjoner på lagring
+av lokale data utenfor landet. Man må alltid forsikre seg om at
+leverandøren lagrer data i samsvar med gjeldende lover og forskrifter.
+
+ o   Software as a Service (SaaS) er en forretnings- og leveransemodell som gjør at
+kundene kan bruke programvaren over internett, uten at den installeres på egne
+maskiner. I stedet for å selge selve programvaren, selger man tilgang til denne i
+form av tjenester. Når man kjøper en tjeneste så kjøper man gjerne tilgang til
+systemet, uten at man skaffer seg noen eiendomsforhold til teknologien som ligger
+bak. Tjenesteleveranser (SaaS) har fått et stort fokus de siste årene og ITIL
+er et
+typisk eksempel på et rammeverk som skal støtte opp om IT-baserte tjenester. I
+ITIL defineres en tjeneste som et middel som er til hjelp for å levere verdi til
+kundene. Kundene skal på en enkel måte få tilgang til denne verdien uten at de har
+eierskap til spesifikke kostnader eller risikoelementer som er forbundet med å
+produsere tjenestene. Kunden skal altså kjøpe selve resultatet av
+tjenesteproduksjonen og så er det leverandøren som påtar seg ansvaret med å
+levere dette. Siden vi snakker om verdi for kunden forklarer vi her hvordan
+verdibegrepet defineres i ITIL:
+    Tjenestens verdi er det som vi er i stand til å tilby våre kunder og det er
+tjenestenes verdi som gjør tjenestene interessante for kundene. Tjenestenes
+verdi har alltid to dimensjoner:
+ •   Nytteverdi er den ene dimensjonen knyttet til tjenesteverdi som sier
+noe om hva man kan oppnå av fordeler når man benytter en bestemt
+tjeneste.
+ •   Garanti er den andre dimensjonen som skal bidra til å redusere
+sannsynligheten for tap eller sannsynligheten for avvik.
+ Man kan si at nytteverdien sier noe om hva kunden får, mens garantien sier
+noe om hvordan det blir levert. Kundene er avhengig av både nytteverdi og
+garanti for at tjenesten skal være av interesse og det er hensiktsmessig å
+skille nytteverdien fra garantien når man beskriver verdien en tjeneste kan
+tilby, da dette kan utnyttes når man designer, utvikler og forbedrer
+tjenesten.
+    Fordelene med programvare som tjenester kan være følgende:
+ •   Kunden slipper å utføre installasjoner, vedlikehold, lagring,
+sikkerhetskopiering, etc.
+ •   Programvaren oppgraderes automatisk (sett fra kunden sitt ståsted)
+og kunden kjører «alltid» gjeldende versjon.
+ •   Prismodellene er ofte fordelaktig, sett fra kundens ståsted.
+Tradisjonelle lisensmodeller har ofte en høyere avgift for å komme
+i gang med løsningene som betales når programvaresystemet
+kjøpes. Tjenester prises ofte til løpende pris pr. måned/kvartal/år/
+uten noen ekstra kostnad for å komme i gang.
+    Ulempene kan være følgende:
+ •   I noen tilfeller lagrer leverandørene dataene og man må stole på
+leverandørene i forhold til dette.
+ITIL står for IT Infrastructure Library.   Se   http://en.wikipedia.org/wiki/ITIL   for mer informasjon.
+
+ •   Tilgangen til tjenestene er avhengig av tilgang til internett som
+egentlig tilbys av en ekstern tredjepart.
+ o   I tillegg til Software as a Service (SaaS) kan skybaserte tjenester (Cloud
+Computing også tilbys som Infrastructure as a Service (IaaS) og Plattform as a
+Service (PaaS).
+    IaaS – Dette inkluderer prosessorkapasitet og lagring og et eksempel er
+Amazon sin Simple Storage Service (S3).
+    PaaS – Dette er en videreføring av IaaS hvor man tilbyr infrastruktur pluss
+forhåndsinstallerte produkter som f.eks. databaseløsninger.
+ 1.8.   Forretningsmessige aspekter ved programvare
+ Som vi har vært inne på tidligere så skiller programvarebaserte produkter seg fra andre og
+mer tradisjonelle produkter. Her er noen aspekter i denne sammenheng:
+ •   De faste kostnadene som medgår til utvikling av produktet utgjør nesten hele
+produksjonskostnaden. Variable kostnader som frakt, papirbasert dokumentasjon, etc.
+er nesten ikke eksisterende. Det er bare for lavt prisede programvareprodukter som pc-
+spill og verktøy at man trenger å ta særlig hensyn til disse kostnadene.
+ •   I tillegg til produksjonskostnadene har man ofte en betydelig andel
+vedlikeholdskostnader, men dette tar man normalt ekstra betalt for. Kunder som skal
+ha tilgang på nye versjoner med feilretting og ny funksjonalitet, betaler altså en avgift
+som til sammen gjerne dekker leverandørens kostnader.
+ •   Produksjonskostnadene per solgte enhet kan reduseres betraktelig, dersom volumet for
+solgte enheter øker tilsvarende. (Det koster nesten ingen ting å kopiere produktet).
+ •   Siden produksjonskostnadene nesten utelukkende er faste kostnader er man avhengig
+av et visst volum for å tjene penger. Når man har passert punktet hvor man begynner å
+tjene penger (break-even point) så utgjør inntektene nesten ren fortjeneste. Dette er
+ganske unikt for programvareprodukter.
+ •   Programvaremarkedet er i stor grad internasjonalt (selve om noen
+programvareprodukter (f.eks. lønnssystemer) er nasjonale) og dette må produktsjefen
+ta hensyn til når produktene skal utvikles. Man trenger kanskje et internasjonalt
+nedslagsfelt for å oppnå ønsket volum og man må derfor sørge for nasjonale
+tilpasninger.
+ •   En programvareleverandør trenger ikke å gjøre store investeringer i produksjonsutstyr
+for å komme i gang. Kompetente medarbeidere og noen PC’er er som regel nok til å
+komme i gang, men det er selvfølgelig ingen selvfølge at man lykkes.
+ •   Det kan være svært krevende å bytte ut programvareløsninger for en bedrift, siden
+disse ofte fungerer i et samspill med andre produkter og tjenester. Dette betyr at en
+produktsjef må fokusere på flere aktiviteter som pågående produktutvikling,
+vedlikehold av gamle release-versjoner, kapabilitet mellom versjoner, etc., dersom
+vedkommende skal lykkes. Her er et par definisjoner som er relevant i denne
+sammenheng:
+
+ o   Vedlikehold (eng. Maintenance) er det å utvikle nye release’er eller nye
+versjoner av et produkt. Dette kan være utvikling av ny funksjonalitet eller
+retting av feil som oppdages når systemet er i drift.
+ o   Kundestøtte (eng. Support) handler om å tilby kundene hjelp og støtte når de
+møter problemer i sitt daglige bruk av produktet. Et godt kundestøtteapparat
+(Supportapparat) kan være avgjørende for å lykkes som
+programvareleverandør.
+ 1.9.   Forretningsmodeller for programvareleverandører
+ En programvareleverandør må vite hva de skal gjøre for å tjene penger og dette bør nedfestes
+i en forretningsplan som de følger. De må ta stilling til flere ting som:
+ •   Skal de satse på standard programvare eller spesialtilpasninger?
+ •   Skal de ta vedlikeholdsavgifter (månedlig/årlig)?
+ •   Skal de fokusere på produkter, tjenester eller begge deler?
+ •   Hvilke partnerskap skal de satse på?
+ •   Hvordan skal de forholde seg til etterspørsler (utvidet funksjonalitet) fra enkeltkunder?
+ En forretningsmodell er en konseptuell modell som beskriver produktene og tjenestene som
+inngår, samt hvilke inntektsstrømmer (eng. revenue streams) som kan knyttes til disse
+produktene og tjenestene.
+ Business Model Canvas er et verktøy for utvikling av forretningsmodeller som er utviklet av
+Alexander Osterwalder. Verktøyet består av ni byggeklosser som gir hjelp til å kartlegge
+kundesegmenter (Customer Segments), verdiforslag (Value Propositions), kanaler (Channels),
+kunderelasjoner (Customer Relationships), inntektsstrømmer (Revenue Streams), nøkkel-
+ressurser (Key Resources), kjerneaktiviteter (Key Activities), nøkkel-partnere (Key Partners)
+og kostnader (Cost Structures). Disse 9 byggeklossene eller segmentene er sentrale deler i en
+forretningsmodell:
+ •   Produkter og tjenester kompenseres for av kunden. Dette kan være monetær
+kompensasjon (inntektsstrømmer) eller ikke-monetær kompensasjon som utveksling
+av produkter, tjenester og informasjon. For hvert produkt bør det alltid være en
+kompensasjon som i mange tilfeller er en inntektsstrøm.
+ •   Produkter og tjenester bidrar med verdi og har dermed et korresponderende
+verdiforslag.
+ •   For hvert produkt og tjeneste er det spesifikke kostnader.
+ •   Forretningsmodeller inneholder aktiviteter hvorav noen er kjerneaktiviteter og de
+utføres av ressurser.
+ Her følger en overordnet gjennomgang av noen forskjellige forretningsmodeller i
+programvareindustrien.
+ 1.9.1.   Programvareleverandører (Software Product Company)
+ Dette er et typisk firma i programvarebransjen som utvikler, selger og vedlikeholder
+programvareprodukter. Kundene kjøper lisenser og installerer og kjører programvare på egne
+
+ maskiner (on-premise), eller de tilbys en skybasert tjeneste (SaaS). Ved SaaS signerer kunden
+typisk en kontrakt hvor leverandøren kjører programvaren, mens kunden får tilgang på
+tjenestene over internett.
+ 1.9.2.   Profesjonell Tjenesteleverandør versus Produktleverandør
+ Både det å være en profesjonell tjenesteleverandør og det å være en leverandør av
+programvareprodukter kan være attraktivt, men det er noen vesentlige forskjeller som gjør
+dem vanskelig å kombinere.
+ Følgende tabell som er basert på læreboken (s. 28) illustrerer noen av forskjellene på
+tjenestefokus og produktfokus.
+ Område   Tjenestefokus   Produktfokus
+ Fokus   Kunder
+ Prosjekter
+ Markedet
+ Produkter
+ Økonomisk modell   Små investeringer, lav
+risiko, kontinuerlig og
+moderat fortjeneste
+ Store investeringer i forkant, høyere
+risiko og potensielt stor inntjening.
+ Prisberegninger   Kostbasert prising
+(kostnader + marginer),
+eksisterende programvare
+er inkludert
+ Verdi-basert prising,
+programvareproduktet prises separat fra
+tjenestene.
+ Måleindikatorer
+(KPI)
+ Utnyttelse.
+ Gjennomsnittlige dagrater
+ Markedsandeler.
+ Fortjeneste
+ Markedsevaluering   Moderat   Høy
+ Figur 3 - Forskjeller på tjenesteleveranser og produktleveranser
+ 1.9.3.   Åpen kildekode
+ Åpen kildekode (Open Source) betyr at kildekoden til et dataprogram er gjort tilgjengelig for
+alle. Det finnes mange forskjellige lisenser for åpen kildekode, men den mest brukte er GNU
+General Public License (GPL). Mange programvareselskaper lager seg sine egne
+spesialtilpassede åpne lisenser. Organisasjonen Open Source Initiative (OSI) har en
+godkjenning hvor lisenser som følger deres definisjon av åpen kildekode får tittelen OSI
+approved [6].
+ Eksempler på åpen kildekode med stor utbredelse er operativsystemet Linux, Web-serveren
+Apache, mellomvaren JBOSS og databasen MySQL.
+
+ 1.9.4.   Fritt tilgjengelige produkter
+ I tillegg til åpen kildekode finnes det en rekke kommersielle produkter som ikke koster noe,
+eller som koster svært lite. Disse kan typisk lastes ned fra internett og den lave prisen kan
+være drevet av kommersielle interesser eller markedsstrategier.
+ •   Freeware – Freeware er programvare som kan benyttes uten at det skal betales noen
+avgift til produsenten. Juridiske forhold som eiendomsrett og opphavsrett tilligger
+normalt produsenten. Kildekoden er normalt ikke tilgjengelig for brukeren, og
+modifikasjoner av programmet tillates normalt ikke. Derimot er det vanligvis lov å
+distribuere programmet videre [7]. Et eksempel på et slik produkt er Adobe Acrobat
+Reader. Du får altså dette programmet som kan lese PDF-filer gratis, men du må
+betale dersom du skal lage PDF-filer selv.
+ •   Shareware - Dette er et produkt hvor brukeren i rimelig tid kan teste ut og bruke et
+produkt gratis eller fritt over en viss periode. Etter at denne perioden er over, og
+dersom brukeren er fornøyd med produktet, er det meningen at brukeren skal betale
+for produktet [8].
+ •   Trialware – Omtales noen ganger som en kombinasjon av freeware og shareware.
+Produkter som er tilgjengelig (via minnebrikke/DVD eller nedlasting), og som
+fungerer i en periode. Demoversjonen gir ofte begrenset funksjonalitet og den kan
+ikke brukes etter prøveperioden.
+ •   Upgradeware – Et produkt hvor basisversjonen er tilgjengelig uten kostnader og hvor
+brukeren må oppgradere for å få tilleggsfunksjonalitet.
+ •   Programvaretjenester som er reklamefinansiert – Eksempler her er søkemotorer som
+Google, kontorstøttesystemer som Google Drive, sosiale nettverk, etc.
+ Flere (kreative) forretningsmodeller finnes og vi kan forvente å se flere i framtiden. Her er
+noen grunnleggende spørsmål for de som jobber med programvareprodukter.
+ •   Skal man være er produktfirma eller skal man være en profesjonell tjenesteleverandør.
+ •   Skal man selge til enkeltpersoner eller til foretak og skal man satse på massemarkedet
+eller enkelte nisjer?
+ •   Hvor horisontalt og bred eller vertikal og spesialisert skal produktene eller tjenestene
+være?
+ •   Kan man generere en gjentagende inntektsstrøm som fungerer både i gode og dårlige
+tider.
+ 1.9.5.   Intern produktforvaltning
+ Målsettingen med intern produktforvaltning er i mindre grad knyttet til profitt, og i større grad
+knyttet til gevinstrealisering gjennom å skape nytte for brukere internt i organisasjonen.
+Samtidig ønsker man gjerne at kostnadene reduseres så mye som mulig. For en aktør i privat
+næringsliv vil reduserte kostnader sannsynligvis øke marginene i virksomheten. Vi kan derfor
+definere intern produktforvaltning som utvikling av programvarebaserte produkter og
+tjenester i en virksomhet, for virksomhetens interne brukere, uten at formålet med utviklingen
+er økte inntekter gjennom salg av produktet. Hos en offentlig aktør vil reduserte kostnader
+føre til mer optimal allokering av de offentlige tildelte ressursene (økt effektivitet). Flere
+bidragsytere hevder at så lenge produktet eller tjenesten ikke genererer inntekter for
+
+ virksomheten, vil utvikling av produkter og tjenester regnes som intern produktforvaltning. I
+det øyeblikket produktet eller tjenesten imidlertid selges til en tredjepart er det derimot å
+regne som tradisjonell produktforvaltning.
+ For en bank kan intern produktforvaltning være knyttet til utviklingen av et hensiktsmessig
+CRM-system ( Customer Relationship Management ) som kan understøtte alle bankens
+kunderettede aktiviteter, enten dette gjelder rådgivningsaktiviteter mot privatmarkedet eller
+salgsaktiviteter mot bedriftsmarkedet. Selve utviklingen av systemet trenger ikke
+nødvendigvis å gjøres i egen IT-avdeling for at det skal kunne falle inn under definisjonen av
+intern produktforvaltning. Det avgjørende er hvor ansvaret til aktivitetene som fører frem til
+det ferdigutviklede produktet ligger.
+ Intern produktforvaltning kan på mange måter ses på som optimalisering av IT-investeringene
+i organisasjonen. Tidligere var dette aktiviteter som virksomhetene gjerne outsourcet, også
+gjennom offshoring (som er det å oursource til lavkostland i f.eks. Østen), under den
+argumentasjon at dette ikke var en del av virksomhetens kjerneaktiviteter. Nå ser vi imidlertid
+en trend mot at de store aktørene bygger opp interne IT-avdelinger både for utvikling av
+produkter og tjenester som skal understøtte egne interne arbeidsprosesser, og ikke minst også
+drifting av disse systemene i etterkant. Et økende fokus på informasjonssikkerhet har
+ytterligere økt bevisstheten om dette til flere aktører.
+ Produktsjefen som offisiell rolle vil i veldig liten grad eksistere i produktforvaltning internt i
+virksomheter. Produktsjefens kjerneaktiviteter når det gjelder intern produktforvaltning vil
+gjerne være tilknyttet ulike roller i en IT-avdeling eller hos f.eks. prosjektledere.
+ Eksempler hvor intern produktforvaltning kan antas å være relevant er:
+ -   Forretningssystemer
+ -   Kundebehandlingssystemer
+ -   Produksjonssystemer
+ 1.10. Rammeverk for produktforvaltning
+ Produktforvaltning er ikke hovedsakelig knyttet til enkeltstående utviklingsprosjekter med
+definert start og slutt. Produktforvalting er snarere løpende aktiviteter gjennom produktenes
+livssyklus. Vi snakker altså om mange forskjellige aktiviteter som må gjøres, og akkurat hva
+som skal gjøres avhenger av hvor produktene befinner seg i sin livssyklus. Selv om vi ikke
+kan karakterisere produktsjefens jobb som prosjektarbeid eller prosessarbeid så kan det være
+hensiktsmessig å strukturere hva produktforvaltning faktisk omhandler. I den sammenheng
+har det kommet flere rammeverk som på mange måter søker å beskrive hva som er «beste
+praksis» produktforvaltning. Et av disse rammeverkene er utviklet av Willem Bekkers, Inge
+van de Weerd, Marco Spruit og Sjaak Brinkkemper og følgende figur (fig. 4) er hentet fra
+deres artikkel [9].
+
+ Figur 4 – The Software Product Management Competence Model
+ Figur 4 er altså hentet fra   A Framework for Process Improvement in Software Product
+Management   [9] ,   som er en artikkel som omhandler forvaltning av programvareprodukter i
+bred forstand.
+ Som det framgår av fig. 4 så foregår produktforvaltning i et samspill mellom eksterne
+interessenter (markedet, kundene, partnerne) og interne interessenter (firmaets ledelse, salg,
+marked, FoU, utvikling, kundestøtte og tjenesteproduksjon). Videre framgår det av dette
+rammeverket at produktforvaltning omhandler fire hovedområder. Dette er (1)
+porteføljestyring (eng. Portfolio Management) som inkluderer markedsanalyse, styring av
+produktenes livssyklus, partnerskap og avtaleinngåelser, (2) produktplanlegging (eng. Product
+Planning) som inkluderer det å lage veikart (eng. roadmaps) for produktene, (3) planlegging
+av utgivelser (eng. Release Planning) som inkluderer det å prioritere hva som skal vær med på
+neste utgivelse, hvordan utgivelsen skal planlegges, utvikles og slippes i markedet og (4)
+kravhåndtering (eng. Requirements Management) som inkluderer det å samle inn og
+organisere kravene for systemet.
+ Forfatterne av læreboken kritiserer imidlertid dette rammeverket som omtales i [9] og de
+argumenterer i denne sammenheng med at det er for lite fokus på økonomiske og
+markedsmessige aspekter. De hevder økonomiske betraktninger og markedsmessige forhold
+er en svært viktig del av produktforvaltningen og de har derfor utviklet et eget rammeverk
+ ISPMA Software Product Management Framework   som omtales i læreboken [2, s. 37–38].
+Følgende figur (fig. 5) som også er gjengitt i læreboken (s. 37) er hentet fra   International
+Software Product Management Association ISPMA
+®
+sitt nettsted [10].
+
+ Figur 5 - The ISPMA Framework
+ Som det framgår av figuren så er det de blå aktivitetene som regnes som ren
+produktforvaltning (eng. Core Software Product Management). Dette er alle aktivitetene
+under produktstrategi (kolonne 2), alle aktivitetene under produktplanlegging (kolonnes 3),
+samt markedsanalyse og produktanalyse fra kolonnene for strategisk ledelse (kolonne 1). De
+andre aktivitetene i kolonne 1 er aktiviteter hvor produktsjefen må regne med å delta og
+komme med innspill (eng. participation), mens de øvrige aktivitetene med grå bakgrunnsfarge
+(kolonne 4, 5, 6 og 7) er aktiviteter som produktsjefen orkestrerer (dvs. styrer, påvirker og til
+dels er delaktig i).
+ I neste leksjonen om produktledelse og produktstrategi skal vi gå nærmere inn på innholdet i
+strategisk ledelse (kolonne 1) og produktstrategi (kolonne 2). Deretter kommer leksjon nr. 3
+innen produktforvaltning som fokuserer på planlegging og utvikling (kolonne 3 og 4) og
+leksjon nr. 4 inne produktforvaltning som fokuserer på markedsføring, salg og kundestøtte.
+ 1.11. Fire scenarier for programvareleverandører
+ Følgende figur (fig. 6) som er basert på læreboken (s. 38) viser fire forskjellige scenarier for
+programvareleverandører.
+ Vi ser en klassifisering som opererer med to typer driftsmiljø for programvareproduktene og
+forskjellige livssyklusfaser som produktene befinner seg i. Kontrollert av leverandør betyr at
+leverandøren bestemmer når det skal gjøres hvilke endringer i driftsmiljøet. Dette er typisk for
+SaaS løsninger til både bedriftsmarkedet (B2B) og forbrukermarkedet (B2C) hvor løsningene
+lastes og kjøres over internett. Kontrollert av kunde betyr at kunden installere og drifter
+løsningene selv og benytter produktet i henhold til inngått lisensavtale.
+
+ I den figuren har vi en grov inndeling av livssyklusfasen med kun to faser. Vi skiller på
+utvikling av nye produkter som foreløpig typisk ikke har noen kunder og videreutvikling av
+eksisterende produkter som har en kundebase. Utvikling av nye produkter er forbundet med
+høyere risiko og fokuset er typisk på å utvikle et minimumsprodukt så raskt som mulig. Så
+fort produktet er lansert i markedet endrer fokuset til å utvide både produktet og
+markedsandelene.
+ Scenarier for programvareprodukter
+ Livssyklusfase
+ Utvikling av nytt
+ programvareprodukt
+ Videreutvikling av
+ eksisterende
+ programvareprodukt
+ Driftsmiljø
+
+Kontrollert av
+ leverandør
+ Motorbåt
+(Powerboat)
+ Racerbåt
+(Speedboat)
+ Kontrollert av kunde   Isbryter
+(Icebreaker)
+ Cruiseskip
+(Cruise Ship)
+ Figur 6 – Fire scenarier for programvareleverandører.
+ •   Motorbåt scenariet fokuserer på å definere et minimumsprodukt for første kunde. Det er
+typisk tett dialog mellom produktforvaltning og utviklingsavdelingen. I dette scenariet
+fokuserer programvareleverandøren altså på rask produktutvikling og lansering for å
+oppnå en tidlig inntreden i markedet. Målet er å oppnå fordeler ved å tilby funksjoner
+som umiddelbart tiltrekker seg brukere og skaper oppmerksomhet.
+Et eksempel på dette kan være en start-up-bedrift som utvikler en ny mobilapp for
+matlevering. De lanserer en grunnleggende versjon med få funksjoner, men det er raskt å
+komme i gang og den er enkel å bruke. Målet er å oppnå en tidlig posisjon i markedet,
+før større konkurrenter kommer på banen.
+ •   Racerbåt scenariet fokuserer på å utvide produktets funksjonalitet for dermed å kunne
+øke markedsandelene. Det foregår typisk analyser av faktisk bruk av produktet, hvordan
+markedssituasjonen er og hvordan konkurransesituasjonen er. Dette scenariet handler
+altså om å raskt tilpasse seg og reagere på endringer i markedet.
+Programvareleverandøren fokuserer typisk på å lansere hyppige oppdateringer og
+forbedringer for å holde seg foran konkurrentene og for å imøtekomme kundenes og
+brukernes skiftende behov.
+ Et eksempel på dette kan være et selskap som tilbyr prosjektstyringsprogramvare og som
+legger til nye funksjoner og integrasjoner i hver nye oppdatering. Dette gjør at de kan
+tilpasse seg endringer i hvordan bedrifter håndterer prosjekter og at de dermed
+opprettholder kundetilfredsheten.
+ •   Isbryter scenariet fokuserer også på å definere et minimumsprodukt for første kunde.
+Dette inkluderer grundig analyse av kundenes forretningsområde som blir input til
+kravhåndteringen og hvilken funksjonalitet som skal støttes av produktet. Man benytter
+gjerne pilotkunder, men må påse at løsningene blir generelt anvendelig og ikke for
+spesifikk for bestemte kunder.   Dette scenariet fokuserer dermed på å bryte inn i nye
+markeder eller segmenter der det kan være utfordrende å komme inn siden det finnes
+
+ etablerte konkurrenter eller siden det kan være svært komplekse behov som skal
+tilfredsstilles med programvareløsningen. Programvareleverandøren søker å tilby unike
+løsninger som løser spesifikke problemer og som dermed kan skape en nisjeposisjon.
+ Et eksempel på dette kan være en programvareleverandør for helsevesenet som utvikler
+spesialisert programvare for å administrere og følge opp sjeldne medisinske tilstander.
+Dette vil gjøre dem til eksperter på et smalt felt og på sikt vil de sannsynligvis oppnå
+konkurransefordel innenfor dette feltet.
+ •   Cruiseskip scenariet fokuserer på å utvide produktets funksjonalitet for å oppnå høyere
+markedsandeler. Siden kundene ikke ønsker å installere nye versjoner ofte i
+driftsmiljøene de kontrollerer, har man få men store utgivelser, typisk en til to ganger pr.
+år. Dette scenariet handler dermed om å bygge en langsiktig strategi for produktutvikling
+og vedlikehold. Programvareleverandøren fokuserer på å tilby solide løsninger som
+dekker et bredt spekter av funksjoner innenfor fagområdet og som er stabile over tid. Det
+overordnede målet er å opprettholde langsiktige kundeforhold.
+ Et e ksempel kan være en etablert programvareleverandør innen økonomisystemer som
+investerer i omfattende oppdatering og videreutvikling av produktet, f.eks. inkludert
+skybaserte funksjoner og AI-basert analyse. Målet er at dette skal sikre at kundene forblir
+fornøyd med utviklingen over tid og dermed lojale til produktet og leverandøren.
+ 1.12. Referanseliste
+ [1]   S. A. Fricker, «Software Product Management», i   Software for People , Springer, 2012,
+s. 53–81. Åpnet: 14. mai 2025. [Online]. Tilgjengelig på:
+http://link.springer.com/10.1007/978-3-642-31371-4_4
+ [2]   H.-B. Kittlaus,   Software Product Management - The ISPMA-Compliant Study Guide
+and Handbook, 2nd Edition .   Springer, 2022.
+ [3]   Software Product Management, «Hentet 13. mai 2025 fra følgende Wikipedia-lenke:
+http://en.wikipedia.org/wiki/Software_product_management», 2025.
+ [4]   Mind The Product, «Hentet 13. mai 2025 fra følgende web-lenke:
+http://www.mindtheproduct.com/2011/10/what-exactly-is-a-product-manager/», 2025.
+ [5]   H.-B. Kittlaus og P. N. Clough,   Software Product Management and Pricing: Key
+Success Factors for Software Organizations .   Springer, 2008.
+ [6]   Open Source, «Hentet 13. mai 2025 fra følgende Wikipedia-lenke:
+http://no.wikipedia.org/wiki/%C3%85pen_kildekode», 2025.
+ [7]   Freeware, «Hentet 13. mai 2025 fra følgende Wikipedia-lenke:
+http://no.wikipedia.org/wiki/Freeware», 2025.
+ [8]   Shareware, «Hentet 13. mai 2025 fra følgende Wikipedia-lenke:
+http://no.wikipedia.org/wiki/Shareware», 2025.
+ [9]   W. Bekkers, I. van de Weerd, M. Spruit, og S. Brinkkemper, «A framework for
+process improvement in software product management», i   Systems, software and services
+
+ process improvement , Springer, 2010, s. 1–12.   Åpnet: 13. mai 2025. [Online]. Tilgjengelig
+på: http://link.springer.com/chapter/10.1007/978-3-642-15666-3_1
+ [10]   ISPMA Framework, «Hentet 13. mai 2025 fra følgende lenke: https://ispma.org/bok/»,
+2025.

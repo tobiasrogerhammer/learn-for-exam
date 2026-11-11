@@ -1,0 +1,475 @@
+# Kostnads- og inntektsanalyse
+
+Velkommen til leksjon 7 i Økonomisk styring og regnskap. Denne gangen handler alt om kostnader og inntekter, og om hvordan du bruker dem til å ta gode beslutninger.
+
+Du skal lære hva faste, variable og totale kostnader er. Du skal lære bidragsmetoden, som er det viktigste verktøyet når du tar beslutninger på kort sikt. Og du skal lære å skille mellom kostnader som er relevante og kostnader som ikke er det.
+
+Etterpå regner vi på nøkkeltall. Det gjelder dekningsbidrag, dekningsgrad, nullpunktomsetning, sikkerhetsmargin, sikkerhetsgrad og målsatt salg. Til slutt ser vi på nullpunktdiagrammer og på det som kalles KRV-analyser.
+
+Gjennom store deler av leksjonen følger vi firmaet Jostein AS, som drives av Jo og Stein. Du har kanskje møtt dem i tidligere leksjoner.
+
+# Hvorfor analysere kostnader og inntekter
+
+Dette kapitlet forklarer hvorfor kostnads- og inntektsanalyse er viktig for en bedrift.
+
+Så langt i kurset har du lært hvordan man fører regnskap, og hvilke krav som stilles til rapportering. Nå skal vi se fremover i stedet for bakover.
+
+En bedrift må vite hvilken pris den skal sette på varene og tjenestene sine. Den må også vite hvilke forhold som spiller inn når prisen settes.
+
+Særlig i tjenesteytende bedrifter er det vanlig at en kunde spør om bedriften vil utføre et oppdrag. Kunden vil gjerne vite på forhånd hva oppdraget koster.
+
+Da må lederen kunne sette opp en kalkyle over kostnadene som hører til oppdraget. Både de faste og de variable kostnadene er viktige. Det er også viktig å regne ut dekningsbidrag og overskudd for hvert enkelt oppdrag.
+
+Når en bedrift selger produkter, er det like viktig å vite hvor mye den må selge for ikke å gå med underskudd. Og har bedriften flere valg, må den kunne velge det beste alternativet.
+
+Leksjonen har hovedfokus på analyser og beslutninger på kort sikt. Slike beslutninger bygger på den kapasiteten bedriften allerede har. Tidshorisonten går sjelden særlig lenger enn ett år.
+
+Mange beslutninger på kort sikt krever analyser som har fellesnavnet kostnad, resultat, volum analyser. Dette forkortes til KRV-analyser. Vi kommer tilbake til dem mot slutten.
+
+# Bidragsmetoden
+
+I dette kapitlet lærer du bidragsmetoden, som er grunnlaget for resten av leksjonen.
+
+Det finnes flere metoder for å regne ut dekningsbidrag og overskudd. I handelsbedrifter brukes det som kalles selvkostmetoden. Den kommer vi tilbake til senere i emnet, når vi ser på produktkalkyler. Her holder vi oss til tjenesteytende bedrifter, og der brukes bidragsmetoden.
+
+Bidragsmetoden skiller mellom faste og variable kostnader. Noen kostnader har du uansett, selv om du ikke produserer noe eller leverer noen tjenester. Det er de faste kostnadene. Andre kostnader avhenger av om du leverer tjenester eller ikke. Det er de variable kostnadene.
+
+Oppsettet i bidragsmetoden går slik. Du starter med salgsinntektene. Fra dem trekker du de variable kostnadene. Det du sitter igjen med, er dekningsbidraget. Fra dekningsbidraget trekker du de faste kostnadene. Da sitter du igjen med resultatet, altså overskudd eller underskudd.
+
+Sagt med andre ord: Dekningsbidraget er salgsinntektene minus de variable kostnadene. Resultatet er dekningsbidraget minus de faste kostnadene.
+
+Dekningsbidraget skal altså dekke de faste kostnadene. Er de faste kostnadene lavere enn dekningsbidraget, blir det overskudd på oppdraget. Er de faste kostnadene større enn dekningsbidraget, har bedriften tapt penger på oppdraget.
+
+Bare ut fra dette ser du hvor viktig det er å kunne regne ut de faste og de variable kostnadene før du bestemmer prisen på et oppdrag.
+
+# Faste kostnader
+
+Dette kapitlet handler om faste kostnader, hva som kjennetegner dem, og hvordan du regner ut faste kostnader per enhet. Vi avslutter med et regneeksempel fra Jostein AS.
+
+Faste kostnader er kostnader en bedrift har uansett om den produserer noe eller leverer tjenester. Selv om produksjonen stopper helt opp, kommer de faste kostnadene likevel.
+
+De faste kostnadene gjelder innenfor en kapasitetsgrense. Skal bedriften gå over denne grensen, må de faste kostnadene som regel økes.
+
+En bedrifts kapasitet kan deles inn i tre typer. Den første er fysisk kapasitet. Det er kostnader til bygninger, maskiner, utstyr og andre faste anlegg. Den andre er organisatorisk kapasitet. Det er kapasiteten i administrasjon og ledelse, og kapasiteten i salgsapparatet. Den tredje er finansiell kapasitet. Det er kostnader som skal dekkes i forbindelse med lån og innbetalt egenkapital.
+
+Det som kjennetegner faste kostnader, er at det tar tid å få dem ned når produksjonen eller leveransene går ned.
+
+Ta Jostein AS som eksempel. Hvis Jo og Stein får så mange oppdrag at de må ansette flere, øker de faste kostnadene. Det går fint så lenge oppdragsmengden fortsetter å øke. Men hvis oppdragene blir færre og de må si opp noen, fortsetter lønnskostnadene en stund. De ansatte har vanligvis flere måneders oppsigelsestid.
+
+Det samme gjelder hvis de kjøper nytt PC-utstyr for å klare flere oppdrag. Brukt PC-utstyr er ikke alltid lett å selge, selv om oppdragene blir færre. Å øke kapasiteten, enten den er fysisk, organisatorisk eller finansiell, er derfor et stort skritt.
+
+Definisjonen er denne: Faste kostnader er kostnader som er konstante innenfor en gitt kapasitetsgrense.
+
+Når en bedrift lager mange enheter, kan det være nyttig å regne ut den faste enhetskostnaden. I tjenestebedrifter er det ikke så vanlig å produsere i stort kvantum. Men flere kunder kan be om samme tjeneste. Da kan det være lurt å vite den faste enhetskostnaden, så du ser hvor mange tjenester du kan levere før kapasitetsgrensen er nådd.
+
+Formelen er slik: Den faste enhetskostnaden, forkortet FEK, er de faste kostnadene delt på mengden.
+
+Den faste enhetskostnaden blir lavere jo flere enheter du produserer. Dette gjelder bare innenfor en gitt kapasitetsgrense.
+
+La oss regne ut faste kostnader og faste enhetskostnader for et oppdrag hos Jostein AS.
+
+Jo og Stein trives godt i firmaet sitt, og oppdragene øker. Forrige uke fikk de en forespørsel om konsulenthjelp til alle barne- og ungdomsskolene i Nord-Trøndelag. Departementet har bevilget 10 PC-er til hver skole, og Jo og Stein skal hjelpe til med å installere dem.
+
+Det er mange skoler. Før de svarer, må de regne ut de faste kostnadene og de faste enhetskostnadene. Det kan hende de ender opp med å ta oppdraget for noen av skolene, men ikke alle.
+
+De faste kostnadene for oppdraget er disse. Husleie er 8000 kroner. Avskrivninger er 2000 kroner. Strøm er 1000 kroner. Lønn til administrasjon av prosjektet er 5000 kroner. Reisekostnader er 10000 kroner. Summen av de faste kostnadene blir 26000 kroner.
+
+Jo og Stein kan velge å ta oppdraget for 5, 10, 15 eller 20 skoler. Nå kan vi regne ut den faste enhetskostnaden for hvert valg, altså 26000 kroner delt på antall skoler.
+
+Ved 5 skoler blir det 26000 delt på 5, som er 5200 kroner per skole.
+
+Ved 10 skoler blir det 26000 delt på 10, som er 2600 kroner per skole.
+
+Ved 15 skoler blir det 26000 delt på 15, som er omtrent 1733 kroner per skole.
+
+Ved 20 skoler blir det 26000 delt på 20, som er 1300 kroner per skole.
+
+Du ser at den faste enhetskostnaden synker når antall skoler øker. Det stemmer med teorien: Jo flere enheter, jo lavere blir den faste kostnaden per enhet.
+
+I leksjonen er dette vist i to diagrammer, med antall skoler langs den vannrette aksen. I det første diagrammet er de faste kostnadene en vannrett, flat linje på 26000 kroner. Linjen ligger like høyt enten de tar 5 eller 20 skoler. I det andre diagrammet er den faste enhetskostnaden en kurve som starter høyt, på 5200 kroner ved 5 skoler, og faller jevnt ned mot 1300 kroner ved 20 skoler.
+
+Konklusjonen er at de faste kostnadene er de samme for 5 og for 20 skoler. Ser de bare på de faste kostnadene, kan de altså godt ta oppdraget for alle 20 skolene. Men det er flere ting som spiller inn når prisen settes, og det kommer vi til.
+
+# Sprangvise, reversible og irreversible faste kostnader
+
+Dette kapitlet handler om hva som skjer med de faste kostnadene når kapasiteten må utvides, og om to typer faste kostnader.
+
+De faste kostnadene er bare faste innenfor en gitt kapasitet. Er kapasiteten fullt utnyttet, må bedriften investere mer for å kunne produsere mer.
+
+Når kapasiteten skal utvides, øker ikke de faste kostnadene bare litt, selv om du bare vil produsere én enhet til. De øker mye. Kanskje må du ansette flere i administrasjonen. Kanskje trenger du mer datautstyr, flere maskiner eller større lokaler. Slikt koster penger.
+
+Derfor sier vi at de faste kostnadene er sprangvise. Hvis du vil produsere én enhet mer enn det utstyret ditt klarer, hopper de faste kostnadene kraftig opp. Tegner du dette i et diagram, får du et sprang oppover, som et trappetrinn. Investerer du i nytt utstyr, får du en ny kapasitet. Også den nye kapasiteten har en grense. Når du når den, må de faste kostnadene økes på nytt.
+
+Å øke kapasiteten er en viktig beslutning. Den tas vanligvis på grunnlag av markedsundersøkelser og andre analyser. Noen ganger slår forventningene om økt salg til, og da er alt i orden. Andre ganger slår ikke salgsprognosene til, selv om bedriften allerede har økt de faste kostnadene.
+
+Derfor skiller vi mellom to typer faste kostnader.
+
+Den første typen kalles reversible faste kostnader. Det er faste kostnader som kan reduseres hvis salgsprognosene ikke slår til. Eksempler er reklamekostnader, vedlikeholdskostnader og reisekostnader. Slike kostnader kommer ikke hvis produksjonen stopper opp.
+
+Den andre typen kalles irreversible faste kostnader. Det er kostnader som ikke går ned, selv om produksjonen faller på kort sikt.
+
+De fleste faste kostnader er irreversible på kort sikt. På litt lengre sikt kan de bli reversible. Det kan skje ved at maskiner, utstyr og lokaler blir solgt, eller ved at folk som ble ansatt for å klare den økte produksjonen, blir sagt opp.
+
+Kort oppsummert: Faste kostnader er faste bare innenfor en kapasitetsgrense. Over grensen øker de i sprang. Reversible faste kostnader kan du få ned raskt, mens irreversible faste kostnader henger igjen på kort sikt.
+
+# Variable kostnader
+
+Dette kapitlet handler om variable kostnader og variable enhetskostnader, og om hvordan du skiller faste og variable kostnader fra hverandre.
+
+Variable kostnader er kostnader som oppstår i selve produksjonen eller når oppdraget utføres. Produserer du ingenting, har du ingen variable kostnader. De variable kostnadene øker når produksjonen øker, og de går ned når produksjonen går ned.
+
+Her er noen eksempler på variable kostnader. Det er varekostnader, frakt og emballasje, og lønn til dem som utfører oppdraget eller produserer varene, altså variabel lønn. Det er også husleie som varierer i takt med salgsinntektene, strøm som brukes direkte i produksjonen, og bensin og annet drivstoff.
+
+Den variable enhetskostnaden er lik for hele produksjonsmengden, så lenge de variable kostnadene er proporsjonale.
+
+Formelen er slik: Den variable enhetskostnaden, forkortet VEK, er de variable kostnadene, forkortet VK, delt på mengden.
+
+Nå regner vi ut de variable kostnadene for skoleoppdraget til Jo og Stein.
+
+De variable kostnadene for oppdraget er disse. Ved 5 skoler er de 10000 kroner. Ved 10 skoler er de 20000 kroner. Ved 15 skoler er de 30000 kroner. Ved 20 skoler er de 40000 kroner.
+
+Nå regner vi ut den variable enhetskostnaden for hvert valg.
+
+Ved 5 skoler er det 10000 delt på 5, som er 2000 kroner per skole.
+
+Ved 10 skoler er det 20000 delt på 10, som også er 2000 kroner per skole.
+
+Ved 15 skoler er det 30000 delt på 15, som igjen er 2000 kroner per skole.
+
+Ved 20 skoler er det 40000 delt på 20, som er 2000 kroner per skole.
+
+Også dette er vist i to diagrammer med antall skoler langs den vannrette aksen. I det første diagrammet er de variable kostnadene en rett linje som stiger jevnt, fra 10000 kroner ved 5 skoler til 40000 kroner ved 20 skoler. I det andre diagrammet er den variable enhetskostnaden en flat, vannrett linje på 2000 kroner.
+
+Den variable enhetskostnaden er altså konstant på 2000 kroner, uansett hvor mange skoler de tar. Når enhetskostnaden er konstant innenfor et gitt kvantum, sier vi at de variable kostnadene er proporsjonale.
+
+Variable kostnader kan også være overproporsjonale eller underproporsjonale. Overproporsjonale betyr at enhetskostnaden øker jo flere skoler Jo og Stein tar. Underproporsjonale betyr at enhetskostnaden synker jo flere skoler de tar. I dette kurset jobber vi bare med proporsjonale kostnader.
+
+Legg merke til forskjellen fra de faste kostnadene. Faste kostnader er flate i sum, men synker per enhet. Variable kostnader stiger i sum, men er flate per enhet.
+
+Nå skal vi se på en oversikt som hjelper deg å avgjøre om en kostnad er fast eller variabel.
+
+De fleste kostnader i en bedrift har både en fast og en variabel del. Derfor kan det være vanskelig å skille dem. Det er vanlig at bedriften vurderer hver enkelt kostnad for seg.
+
+Leksjonen har en grov oversikt i en tabell med to kolonner.
+
+Under faste kostnader står disse: lønn til ansatte i administrasjonen, i ledelsen og til dem som driver med markedsføring. Videre husleie, avskrivninger, og strøm, vedlikehold, telefon, oppvarming og kontorhold. Dessuten forsikringer, regnskapsføring, reklamekostnader, reisekostnader og renter av lån.
+
+Under variable kostnader står disse: varekostnader, frakt og emballasje, og lønn og sosiale kostnader til produksjonsmedarbeidere eller dem som utfører oppdragene. Videre lønn til overtid, og husleie som varierer i takt med salgsinntekten eller antall produserte enheter. Dessuten strøm til direkte bruk i produksjonen, og bensin og annet drivstoff.
+
+Legg merke til at husleie og strøm står i begge kolonnene. Vanlig husleie og vanlig strøm er faste. Men husleie som følger salget, og strøm som går rett inn i produksjonen, er variable.
+
+# Totale kostnader
+
+Dette kapitlet setter faste og variable kostnader sammen til totale kostnader.
+
+På sikt er det viktigst for bedriften å vite hva de totale kostnadene er.
+
+Formelen er slik: De totale kostnadene er de faste kostnadene pluss de variable kostnadene.
+
+Den totale enhetskostnaden finner du ved å ta de totale kostnadene og dele på mengden.
+
+Vi fortsetter med Jostein AS. De faste kostnadene er 26000 kroner uansett antall skoler. De variable kostnadene er 2000 kroner per skole.
+
+Ved 5 skoler er de faste kostnadene 26000 kroner og de variable 10000 kroner. Totalt blir det 36000 kroner. Delt på 5 skoler gir det en total enhetskostnad på 7200 kroner.
+
+Ved 10 skoler er de faste kostnadene 26000 kroner og de variable 20000 kroner. Totalt blir det 46000 kroner. Delt på 10 gir det 4600 kroner per skole.
+
+Ved 15 skoler er de faste kostnadene 26000 kroner og de variable 30000 kroner. Totalt blir det 56000 kroner. Delt på 15 gir det omtrent 3733 kroner per skole.
+
+Ved 20 skoler er de faste kostnadene 26000 kroner og de variable 40000 kroner. Totalt blir det 66000 kroner. Delt på 20 gir det 3300 kroner per skole.
+
+Også her er det to diagrammer. I det første ser du tre linjer med antall skoler langs den vannrette aksen. De faste kostnadene er en flat linje på 26000 kroner. De variable kostnadene er en stigende linje. De totale kostnadene er også en stigende linje, som ligger 26000 kroner over linjen for de variable kostnadene.
+
+Linjene for variable og totale kostnader er altså parallelle. Avstanden mellom dem er hele tiden de faste kostnadene.
+
+I det andre diagrammet er den totale enhetskostnaden en kurve som faller, fra 7200 kroner ved 5 skoler til 3300 kroner ved 20 skoler. Den faller fordi de faste kostnadene blir fordelt på flere skoler.
+
+Kort oppsummert: Totale kostnader er faste pluss variable kostnader. Total enhetskostnad er totale kostnader delt på mengden, og den synker når mengden øker.
+
+# Beslutninger på kort sikt
+
+Dette kapitlet handler om hva som kjennetegner beslutninger på kort sikt, og hvorfor bidragsmetoden står sentralt.
+
+De aller fleste økonomiske beslutninger i en bedrift har et kort perspektiv. Tidshorisonten er fra noen dager til litt over et år.
+
+Leksjonen gir mange eksempler på slike beslutninger. Det gjelder prissetting og de variable kostnadene. Det gjelder forholdet mellom pris og kostnader, altså dekningsbidrag og fortjeneste. Det gjelder faste kostnader som kan påvirkes innenfor ganske kort tid. Det gjelder lønnsomheten av en markedsføringskampanje og lønnsomheten av et rabattilbud.
+
+Andre eksempler er hvordan kapasiteten skal fordeles mellom ulike produkter for best mulig lønnsomhet, og hvor mye omsetningen må vokse for at et tap skal snus til overskudd. Det kan også være å regne ut den laveste prisen det er lønnsomt å selge til når du har ledig kapasitet. Og det kan være å sette i gang tiltak basert på økonomisk rapportering som kommer regelmessig, for eksempel hver måned.
+
+I en beslutning skal du bare ta hensyn til de relevante kostnadene og inntektene. Ikke nødvendigvis alle.
+
+De fleste lønnsomhetsberegninger på kort sikt bygger på marginalkostnadstankegang og bidragstankegang, det vil si bidragsmetoden. Du ser på de kostnadene som påvirkes av beslutningen. Det er de som avhenger av aktivitetsnivået, altså de variable kostnadene. Slike beslutninger gjelder alltid fremtiden, og de handler om å velge mellom alternativer.
+
+På kort sikt tar vi som regel utgangspunkt i den kapasiteten vi har. Vi beveger oss altså innenfor det som kalles relevant område.
+
+Hvordan du bør beslutte, avhenger av om du har ledig kapasitet eller ikke.
+
+Har du full kapasitetsutnyttelse, gjelder det å bruke de knappe ressursene slik at resultatet blir best mulig. Da skal du satse på de produktene som gir mest dekningsbidrag i forhold til hvor mye de bruker av de knappe ressursene.
+
+Har du derimot ledig kapasitet, bør du si ja til alle ordrer som gir et positivt dekningsbidrag, når de relevante kostnadene er lagt til grunn.
+
+Ved bidragsmetoden henfører du bare de variable kostnadene til kalkyleobjektet, altså til det produktet eller oppdraget du regner på.
+
+De viktigste begrepene i bidragsmetoden er fire. Det første er variable tilvirkningskostnader. Det andre er variable totalkostnader. Det tredje er dekningsbidrag, som er salgsinntektene minus de variable totalkostnadene. Det fjerde er dekningsgrad, som er dekningsbidraget i prosent av salgsinntekten.
+
+Husk også at beslutninger på kort sikt får virkninger på lengre sikt. Ha de langsiktige virkningene i bakhodet før du tar den endelige beslutningen.
+
+# Relevante og irrelevante kostnader
+
+Dette kapitlet handler om hvilke kostnader du skal ta med når du sammenligner alternativer.
+
+Målet med økonomiske beslutninger er gjerne god lønnsomhet og en solid finansiell stilling. For å ta fornuftige beslutninger må du gjennom to faser. Den første fasen er å samle inn relevant informasjon. Den andre fasen er å bearbeide informasjonen, slik at alternativene kan sammenlignes og resultatet av hvert valg kommer så tydelig frem som mulig.
+
+Når du bearbeider informasjonen, skal du bare bruke det som er relevant. Irrelevant informasjon er informasjon som ikke påvirker beslutningen i den ene eller andre retningen. Den skal ikke med når du sammenligner alternativene. Kostnader som allerede har påløpt, og som ikke endrer seg uansett hva du velger, skal heller ikke med i kalkylene.
+
+Definisjonen er denne: Med relevante kostnader mener vi kostnader som det er nødvendig å ta hensyn til i en beslutningssituasjon, det vil si kostnader som påvirker det valget som skal treffes.
+
+Irrelevante kostnader finnes i to typer.
+
+Den første typen er kostnader det er direkte feil å ta med i beregningene. Det gjelder for eksempel sunk costs. Det er kostnader som allerede har påløpt, og som du ikke får gjort noe med.
+
+Den andre typen er kostnader det er unødvendig å ta med, men som ikke gir feil beslutning om du tar dem med likevel. Et eksempel er kostnader som er like store i alle alternativene.
+
+Kort oppsummert: Ta med det som skiller alternativene. Sunk costs skal aldri med. Kostnader som er like i alle alternativene kan du trygt utelate.
+
+# Dekningsbidrag og dekningsgrad
+
+Dette kapitlet handler om de to mest grunnleggende nøkkeltallene i bidragsmetoden.
+
+I tillegg til å regne ut dekningsbidrag og resultat er det nyttig å analysere tallene videre. Leksjonen tar for seg seks nøkkeltall. De er dekningsbidrag, både totalt og per enhet, dekningsgrad, nullpunktomsetning, sikkerhetsmargin, sikkerhetsgrad og målsatt salg. Det mest sentrale av dem er dekningsbidraget.
+
+Hver gang bedriften får en forespørsel om et oppdrag, er det lurt å sette opp en kalkyle over forventede inntekter og kostnader. Da ser du om oppdraget er lønnsomt.
+
+Dekningsbidraget bør minst dekke de faste kostnadene. Er dekningsbidraget lik de faste kostnadene, går oppdraget i null. Bedriften verken tjener eller taper. Er dekningsbidraget større enn de faste kostnadene, går bedriften med overskudd på oppdraget.
+
+De fleste bedrifter vil gå med overskudd. En kalkyle på forhånd hjelper deg å sette salgsinntekten slik at den dekker både de variable og de faste kostnadene, og i tillegg gir litt ekstra, slik at oppdraget går i pluss.
+
+Det er to formler for dekningsbidraget. Det totale dekningsbidraget er salgsinntektene minus de variable kostnadene. Dekningsbidraget per enhet er salgsprisen minus den variable enhetskostnaden.
+
+Noen ganger er det også nyttig å regne ut dekningsgraden. Dekningsgraden forteller hvor stor del av salgsinntektene som blir igjen til å dekke de faste kostnadene, og til eventuelt overskudd eller underskudd. Den regnes i prosent. Prosenten forteller hvor mye av hver salgskrone som blir igjen til faste kostnader og fortjeneste.
+
+Formelen er slik: Dekningsgraden er dekningsbidraget delt på salgsinntektene, ganger 100 prosent.
+
+En bedrift kan øke dekningsgraden på to måter. Den kan øke salgsinntekten, altså prisen. Eller den kan redusere de variable kostnadene.
+
+Med dekningsgraden kan bedriften sammenligne kalkyler for flere prosjekter. En bedrift kan for eksempel ha som mål å ha minst 50 prosent dekningsgrad. Viser kalkylen lavere enn det, må bedriften vurdere om den skal øke salgsinntekten eller prøve å få ned de variable kostnadene. Det må vurderes fra gang til gang.
+
+Husk at det ofte er hard konkurranse om oppdragene. Prisen avgjør ofte hvem som får jobben. Derfor må du passe på at prisen i kalkylen ikke blir for høy.
+
+Nå regner vi ut om skoleoppdraget lønner seg for Jo og Stein.
+
+Jo og Stein har fortsatt ikke bestemt seg. Vi forutsetter at de enten tar hele oppdraget med 20 skoler, eller takker nei.
+
+Vi trenger tre opplysninger. De variable kostnadene for 20 skoler er 40000 kroner. De faste kostnadene er 26000 kroner. Og de regner med en salgsinntekt på 80000 kroner for oppdraget.
+
+Først det totale dekningsbidraget. Det er salgsinntekten på 80000 kroner minus de variable kostnadene på 40000 kroner. Det gir et dekningsbidrag på 40000 kroner.
+
+Husk at dekningsbidraget minst skal dekke de faste kostnadene. Vi trekker de faste kostnadene fra dekningsbidraget. Det blir 40000 kroner minus 26000 kroner, som gir 14000 kroner i overskudd.
+
+Oppdraget vil altså gi et overskudd på 14000 kroner. Jo og Stein synes oppdraget virker spennende og vil gjerne si ja. Men de har et krav om minst 40 prosent dekningsgrad for å ta et oppdrag. Det må vi sjekke.
+
+Dekningsgraden er dekningsbidraget ganger 100, delt på salgsinntektene. Det blir 40000 ganger 100, delt på 80000. Det gir 50 prosent dekningsgrad.
+
+Dekningsgraden på 50 prosent er over kravet deres på 40 prosent. Derfor bestemmer de seg for å ta jobben med å installere nye PC-er på barne- og ungdomsskolene i Nord-Trøndelag.
+
+# Nullpunktanalyse
+
+Dette kapitlet forklarer hva et nullpunkt er, og hvilke forutsetninger nullpunktanalysen bygger på.
+
+Nullpunktanalyse er en spesiell teknikk som hører inn under KRV-analysene. Der ser man på sammenhengen mellom kostnader, resultat og volum.
+
+Den omsetningen som verken gir overskudd eller underskudd, kalles nullpunktomsetningen. Nullpunktet kan regnes i antall enheter eller i kroner. Men nullpunkt i antall enheter gir bare mening i bedrifter som lager ett produkt. Derfor ser vi her mest på nullpunkt i kroner.
+
+Det er fire viktige poenger om nullpunkt.
+
+Det første er at nullpunktet er det salget som akkurat gir balanse, altså et overskudd på null. Salgsinntektene dekker de totale kostnadene, men ikke mer. Du kan også si at ved nullpunktet er dekningsbidraget akkurat stort nok til å dekke de faste kostnadene, men ikke stort nok til å gi overskudd.
+
+Det andre er at nullpunkt kan regnes ut i produksjonsbedrifter, enten de lager varer eller tjenester. Også varehandel kan bruke metoden, og det samme kan offentlig virksomhet som har inntekter.
+
+Det tredje er at nullpunktanalyser i praksis bare kan gjøres med bidragsmetoden.
+
+Det fjerde er at du kan sammenligne nullpunktomsetningen med den omsetningen du har eller har budsjettert med. Da ser du hvor mye omsetningen kan svikte før du begynner å gå med underskudd. Denne forskjellen kalles sikkerhetsmargin. Regnes den i prosent, kalles den sikkerhetsgrad. Begge gjør det lettere å vurdere risikoen for tap.
+
+En nullpunktanalyse bygger på tre generelle forutsetninger. Den første er at prisen må være gitt, altså hva du får for jobben eller varen. Den andre er at de faste kostnadene må være virkelig faste. Den tredje er at de variable kostnadene må være proporsjonale.
+
+# Nullpunktomsetning, sikkerhetsmargin, sikkerhetsgrad og målsatt salg
+
+Dette kapitlet gir deg formlene for de fire nøkkeltallene som hører til nullpunktanalysen.
+
+Nullpunktomsetningen forteller hvilken salgsinntekt du trenger for å dekke de totale kostnadene. Altså hvor mye du må selge for at bedriften eller prosjektet skal gå i null.
+
+Formelen er slik: Nullpunktomsetningen er de faste kostnadene delt på dekningsgraden.
+
+I noen oppgaver mangler du kanskje et av tallene. Da er det nyttig å kjenne tre sammenhenger. Den første er at nullpunktomsetningen minus de variable kostnadene minus de faste kostnadene er lik null. Den andre er at nullpunktomsetningen minus de variable kostnadene er lik de faste kostnadene. Den tredje er at nullpunktomsetningen ganger dekningsgraden er lik de faste kostnadene.
+
+Nullpunktomsetningen kalles også break-even-punktet, eller bare break-even. Det er den magiske grensen. Produserer du under nullpunktet, går bedriften eller prosjektet med tap.
+
+En lav nullpunktomsetning er bra for bedriften. Det oppnår du enten med lave faste kostnader eller med høy dekningsgrad.
+
+En bedrift følger vanligvis med på salgsutviklingen hele tiden. Da er det viktig å vite hvor mye salgsinntektene kan falle før resultatet når nullpunktet. Det kalles sikkerhetsmarginen.
+
+Formelen er slik: Sikkerhetsmarginen er nåværende salgsinntekt minus nullpunktomsetningen.
+
+Sikkerhetsmarginen uttrykt i prosent kalles sikkerhetsgraden. Formelen er slik: Sikkerhetsgraden er sikkerhetsmarginen delt på nåværende salgsinntekt, ganger 100 prosent.
+
+Ofte spør man ikke etter nullpunktet, men etter hvor stor omsetning som trengs for å nå en bestemt fortjeneste. Dette kalles målsatt salg. Da må dekningsbidraget være stort nok til å dekke både de faste kostnadene og den målsatte fortjenesten.
+
+Formelen er slik: Målsatt salg er de faste kostnadene pluss den målsatte fortjenesten, og så deler du hele summen på dekningsgraden.
+
+Nå regner vi ut alle fire nøkkeltallene for skoleoppdraget til Jostein AS.
+
+Jo og Stein har sagt ja til oppdraget. Likevel er det lurt å regne på disse tallene, i tilfelle noe går galt underveis.
+
+Vi trenger fire opplysninger. De faste kostnadene er 26000 kroner. Dekningsgraden er 50 prosent. Den nåværende salgsinntekten er 80000 kroner. Og den målsatte fortjenesten er 15000 kroner.
+
+Først nullpunktomsetningen. Den er de faste kostnadene delt på dekningsgraden. Det blir 26000 delt på 0,50, som gir 52000 kroner.
+
+Så sikkerhetsmarginen. Den er nåværende salgsinntekt minus nullpunktomsetningen. Det blir 80000 minus 52000, som gir 28000 kroner.
+
+Så sikkerhetsgraden. Den er sikkerhetsmarginen ganger 100, delt på nåværende salgsinntekt. Det blir 28000 ganger 100, delt på 80000, som gir 35 prosent.
+
+Til slutt målsatt salg. Du tar de faste kostnadene pluss den målsatte fortjenesten, altså 26000 pluss 15000, som er 41000. Så deler du på dekningsgraden, 0,50. Det gir 82000 kroner.
+
+Hva betyr tallene? Nullpunktomsetningen er 52000 kroner. Jo og Stein kan altså hjelpe så mange skoler at inntekten blir 52000 kroner, og da dekker de akkurat de variable og de faste kostnadene. Men da tjener de ingenting på oppdraget.
+
+Sikkerhetsmarginen er 28000 kroner, og sikkerhetsgraden er 35 prosent. Det er bra, når hele oppdraget har en forventet salgsinntekt på 80000 kroner. Inntektene kan falle med hele 35 prosent før de går med tap.
+
+Målsatt salg viser at de burde hatt en salgsinntekt på 82000 kroner for å nå en fortjeneste på 15000 kroner. Med 80000 kroner er de altså litt under målet.
+
+Kort oppsummert: Nullpunktomsetningen er 52000 kroner, sikkerhetsmarginen 28000 kroner, sikkerhetsgraden 35 prosent, og målsatt salg 82000 kroner.
+
+# Nullpunktdiagrammer
+
+Dette kapitlet forklarer hvordan et nullpunktdiagram ser ut, og hvordan du leser det.
+
+Et nullpunktdiagram gir deg et bilde av kostnader og resultat ved ulike omsetninger. Og ikke minst viser det nullpunktomsetningen.
+
+Se for deg et vanlig diagram. Langs den vannrette aksen står salget i kroner. Langs den loddrette aksen står kroner, altså både kostnader og inntekter.
+
+I diagrammet tegner du tre linjer. Den første er de faste kostnadene, forkortet FK. Det er en vannrett linje i samme høyde hele veien, fordi de faste kostnadene ikke endrer seg med salget.
+
+Den andre linjen er de totale kostnadene. Den starter på den loddrette aksen, i samme høyde som de faste kostnadene, og stiger derfra jevnt mot høyre. Avstanden mellom linjen for faste kostnader og linjen for totale kostnader er de variable kostnadene, forkortet VK. Den avstanden blir større jo mer du selger.
+
+Den tredje linjen er salgsinntektene. Den starter i null, nede i hjørnet der aksene møtes, og stiger brattere enn linjen for totale kostnader.
+
+Fordi salgsinntektene starter lavere, men stiger brattere, krysser de linjen for totale kostnader på et punkt. Dette skjæringspunktet er nullpunktomsetningen.
+
+Til venstre for nullpunktet ligger salgsinntektene under de totale kostnadene. Det kalles underskuddsområdet. Til høyre for nullpunktet ligger salgsinntektene over de totale kostnadene. Det kalles overskuddsområdet. Avstanden mellom de to linjene til høyre for nullpunktet er overskuddet.
+
+Du kan også tegne inn den virkelige omsetningen som en loddrett strek. Avstanden langs den vannrette aksen mellom nullpunktet og den virkelige omsetningen er sikkerhetsmarginen.
+
+Nå bruker vi et nullpunktdiagram med konkrete tall, og kontrollerer det vi leser av med en beregning.
+
+Vi har tre opplysninger. De faste kostnadene er 150000 kroner. Dekningsgraden er 40 prosent. Omsetningen er 600000 kroner.
+
+I diagrammet tegner du først de faste kostnadene som en vannrett linje på 150000 kroner. Så tegner du de totale kostnadene, som starter på 150000 kroner og stiger mot høyre. Til slutt tegner du salgsinntektene, som starter i null og stiger brattere.
+
+Den første oppgaven er å finne nullpunktomsetningen i kroner. Du finner den der salgsinntektene krysser de totale kostnadene. I dette eksemplet ligger skjæringspunktet ved 375000 kroner.
+
+Den andre oppgaven er å finne det virkelige salget. Det er 600000 kroner. I diagrammet er det en loddrett strek som ligger til høyre for nullpunktet, inne i overskuddsområdet.
+
+Den tredje oppgaven er å finne sikkerhetsmarginen. Det er forskjellen mellom den virkelige salgsinntekten og nullpunktomsetningen. Her blir det 600000 minus 375000, som gir 225000 kroner.
+
+Til slutt sjekker vi at tallene vi leste av, stemmer. Nullpunktomsetningen er de faste kostnadene delt på dekningsgraden. Det blir 150000 delt på 0,4, som gir 375000 kroner. Sikkerhetsmarginen er salgsinntekten minus nullpunktomsetningen. Det blir 600000 minus 375000, som gir 225000 kroner. Tallene stemmer altså med det vi leste av diagrammet.
+
+# KRV-analyser
+
+Dette kapitlet handler om hva KRV-analyser er, hva de brukes til, og hvilke forutsetninger de bygger på.
+
+KRV står for kostnad, resultat og volum. I en KRV-analyse ser du på sammenhengen mellom disse tre.
+
+KRV-analyser brukes til tre typer beslutninger. Den første er engangsbeslutninger, også kalt ad hoc-beslutninger, når du har ledig kapasitet. Ofte gjelder det priser som er lavere enn normalt. Den andre er hvordan kapasiteten skal fordeles mellom ulike produkter når det oppstår flaskehalser. Den tredje er om du skal produsere selv eller sette arbeidet bort til andre.
+
+KRV-analyser er mye brukt. Det skyldes nok at de er enkle å gjøre, og at de gir et godt bilde av hvordan endringer i volum og kostnader påvirker resultatet. I praksis fungerer de bare med bidragstankegangen.
+
+KRV-analyser kan svare på mange spørsmål. Her er de som leksjonen nevner. Hvor stor omsetning må du minst ha for å unngå tap? Hvor mye kan salget falle før du går med underskudd? Hvor mye må salget øke for at en annonsekampanje skal lønne seg? Hvor mye mer må du selge for at et rabattilbud skal lønne seg? Hva taper du på å kutte ut et produkt? Hva betyr økt eller redusert salgsvolum for lønnsomheten?
+
+Flere spørsmål er disse. Hvilken resultatforbedring gir et nytt produkt? Hvordan slår det ut på resultatet om salget fordeler seg annerledes mellom produktene? Hvordan slår det ut om de faste eller variable kostnadene øker eller går ned? Og hvor mye må du selge for å nå et bestemt overskudd?
+
+KRV-analyser kan brukes i varehandel, i tjenesteyting, i produksjonsbedrifter og i offentlig næringsvirksomhet.
+
+Når du sammenligner alternativer, er det lurt å gjøre en differanseanalyse. Det kalles også en alt som er annerledes analyse. Du utelater det som er likt i alternativene. I tillegg skal du se bort fra sunk costs, og du skal tenke alternativkostnad.
+
+KRV-analyser bygger på en rekke tradisjonelle forutsetninger. De gjør regnearbeidet enklere. Uten dem ville metodene neppe blitt så utbredt. Det er sju vanlige forutsetninger.
+
+Den første er at kostnadene kan deles riktig inn i faste og variable.
+
+Den andre er at de variable kostnadene varierer proporsjonalt med produksjons- eller salgsvolumet. Dekningsbidraget per enhet forutsettes altså konstant.
+
+Den tredje er at salgsprisen ikke påvirkes av hvor mye du selger. Også her forutsettes dekningsbidraget per enhet å være konstant.
+
+Den fjerde er at de faste kostnadene er faste.
+
+Den femte er at produktmiksen er konstant. Det vil si at hvert produkts andel av salget ikke endres, selv om totalsalget endres.
+
+Den sjette er at salg er lik produksjon. Det vil si at det ikke er noen endringer i lageret av varer i arbeid eller ferdigvarer.
+
+Den sjuende er at markedsforhold, produktivitet, kapasitet og teknologi forutsettes uendret.
+
+KRV-analyser har vanligvis et kort perspektiv, og de handler om risikoen i virksomheten. De er ganske enkle å gjøre, fordi forutsetningene fjerner mange problemer med beregninger og modeller. Det er viktig at du kjenner forutsetningene, så du eventuelt kan justere resultatene og gjøre dem mer realistiske.
+
+# KRV-analyse med Datadeler AS
+
+Her går vi gjennom et fullstendig regneeksempel på en KRV-analyse.
+
+En KRV-analyse ser på tre variabler. Det er inntekter, kostnader og volum, altså aktivitet. Med disse kan du regne ut resultatet ved ulike inntekter, kostnader og volum.
+
+Et nyttig oppsett er en tabell der du først skriver ned volum, pris og variabel enhetskostnad. Under setter du opp inntekter, minus variable kostnader, som gir dekningsbidrag, minus faste kostnader, som gir resultat. For hver linje har du en kolonne for totalt beløp, en for beløp per enhet og en for volum.
+
+Datadeler AS solgte PC-er i 2018. Volumet var 1800 enheter. Prisen var 5000 kroner per PC. Den variable enhetskostnaden var 3000 kroner. De faste kostnadene i 2018 var 3 millioner kroner.
+
+Oppgaven har tre deler. Du skal regne ut totalt dekningsbidrag og resultat for 2018. Du skal finne nullpunktomsetningen. Og du skal sette opp dekningsbidrag og resultat både for 1800 enheter og for nullpunktomsetningen.
+
+Vi starter med inntektene. 1800 PC-er ganger 5000 kroner gir 9 millioner kroner.
+
+Så de variable kostnadene. 1800 PC-er ganger 3000 kroner gir 5,4 millioner kroner.
+
+Dekningsbidraget er inntektene minus de variable kostnadene. 9 millioner minus 5,4 millioner gir 3,6 millioner kroner. Per enhet er dekningsbidraget 5000 minus 3000, altså 2000 kroner.
+
+Resultatet er dekningsbidraget minus de faste kostnadene. 3,6 millioner minus 3 millioner gir et resultat på 600000 kroner.
+
+Så nullpunktomsetningen. Formelen er de faste kostnadene delt på dekningsgraden. Men dekningsgraden er ikke oppgitt, så den må vi regne ut først.
+
+Dekningsgraden er dekningsbidraget delt på salgsinntekten, ganger 100. Du kan også skrive det som salgsinntekten minus de variable kostnadene, delt på salgsinntekten, ganger 100. Per enhet blir det 5000 minus 3000, som er 2000, delt på 5000, ganger 100. Det gir 40 prosent.
+
+Nå kan vi regne nullpunktomsetningen. Det er 3 millioner kroner delt på 0,4, som gir 7,5 millioner kroner.
+
+Vi forutsetter at bedriften bare lager én type PC. Da kan vi også regne nullpunktet i antall enheter. Du tar den totale salgsinntekten og deler på prisen per enhet. 7,5 millioner kroner delt på 5000 kroner gir 1500 enheter.
+
+Til slutt setter vi de to situasjonene ved siden av hverandre.
+
+Ved 1800 solgte PC-er er inntektene 9 millioner kroner. De variable kostnadene er 5,4 millioner kroner. Dekningsbidraget er 3,6 millioner kroner. De faste kostnadene er 3 millioner kroner. Resultatet er 600000 kroner.
+
+Ved 1500 solgte PC-er, altså nullpunktet, er inntektene 7,5 millioner kroner. De variable kostnadene er 4,5 millioner kroner, som er 1500 ganger 3000. Dekningsbidraget er 3 millioner kroner. De faste kostnadene er fortsatt 3 millioner kroner. Resultatet er null.
+
+Per enhet er tallene de samme i begge situasjonene. Prisen er 5000 kroner, den variable kostnaden er 3000 kroner, og dekningsbidraget er 2000 kroner.
+
+Dette oppsettet kan du bruke når antall solgte enheter endrer seg, når prisen går opp eller ned, når de variable kostnadene endres, og når de faste kostnadene endres.
+
+Kort oppsummert: Datadeler AS hadde et dekningsbidrag på 3,6 millioner kroner og et resultat på 600000 kroner. Dekningsgraden er 40 prosent, og nullpunktet er 7,5 millioner kroner, eller 1500 PC-er.
+
+Til denne leksjonen hører det også en øving, der du kan prøve deg på slike beregninger selv.
+
+# Oppsummering
+
+Her går vi gjennom de viktigste punktene i leksjonen.
+
+Faste kostnader er kostnader du har uansett om du produserer noe. De er konstante innenfor en kapasitetsgrense, og over grensen øker de i sprang. Reversible faste kostnader kan reduseres raskt, mens irreversible faste kostnader henger igjen på kort sikt.
+
+Variable kostnader følger produksjonen. I dette kurset er de proporsjonale, slik at den variable enhetskostnaden er konstant. De totale kostnadene er de faste pluss de variable kostnadene.
+
+I tjenesteytende bedrifter bruker man bidragsmetoden. Dekningsbidraget er salgsinntektene minus de variable kostnadene. Dekningsbidraget skal dekke de faste kostnadene, og det som blir igjen er overskuddet.
+
+Beslutninger på kort sikt bygger på den kapasiteten bedriften har, og tidshorisonten er sjelden mer enn ett år. Her står bidragsmetoden sentralt. Har du ledig kapasitet, bør du si ja til ordrer med positivt dekningsbidrag.
+
+Ta bare med relevante kostnader, altså de som påvirker valget. Sunk costs skal aldri med, og kostnader som er like i alle alternativene, kan utelates.
+
+Dekningsgraden er dekningsbidraget delt på salgsinntektene, ganger 100 prosent.
+
+Nullpunktomsetningen er de faste kostnadene delt på dekningsgraden. Sikkerhetsmarginen er nåværende salgsinntekt minus nullpunktomsetningen. Sikkerhetsgraden er sikkerhetsmarginen delt på nåværende salgsinntekt, ganger 100 prosent. Målsatt salg er de faste kostnadene pluss målsatt fortjeneste, delt på dekningsgraden.
+
+I et nullpunktdiagram er nullpunktet der linjen for salgsinntekter krysser linjen for totale kostnader. Til venstre ligger underskuddsområdet, og til høyre ligger overskuddsområdet.
+
+KRV-analyser ser på sammenhengen mellom kostnad, resultat og volum. De bygger på forenklede forutsetninger, for eksempel at kostnadene kan deles i faste og variable, at prisen er gitt, og at salg er lik produksjon. Kjenner du forutsetningene, kan du vurdere hvor realistiske resultatene er.
+
+Lykke til med øvingen!

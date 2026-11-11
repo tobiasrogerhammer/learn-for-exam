@@ -1,0 +1,281 @@
+# Vurdering og verdsetting av balanseposter
+
+Velkommen til leksjon 6. Her skal du lære hvilke vurderingsregler som finnes, og hvordan eiendeler og gjeld skal verdsettes i balansen. Pensum for leksjonen finner du i læreboka Årsregnskapet, kapittel 18, 19 og 20.
+
+Vi går gjennom klassifikasjon av eiendeler, reglene for anleggsmidler og omløpsmidler, og mange regneeksempler med bedriften Jostein AS. Etterpå ser vi på gjeld, og til slutt på hvordan balansen skal dokumenteres.
+
+# Balansens hovedgrupper
+
+Dette kapitlet repeterer hvordan balansen er delt inn, fordi vurderingsreglene henger tett sammen med denne inndelingen.
+
+Målet med vurderingsreglene er at vi skal få en så korrekt vurdering av eiendeler og gjeld som mulig, slik at verdien i balansen blir riktig. Regnskapsloven har regler for hvordan eiendeler og gjeld skal klassifiseres, og verdsettingen følger av klassifiseringen.
+
+Etter regnskapsloven paragraf 6-2 skal balansen presenteres i noen hovedgrupper. På den ene siden har vi eiendelene. De deles i anleggsmidler og omløpsmidler. På den andre siden har vi egenkapital og gjeld. Den siden deles i egenkapital, langsiktig gjeld og kortsiktig gjeld.
+
+Som du lærte i leksjon 3, er postene i balansen gruppert etter hvor lett eiendelene kan omsettes, og etter når gjelden forfaller. Omløpsmidlene er mer likvide enn anleggsmidlene. Og kortsiktig gjeld skal betales før langsiktig gjeld.
+
+# Klassifikasjon av eiendeler
+
+Nå skal vi se på hvordan du avgjør om en eiendel er et anleggsmiddel eller et omløpsmiddel.
+
+Reglene for verdsetting følger reglene for klassifisering. Er eiendelen et anleggsmiddel, bruker du vurderingsreglene for anleggsmidler. Er eiendelen et omløpsmiddel, bruker du vurderingsreglene for omløpsmidler. Hovedregelen for klassifikasjon står i regnskapsloven paragraf 5-1.
+
+Anleggsmidler er eiendeler som er bestemt til varig eie eller bruk. Eksempler på anleggsmidler er goodwill og andre immaterielle eiendeler, produksjonsanlegg og utstyr, bygninger og utstyr til bruk i administrasjonen, og langsiktige plasseringer i aksjer eller fordringer.
+
+Omløpsmidler er fordringer som skal tilbakebetales innen ett år. I tillegg gjelder en viktig regel: eiendeler som er en del av bedriftens varekretsløp, skal alltid klassifiseres som omløpsmidler. Det gjelder selv om varekretsløpet er lengre enn ett år. Eksempler på omløpsmidler er varebeholdninger, kortsiktige plasseringer i aksjer, kundefordringer, og kontanter og bankinnskudd.
+
+Hvis hensikten med en eiendel endres, skal den omklassifiseres. Tenk deg at du har en aksje som er vurdert som anleggsmiddel fordi den var ment for varig eie. Så bestemmer du deg for å selge den for å oppnå gevinst. Da må aksjen omklassifiseres til et omløpsmiddel. Det finnes egne regler for hvordan en slik omklassifisering skal gjøres, men de er ikke pensum i dette kurset.
+
+# Hovedreglene for vurdering
+
+Dette korte kapitlet gir deg de to hovedreglene som resten av leksjonen bygger på.
+
+Alle eiendeler vurderes individuelt. Hovedregelen for anleggsmidler er at de verdsettes til kostpris, det vil si anskaffelseskost. Hovedregelen for omløpsmidler er at de skal verdsettes etter laveste verdis prinsipp.
+
+I tillegg til disse generelle reglene finnes det spesielle vurderingsregler for to typer poster. Den første er markedsbaserte finansielle omløpsmidler. Den andre er pengeposter i utenlandsk valuta. Begge kommer vi tilbake til senere.
+
+# Vurdering av anleggsmidler
+
+Her ser vi på de tre reglene som gjelder for anleggsmidler, og hvordan anleggsmidlene deles inn.
+
+Reglene for vurdering av anleggsmidler står i regnskapsloven paragraf 5-3. Det er tre regler. Den første er at anleggsmidlene skal vurderes til anskaffelseskost. Den andre er at anleggsmidler med begrenset økonomisk levetid skal avskrives etter en fornuftig avskrivingsplan. Den tredje er at anleggsmidler skal nedskrives til virkelig verdi ved verdifall som ikke forventes å være forbigående.
+
+Anleggsmidlene deles i tre grupper. Den første gruppen er immaterielle eiendeler. Den andre er varige driftsmidler. Den tredje er langsiktige plasseringer i aksjer eller fordringer. Vi tar dem en og en.
+
+# Immaterielle eiendeler og goodwill
+
+Dette kapitlet handler om eiendeler uten fysisk form, som patenter og goodwill, med to regneeksempler.
+
+En immateriell eiendel er en ikke-pengepost uten fysisk substans. Slike eiendeler er anskaffet for varig eie eller bruk. De klassifiseres derfor som anleggsmidler og verdsettes etter reglene for anleggsmidler.
+
+Eksempler på immaterielle eiendeler er forskning og utvikling, konsesjoner, patenter, lisenser, varemerker og lignende, utsatt skattefordel, og goodwill.
+
+Utgifter til forskning og utvikling behandles etter de generelle vurderingsreglene for anleggsmidler i paragraf 5-3. Det betyr at de skal balanseføres og avskrives over den økonomiske levetiden. Det finnes likevel ett unntak, i regnskapsloven paragraf 5-6. Utgifter til egen forskning og utvikling kan kostnadsføres løpende etter hvert som de påløper.
+
+Konsesjoner, patenter og lignende rettigheter følger hovedregelen i paragraf 5-3. Utgiftene balanseføres til anskaffelseskost og avskrives over økonomisk levetid.
+
+Utsatt skattefordel er ikke med her. Skatteproblematikken er ganske komplisert, og derfor er den utelatt fra kurset.
+
+Goodwill oppstår når en bedrift kjøper en annen bedrift, og er definert i regnskapsloven paragraf 5-7. Goodwill er forskjellen mellom kjøpesummen og verdien av eiendeler og gjeld. Med andre ord oppstår goodwill når den samlede verdien av bedriften er større enn verdien av eiendelene og gjelden som står i balansen. Goodwill klassifiseres som anleggsmiddel, verdsettes til anskaffelseskost og avskrives over økonomisk levetid.
+
+Så til det første eksemplet, som handler om et patent. Jostein AS har kjøpt et patent på et dataprogram som de skal bruke i arbeidet sitt. De betalte 50000 kroner for patentet, og overtok det fra 1. januar år 1. De regner med å ha nytte av patentet i 5 år.
+
+Patentet verdsettes til anskaffelseskost, altså 50000 kroner. Siden den økonomiske levetiden er 5 år, skal det avskrives over 5 år. Den årlige avskrivingen blir 50000 kroner delt på 5, som er 10000 kroner. Verdien i balansen per 31. desember år 1 blir da 50000 minus 10000, som er 40000 kroner. Forskning og utvikling behandles på samme måte som patenter og goodwill, med en verdi i balansen og avskrivinger.
+
+Det andre eksemplet handler om goodwill. Jostein AS startet bedriften sin fra bunnen av. Et alternativ hadde vært å kjøpe en annen bedrift og overta eiendelene og gjelden. Datafirmaet MoTo AS har drevet datakonsulentvirksomhet i Nord-Trøndelag i 5 år, og vil nå selge. Jo og Stein ser annonsen og blir interessert.
+
+MoTo AS har denne inngående balansen per 1. januar år 1. På eiendelssiden står bygning med 500000 kroner, maskiner med 15000 kroner og kundefordringer med 20000 kroner. Til sammen er det 535000 kroner. På den andre siden står egenkapital med 335000 kroner og gjeld med 200000 kroner. Det blir også 535000 kroner.
+
+Prisen på bedriften er satt til 400000 kroner, og i tillegg må kjøperen overta gjelden til MoTo AS. Jostein AS vil regne ut hvor mye merverdi, eller goodwill, de betaler. Vi regner steg for steg.
+
+Du starter med kjøpesummen på 400000 kroner. Så legger du til gjelden som overtas, 200000 kroner. Det gir en brutto kjøpesum på 600000 kroner. Fra dette trekker du verdien av eiendelene. Du trekker fra bygningen med virkelig verdi 500000 kroner, og står igjen med 100000. Du trekker fra maskinene på 15000 kroner, og står igjen med 85000. Til slutt trekker du fra kundefordringene på 20000 kroner. Da står du igjen med 65000 kroner. Det er goodwillen, altså merverdien Jostein AS betaler for.
+
+Hvis Jostein AS kjøper bedriften, får de denne åpningsbalansen per 1. januar år 1. På eiendelssiden står goodwill med 65000 kroner, bygning med 500000 kroner, maskiner med 15000 kroner og kundefordringer med 20000 kroner. Summen er 600000 kroner. På den andre siden står egenkapital med 400000 kroner, som er det de betalte, og gjeld med 200000 kroner. Summen er også 600000 kroner.
+
+Legg merke til at goodwill nå står som en eiendel i balansen. Ved årsslutt må goodwillen også avskrives over den økonomiske levetiden.
+
+Kort oppsummert: immaterielle eiendeler er anleggsmidler uten fysisk form. De balanseføres til anskaffelseskost og avskrives over økonomisk levetid. Unntaket er egen forskning og utvikling, som kan kostnadsføres løpende. Goodwill er det du betaler utover verdien av eiendelene og gjelden du overtar.
+
+# Varige driftsmidler og avskrivinger
+
+Dette kapitlet handler om fysiske anleggsmidler og om hvordan du beregner lineære avskrivinger.
+
+Et varig driftsmiddel er en fysisk eiendel som er bestemt til varig eie eller bruk i en virksomhet. Eksempler er tomter, bygninger og annen fast eiendom. Det kan også være maskiner, fly og anlegg. Og det kan være driftsløsøre, inventar, kontormaskiner og lignende.
+
+Varige driftsmidler balanseføres til anskaffelseskost, og driftsmidler med begrenset økonomisk levetid skal avskrives. Selv om hovedregelen sier balanseføring, skal det gjøres en skjønnsmessig vurdering av om kjøpet skal balanseføres eller kostnadsføres.
+
+Små foretak kan etter god regnskapsskikk legge skatteloven til grunn når de avgjør dette. Skatteloven gir lov til å kostnadsføre et driftsmiddel direkte når det oppfyller én av to betingelser. Den første er at kostprisen er under 30000 kroner uten merverdiavgift. Den andre er at forventet brukstid er under 3 år. Et lite foretak som kjøper et driftsmiddel til under 30000 kroner, eller med levetid under tre år, kan altså føre det som en kostnad i resultatregnskapet. Da slipper de å føre det som en eiendel i balansen og avskrive det.
+
+Hovedregelen er at anleggsmidler med begrenset økonomisk levetid skal avskrives etter en fornuftig plan. De vanligste metodene er saldometoden og lineær avskriving. Saldometoden brukes ved skattemessige avskrivinger, mens lineær avskriving er mest vanlig i årsregnskapet. Derfor ser vi på lineær avskriving.
+
+Lineær avskriving betyr at du fordeler avskrivingsbeløpet med like store beløp hver periode over driftsmiddelets økonomiske levetid. Et driftsmiddel kan ha begrenset levetid fordi det slites eller forringes på andre måter. Det kan også bli utrangert fordi det kommer nye modeller, eller fordi kapasiteten blir for dårlig.
+
+Noen ganger er driftsmiddelet ikke verdt noe når levetiden er over. Andre ganger kan du selge det og få et beløp for det. Den salgssummen kalles utrangeringsverdi, eller restverdi.
+
+Formelen for årlig avskriving er slik: Det årlige avskrivingsbeløpet er lik kostprisen minus utrangeringsverdien, delt på den økonomiske levetiden.
+
+Kjøper du et driftsmiddel i løpet av året, skal du bare avskrive for de månedene du har hatt det. Kjøper du for eksempel en firmabil 1. juli, skal du bare avskrive for 6 måneder det første året. Da regner du først ut det årlige avskrivingsbeløpet, deler det på 12 og ganger med antall måneder du har hatt driftsmiddelet.
+
+Nå til et eksempel. Jostein AS måtte oppgradere maskinparken og programvaren, og kjøpte nytt datautstyr 1. januar 2018. Kostprisen er 50000 kroner. Avskrivingen skal være lineær, levetiden er 4 år, og restverdien er 0 kroner. Vi skal finne de årlige avskrivingene og balanseverdien ved starten og slutten av hvert av de fire årene.
+
+Den årlige avskrivingen blir kostprisen på 50000 kroner delt på 4 år. Det gir 12500 kroner per år.
+
+Slik går det år for år. I 2018 starter balanseverdien på 50000 kroner. Du avskriver 12500 kroner, og ved utgangen av året er verdien 37500 kroner. I 2019 starter verdien på 37500 kroner. Etter avskriving på 12500 kroner er den 25000 kroner. I 2020 starter verdien på 25000 kroner, og ender på 12500 kroner. I 2021 starter verdien på 12500 kroner. Etter den siste avskrivingen på 12500 kroner er verdien 0 kroner.
+
+Så endrer vi eksemplet litt. La oss si at restverdien er 6000 kroner, og at alt annet er likt. Husk at du må trekke restverdien fra kostprisen før du regner ut avskrivingene. Du tar 50000 kroner minus 6000 kroner, som er 44000 kroner. Det deler du på 4 år, og får 11000 kroner per år.
+
+Nå blir det slik. I 2018 starter balanseverdien på 50000 kroner, du avskriver 11000 kroner, og verdien ved utgangen av året er 39000 kroner. I 2019 går verdien fra 39000 til 28000 kroner. I 2020 går den fra 28000 til 17000 kroner. I 2021 går den fra 17000 til 6000 kroner. Etter fire år står driftsmiddelet altså igjen med restverdien på 6000 kroner.
+
+Eksemplet viser at varige driftsmidler verdsettes etter hovedregelen for anleggsmidler, altså til anskaffelseskost. Datautstyr har begrenset levetid, og må derfor avskrives etter en fornuftig plan. Driftsmidler uten begrenset levetid blir bare verdsatt til anskaffelseskost, uten avskriving. Et eksempel på det er tomter.
+
+Kort oppsummert: varige driftsmidler balanseføres til anskaffelseskost og avskrives hvis levetiden er begrenset. Ved lineær avskriving tar du kostpris minus restverdi, og deler på levetiden. Små foretak kan kostnadsføre direkte når kostprisen er under 30000 kroner eller brukstiden er under 3 år.
+
+# Påkostning, vedlikehold og salg
+
+Her ser du forskjellen på påkostning og vedlikehold, og hva som skjer når et driftsmiddel selges.
+
+Når du vurderer driftsmidler, skiller du mellom kjøp av nye driftsmidler og påkostning eller vedlikehold av driftsmidler du allerede har.
+
+En påkostning er en utgift som øker verdien på driftsmiddelet utover den opprinnelige kostprisen. En påkostning skal derfor balanseføres. Det betyr at verdien på driftsmiddelet øker i balansen.
+
+Vedlikehold er utgifter som bare opprettholder verdien på driftsmiddelet. Vedlikehold skal kostnadsføres direkte.
+
+Når et driftsmiddel selges, får bedriften vanligvis en salgssum. Da må det beregnes en gevinst eller et tap ved salget. Salgssummen inntektsføres på salgstidspunktet. En gevinst er en inntekt og øker egenkapitalen. Et tap er en kostnad og reduserer egenkapitalen. Selve regnskapsføringen ved salg er ikke pensum, men det er greit å vite hvordan gevinst og tap påvirker egenkapitalen.
+
+# Omløpsmidler og laveste verdis prinsipp
+
+Nå går vi over til omløpsmidlene, og til det viktige prinsippet om laveste verdi.
+
+Omløpsmidler er eiendeler som inngår i varekretsløpet, eller fordringer som skal betales tilbake innen ett år. De skal vurderes etter laveste verdis prinsipp, etter regnskapsloven paragraf 5-2. Det betyr at et omløpsmiddel skal verdsettes til det laveste av anskaffelseskost og virkelig verdi. Er virkelig verdi lavere enn kostprisen, skal omløpsmiddelet nedskrives til virkelig verdi.
+
+Virkelig verdi fastsettes etter god regnskapsskikk, og avhenger av hva slags omløpsmiddel det er. For varelager er virkelig verdi netto salgsverdi på det fremtidige salgstidspunktet. For kundefordringer er det forventet innbetaling. For verdipapirer er det børskurs eller en annen markedsverdi.
+
+Prinsippet har to formål. Det første er å sikre at du tar hensyn til et urealisert tap. Når verdien går ned, velger du den lavere virkelige verdien. Det andre er å hindre at en urealisert verdiøkning blir tatt til inntekt. Når verdien går opp, beholder du kostprisen.
+
+Sagt helt enkelt: er kostprisen lavest, fører du kostprisen i balansen. Er den virkelige verdien lavest, fører du den virkelige verdien. Velger du den virkelige verdien, må du gjøre en nedskriving på forskjellen mellom kostpris og virkelig verdi.
+
+I tillegg har regnskapsloven to spesielle regler. Markedsbaserte finansielle omløpsmidler skal etter paragraf 5-8 verdsettes til markedsverdien på balansedagen. Pengeposter i utenlandsk valuta, altså fordringer og gjeld i utenlandsk valuta, skal etter paragraf 5-9 vurderes til valutakursen på balansedagen.
+
+Videre i leksjonen ser vi nærmere på tre typer omløpsmidler: kortsiktige plasseringer i aksjer, kundefordringer, og kontanter og bankinnskudd.
+
+# Kortsiktige plasseringer i aksjer
+
+Dette kapitlet viser hvordan aksjer som omløpsmidler verdsettes, enten etter laveste verdis prinsipp eller etter markedsverdiprinsippet.
+
+En aksje er en eierandel i et aksjeselskap. Aksjer som eies for å oppnå en kortsiktig gevinst, er omløpsmidler. De kan vurderes etter laveste verdis prinsipp eller etter markedsverdiprinsippet.
+
+Med laveste verdis prinsipp bruker du det laveste av kostpris og virkelig verdi i balansen. Virkelig verdi for aksjer er børskurs eller en annen markedsverdi. Som hovedregel skal prinsippet brukes for hver enkelt aksje. For børsnoterte aksjer kan du bruke prinsippet samlet for hele beholdningen. Det kalles porteføljevurdering.
+
+Små foretak kan fastsette kostprisen med FIFO-metoden. FIFO betyr først inn, først ut. Det vil si at de aksjene du kjøpte først, er de som regnes som solgt først.
+
+Som nevnt finnes det spesielle regler for markedsbaserte finansielle omløpsmidler. Slike aksjer skal verdsettes etter markedsverdiprinsippet. Da regnes hver aksje om til markedsverdi, uansett om verdien har gått opp eller ned. Markedsverdiprinsippet skal brukes for aksjer som oppfyller fire kjennetegn. De er klassifisert som omløpsmidler. De inngår i en handelsportefølje med sikte på salg. De omsettes på børs. Og de har god eierspredning og likviditet.
+
+Første eksempel bruker laveste verdis prinsipp. Jostein AS vil investere litt penger i aksjer for å tjene penger, og kjøper aksjer i Tor AS. Disse aksjene regnes ikke som markedsbaserte finansielle omløpsmidler, og skal derfor vurderes etter laveste verdis prinsipp. Kostprisen skal fastsettes med FIFO.
+
+Slik handlet de i år 1. Den 1. januar kjøpte de 50 aksjer til 200 kroner stykket, til sammen 10000 kroner. Den 15. mai kjøpte de 100 aksjer til 160 kroner stykket, til sammen 16000 kroner. Da hadde de 150 aksjer som kostet 26000 kroner til sammen. Den 20. oktober solgte de 75 aksjer til 190 kroner stykket, til sammen 14250 kroner. Aksjekursen ved utgangen av året var 210 kroner per aksje.
+
+Først regner vi gevinst eller tap ved salget. Salgssummen er 75 ganger 190, som er 14250 kroner. Med FIFO er de første 50 aksjene som selges, de som kostet 200 kroner. Det gir en kostpris på 50 ganger 200, som er 10000 kroner. De siste 25 solgte aksjene tas fra kjøpet til 160 kroner. Det gir 25 ganger 160, som er 4000 kroner. Samlet kostpris for de solgte aksjene er 14000 kroner. Gevinsten blir 14250 minus 14000, som er 250 kroner.
+
+Så ser vi på beholdningen per 31. desember år 1. Det er 75 aksjer igjen, og alle er fra kjøpet til 160 kroner. Kostprisen er 75 ganger 160, som er 12000 kroner. Den virkelige verdien er 75 ganger 210, som er 15750 kroner. Etter laveste verdis prinsipp velger du den laveste verdien. Aksjene føres derfor i balansen med kostprisen på 12000 kroner.
+
+Andre eksempel bruker markedsverdiprinsippet. Jostein AS kjøpte også aksjer som omsettes på børs. Den 1. juli år 1 kjøpte de 100 aksjer i Statoil til 350 kroner stykket, til sammen 35000 kroner. Disse skal verdsettes til markedsverdi, altså børskurs, selv om den er høyere enn kostprisen. Børskursen per 31. desember år 1 er 375 kroner per aksje.
+
+Markedsverdien blir 100 ganger 375, som er 37500 kroner. Kostprisen er 35000 kroner. Etter markedsverdiprinsippet føres aksjene i balansen med 37500 kroner, altså markedsverdien, selv om den er høyere enn kostprisen.
+
+Hvorfor bruker man markedsverdi på lett omsettelige aksjer? Fordi de skal ha en så korrekt verdi som mulig hvis de selges. Tenk deg at forskjellen mellom kostpris og markedsverdi er stor, og at aksjene hele tiden er vurdert etter laveste verdis prinsipp. Da ville forskjellen mellom salgssum og bokført verdi blitt urimelig stor. Husk at balansen skal gi et så riktig bilde som mulig av verdien på eiendelene på balansedagen.
+
+Kort oppsummert: vanlige kortsiktige aksjer vurderes etter laveste verdis prinsipp, og små foretak kan bruke FIFO for å finne kostprisen. Børsnoterte aksjer i en handelsportefølje med god likviditet vurderes etter markedsverdiprinsippet, også når markedsverdien er høyere enn kostprisen.
+
+# Kundefordringer
+
+Dette kapitlet handler om hvordan kundefordringer vurderes, og hvordan tap på fordringer føres.
+
+Når du selger på kreditt, får kunden utsatt betaling. Da får bedriften en fordring på kunden, en kundefordring. Kundefordringer er eiendeler. Siden de er en del av varekretsløpet, er de omløpsmidler.
+
+Etter regnskapsloven paragraf 5-2 skal en kundefordring vurderes til det laveste av to verdier. Den første er anskaffelseskost, som er pålydende eller fakturert beløp. Den andre er virkelig verdi, som er forventet innbetaling fra kunden.
+
+Bedriften har to mål når den vurderer kundefordringene. Det første er å vise riktig verdi av kundefordringene i balansen. Det andre er å føre den delen av årets salg som ikke blir betalt, som tap på fordringer i resultatregnskapet.
+
+Tap på fordringer deles i to typer: konstatert tap og forventet tap. Kredittsalg skjer hele året. For salg tidlig i året, eller salg til bedrifter som går konkurs i løpet av året, vet du ved årsslutt om noen fordringer ikke blir betalt. Da er tapet konstatert.
+
+Ved årsslutt kan det også være usikkerhet. Det kan være salg helt på slutten av året, eller kunder som nettopp har fått betalingsproblemer. Ofte har mange av fordringene heller ikke forfalt ennå. Bedriften bør også ta hensyn til slike forventede tap. Både konstaterte og forventede tap skal regnes uten merverdiavgift. For å gjøre det enklere, ser vi bort fra merverdiavgift i eksemplene her. Merverdiavgift er delvis behandlet i leksjon 5.
+
+Nå til eksemplet. Jostein AS sine kundefordringer per 31. desember år 1 er slik: Geir Bok skylder 20000 kroner. Sport AS skylder 60000 kroner. Andre fordringer er på 100000 kroner. Til sammen er det 180000 kroner.
+
+Vi vet også dette om fordringene. Geir Bok er konkurs, så hele fordringen må regnes som tapt. Sport AS har store økonomiske problemer. De kan betale 35000 kroner, men resten må regnes som tapt. For de andre fordringene er det ingen usikkerhet, og forventet innbetaling er 100000 kroner.
+
+Hver fordring vurderes for seg etter laveste verdis prinsipp. Geir Bok: fordringen er 20000 kroner, verdien i balansen blir 0 kroner, og tapet er 20000 kroner. Sport AS: fordringen er 60000 kroner, verdien i balansen blir 35000 kroner, og tapet er 60000 minus 35000, som er 25000 kroner. Andre fordringer: fordringen er 100000 kroner, verdien i balansen blir 100000 kroner, og tapet er 0. Samlet er fordringene på 180000 kroner, verdien i balansen blir 135000 kroner, og tapet blir 20000 pluss 25000, som er 45000 kroner.
+
+Så fører vi dette på to kontoer, konto 15 hundre Kundefordringer og konto 78 hundre Tap på fordringer. Konto 78 hundre ble ikke opprettet i leksjon 4, men vi tar den med nå.
+
+På konto 15 hundre Kundefordringer står saldoen på 180000 kroner i debet. Tapet på 45000 kroner føres i kredit, fordi kundefordringene går ned. Utgående balanse blir da 135000 kroner. Begge sider summerer seg til 180000 kroner.
+
+På konto 78 hundre Tap på fordringer føres 45000 kroner i debet, fordi tapet er en kostnad. Utgående balanse på 45000 kroner står i kredit, og begge sider summerer seg til 45000 kroner.
+
+Resultatet er at kundefordringene står i balansen med 135000 kroner, og at tap på fordringer på 45000 kroner føres som en kostnad i resultatregnskapet.
+
+Kort oppsummert: kundefordringer vurderes til det laveste av fakturert beløp og forventet innbetaling. Hver fordring vurderes for seg, og forskjellen føres som tap på fordringer.
+
+# Kontanter og bankinnskudd
+
+Her lærer du hvordan kontanter og bankinnskudd verdsettes, også når pengene står i utenlandsk valuta.
+
+Kontanter og bankinnskudd er bedriftens beholdning av likvider. Kontanter er penger du har i hånden, og bankinnskudd er penger på en konto i banken. De er eiendeler, de er en del av varekretsløpet, og de er omløpsmidler.
+
+Kontanter og bankinnskudd har en fast pengeverdi. Hovedregelen er derfor at de vurderes til nominell verdi, det vil si pålydende verdi.
+
+Unntaket er bankinnskudd i utenlandsk valuta. Etter regnskapsloven paragraf 5-9 skal en pengepost i utenlandsk valuta vurderes til dagskurs, altså kursen på balansedagen omregnet til norske kroner. Endringen i verdi føres enten som en valutagevinst eller et valutatap. Både gevinst og tap skal resultatføres.
+
+Eksempel: En bedrift kjøper og selger tjenester til og fra utlandet, og har derfor en bankkonto i euro. Bokført verdi på eurokontoen per 31. desember år 1 er 80000 kroner. Innskuddet er på 10000 euro, bokført til en kurs på 8,00 kroner per euro. Valutakursen per 31. desember år 1 er 7,70 kroner per euro.
+
+Bokført verdi er 10000 euro ganger 8,00, som er 80000 kroner. Virkelig verdi etter dagskurs er 10000 euro ganger 7,70, som er 77000 kroner. Forskjellen er 80000 minus 77000, som er 3000 kroner. Det er et valutatap.
+
+Bankinnskuddet skal føres i regnskapet med dagskursen, altså 77000 kroner. Bedriften må føre 3000 kroner som valutatap i resultatregnskapet. Til det kan du opprette konto 81 60 Valutatap. Det er også lurt å lage en konto for valutagevinst samtidig, og da kan du bruke konto 80 60 Valutagevinst.
+
+# Klassifikasjon og verdsetting av gjeld
+
+Dette kapitlet viser at gjeld klassifiseres og verdsettes etter mange av de samme tankene som eiendeler.
+
+Etter regnskapsloven paragraf 5-13 gjelder de samme klassifikasjonsreglene for gjeld som for eiendeler. Som hovedregel klassifiseres gjeld etter ettårsregelen. Gjeld som er knyttet til varekretsløpet, er kortsiktig gjeld. Langsiktig gjeld er lån med nedbetalingstid lengre enn ett år.
+
+Et eksempel på langsiktig gjeld er pantelån og annen gjeld til kredittinstitusjoner med tilbakebetalingstid lengre enn ett år.
+
+Eksempler på kortsiktig gjeld er kassakreditt, og annen gjeld til kredittinstitusjoner med tilbakebetalingstid kortere enn ett år. Andre eksempler er leverandørgjeld, skyldig lønn, skattetrekk og feriepenger, og skyldig merverdiavgift. Det gjelder også påløpte kostnader som renter, strøm, honorarer og lignende, og forskudd fra kunder.
+
+Gjeld har normalt en fast pengeverdi. Hovedregelen er derfor at gjeld skal verdsettes til nominell verdi, det vil si pålydende verdi. Gjeld i utenlandsk valuta følger de spesielle reglene for pengeposter i utenlandsk valuta, og verdsettes til dagskurs omregnet til norske kroner.
+
+Eksempel: En bedrift tok den 30. juni år 1 opp et lån på 10000 euro. Lånet er rente og avdragsfritt, og skal betales tilbake i sin helhet når det forfaller den 30. juni år 4. Den 30. juni år 1 var kursen 8,00 kroner per euro. Den 31. desember år 1 var kursen 7,70 kroner per euro.
+
+Bokført verdi per 31. desember år 1 er 10000 euro ganger 8,00, som er 80000 kroner. Virkelig verdi samme dag er 10000 euro ganger 7,70, som er 77000 kroner. Forskjellen er 3000 kroner. Denne gangen er det en valutagevinst.
+
+Når kursen på den utenlandske valutaen går ned, tjener bedriften på å ha lån i utlandet. Den skylder jo mindre målt i norske kroner. I balansen føres gjelden med dagskursen, altså 77000 kroner. Gjeldskontoen går ned med 3000 kroner, og det føres i debet. I resultatregnskapet føres 3000 kroner som valutagevinst i kredit på konto 80 60 Valutagevinst.
+
+Legg merke til speilbildet mellom de to valutaeksemplene. Når euroen faller, gir et bankinnskudd i euro et valutatap, mens et lån i euro gir en valutagevinst.
+
+Kort oppsummert: gjeld deles i langsiktig og kortsiktig etter ettårsregelen, og gjeld knyttet til varekretsløpet er alltid kortsiktig. Gjeld verdsettes til pålydende, men gjeld i utenlandsk valuta verdsettes til dagskurs.
+
+# Dokumentasjon av balansen
+
+Det siste faglige kapitlet handler om hvordan eiendeler og gjeld skal dokumenteres når årsregnskapet lages.
+
+Kravet om å dokumentere eiendeler og gjeld kom først inn i regnskapsloven. Senere ble det tatt ut av regnskapsloven og tatt inn i bokføringsloven. Bokføringsloven paragraf 11 sier at alle eiendeler og all gjeld som er ført opp, skal være dokumentert, med mindre de er ubetydelige. I forskrift om bokføring, kapittel 6, står det mer presist hva som skal dokumenteres. Det er fire paragrafer.
+
+Den første er paragraf 6-1 om varelager. Varelageret skal telles ved slutten av regnskapsåret. Har bedriften et betryggende lagerregnskap, kan den telle i løpet av året, så lenge tilgang og avgang fra tellingen til årsslutt kan dokumenteres på en god måte. Dokumentasjonen skal vise varens art, mengde med måleenhet, og verdi for hver enkelt vare, og ha en kolonne der verdiene summeres. Den skal være ordentlig og oversiktlig. Brukes manuelle lister, skal de være nummerert før tellingen. Dokumentasjonen skal være datert, og det skal gå fram hvem som har talt. Originale papirlister skal oppbevares som en del av dokumentasjonen.
+
+Den andre er paragraf 6-2 om bankinnskudd, lånegjeld, kontanter og lignende. Bankinnskudd og lånegjeld skal dokumenteres med oppgaver fra finansinstitusjonene over mellomværendet. Kontantbeholdningen skal telles ved årets slutt. Tellingen skal dokumenteres, og det skal gå fram hvem som har talt og når. Eventuelle differanser skal forklares.
+
+Den tredje er paragraf 6-3 om finansielle instrumenter. Finansielle instrumenter som er registrert i et verdipapirregister, skal dokumenteres med oppgaver fra registeret over beholdningen.
+
+Den fjerde er paragraf 6-4 om avsetninger, nedskrivninger og lignende. For poster som er verdsatt etter skjønn, skal dokumentasjonen minst vise beregningsmetoden og forutsetningene beregningen bygger på.
+
+For de andre regnskapspostene er det ikke gitt konkrete krav. Likevel har det lenge vært vanlig blant revisorer og regnskapsførere å hente inn dokumentasjon for å bekrefte eiendeler og gjeld. Det regnes som både nyttig og nødvendig for å bekrefte at balansepostene er fullstendige, reelle og nøyaktige.
+
+For å dokumentere eiendeler, gjeld og egenkapital anbefales det sterkt å ha en avstemmingsperm for hver balansepost. Bokføringsloven paragraf 11 sier at det skal finnes dokumentasjon for alle balanseposter, med mindre de er ubetydelige. En avstemmingsperm gjør regnskapet ryddigere for alle som skal finne fram i det senere. Den gjør det også enklere for den regnskapspliktige å svare på spørsmål om vurderingene sine.
+
+Det er den bokføringspliktige selv som har ansvaret for at dokumentasjonen finnes. Men revisor eller regnskapsfører kan godt ta seg av den tekniske tilretteleggingen.
+
+Hva skal så dokumenteres? Avsetninger kan naturlig nok ikke dokumenteres på samme måte som fysiske eiendeler. Ofte er dokumentasjonen av den opprinnelige bokførte opplysningen den eneste som finnes, og da må den være nok. Det tas ofte skjønnsmessige avgjørelser om utgiftsposter uten at vurderingen blir skrevet ned. Det er viktig at slike vurderinger dokumenteres på bilaget, eventuelt som vedlegg, med tanke på senere bokettersyn. For bankinnskudd og lån bør avstemmingspermen inneholde kontoutskrift, kopi av årsoppgaver, og oppgaver over lån og rentebetingelser.
+
+Kort oppsummert: alle balanseposter som ikke er ubetydelige, skal dokumenteres. Varelager og kontanter skal telles, bank og lån dokumenteres med oppgaver fra banken, og skjønnsmessige vurderinger skal ha beregningsmetode og forutsetninger. En avstemmingsperm per balansepost er sterkt anbefalt.
+
+Til denne leksjonen hører det også en øving.
+
+# Oppsummering
+
+La oss gå gjennom det viktigste fra leksjonen.
+
+Vurderingsreglene bygger på hvordan balansen er klassifisert. Eiendelene deles i anleggsmidler og omløpsmidler, og gjelden i langsiktig og kortsiktig gjeld.
+
+Anleggsmidler er bestemt til varig eie eller bruk. De verdsettes til anskaffelseskost, avskrives hvis levetiden er begrenset, og nedskrives ved verdifall som ikke er forbigående. Det gjelder immaterielle eiendeler som patenter og goodwill, varige driftsmidler, og langsiktige aksjer.
+
+Goodwill er det du betaler utover verdien av eiendelene og gjelden du overtar. I eksemplet med MoTo AS ble det 65000 kroner.
+
+Ved lineær avskriving er det årlige beløpet kostpris minus restverdi, delt på levetiden. Datautstyret til 50000 kroner over 4 år ga 12500 kroner i året uten restverdi, og 11000 kroner i året med en restverdi på 6000 kroner. Påkostning balanseføres, mens vedlikehold kostnadsføres.
+
+Omløpsmidler hører til varekretsløpet eller skal betales innen ett år. De vurderes etter laveste verdis prinsipp, altså det laveste av kostpris og virkelig verdi. Markedsbaserte finansielle omløpsmidler, som børsnoterte aksjer i en handelsportefølje, vurderes til markedsverdi. Pengeposter i utenlandsk valuta vurderes til kursen på balansedagen.
+
+Kundefordringer vurderes til det laveste av fakturert beløp og forventet innbetaling, og forskjellen føres som tap på fordringer. Kontanter, bankinnskudd og gjeld vurderes til pålydende verdi, bortsett fra poster i utenlandsk valuta. Når valutakursen faller, gir et innskudd i valuta tap, mens et lån i valuta gir gevinst.
+
+Til slutt: alle balanseposter som ikke er ubetydelige, skal dokumenteres, og en avstemmingsperm for hver balansepost er sterkt anbefalt.
+
+I neste leksjon skal du lære om kostnads og inntektsanalyse. Der ser du på faste, variable, totale, direkte og indirekte kostnader, nullpunktsanalyse, dekningsbidrag, og kort på monopol og fullkommen konkurranse.

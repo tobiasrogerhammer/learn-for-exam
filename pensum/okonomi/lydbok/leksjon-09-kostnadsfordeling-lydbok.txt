@@ -1,0 +1,353 @@
+# Leksjon 9: Kostnadsfordeling og kalkulasjonsprinsipper
+
+Velkommen til leksjon 9. Her skal du lære hvordan en bedrift fordeler kostnadene sine, både mellom avdelinger og fra avdelinger ned til de enkelte produktene. Du får høre om to måter å fordele til produktene på: den tradisjonelle fordelingen og aktivitetsbasert kostnadsfordeling, som kalles ABC.
+
+Etterpå ser vi på hva produktkalkyler er til, og på forskjellen mellom forkalkyler og etterkalkyler. Vi går gjennom ulike kalkyleprinsipper. Til slutt ser vi på de tre hovedmetodene for produktkalkulasjon. Det er selvkostmetoden, bidragsmetoden og ABC-metoden.
+
+Her er en liten smakebit på forskjellen. Alle kostnadene bedriften har med å produsere og selge et produkt, kalles produktets selvkost. Bidragsmetoden ligner på selvkostmetoden, men der tar du ikke med de faste kostnadene i kalkylen. Dekningsbidraget må derfor dekke både de faste kostnadene og en eventuell fortjeneste. ABC-kalkyler bruker flere tilleggssatser, men ellers er de ikke så veldig forskjellige fra de to tradisjonelle kalkylene.
+
+Pensum for leksjonen finner du i kapittel 5 og 6 i læreboka.
+
+# Grunnbegreper i kostnadsfordeling
+
+I dette kapitlet lærer du fire begreper som du trenger resten av leksjonen, og de tre trinnene i tradisjonell kostnadsfordeling.
+
+Kostnadsfordelingen i internregnskapet er helt avgjørende for å få et riktig grunnlag for beslutninger og kontroll. Noen kostnader kan fordeles ut fra en ganske god årsakssammenheng. Andre kostnader må fordeles etter mer skjematiske fordelingsnøkler.
+
+Det første begrepet er kostnadsbærer. En kostnadsbærer er den enheten som skal bære kostnadene, det vil si produktene.
+
+Det andre begrepet er kostnadssted. Et kostnadssted kan være en avdeling i en større enhet. Men det kan også være en maskin eller en maskingruppe.
+
+Det tredje begrepet er direkte kostnader. Det er kostnader som lett lar seg knytte til riktig kostnadssted eller riktig kostnadsbærer.
+
+Det fjerde begrepet er indirekte kostnader. Det er rett og slett alle kostnader som ikke er direkte.
+
+Den tradisjonelle kostnadsfordelingen har tre trinn. I det første trinnet registreres kostnadsartene direkte på kostnadsstedene. I det andre trinnet fordeles kostnadene fra serviceavdelingene til de andre avdelingene. I det tredje trinnet fordeles kostnadene fra avdelingene til produktene som produseres. Det betyr at kostnadene går fra kostnadssteder til kostnadsbærere.
+
+# Formålet med kostnadsfordeling
+
+Dette kapitlet handler om hvorfor bedrifter i det hele tatt bryr seg med å fordele kostnader.
+
+Formålet med kostnadsfordeling er å gjøre det mulig å ta bedre beslutninger, å fremme effektiv kontroll med kostnader og lønnsomhet, og å bygge opp under ansvarsregnskapet. Med ansvarsregnskap mener vi at de som er skyld i kostnadene, også skal belastes for dem.
+
+Kostnadsfordeling fyller ulike formål, avhengig av sammenhengen. I de fleste bedrifter er den sentral for å svare på fire spørsmål. Det første er: Hva koster produktene vi tilbyr? Det andre er: Hvilke kostnader henger sammen med de ulike aktivitetene? Det tredje er: Hva skal lageret av ferdigvarer og varer i arbeid verdsettes til? Det fjerde er: Hvor lønnsomme er resultatenhetene?
+
+Det er også flere grunner til at kostnadsfordeling er nødvendig og sterkt ønskelig. Den første er at den øker kostnadsbevisstheten på avdelingsnivå. De som skaper kostnadene, får nemlig også regningen.
+
+Den andre grunnen er at den motiverer til å redusere kostnader, fordi produktkostnadene og utviklingen deres over tid kommer i fokus.
+
+Den tredje grunnen er at den gir bedre beslutninger generelt. Det gjelder for eksempel prissetting, hvilke produkter som skal prioriteres, om bedriften skal produsere selv eller kjøpe fra andre, og om produkter skal kuttes ut eller nye introduseres.
+
+Den fjerde grunnen er at den gir helt nødvendige data for å verdsette beholdninger i det offisielle regnskapet.
+
+Den femte grunnen er at den gir riktig pris på varer og tjenester der kostnadsdekning er utgangspunktet for prisen.
+
+Den sjette grunnen er at den kan fremme ønsket atferd.
+
+Kostnadsfordeling skal altså fremme de samme målene som kalkyler, budsjetter og rapporter. Den er avgjørende for en vellykket økonomistyring.
+
+# Generelle prinsipper og de fem stadiene
+
+Nå ser vi på kriteriene for hvordan kostnader bør fordeles, og på de fem stadiene i en kostnadsfordelingsprosess.
+
+Kostnadsfordeling skal motivere til fornuftig ressursbruk og gi støtte til riktige beslutninger. Hva du skal bruke tallene til, bør styre hvordan du fordeler. Med de målene vi nettopp har nevnt, er to kriterier viktige.
+
+Det første kriteriet er årsak og virkning. Når en avdeling får fordelt kostnader fra en annen avdeling, er det viktig at den opplever en sammenheng mellom hvor mye den bruker tjenesten og hvor mye den betaler.
+
+Det andre kriteriet er nytte. Den som mottar tjenesten, bør så langt som mulig oppleve at nytten står i forhold til kostnadene som fordeles.
+
+Når ingen av disse to kan brukes, finnes et tredje kriterium. Det kalles bæreevneprinsippet. Det betyr at lønnsomme produkter skal bære mer av kostnadene enn mindre lønnsomme produkter.
+
+For å få et godt grunnlag for fordelingen bør kostnadene samles i enhetlige, eller homogene, grupper før de fordeles. Homogenitetskravet betyr at kostnadene bør deles i faste og variable kostnader.
+
+Så til de fem sentrale stadiene i en kostnadsfordelingsprosess.
+
+I det første stadiet deles virksomheten inn i kostnadssteder, for eksempel avdelinger eller divisjoner.
+
+I det andre stadiet samles de indirekte kostnadene opp på kostnadsstedene. Derfra skal de fordeles videre til et lavere nivå, nærmere produktet. Først fordeles de for eksempel fra en serviceavdeling til hovedavdelingene. Så fordeles de fra hovedavdelingene ut på produktene.
+
+I det tredje stadiet velges fordelingsnøkler. Nøklene skal gjøre det mulig å fordele kostnadene på en fornuftig måte til de neste kostnadsstedene eller til kostnadsbærerne. De bør bygge på en sammenheng mellom årsak og virkning.
+
+I det fjerde stadiet regnes satsen per enhet av aktivitetsmålet ut. Da tar du gjerne den budsjetterte kostnaden og deler den på det valgte aktivitetsnivået. Som aktivitetsgrunnlag bruker du vanligvis normalaktivitet, som ofte er det samme som budsjettert aktivitet.
+
+I det femte stadiet gjennomføres selve fordelingen. Tilleggssatsen brukes til å tildele de indirekte kostnadene etter virkelig aktivitet, eventuelt etter standard, normal eller budsjettert aktivitet.
+
+Kort oppsummert: Fordel etter årsak og virkning eller nytte, og bruk bæreevne bare når ingenting annet passer. Del kostnadene i faste og variable først. Så går du gjennom de fem stadiene: kostnadssteder, oppsamling, fordelingsnøkler, sats per enhet og til slutt selve fordelingen.
+
+# Fordeling mellom kostnadssteder
+
+I dette kapitlet ser du hvordan kostnader fordeles mellom avdelinger, med et regneeksempel fra bedriften Datadeler AS.
+
+Først fordeles de direkte kostnadene til avdelingene. Det bygger på en klar årsakssammenheng og byr sjelden på problemer. Når kostnadene ligger på riktige avdelinger, må de fordeles videre ut på produktene. Direkte materialer og direkte lønn er lette å fordele til riktig produkt. Det som er vanskelig, er å fordele de indirekte kostnadene.
+
+Fordelingen bør så langt som mulig speile den reelle bruken av ressurser. For variable kostnader finnes det som regel en kostnadsdriver som kan gi grunnlag for en rettferdig fordeling. For faste kostnader er dette vanskeligere. De faste felleskostnadene kan fordeles etter ulike prinsipper.
+
+Når du fordeler kostnader til og mellom avdelinger, må du ta stilling til to spørsmål. Det første er om du skal bruke én eller flere tilleggssatser. Det andre er om du skal fordele de virkelige eller de budsjetterte kostnadene. De faste kostnadene er det naturlig å fordele som budsjettert. For de variable kostnadene er det best å bruke de virkelige kostnadene, fordi de speiler det reelle forbruket når aktiviteten varierer.
+
+Nå til eksemplet. Serviceavdelingen i Datadeler AS har budsjettert med variable kostnader på 300000 kroner og faste kostnader på 150000 kroner. Til sammen er det 450000 kroner.
+
+Serviceavdelingen har budsjettert kapasiteten sin slik: Avdeling 1 skal bruke 2000 timer, og avdeling 2 skal bruke 8000 timer. Den budsjetterte kapasitetsutnyttelsen er altså 10000 timer totalt.
+
+Første spørsmål er: Hva blir satsen per time hvis det skal være én felles sats for faste og variable kostnader? Da tar du utgangspunkt i de totale kostnadene og deler på den totale kapasitetsutnyttelsen. Det blir 450000 kroner delt på 10000 timer, som er lik 45 kroner per time.
+
+Andre spørsmål er: Hva blir satsene hvis du bruker to satser, én for variable og én for faste kostnader? Da deler du rett og slett totalsatsen i to og regner hver for seg.
+
+Den variable satsen blir 300000 kroner delt på 10000 timer, som er lik 30 kroner per time.
+
+Den faste satsen blir 150000 kroner delt på 10000 timer, som er lik 15 kroner per time.
+
+Legg merke til at 30 pluss 15 er lik 45, altså den felles satsen.
+
+Nå kan du fordele de budsjetterte kostnadene på avdelingene. Avdeling 1 får faste kostnader på 15 ganger 2000, som er 30000 kroner. Den får variable kostnader på 30 ganger 2000, som er 60000 kroner. Til sammen får avdeling 1 90000 kroner.
+
+Avdeling 2 får faste kostnader på 15 ganger 8000, som er 120000 kroner. Den får variable kostnader på 30 ganger 8000, som er 240000 kroner. Til sammen får avdeling 2 360000 kroner.
+
+Summen blir 150000 kroner i faste kostnader og 300000 kroner i variable kostnader, totalt 450000 kroner. Det stemmer med budsjettet.
+
+Men den virkelige aktiviteten i Datadeler AS ble litt annerledes enn budsjettert. Avdeling 1 brukte 3000 timer, og avdeling 2 brukte 7000 timer. Totalen ble 10000 timer, akkurat som budsjettert, men fordelingen mellom avdelingene ble en annen.
+
+Når du bruker én sats for variable og én for faste kostnader, er det naturlig å fordele de variable kostnadene etter virkelig aktivitet. De faste kostnadene fordeler du vanligvis etter budsjettert timefordeling. Grunnen er at avdelingene da kan planlegge hva de faste kostnadene blir, og ikke får en overraskelse når perioden er over. At de faste kostnadene ikke påvirkes av aktiviteten, underbygger også at du kan bruke budsjetterte tall for dem.
+
+Så regner vi de variable kostnadene etter virkelig aktivitet. Avdeling 1 får 30 ganger 3000, som er 90000 kroner. Etter budsjettet fikk den 60000 kroner.
+
+Avdeling 2 får 30 ganger 7000, som er 210000 kroner. Etter budsjettet fikk den 240000 kroner.
+
+Summen er 300000 kroner i begge tilfeller. Totalen er altså den samme, men fordelingen mellom avdelingene blir forskjellig etter hvilke tall du tar utgangspunkt i.
+
+Kort oppsummert: En felles sats er totale kostnader delt på total kapasitet, her 45 kroner per time. Med to satser får du 30 kroner per time for variable og 15 kroner per time for faste kostnader. Variable kostnader fordeles helst etter virkelig aktivitet, faste etter budsjett.
+
+# Tradisjonell fordeling til produktene
+
+Her ser du hvordan kostnadene går fra hovedavdelingene og ut på produktene ved hjelp av avdelingsvise tilleggssatser.
+
+Når de indirekte kostnadene er fordelt til hovedavdelingene, kalkulerer du varene eller tjenestene ved å fordele avdelingenes kostnader ut på produktene. Det skjer ved hjelp av tilleggssatser og aktivitetsmål.
+
+En tilleggssats er det beløpet du fordeler per enhet av aktivitetsmålet. Den regnes vanligvis ut som budsjettert kostnad delt på budsjettert aktivitet. Aktivitetsmålet skal uttrykke en sammenheng mellom aktivitet og kostnad.
+
+Det er vanlig å regne ut tilleggssatser for hver avdeling. De vanligste fordelingsnøklene bygger på materialforbruk, direkte arbeid, antall maskintimer eller antall produserte eller solgte enheter.
+
+Vi starter med materialavdelingen. Kostnadene ved å forvalte materialer består gjerne av innkjøpskostnader, lagringskostnader og interne kostnader til å håndtere og distribuere materialer. Tillegget i materialavdelingen kan beregnes ut fra tre ulike aktivitetsmål: direkte materialkostnader i kroner, direkte materialer i antall kilo, eller produsert antall.
+
+Her er opplysningene om materialavdelingen. De variable indirekte kostnadene er 1000000 kroner. De faste indirekte kostnadene er 1500000 kroner. De direkte materialkostnadene er 8000000 kroner. De direkte materialene veier 30000 kilo. Produsert antall er 70000 stykker.
+
+Først beregner vi tilleggssatsen som en prosent av direkte materialer. For de variable kostnadene tar du 1000000 kroner delt på 8000000 kroner, ganger 100. Det gir 12,5 prosent, som leksjonen runder av til 13 prosent.
+
+For de faste kostnadene tar du 1500000 kroner delt på 8000000 kroner, ganger 100. Det gir 18,75 prosent, som leksjonen runder av til 19 prosent.
+
+Så beregner vi tilleggssatsen per kilo, med direkte materialer i kilo som aktivitetsmål. For de variable kostnadene blir det 1000000 kroner delt på 30000 kilo. Det gir omtrent 33 kroner per kilo.
+
+For de faste kostnadene blir det 1500000 kroner delt på 30000 kilo, som er lik 50 kroner per kilo.
+
+Til slutt beregner vi tilleggssatsen per produsert enhet. For de variable kostnadene blir det 1000000 kroner delt på 70000 stykker. Det gir omtrent 14 kroner per stykk.
+
+For de faste kostnadene blir det 1500000 kroner delt på 70000 stykker. Det gir omtrent 21 kroner per stykk.
+
+Dette viser bare hvordan du beregner tilleggssatser med ulike aktivitetsmål. Hvordan satsene brukes i kalkyler, kommer vi tilbake til senere.
+
+Så til tilvirkningsavdelingen. Fordelingen skjer i prinsippet likt i alle avdelinger, men aktivitetsmålene kan være forskjellige. I tilvirkningsavdelingen er det tre vanlige aktivitetsmål. Det første er at de indirekte kostnadene beregnes som et prosenttillegg av direkte lønn i kroner. Det andre er at de beregnes som en kronesats per time i avdelingen, delt opp i faste og variable kostnader. Det tredje er at de beregnes ut fra antall maskintimer i avdelingen. Selve utregningen skjer på samme måte som i materialavdelingen.
+
+Til slutt salg og administrasjon. Ved selvkostmetoden er de vanligste aktivitetsmålene tilvirkningskosten for de solgte varene, eller solgt antall. Ved bidragsmetoden brukes den variable tilvirkningskosten. Tilleggssatsen regnes ut med samme formel som i material- og tilvirkningsavdelingen.
+
+Kort oppsummert: En tilleggssats er kostnad delt på aktivitet. I materialavdelingen kan du bruke kroner, kilo eller antall som aktivitetsmål. I tilvirkningen bruker du direkte lønn, timer eller maskintimer. I salg og administrasjon bruker du tilvirkningskost eller solgt antall.
+
+# Aktivitetsbasert kostnadsfordeling, ABC
+
+Dette kapitlet handler om ABC-metoden, der kostnadene først knyttes til aktiviteter og deretter til produktene.
+
+Med ABC-metoden knytter du først kostnadene til aktiviteter. Deretter knytter du kostnadene fra aktivitetene til produktene. Det skjer ut fra hvor mye hvert produkt bruker av aktivitetene, målt gjennom bruken av kostnadsdriverne.
+
+Dette er en grundigere metode enn tradisjonell kostnadsfordeling, selv om de to har mange likhetstrekk. ABC setter fokus på to ting: aktivitetene som går med til å lage produktene, og kostnadene som henger sammen med disse aktivitetene.
+
+ABC har tre trinn. I det første trinnet identifiserer du de ulike aktivitetene og kostnadene som hører til dem. I det andre trinnet bestemmer du kostnadsdrivere og beregner en sats per kostnadsdriverenhet. I det tredje trinnet kalkulerer du produktet. Da knytter du de indirekte kostnadene til produktet ved å gange satsen per kostnadsdriverenhet med hvor mye produktet bruker av driveren.
+
+Det er fire poeng som sier noe om hvorfor ABC kan være bedre enn tradisjonell fordeling. Det første er at du får en mer detaljert oversikt over kostnadene når du jobber med aktiviteter i stedet for avdelinger.
+
+Det andre er at du blir mye mer oppmerksom på hva som driver kostnadene. En kostnadsdriver er noe som skaper kostnader. Når du setter fokus på kostnadsdriverne, blir det enklere å gjøre noe med kostnadene.
+
+Det tredje er at du får et riktigere bilde av kostnadene for hvert produkt. ABC gir ofte et bedre grunnlag for å prise produktene riktig og for å prioritere mellom dem. Den gir også et sikrere grunnlag for å vurdere om et produkt fortsatt bør finnes.
+
+Det fjerde er en påminnelse: ABC gir ikke bedre kostnadstall gratis. Du må veie nytten opp mot hva det koster å bruke metoden.
+
+Tilleggssatsen per kostnadsdriverenhet regnes ut på samme måte som de tradisjonelle avdelingsvise tilleggssatsene. Forskjellen er at kostnadene er gruppert rundt aktiviteter, og at de fordeles etter forbruket av kostnadsdriveren. Formelen er: Tilleggssatsen er lik de indirekte kostnadene ved aktiviteten delt på det totale volumet av aktiviteten.
+
+Nå til et eksempel med tre aktiviteter. Materialhåndtering koster 500000 kroner. Kvalitetskontroll koster 390000 kroner. Maskinomstilling koster 900000 kroner.
+
+Kostnadsdriverne er slik. For materialhåndtering er driveren materialkvantum, som er 20000 kilo. For kvalitetskontroll er driveren antall kontroller, som er 1300. For maskinomstilling er driveren antall omstillinger, som er 150.
+
+Tilleggssatsen for materialhåndtering blir 500000 kroner delt på 20000 kilo, som er lik 25 kroner per kilo.
+
+Tilleggssatsen for kvalitetskontroll blir 390000 kroner delt på 1300 kontroller, som er lik 300 kroner per kontroll.
+
+Tilleggssatsen for maskinomstilling blir 900000 kroner delt på 150 omstillinger, som er lik 6000 kroner per omstilling.
+
+Nå setter vi opp en kalkyle over tilvirkningskost for ett produkt. Produktet lages i serier på 1000 stykker. Hver serie trenger 10 kvalitetskontroller. Hver enhet bruker 2 kilo direkte materialer til 30 kroner per kilo. Direkte lønn er 210 kroner per time, og det tar 20 minutter å lage én enhet. Først regner du de direkte kostnadene, så de indirekte kostnadene med satsene du nettopp fant.
+
+Direkte materialer blir 2 kilo ganger 30 kroner, som er 60 kroner.
+
+Direkte lønn blir en tredjedels time ganger 210 kroner, som er 70 kroner. Tjue minutter er jo en tredjedel av en time.
+
+Materialhåndtering blir 2 kilo ganger 25 kroner, som er 50 kroner. Du bruker 2 kilo fordi det er det som går med i direkte materialer per enhet.
+
+Kvalitetskontroll blir 300 kroner ganger 10 kontroller, delt på 1000 enheter i serien. Det er 3 kroner per enhet.
+
+Maskinomstilling blir 6000 kroner for omstillingen delt på 1000 enheter i serien. Det er 6 kroner per enhet.
+
+Til sammen blir tilvirkningskosten 60 pluss 70 pluss 50 pluss 3 pluss 6, som er lik 189 kroner per enhet.
+
+Kort oppsummert: ABC knytter kostnadene til aktiviteter og så til produktene via kostnadsdrivere. Satsen er kostnaden ved aktiviteten delt på antall driverenheter. I eksemplet ble tilvirkningskosten 189 kroner per enhet.
+
+# Produktkalkyler, forkalkyler og etterkalkyler
+
+Nå skifter vi tema fra fordeling til kalkyler, og starter med hva produktkalkyler er til.
+
+Ulike kalkyler trengs for at de som tar beslutninger i bedriften, skal kunne ta riktige beslutninger. Produktkalkyler brukes i de fleste bedrifter som lager varer eller leverer tjenester. Kalkylene bør vise hvor lønnsomme produktene er, og hva det koster å lage dem. De brukes også når bedriften lager en rekke budsjetter, og de er et viktig utgangspunkt for å finne riktig pris på produktene.
+
+Det finnes ulike typer kalkyler. En forkalkyle settes opp før produksjonen starter. Den viser hva du tror kostnadene for produktet vil bli. Noen ganger bygger forkalkylen på ganske sikre erfaringstall. Andre ganger bygger den mer på skjønn. Forkalkylen er spesielt viktig for å vite hvilken pris du skal sette. Med sikre erfaringstall har du et bedre grunnlag for å si at prisen er riktig enn når du mangler slike tall.
+
+For å sjekke om forkalkylen stemte, er det interessant å se hvordan det faktisk gikk. Det gjelder særlig i store prosjekter. Da setter du opp en etterkalkyle med de faktiske tallene og sammenligner den med forkalkylen. Etterkalkyler bygger altså på virkelige kostnader. I store prosjekter er det lurt å avregne kalkylen løpende etter hvert som kostnadene kommer.
+
+For- og etterkalkyler er mest aktuelle ved ordreproduksjon der kontraktsprisen er betydelig. For mer standardiserte produkter lager du vanligvis en forkalkyle som brukes til budsjettene, og så lages etterkalkylen ut fra driftsregnskapet. Det er viktig at kalkyler og regnskap settes opp etter samme mønster, slik at du kan sammenligne dem.
+
+# Ulike kalkyleprinsipper
+
+Dette kapitlet handler om hvilke valg du må ta før du kalkulerer: type produksjon, hvordan kostnadene måles, og tilleggskalkulasjon.
+
+Før du kan kalkulere et produkt, må du bestemme hvilket kalkylesystem du skal bruke, og hvilke prinsipper du vil bruke for å fordele kostnadene på produktet. Valgene avhenger av hva slags produksjon bedriften har, og hva kalkylen skal brukes til.
+
+Det er to hovedtyper produksjon når det gjelder driftsregnskap og kalkulasjon. Den første er ordreproduksjon. Der finnes ordren før produksjonen starter, og produktene er spesialtilpasset kunden.
+
+Den andre er prosessproduksjon. Det er stort sett alt som ikke er ordreproduksjon. Her samles kostnadene opp over tid, for eksempel per måned, kvartal eller år, i stedet for per ordre eller serie. Kostnadene knyttes til de ulike prosessene, og det som er ferdig i én prosess, er ofte innsatsen i den neste.
+
+Du kan også måle kostnadene på tre ulike måter. Den første er virkelige kostnader. Da bygger driftsregnskap, kalkyler og tilleggssatser fullt ut på de virkelige kostnadene.
+
+Den andre er normalkostnader. Da bruker du virkelige direkte kostnader, men forhåndsberegnede tilleggssatser for de indirekte kostnadene.
+
+Den tredje er standardkostnader. Da bruker du standarder for de direkte kostnadene og forhåndsberegnede tilleggssatser for de indirekte kostnadene.
+
+La oss se nærmere på ordrekalkyler. De passer for produksjon som er skreddersydd for kunden. Ofte lages det svært få enheter, vanligvis bare én. Produksjonen starter som regel etter at kontrakten er underskrevet, så produktene er ikke lagervare. En ordreproduserende bedrift har derfor bare lager av varer i arbeid. Men verdien av varer i arbeid kan ofte være ganske høy. Slike bedrifter bør derfor jobbe med å korte ned produksjonstiden, slik at mindre penger er bundet opp i produksjonen. Kortere produksjonstid gir bedre lønnsomhet.
+
+Eksempler på ordreproduserende bedrifter er skipsverft, entreprenører, snekkere, elektrikere og rørleggere. Andre eksempler er bilverksteder, frisører, arkitektkontorer, reklamebyråer og advokatkontorer.
+
+Så til produktkalkyler ved prosessproduksjon. Bedrifter med prosessproduksjon masseproduserer like produkter. En ordre eller serie blir avsluttet, men prosessene går videre hele tiden. Du leser derfor ikke av kostnadene når noe er ferdig. I stedet leser du dem av etter tid, for eksempel hver måned, hvert kvartal eller hvert år. Bedriften kan ha andre tidspunkter for avlesning, men de er uavhengige av antall serier og produkter. Vareproduserende bedrifter lager produkter som gjerne lagres. Det skiller dem fra ordreproduserende virksomheter og fra tjenesteytende prosessvirksomheter.
+
+Eksempler på bedrifter med prosessregnskap er næringsmiddelprodusenter, kjemisk industri, PC-produsenter og hvitevareprodusenter. Andre eksempler er bok- og bladforlag, hotell- og restaurantbedrifter, transportvirksomheter og bakerier.
+
+I prosessregnskap knytter du kostnadene til hele produksjonen av hvert produkt. Når du har funnet totalkostnadene, deler du de totale kostnadene i hver prosess på produksjonsmengden som har gått gjennom prosessen.
+
+Til slutt tilleggskalkulasjon. Dette er den klart mest brukte kalkylemetoden. Det sentrale er at de indirekte kostnadene overføres til produktene gjennom tilleggssatser. Kostnadene fordeles først til riktig avdeling, og deretter ut på produktene etter de fordelingsnøklene du har valgt.
+
+Kort oppsummert: Ordreproduksjon er skreddersøm til én kunde, prosessproduksjon er masseproduksjon der kostnadene leses av over tid. Kostnadene kan måles som virkelige kostnader, normalkostnader eller standardkostnader. Tilleggskalkulasjon er den vanligste metoden, og de tre hovedmetodene innenfor den er selvkostmetoden, bidragsmetoden og ABC-metoden.
+
+# Selvkostkalkyle
+
+Her lærer du hvordan en selvkostkalkyle er bygd opp, og du får et regneeksempel med en ny PC.
+
+Med selvkostmetoden knytter du alle kostnader til kostnadsbæreren, altså det enkelte produktet. Det gjelder uansett om kostnaden er direkte eller indirekte, fast eller variabel.
+
+En selvkostkalkyle er bygd opp slik. Du starter med direkte materialer. Så legger du til direkte lønn. Så legger du til indirekte kostnader i tilvirkningen. Summen av dette er tilvirkningskostnaden. Til tilvirkningskostnaden legger du indirekte kostnader til salg og administrasjon. Da har du selvkosten. Legger du til fortjenesten, får du salgsprisen.
+
+Med selvkostmetoden er det ikke noe krav om å skille mellom faste og variable kostnader. Noen velger likevel å skille dem, slik at de også kan ta beslutninger med bidragsmetoden.
+
+Under selvkostmetoden verdsettes beholdninger til tilvirkningskost. Kostnadene til salg og administrasjon behandles da som periodekostnader. De faste kostnadene i tilvirkningen regnes derimot som produktkostnader og blir en del av produktets tilvirkningskost.
+
+Nå til eksemplet. Datadeler AS vurderer å lage og selge en ny type PC. Direkte materialer koster 5500 kroner per enhet. Direkte lønn er 4 timer til 300 kroner, altså 1200 kroner per enhet. Indirekte variable kostnader i tilvirkningen er 30 prosent av de direkte kostnadene. Indirekte faste kostnader i tilvirkningen er 25 prosent av de direkte kostnadene. Indirekte variable kostnader i salg og administrasjon er 400 kroner per produkt. Indirekte faste kostnader i salg og administrasjon er 500 kroner per produkt. Foreslått salgspris er 11600 kroner.
+
+Oppgaven er å sette opp en selvkostkalkyle og finne fortjenesten. Vi tar det steg for steg.
+
+Først de direkte kostnadene. Direkte materialer er 5500 kroner, og direkte lønn er 1200 kroner. Til sammen er det 6700 kroner.
+
+Så de indirekte variable kostnadene i tilvirkningen. Det er 30 prosent av 6700 kroner, som er 2010 kroner.
+
+Så de indirekte faste kostnadene i tilvirkningen. Det er 25 prosent av 6700 kroner, som er 1675 kroner.
+
+Tilvirkningskosten blir 5500 pluss 1200 pluss 2010 pluss 1675, som er lik 10385 kroner.
+
+Så legger du til salg og administrasjon. Først de variable kostnadene på 400 kroner, så de faste kostnadene på 500 kroner. Selvkosten blir 10385 pluss 400 pluss 500, som er lik 11285 kroner.
+
+Fortjenesten er salgsprisen minus selvkosten. Det blir 11600 minus 11285, som er lik 315 kroner per produkt.
+
+Med en pris på 11600 kroner sitter bedriften altså igjen med 315 kroner per PC. Bedriften bør vurdere om det er nok fortjeneste, eller om markedet tåler en litt høyere pris. Den kan også se etter muligheter til å kutte kostnader. Slike kalkyler gir mye nyttig informasjon når du skal ta beslutninger.
+
+Hvis du vil regne fortjenesten i prosent, regner du den av salgsprisen. Da tar du 315 delt på 11600, ganger 100. Det gir omtrent 2,7 prosent.
+
+Kort oppsummert: Selvkost tar med alle kostnader, faste og variable, direkte og indirekte. I eksemplet ble tilvirkningskosten 10385 kroner, selvkosten 11285 kroner og fortjenesten 315 kroner, eller 2,7 prosent av salgsprisen.
+
+# Bidragskalkyle
+
+Dette kapitlet handler om bidragsmetoden og det viktige begrepet dekningsbidrag.
+
+Hovedforskjellen mellom de to metodene er denne. Selvkostmetoden tar med både faste og variable kostnader i kalkylen. Bidragsmetoden tar bare med de direkte kostnadene og de variable indirekte kostnadene. De faste kostnadene og fortjenesten må dekkes av dekningsbidraget.
+
+Bidragsmetoden er litt enklere enn selvkostmetoden. Likevel er den langt mer relevant enn selvkostmetoden i en rekke beslutninger.
+
+Dekningsbidraget er det sentrale begrepet i bidragsmetoden. Det er beløpet du sitter igjen med til å dekke faste kostnader og fortjeneste. Dekningsbidraget er salgsprisen minus de totale variable kostnadene.
+
+Ved ren bidragsmetode verdsettes beholdningene til de variable tilvirkningskostnadene. Alle faste kostnader regnes som periodekostnader og belastes regnskapet i sin helhet i den perioden de oppstår.
+
+En bidragskalkyle er bygd opp slik. Du starter med direkte materialer, legger til direkte lønn og legger til de indirekte variable kostnadene i tilvirkningen. Da har du de variable tilvirkningskostnadene. Så legger du til de indirekte variable kostnadene til salg og administrasjon. Da har du de totale variable kostnadene, som også kalles minimumskost. Salgsprisen minus de totale variable kostnadene gir dekningsbidraget.
+
+Eksemplet er det samme som for selvkostmetoden, men nå er de faste kostnadene utelatt. Datadeler AS vurderer en ny PC. Direkte materialer er 5500 kroner per enhet. Direkte lønn er 4 timer til 300 kroner, altså 1200 kroner. Indirekte variable kostnader i tilvirkningen er 30 prosent av de direkte kostnadene. Indirekte variable kostnader i salg og administrasjon er 400 kroner per produkt. Foreslått salgspris er 11600 kroner.
+
+Oppgaven er å sette opp en bidragskalkyle og finne dekningsbidraget.
+
+De direkte kostnadene er 5500 pluss 1200, som er 6700 kroner.
+
+De indirekte variable kostnadene i tilvirkningen er 30 prosent av 6700 kroner, som er 2010 kroner.
+
+De variable tilvirkningskostnadene blir 5500 pluss 1200 pluss 2010, som er lik 8710 kroner.
+
+Så legger du til 400 kroner i variable kostnader til salg og administrasjon. De totale variable kostnadene, altså minimumskosten, blir 9110 kroner.
+
+Dekningsbidraget er salgsprisen minus de totale variable kostnadene. Det blir 11600 minus 9110, som er lik 2490 kroner.
+
+Disse 2490 kronene skal dekke de faste kostnadene og gi en eventuell fortjeneste. Akkurat som med selvkostmetoden må bedriften vurdere om pris og kostnader er riktige for å få den fortjenesten den ønsker.
+
+Dekningsbidraget i prosent kalles dekningsgrad. Du finner den ved å dele dekningsbidraget på salgsprisen og gange med 100. Her blir det 2490 delt på 11600, ganger 100. Det gir omtrent 21,5 prosent.
+
+Kort oppsummert: Bidragsmetoden tar bare med variable kostnader. I eksemplet ble minimumskosten 9110 kroner, dekningsbidraget 2490 kroner og dekningsgraden 21,5 prosent.
+
+# Kalkyler basert på ABC
+
+Her ser du hvorfor ABC-kalkyler har blitt viktigere, og hva som er fordeler og ulemper.
+
+Tradisjonelt har de indirekte kostnadene blitt fordelt fra avdelinger ut på produktene etter én fordelingsnøkkel for hele bedriften, eller én for hver avdeling. Men utviklingen i markedet har endret hvor store de indirekte kostnadene er i forhold til resten. Før var de en liten del av de totale kostnadene. I dag utgjør de en mye større andel.
+
+Derfor trengs kalkylesystemer som i større grad knytter de indirekte kostnadene til produktene ut fra en sterkere årsakssammenheng. Utgangspunktet har endret seg radikalt, og det har tre kjennetegn. Det første er at driften er kapitalintensiv, noe som gjør direkte lønn mindre viktig. Det andre er at de indirekte kostnadene har økt mye. Det tredje er at konkurransen er sterk, ofte global. Da kan et riktig kostnadsbilde være helt avgjørende for å lykkes i markedet.
+
+Kostnadsdriveren er det sentrale i ABC-kalkyler. Du går gjennom de samme tre trinnene som før. Først identifiserer du aktivitetene og kostnadene deres. Så bestemmer du kostnadsdrivere og beregner en sats per kostnadsdriverenhet. Til slutt kalkulerer du produktet ved å gange satsen med hvor mye produktet bruker av driveren.
+
+Når du fokuserer på kostnadsdrivere og aktiviteter, ser du mer kritisk på aktivitetene: hva de koster, og om de faktisk skaper verdi.
+
+Ulempen med ABC er at det tar tid å finne kostnadsdriverne og kostnadene som hører til dem.
+
+# Kalkulasjon i varehandel og tjenesteyting
+
+Det siste faglige kapitlet handler om kalkulasjon i butikker og i virksomheter som selger timer.
+
+I varehandel er kalkylene ganske enkle. Problemet er først og fremst å finne riktig utsalgspris. Hvor stort påslag du legger på, avhenger av flere forhold. Du må spørre deg hva som er normale priser i bransjen, og hvordan konkurransen er lokalt. Du må vurdere om du skal ligge på samme prisnivå som resten av bransjen, eller over eller under. Du må se på hvilke rabatter du får fra leverandørene sammenlignet med konkurrentene. Du må vurdere om påslaget skal være ulikt for ulike varer eller varegrupper. Du må finne ut hvilket påslag som trengs for å nå ønsket fortjeneste. Og du må bestemme hvilken profil du vil ha: lav pris med grei kvalitet, eller topp kvalitet med høyere pris.
+
+Påslaget butikkene beregner, er enten avanse eller bruttofortjeneste.
+
+Med tjenesteyting mener vi her oppdrag fra konsulentvirksomheter, advokatkontorer, arkitektkontorer, rådgivende ingeniører, revisorer og regnskapskontorer. Disse virksomhetene baserer arbeidet sitt på timer, og det er lite eller ingen materialkostnader i kalkylene. Det sentrale blir derfor timeprisen og timekostnaden.
+
+Timehonoraret varierer fra medarbeider til medarbeider, ut fra blant annet utdannelse og erfaring. Det som betyr mest for timesatsen til den enkelte, er fakturerbar tid. Konsulentselskapene tjener penger på fakturerte timer. De må derfor legge på et tillegg som dekker timene de ikke kan fakturere for, for eksempel administrasjon, planlegging og markedsføring.
+
+# Oppsummering
+
+Her er de viktigste punktene fra leksjonen.
+
+Kostnadsfordeling skal gi bedre beslutninger, bedre kontroll med kostnader og lønnsomhet, og støtte ansvarsregnskapet, der den som skaper kostnadene, også betaler for dem. En kostnadsbærer er produktet, og et kostnadssted er for eksempel en avdeling eller en maskin.
+
+Kostnader bør fordeles etter årsak og virkning eller etter nytte. Når ingen av dem passer, kan du bruke bæreevneprinsippet. Kostnadene bør deles i faste og variable før de fordeles.
+
+Den tradisjonelle fordelingen går i tre trinn: kostnadene registreres på kostnadssteder, serviceavdelingene fordeles til andre avdelinger, og avdelingene fordeles til produktene. En tilleggssats er kostnad delt på aktivitet. Variable kostnader fordeles helst etter virkelig aktivitet, og faste kostnader etter budsjett.
+
+ABC-metoden knytter kostnadene først til aktiviteter og så til produktene ut fra hvor mye de bruker av kostnadsdriverne. Den gir et riktigere kostnadsbilde, men den er mer tidkrevende. Forskjellene mot de tradisjonelle metodene kan bli store, og de er størst når bedriften har både produkter med høyt volum og produkter med lavt volum.
+
+En forkalkyle lages før produksjonen og viser forventede kostnader. En etterkalkyle lages etterpå og bygger på virkelige kostnader. Ordreproduksjon er skreddersøm for en kunde, mens prosessproduksjon er masseproduksjon der kostnadene leses av over tid.
+
+Selvkostmetoden tar med både faste og variable kostnader. Bidragsmetoden tar bare med variable kostnader, og dekningsbidraget, som er salgspris minus variable kostnader, må dekke både faste kostnader og fortjeneste. Dekningsgraden er dekningsbidraget delt på salgsprisen, ganger 100.
+
+I varehandel handler kalkulasjon mest om å finne riktig påslag. I tjenesteyting er timepris, timekostnad og fakturerbar tid det sentrale.
+
+Til denne leksjonen hører det også en øving, så det kan være lurt å regne gjennom den når du har hørt ferdig.

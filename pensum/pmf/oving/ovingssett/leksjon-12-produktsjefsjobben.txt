@@ -1,0 +1,579 @@
+Leksjon 12 - Produktforvaltning
+ Knut Arne Strand, Institutt for datateknologi og informatikk (IDI), NTNU.
+ Lærestoffet er utviklet for faget Produktutvikling, marked og forvaltning av programvareprodukter
+ 1. Å jobbe som produktsjef
+ Resymé: I denne leksjonen ser vi nærmere på hvem produktsjefen er og hva som skal til for å lykkes med jobben.
+Videre kommer vi inn på dette med at produktforvaltning er teamarbeid som involverer interessenter med
+forskjellig faglig bakgrunn og erfaring, og vi viser til noen konkrete prosesser hvor produktsjefen typisk er
+involvert. Videre skriver litt om smidig produktforvaltning, med fokus på metoden Scrum, før vi avslutningsvis
+skriver litt om bærekraftig forvaltning av programvareprodukter med utgangspunkt i SusAF.
+ Innhold
+ 1.   Å JOBBE SOM PRODUKTSJEF   .............................................................................................................. 1
+ 1.1.   INNLEDNING ......................................................................................................................................... 2
+ 1.2.   HVEM ER PRODUKTSJEFEN? .................................................................................................................. 2
+ 1.3.   HVORDAN LYKKES MED PRODUKTFORVALTNING ................................................................................. 4
+ 1.3.1.   Noen kjennetegn ved de som ikke lykkes ......................................................................................... 4
+ 1.3.2.   Noen kjennetegn for de som lykkes.................................................................................................. 4
+ 1.4.   PRODUKTFORVALTNING ER TEAMARBEID   ............................................................................................. 6
+ 1.5.   PRODUKTFORVALTNING ER Å FORHOLDE SEG TIL MANGE LØPENDE PROSESSER ................................... 8
+ 1.6.   SMIDIG PRODUKTFORVALTNING ......................................................................................................... 11
+ 1.7.   BÆREKRAFTIG FORVALTNING AV PROGRAMVAREPRODUKTER ........................................................... 13
+ 1.8.   REFERANSELISTE ................................................................................................................................ 16
+
+ 1.1.   Innledning
+ Dette er femte og siste leksjon innen produktforvaltning, og den skal leses sammen med siste
+del av læreboken [1, s. 287–307], altså kapittel 7 og Glossary. Leksjonen omhandler utøvelsen
+av produktforvaltning i forskjellige typer organisasjoner, hvilke kvalifikasjoner som kreves for
+å fylle rollen som produktsjef, samt hvordan man kan jobbe med bærekraft i forbindelse med
+forvaltning av programvarebaserte produkter og tjenester. Leksjonen kan også betraktes som
+en oppsummering av temaet: Forvaltning av programvareprodukter.
+ 1.2.   Hvem er produktsjefen?
+ I leksjon 8 kom vi inn på dette med at en produktsjef kan gjøre svært forskjellige ting
+innenfor ulike bransjer og at forskjellige programvareselskaper også kan ha svært forskjellig
+ansvars- og myndighetsområder for sine produktsjefer. Videre viste vi en figur (fig. 1) som
+viser at produktsjefen jobber i skjæringspunktet mellom det forretningsmessige, teknologien
+som anvendes og brukernes opplevelser. En god produktsjef bør ha erfaring fra minst ett av
+disse områdene, samtidig som vedkommende er lidenskapelig opptatt av alle tre
+dimensjonene, og det er viktig at produktsjefen er komfortabel i forhold til å samarbeide med
+representanter fra alle disse tre fagområdene.
+ Fig. 1 –Produktsjefen og samspillet mellom
+brukeropplevelser, teknologien og det forretningsmessige
+ Forfatterne bak boken «Software Product Management Essentials», som har mer enn tjue års
+erfaring med produktforvaltning, trekker fram følgende egenskaper som sentrale hos dyktige
+produktsjefer [2]:
+ •   En dyktig produktsjef kjenner sitt produkt og sine egne begrensninger. Det er åpenbart at
+en produktsjef bør vite mest mulig om sitt produkt og dette inkluderer elementer som
+
+ kundene og deres bruk av produktet, konkurransesituasjonen og prismodellene.
+Produktsjefen må imidlertid ikke kjenne til alle tekniske detaljer, og vedkommende bør
+med fordel overlate utviklingen til de som er ansvarlig for nettopp det. Produktsjefen bør
+kjenne til produktenes overordnede arkitektur, utviklingsmiljø og utviklingsspråk,
+verktøy og standarder som benyttes slik at de kan delta i diskusjoner som berører disse
+temaene.
+ •   En dyktig produktsjef har evnen til å lytte. Produktsjefen skal riktignok fungere som en
+salgsperson og en talsmann for sitt produkt, men man må unngå å gå i den fellen at man
+antar for mye om brukerne og andre interessenter. Produktsjefen bør altså lytte til sitt
+publikum før arbeidet med å engasjere og gi opplæring til publikum kan starte. En god
+produktsjef vet hva publikum vil ha, samt hvordan dette best kan leveres.
+ •   En dyktig produktsjef stiller kritiske spørsmål. En produktsjef skal ikke ta alle forslag til
+endringer, enten de gjelder produktutvidelser eller prispolitikk, for «god fisk». Man må
+vite hvorfor en endring er viktig før man bruker tid, penger og andre ressurser på å
+iverksette den. Dersom man vet hvorfor man skal gjøre noe, og fremdeles ønsker å gjøre
+det, så har man et godt utgangspunkt.
+ •   En god produktsjef er besluttsom. En produktsjef må regne med å ta beslutninger med
+jevne mellomrom, og man bør være fast og bestemt, og kunne forsvare de beslutninger
+man har tatt. Man må sørge for at beslutningene er basert på de data som kan framskaffes
+og man må også kunne skifte mening (endre en beslutning) dersom tilgang på ny
+informasjon tilsier at det er fornuftig.
+ •   En god produktsjef responderer. Det er viktig å unngå at folk blir ignorert eller oversett,
+og man må også være klar over at personer som ikke responderer kan bli negativt
+oppfattet. En god produktsjef tar vare på både sitt eget og produktets «gode navn og
+rykte».
+ •   En god produktsjef kommuniserer godt. Det kan være vanskelig å si mye med få ord,
+men bilder, grafiske framstillinger og andre visualiseringer kan være til god hjelp når
+kompleks og sammensatt informasjon skal presenteres. En produktsjef må kommunisere
+ofte, på en konkret og konsis måte, og ved hjelp av flere kommunikasjonskanaler. I
+forhold til kommunikasjon så er det slik at øvelse gjør mester og man vil typisk oppnå
+økt oppmerksomhet og troverdighet etter hvert som man behersker situasjonen bedre.
+ •   En god produktsjef formidler lidenskap og trygghet. Det er viktig å være lidenskapelig
+opptatt av produktet og utviklingen av dette. Samtidig kan man ikke «spille» at man er
+lidenskapelig engasjert og det er også slik at overdreven lidenskap og entusiasme kan
+virke mot sin hensikt. En god produktsjef skal med andre ord være engasjert og
+entusiastisk, men man skal også kunne forstå at andre kan ha andre meninger eller andre
+løsninger som de mener vil fungere vel så bra. Man bør ikke miste besinnelsen i
+diskusjon med andre, men snarere være en tålmodig forhandler som også søker vinn-vinn
+situasjoner i forhold til sine interessenter. Dyktige produktsjefer har evnen til «å gjøre de
+riktige tingene» og de gjør det «med stil».
+
+ 1.3.   Hvordan lykkes med produktforvaltning
+ I artikkelen «Software product management – An industry evaluation» [3] trekker de fram
+både utfordringer og suksessfaktorer i forhold til å lykkes med produktforvaltning. Her
+presenterer vi noen av de identifiserte utfordringene før vi presenterer fire suksessfaktorer
+som diskuteres litt mer inngående.
+ 1.3.1. Noen kjennetegn ved de som ikke lykkes
+ Mange firma som driver med produktutvikling har ikke en egen og dedikert produktsjef.
+Likevel eksisterer det en enighet om at problemer som misforståelser i forhold til krav og
+behov, endringer og utvidelser av krav underveis, tidsfrister som glipper eller manglende
+økonomisk og forretningsmessig måloppnåelse, kan kureres med en grundig forståelse av
+produktforvaltning og implementering av en produktsjefsrolle. Her er fire utfordringer som
+trekkes fram i forbindelse med manglende eller svak produktforvaltning:
+ •   Dysfunksjonelle organisasjoner med uklare ansvarsforhold og arbeid som utføres i
+«siloer» uten god samhandling mellom alle involverte parter. Dette medfører at man
+stadig endrer fokus og stadig endrer planene i forhold til hva som skal være ferdig til gitte
+tider.
+ •   Ingen standardiserte prosesser som går på tvers av selskapet med snarere en langsom og
+tungvint beslutningsprosess med mange individuelle og tilfeldige (ad-hoc) avtaler.
+ •   Utilstrekkelige og mangelfulle krav som ofte bare er en samling av hva som hadde blitt
+hørt på kundebesøk eller andre tilsvarende hendelser. Kravene er ikke kartlagt i forhold til
+verdiskaping og man har ikke utarbeidet businesscase som dokumenterer effekten i
+forhold til realisering. Kostnadene er heller ikke vurdert.
+ •   Uklare eller manglende strategier og veibeskrivelser (roadmaps) som gjør at
+sammenhengen og avhengighetene ikke kommer klart fram og at kravene ikke er godt nok
+beskrevet.
+ 1.3.2. Noen kjennetegn for de som lykkes
+ Her er fire suksessfaktorer som trekkes fram blant de som lykkes med produktforvaltning.
+Dette er ikke de eneste suksessfaktorene men det er disse som trekkes fram som viktigst i [3].
+ •   Kjerneteam ->   Et kjerneteam som har tilstrekkelig autoritet og myndighet i forhold til alle
+nødvendige funksjoner. Flere produktsjefer hevder at ulike interessenter har ulike
+agendaer som gjør at prosjektene blir forsinket og som i neste omgang forårsaker økte
+kostnader i forbindelse med at arbeid må gjøres om. En viktig suksessfaktor er derfor å
+opprette et formelt kjerneteam som skal jobbe med produktet i form av markedsføring,
+prosjektledelse og utvikling av hvert produkt (hver utgivelse). Dette teamet må gjøres fullt
+ut ansvarlig for å lykkes med produktet. De representerer ikke bare de interne
+interessentene for produktet og utviklingsmiljøet, men de må også sørge for å representere
+ulike eksterne perspektiver tilstrekkelig. Dette tverrfaglige kjerneteamet skal lede
+produktutviklingen i forhold til alle nødvendige dimensjoner. Det er slik at bestemte
+beslutninger tas og gjennomføres av de som er ansvarlig for de respektive funksjonene
+(f.eks. så avgjør noen hvilke krav som skal implementeres og hvilke prioriteringer som
+skal gjøres). Kjerneteamet er typisk operativt gjennom hele produktets livssyklus og det
+fremheves som en suksessfaktor å gi kjerneteamet et klart mandat i forhold til å "eie "
+
+ prosjektet. Altfor ofte ser man «silo-organisasjoner» hvor f.eks. salg, markedsføring,
+produktforvaltning og utvikling ikke fungerer sammen. Dette betyr i mange tilfeller at
+man ikke bare kan bygge team og trene teamene, men man må også justere de årlige
+målene for å oppnå forbedrede resultater. Kulturen vil endre seg og man vil
+forhåpentligvis utvikle en prestasjonskultur når teamet får eierskap til produktet og dets
+suksess.
+ •   Produktlivssyklus   -> En standardisert produktlivssyklus med klare grenseoppganger og
+milepæler som følges bør være obligatorisk for alle produktutgivelser, dvs. alle tekniske
+prosjekter hvor utvikling av nye produkter eller nye utgivelser utføres. Mange bedrifter
+har i dag en slik livssyklus definert, men det er mer sjelden den brukes som et verktøy i
+forhold til å utlede og å implementere beslutninger. Dessverre blir krav til endringer altfor
+ofte avtalt i salgsmøter og da uten at man sjekker om endringene faktisk er
+gjennomførbare. Videre tar man tekniske beslutninger uten hensyn til businesscasen og
+økonomiske konsekvenser. En nyttig produktlivssyklus må ta opp i seg at kravene aldri
+kan være komplett beskrevet, men at det faktisk er naturlig at de utvikles underveis. En
+livssyklusmodell for et produkt skal gi klare føringer og veiledninger og bidra til å
+bestemme hva som er godt nok eller stabilt nok. Samtidig må livssyklusmodellen være
+tilstrekkelig fleksibel, slik at man kan håndtere ulike typer prosjekter og ulike tilpasninger.
+Krav til produktene og forretningsmessige mål må forvaltes (dvs. planlegges, prioriteres,
+besluttes, overvåkes, etc.) gjennom hele livssyklusen. For å unngå å bruke for mye tid på
+administrasjon og rapportering anbefaler man gjerne bruke av online arbeidsflytsystemer
+som støtter produktforvaltningen gjennom produktenes livssyklus.
+ •   Kundefokus ->   En håndtering av krav som bidrar til at kundens verdi får
+forretningsmessig fokus er viktig og en dyktig produktsjef skal forstå både kundens
+stemme og forretningsmessige muligheter (businesscasen), før utviklingen av nye og
+nødvendige funksjoner settes i gang. Hvert enkelt krav må begrunnes og justeres slik at
+det kan forsvares med utgangspunkt i en businesscase. Hvis et produkt er utviklet uten at
+man har tatt tilstrekkelig hensyn til forretningsmessige behov og begrunnelser så vil man
+få problemer. Kravene til et system vil endres kontinuerlig og man må kunne synliggjøre
+verdien ovenfor kunden, dersom man skal ha et produkt som har livets rett i fremtiden. Et
+produkt eller en løsning må altså dekke et behov og man bør ha en sterk visjon i forhold til
+produktet. Denne visjonen sier noe om hva som vil være annerledes og hva man vil oppnå
+med fremtidige versjoner av produktet, og den skal være en del av produktets historie.
+Historien skal i neste omgang overføres til forretningsmessige mål og overordnede krav til
+produktet. Krav kan sies å være en del av en kontraktsmekanisme for prosjektet med
+interne og eksterne parter, altså en avtale som oppstår i et kunde/leverandørforhold.
+Kravene må dokumenteres på en strukturert og oversiktlig måte, slik at de kan vurderes og
+evalueres både fra et tekniske og et markeds- og forretningsmessig utgangspunkt. Man
+kan f.eks. be testansvarlig om å skrive en test før kravet ferdigbehandles, man kan sjekke
+med markedsansvarlig om funksjonen som er beskrevet kan selges, etc. Man må avgjøre
+hva som er godt nok, samt sikre at andre eventualiteter og konsekvenser er tilstrekkelig
+vurdert før kjerneteamet foretar endelig godkjenning av kravene.
+ •   Veibeskrivelser (roadmaps) ->   Porteføljeforvaltning og utarbeidelse av veibeskrivelser
+(roadmapping) som sikrer åpenhet, innsyn og håndtering av avhengigheter er en viktig del
+av produktsjefen sin hverdag. For hvert produkt bør produktsjefen utarbeide en overordnet
+veibeskrivelse som dokumenterer gjeldende produktstrategi og de funksjonelle og
+tekniske funksjoner eller løsninger som planlegges og skal være en del av
+
+ produktutgivelsene for de neste årene. Det å administrere og vedlikeholde veibeskrivelser
+for egen portefølje bør være et av de viktigste fokusområdene for enhver produktsjef.
+Dette er egentlig en blanding av ressursplanlegging, prosjektplanlegging og planlegging
+av tjenester i tilknytning til et produkt. Dersom målene blir for løse og bevegelige vil
+salgsavdelingen ha liten støtte i forhold til hvordan de kan påvirke sine kunder, mens
+utviklingsavdelingen typisk vil ta avgjørelser på egen hånd i forhold til hva de ønsker å
+implementere, med hvilke ressurser og til hvilke tider. Når det gjelder egen
+produktportefølje må produktsjefen vise lederskap og sikre at man har pålitelige planer for
+produktutviklingen, og at man treffer nødvendige beslutninger på en effektiv måte. Man
+bør anvende prinsipper fra risikostyring for å sikre at porteføljeforvaltningen og de avtaler
+som inngår er mest mulig pålitelige. Det er mange risikoelementer og mange utfordringer
+som kan oppstå når man skal ta frem et nytt produkt (eller en ny versjon). Prosjektene som
+jobber for å realisere utgivelsen kan trenge mer ressurser, underleverandører som man er
+avhengig av kan være forsinket, eller man kan oppleve at teknologien som man er
+avhengig av, ikke fungerer som forventet. Dersom det oppstår endringer i forhold til
+milepæler som man har forpliktet seg til, eller innholdsmessige ting som skal være en del
+av en utgivelse, så må dette håndteres på en god måte. Slike endringer må typisk først
+godkjennes av kjerneteamet. Deretter må man vurdere om firmaets ledelse (lederne for
+respektive forretningsenheter/avdelinger som berøres) skal involveres. Sist men ikke
+minst så må endringene dokumenteres og de bør kommuniseres med begrunnelser.
+ 1.4.   Produktforvaltning er teamarbeid
+ Fig. 2 – Produktforvaltning i team
+ Figur 2 er hentet fra boken   «Software Product Management Essentials»   [2] og den illustrerer
+at utvikling, leveranse og forvaltning av programvareprodukter er tverrfaglig samarbeid
+
+ mellom personer som representerer forskjellige fagområder eller avdelinger i firmaet. Alle
+funksjoner som er involvert i forhold til beslutninger rundt produktet bør være representert i
+dette tverrfaglige samarbeidet, slik at man får tatt beslutninger som er helhetlige og tar hensyn
+til forskjellige behov. Dersom man f.eks. skal ta en beslutning i forhold til om en funksjon
+skal skilles ut fra et produkt og selges som et separat produkt så påvirker dette både salgs-,
+markedsførings-, distribusjons- og utviklingsavdelingen.
+ Fig. 3 – Verdiskapningen og de som er involvert
+ Figur tre som fokuserer på verdiskapningen rundt produktene er hentet fra artikkelen som
+heter «Software product management – An industry evaluation» [3]. Denne figuren viser
+verdiskapning i tilknytning til flere roller som er involvert i produktforvaltningen, og den
+bidrar dermed til å understreke at produktforvaltning er teamarbeid og at den totale verdien i
+tilknytning til produktforvaltning stammer fra flere kilder.
+ Av denne figuren framgår det også at verdiskapningen foregår i en syklus hvor forskjellige
+roller har forskjellig ansvar og hvor det eksisterer et gjensidig avhengighetsforhold mellom de
+forskjellige rollene. En produktsjef trenger innspill fra f.eks. utviklingsavdelingen eller
+markedsføringsavdelingen og dette er også grunnen til at man anbefaler etablering av et
+kjerneteam for produktforvaltningen slik vi var inne på i et tidligere avsnitt.
+ En produktsjef forvalter ett eller flere produkter fra ideen om produktet etableres til produktet
+benyttes og etter hvert fases ut. Produktsjefens hovedoppgave er å maksimere
+forretningsmessige verdi gjennom hele denne livssyklusen. Verdien til et produkt er i denne
+sammenheng av økonomisk karakter og dette danner grunnlaget for å sammenligne helt
+forskjellige systemer og tjenester i forhold til hverandre. Verdien uttrykkes i form av penger
+
+ eller prisen man kan ta og den bestemmes av tilbud og etterspørsel. Forretningsverdi er
+verdien et produkt har for en virksomhet og denne verdien avhenger av kundeverdi og
+hvordan produktet blir oppfattet i et marked. Produktsjefen er som vi tidligere har vært inne
+på ansvarlig for hele verdikjeden til et produkt, gjennom hele produktets livssyklus og
+vedkommende jobber med å forbedre hele forretningsområdet.
+ For å utføre denne jobben må produktsjefen samarbeide med andre interessenter som dermed
+bidrar med verdi inn i produktforvaltningskjeden. Blant disse finner vi f.eks. prosjektlederen
+som er ansvarlig for å levere ett bestemt produkt innenfor avtalte rammer som tid, kostnader
+og kvalitet. Prosjektlederen er altså ansvarlig for lønnsomhet og måloppnåelse innenfor et
+prosjekt som er begrenset i tid. Prosjektlederen forvalter prosjektplanen og selve
+prosjektgjennomføringen og fokuserer på å utføre det som prosjektet skal utføre. Videre har vi
+f.eks. markedssjefen som fokuserer på hvordan man skal selge et produkt eller en tjeneste for
+å skape en best mulig positiv kundeopplevelse. Markedsføringen skal bidra til å kommunisere
+hvilken verdi produktet representerer til så vel selgerne som kundene, og det er derfor
+markedssjefen som vanligvis planlegger og gjennomfører aktiviteter som skal bidra til at
+salget øker.
+ 1.5.   Produktforvaltning er å forholde seg til mange løpende
+prosesser
+ Som vi har vært inne på tidligere så handler produktforvaltning om å forholde seg til mange
+prosjekter som pågår mer eller mindre samtidig. Dette kan f.eks. være utviklingsprosjekter,
+markedsføringskampanjer, leveranseprosjekter eller utfasingsprosjekter, og siden de er
+etablert som prosjekter er de tidsbegrenset med en definert start og en forventet sluttdato.
+ Produktforvaltning dreier seg imidlertid også om å forholde seg til mange løpende prosesser
+og i dette avsnittet presenterer vi noen eksempler på nettopp dette. En prosess skiller seg fra
+prosjektene ved at den består av aktiviteter som repeteres i en rekkefølge for å oppnå et
+bestemt mål, og for prosessene foregår dette løpende, uten at det er noen fast start og slutt. En
+prosess kan sees på som en samling aktiviteter og relaterte ressurser som tar utgangspunkt i
+noe input og bearbeider dette til et resultat. I dette avsnittet presenterer vi noen konkrete
+eksempler på prosesser som var eller er en del av prosessene for en programvareleverandør i
+Norge og dette er typisk prosesser hvor produktsjefen er involvert på forskjellig nivå.
+Nedenforstående gjennomgang er ikke ment som en full gjennomgang av prosessene, men
+snarere noen konkrete eksempler på hvilke prosesser som kan eksistere og litt om hvordan de
+fungerer. Lysarkene til denne leksjonen inneholder en grafisk framstilling av disse
+prosessene.
+ •   Klargjøre programutsendelse   - Hensikten med denne prosessen er å utføre nødvendig
+klargjøring av en programversjon som kommer fra utviklingsavdelingen slik at prosessen
+til slutt leverer en ferdig «Master-fil eller RTM
+» klar for distribusjon internt og eksternt.
+Prosessen starter når en programversjon med tilhørende dokumentasjon fra utvikling er
+klar og denne skal klargjøres før den distribueres internt og eksternt. Prosessen sitt ansvar
+er å planlegge aktuelle aktiviteter og gjennomføre disse slik at programversjonen blir
+En Master eller en Release To Manufacturing (RTM) er en versjon av programvaren som inneholder alt som
+skal være med på leveransen ut til kunden. Altså en versjon som er klar for overlevering til kunden.
+
+ tilgjengelig både internt og eksternt til forhandlere og kunder. Aktuelle aktiviteter er å
+utarbeide nødvendig versjonsdokumentasjon, klargjøre informasjon og varsle om
+distribusjon av versjonen. I tillegg skal prosessene for   Oppdatering av kursmateriell   og
+ Oppdatering av markedsmateriell   informeres om aktuelle endringer. Prosessen avsluttes
+når Master-filen er ferdigstilt og kan oversendes til prosessen   Håndtere Intern og ekstern
+programinformasjon , som da er en annen løpende prosess.
+Input til prosessen   Klargjøre programutsendelse   er: (1) en ny programversjon fra
+utvikling med oppdatert hjelpefil, (2) oppdaterte spesifikasjoner som blant annet vil være
+utgangspunkt for produktnotatet, (3) oppdatert Les meg Info, (4) endelig report fra
+utviklingsprosjektet som overleveres sammen med endelig versjon og (5) eventuell
+oppdatert teknisk info.
+Output fra denne prosessen er en offisiell programversjon som er klar til intern bruk og for
+utsendelse til kunder. Den offisielle programversjonen inkluderer typisk følgende: (1)
+selve programversjonen, (2) et versjonsbrev, (3) et produktnotat med beskrivelse av ny
+funksjonalitet, (4) en installasjonsbeskrivelse, (5) en oppgraderingsbeskrivelse (dersom
+det er nødvendig), (6) oppdatert Les meg info, (7) tillegg til brukerhåndbok (om
+nødvendig), (8) eventuell oppdatert teknisk dokumentasjon / krav, (9) eventuell info om
+oppdatering av kursmateriell, (10) eventuell info om oppdatering av markedsmateriell og
+til slutt en ferdig Master-fil.
+Det kan være flere roller som er ansvarlig for forskjellige oppgaver i tilknytning til en slik
+prosess og her følger en oversikt over produktsjefen sitt ansvar: (1) ansvarlig for
+planlegging av aktiviteter i forbindelse med ny programversjon fra utvikling, (2) ansvarlig
+for at planlagt versjonsdokumentasjon utarbeides (Produktsjefen trenger ikke være
+utførende, men ansvarlig for at dette blir utarbeidet), (3) ansvarlig for å bestille revidering
+av dokumentasjon hos riktig person i organisasjonen (riktig person bør nevnes konkret i et
+reelt tilfelle og man bør angi tidsfrist for når revidering skal være ferdig), (4) ansvarlig for
+at korreksjoner utføres etter revisjon, (5) ansvarlig for å informere tilliggende prosesser
+(f.eks. prosessene " Distribuer produktinformasjon og versjoner », " Oppdater
+kursmateriell " og " Oppdater markedsmateriell "), og (6) ansvarlig for at Master-filen
+klargjøres slik at denne kan sendes videre til prosessen ” Håndtere Intern og ekstern
+programinformasjon ”.
+ •   Håndtere feil i programmet   - Når det oppstår feil i programvaren er det viktig at feil blir
+meldt til utviklingsavdelingen for retting. Alle feil skal registreres, testes og verifiseres før
+de sendes til utviklingsavdelingen. Denne prosessen skal sikre at man har en ensartet og
+effektiv arbeidsflyt når det oppstår feil i programmet, at alle innrapporterte feil blir
+håndtert, og at informasjon om status blir gitt til alle berørte parter. Dette for å gi økt
+kundetilfredshet.
+Prosessen   Håndtere feil i programmet   beskriver hvilke aktiviteter som skal utføres i
+forbindelse med at det er meldt inn feil i programmet. Prosessen dekker aktiviteter som
+skal iverksettes når en kunde, forhandler eller egen ressurs oppdager en feil i programmet,
+verifisering av feil, melding av feil til utvikling og tilbakemelding og status på feil.
+Avdelinger som inngår i prosessen er: Utviklingsavdelingen,
+Produktforvaltningsavdelingen, Forhandlersalgsavdelingen og Kundestøtteavdelingen.
+Her velger vi å forklare hvordan denne prosessen fungerer ved å gi en kort beskrivelse av
+delprosessene som denne prosessen består av:
+ o   Registrere feilmelding   - Feil kan bli meldt inn til Kundestøtteavdelingen,
+Forhandlersalgsavdelingen og eventuelt andre avdelinger hos
+
+ programvareleverandøren. Alternativt kan Kundestøtteavdelingen selv oppdage
+feil ved egen test eller kundebesøk. Feil kan rapporteres inn via telefon, e-post,
+telefax, brev eller direkte kommunikasjon. Alle feil registreres på aktuell kunde i
+et CRM-system. Hvis feilen oppstår internt registreres denne på kundekortet til
+egen bedrift. All nødvendig informasjon om når, hvor og hvordan feil oppstår,
+samt kontaktperson og telefonnummer registreres.
+ o   Verifisere feilmelding   – Den som sitter på vakt i Kundestøtteavdelingen sjekker
+innmeldte feil i CRM-systemet daglig. Alle feil skal verifiseres. Hvis feilen ikke
+kan gjenskapes, skal kunden kontaktes, og anmodes om å sende inn datasett for
+videre testing. Feilen skal beskrives grundig, fortrinnsvis med utklipp av
+skjermbilder, samt med link til datasett hvor feilen oppstår. All informasjon
+registreres på aktuell sak i CRM-systemet. Her følger litt informasjon om hvordan
+feilene håndteres videre: (1) verifiserte feilmeldinger som skal overføres til
+kvalitetssikringsdatabasen settes med Stauts ”Overført QA-database” i CRM-
+systemet og tilordnes Testansvarlig i Utviklingsavdelingen, (2) feilmeldinger som
+resulterer i programendring/ønske tilordnes produktsjefen og dekkes av prosessen
+”Håndtere ønsker til ny versjon”, (3) feilmeldinger som er kundespesifikke og
+gjelder feil i data/miljø tilordnes 2. linje support for videre behandling.
+ o   Overføring til kvalitetssikringsdatabase (QA-Database)   - Testansvarlig sjekker
+CRM systemet for nye saker daglig, minimum ukentlig. Når tilfellet opprettes i
+QA-databasen skal feilmeldingsnummer registreres i CRM-systemet. Tilsvarende
+skal QA-databasen referere til aktuell kunde og sak i CRM-systemet. Status på
+tilfellet i CRM-systemet oppdateres fortløpende i henhold til produktutvikling. Når
+saken er ferdig behandlet i Utviklingsavdelingen, tilordnes denne vakten som gir
+tilbakemelding til kunden.
+ o   Status på feilmeldinger   - Liste over status på feilmeldinger skrives ut fra QA-
+databasen ukentlig. Kommunikasjon av denne informasjon dekkes av prosessen
+”Håndtere intern og ekstern programinformasjon”.
+ •   Håndtere ønsker til programmet   – Når det meldes om ønsker til programvaren er det
+viktig at disse blir registrert som input til utviklingsprosessen. Alle ønsker skal registreres
+og verifiseres før de sendes til Utviklingsavdelingen. Denne prosessen skal sikre at man
+har en ensartet og effektiv arbeidsflyt når det meldes om ønsker i programmet, at alle
+innrapporterte ønsker blir håndtert, og at informasjon om status blir gitt til alle berørte
+parter. Dette for å gi økt kundetilfredshet.
+Her følger en oversikt over produktsjefen sine ansvarsoppgaver i forhold til denne
+prosessen: (1) produktsjefen mottar ønske via telefon, brev, e-mail, faks eller internt, (2)
+produktsjefen registrerer ønske på aktuell kunde i CRM-system, (3) produktsjefen sjekker
+CRM-system for nye ønsker ukentlig, (4) produktsjefen verifiserer og beskriver ønsker,
+(5) produktsjefen overfører ønskene til kvalitetssikringsdatabasen eller en egen Ide-
+database, (6) produktsjefen gir kunden tilbakemelding i forhold til ønsket, (7)
+produktsjefen leverer liste over større ønsker eller betalbare oppdrag til
+utviklingsprosessen ved behov og (8) produktsjefen leverer liste over innmeldte og rettede
+ønsker fra QA-databasen ukentlig.
+ •   Håndtere intern og ekstern programinformasjon -   Hensikten med denne prosessen (Intern
+og ekstern programinformasjon) er å få effektivisert, formalisert og synliggjort rutiner
+rundt kommunikasjon og kommunikasjonsflyt mellom Produktforvaltningsavdelingen,
+
+ Forhandlerslagsavdelingen, Kundestøtteavdelingen og ut mot kunder og forhandlere.
+Dette omfatter generell programinformasjon, erfaringer, nyhetsbrev og endringer i
+systemet som følge av endringer i regelverk. Prosessen omfatter all programinformasjon
+ut mot alle, eller noen utvalgte kunder. Håndtering av feil og ønsker er definert i andre
+prosesser. Markedsrelatert kommunikasjon er ikke en del av denne prosessen. Prosessen
+er et ledd i å få en mer effektiv og formalisert forvaltning av hele programvareporteføljen.
+Prosessen beskriver hvordan informasjonsflyten skal foregå mellom
+Produktforvaltningsavdelingen, Forhandlerslagsavdelingen, Kundestøtteavdelingen og ut
+mot kunder og forhandlere. Det gjelder innholdet i informasjon, samt hvilke kanaler
+informasjonen skal distribueres gjennom. Prosessen beskriver også hvem som har
+ansvaret for at informasjonen når ut til kundene og forhandlerne med riktig mengde og til
+riktig tid. Informasjonen skal omhandle generelle råd og tips for praktisk bruk av
+programmet, endringer i programmet, feil i programmet og informasjon rundt nye
+programversjoner.
+Prosessen starter med at det oppstår et behov hos kundene og forhandlerne eller internt
+med bakgrunn i endringer i regelverk, en sesong nærmer seg, erfaringer fra
+kundestøtteavdelingen, avvik fra prosjektplanen eller produktplanen. Det kan også
+genereres et behov fra prosessene   Klargjøre Programutsendelse ,   Håndtere feil i
+programmet   eller   Håndtere ønsker til programmet .
+Videre skal det vurderes hva som skal distribueres internt og/eller i hvilket omfang og
+gjennom hvilke kanaler. Vurdering og kriterier er beskrevet i egne delprosesser og disse er
+avgjørende faktorer for at prosessen skal fungere etter hensikten. Det er utarbeidet en egen
+delprosess for   Utarbeidelse av ekstern informasjon   med en rollebeskrivelse, siden det er
+viktig å skille på den informasjonen som skal i brevs-form og den informasjonen man
+eksempelvis legger på nettsted for kundeinformasjon.
+ 1.6.   Smidig produktforvaltning
+ Såkalt smidig programvareutvikling har hatt økt popularitet de siste årene og dette påvirker
+også de som jobber med produktforvaltning. Dette avsnittet er en kort introduksjon til bruk av
+smidige metoder i programvareforvaltningen som i all hovedsak er basert på artikkelen:   The
+agile requirements refinery: Applying SCRUM principles to software product management
+ [4]. (Denne artikkelen ligger i mappen Tilleggslitteratur inne på Blackboard). En viktig styrke
+ved slike smidige metoder er at utviklingsprosessen blir mer mottakelig for endringer og et
+skiftende miljø underveis i prosjektet. Man fokuserer på å ta fram programvare som fungerer
+fremfor omfattende dokumentasjon og det er slik at interaksjoner mellom enkeltpersoner
+betraktes som viktigere enn verktøyene og prosessene, og at samarbeidet med kundene er vel
+så viktig som kontraktsforhandlingene.
+ Her er noen erfaringer fra smidig programvareforvaltning som trekkes fram i [4]:
+ •   Alternative sprint-sykluser for produktforvaltning og programvareutvikling. En av de
+viktigste erfaringene som trekkes frem i [4] er betydningen av vekslende sprinter
+. Både
+I smidige metoder som Scrum jobber man i iterasjoner med fast lengde og disse kalles sprinter. Når en sprint
+starter, forplikter teamet seg til å levere det omfanget fra produktkøen (eng. Product Backlog) de har tro på at de
+skal klare. Dette omfanget er i utgangspunktet plukket ut av produkteier, som også har satt et sprint-mål. På
+bakgrunn av den valgte produktkøen definerer teamet alle de oppgavene de må fullføre for å oppnå målet. Dette
+kalles en sprintkø (eng. Sprint Backlog). Sprinten avsluttes med at teamet demonstrerer det de har laget for
+utvalgte interessenter og produkteier i et sprint review-møte. Det aller siste man alltid gjør i sprinten er et
+
+ sprintene i programvareutviklingen og produktforvaltningen utføres kontinuerlig, men
+med en forskjell i starttidspunktet som tilsvarer omtrent halvparten av sprintens
+varighet. Dette innebærer at hver produktforvaltningssprint avsluttes halvveis i
+programvareutviklingssprinten, slik at produktkøen
+(Product Backlog) er klar til å
+brukes når utviklingsteamet skal starte en ny sprint.
+ Fig. 4 – Forholdet mellom sprinter for produktforvaltning og utvikling. Hentet fra [4]
+ •   Komplekse krav må detaljeres på en strukturert måte og i den sammenheng kan man
+f.eks. dele opp kravene i tema, konsepter og krav. Håndtering av krav i en smidig prosess
+gjør at man kan håndtere mange forskjellige krav som er på forskjellig detaljeringsnivå.
+Både overordnede krav og detaljerte krav overføres typisk til produktkøen for så å bli
+håndtert av en egnet person.
+ •   Daglige stå-opp-møter (eng. daily scrum meetings eller stand-up meetings) er viktig.
+Daglige stå-opp-møter er en viktig del av utviklingsprosjekter som benytter SCRUM-
+metoden og disse møtene er også viktig innenfor smidig produktforvaltning. Det å bruke
+15 minutter på starten av hver dag oppleves som positivt og en nyttig del av prosessen.
+Møtene kan benyttes til å gi verdifull konstruktiv kritikk som gjør at potensielle
+problemer unngås og at eksisterende problemer kan løses.
+ •   Administrasjon av sprintkøen krever disiplin. Det viser seg vanskelig å håndtere alle
+oppgavene som tilhører en sprintkø for produktforvaltning
+på en god måte. Selv om
+ tilbakeblikk med evaluering av hva som gikk godt, hva som bør forbedres og hvilke tiltak man skal iverksette for
+å bli bedre. Dette kalles sprintrefleksjon (eng. Sprint Retrospective) [5].
+En produktkø inneholder en prioritert liste over alle elementene som er relevante for et bestemt produkt. Denne
+listen kan bestå av feil (buggs), forespørsler om utvidet funksjonalitet fra kundene, produktfunksjonalitet som
+bør utvikles for å gjøre produktet konkurransedyktig, teknologiske krav til oppgradering, etc. Når et krav
+er spesifisert i detalj og godkjent av utviklerne kan det kopieres over til sprintkøen. En tradisjonell sprint starter
+med at aktuelle krav flyttes fra produktkøen til sprintkøen og dette er årsaken til at produktforvaltningssprinten
+må være ferdig i god tid før programvareutviklingen starter en ny sprint.
+En sprintkø for produktforvaltning (eng. Product Management Sprint Backlog) inneholder elementene som
+hver produktsjef må fullføre før produktforvaltningssprinten er ferdig. Sprintkøen fylles opp med tema,
+konsepter og krav som kommer fra produktkøen og man kan si at produktkøen mater sprintkøen til
+produktforvaltning med elementer som trenger å bli spesifisert ytterligere før de overføres til køen for
+utviklingssprinten.
+
+ sprintkøen for produktforvaltning kan være nyttig i forhold til å kontrollere
+produktforvaltningsprosessen, så kan det være vanskelig å holde oversikt over hva som
+er gjort og hvor lang tid som er brukt på hver oppgave. Det bør imidlertid bemerkes at
+smidig utvikling skal fokusere på samspillet med involverte ressursene framfor det å
+forholde seg til tunge prosesser. Så lenge man får gjort jobben skal altså selve
+prosjektadministrasjonen være underordnet og mindre viktig.
+ •   Samarbeid fra start bidrar til gjenbruk og integrering - Siden produktsjefen i et SCRUM-
+team samarbeider om sprintkøen for produktforvaltningssprinten, så fører dette til at
+muligheter for gjenbruk og synergi blir avdekket på et tidlig tidspunkt. Forfatterne bak
+[4] hevder dermed at programvareprodukter av høyere kvalitet kan utvikles ved denne
+smidige tilnærmingen, sammenlignet med andre tilnærminger som har mindre
+kommunikasjon under kravspesifikasjonsprosessen.
+ Dette var ment som et lite eksempel på smidig produktforvaltning og det anbefales at du leser
+hele artikkelen [4], for å bli inspirert i forhold til hvordan produktforvaltning kan integreres
+med smidig programvareutvikling basert på Scrum. Det finnes også andre tilnærminger til
+dette, hvor den mest vanlige kanskje er at produktsjefen fungerer som produkteier (eng.
+Product Owner) i selve utviklingsprosjektet som benytter Scrum. Følgende informasjon om
+produkteieren er hentet fra [5], og dette er kanskje den vanligste måten å integrere Scrum i
+produktforvaltningen på:
+ «Produkteieren eier visjonen og representerer interessentene (dette kan være interne og
+eksterne kunder, brukere ledere, innkjøpere etc..) og skal sikre at Scrum-teamet til enhver tid
+jobber med de rette tingene sett fra et forretningsperspektiv. Produkteieren er ansvarlig for at
+Product Backlogen til enhver tid er estimert, prioritert og tilgjengelig for interessentene og
+utviklingsteamet. Denne listen omprioriteres konstant. Produkteieren er en person, ikke en
+gruppe. Grupper kan gi råd i produktutviklingen, men det er personen som har
+produkteierrollen som tar beslutningene om prioriteringer. Produkteieren kan være en del av
+Scrum-teamet, men skal aldri være Scrum-master.»
+ Læreboken diskuterer også sammenhengen mellom en produktsjef og en produkteier i et
+Scrum-prosjekt [1, s. 40]. Selv om disse rollene er overlappende i forhold til f.eks.
+kravhåndtering og planlegging av utgivelser så skal de også ha forskjellig fokus.
+Produkteieren i et Scrum-prosjekt må være en del av utviklingsteamet og fokusere på neste
+versjon som Scrum-prosjektet skal levere, mens produktsjefen må ivareta andre f.eks. mer
+langsiktige og strategiske oppgaver. Disse to rollene kan i noen tilfeller og dersom forholdene
+er små nok, bekles av en og samme person. Det kan imidlertid være utfordrende å ha nok
+fokus på begge rollene (kortsiktige og langsiktige behov) samtidig, og man bør i tilfelle
+vurdere å fordele rollene på flere personer. Uansett så er man avhengig av at produktsjefen og
+produkteieren samarbeider og kommuniserer tett og godt.
+ 1.7.   Bærekraftig forvaltning av programvareprodukter
+ Bærekraft har de sener år blitt viktigere og viktigere både for virksomhetene og generelt i
+samfunnet. For virksomhetene kan et økt fokus på bærekraft bidra til at man sikrer langsiktig
+overlevelse i møte med forventninger fra samfunnet, kunder og myndigheter.
+Programvareleverandører som tar bærekraft på alvor kan oppnå konkurransefortrinn ved at de
+tiltrekker seg flere kunder, får økt lojalitet blant eksiterende kunder, får tilgang på nye
+
+ markeder og får tilgang på investeringskapital. Videre er det slik at myndighetene i mange
+land (inkludert Norge og EU/EØS) innfører strenge krav til bærekraftsrapportering som
+direkte kan påvirke programvareproduktene.
+ Sus tainability   A wareness   F ramework   (SusAF) [6] er et rammeverk som er utviklet for å
+hjelpe programvareutviklere og designere med å identifisere og vurdere bærekraftige aspekter
+ved programvarebaserte produkter og tjenester. SusAF ble utviklet som en del av
+forskningsarbeid ved blant annet Chalmers tekniska högskola og videreutviklet av Karlskrona
+Alliance, og bygger på prinsippene i Karlskrona Manifesto for Sustainability Design [7].
+ SusAF ble utviklet for å øke bevisstheten om bærekraft i utvikling av programvareprodukter
+og programvarebaserte tjenester. Man ønsket å tilby et strukturert verktøy for å analysere
+kort-, mellom- og langsiktige effekter av teknologiske løsninger, samt støtte tverrfaglig
+samarbeid og involvering av interessentene i designprosesser. SusAF vurderer effekter på tre
+nivåer. Dette er: 1-Direkte effekter (umiddelbare konsekvenser av systemets bruk), 2-
+Muliggjørende effekter (effekter som oppstår over tid eller gjennom bruksmønstre) og 3-
+Strukturelle effekter (langsiktige, strukturelle endringer i samfunnet eller miljøet). Videre
+vurderer SusAF bærekraft ut fra fem dimensjoner, hvor hver dimensjon fokuserer på ulike
+aspekter av bærekraft, og her følger en kort forklaring på disse dimensjonene:
+ •   Økonomisk bærekraft   - handler om hvordan et system eller en teknologisk løsning
+påvirker økonomisk verdi, rettferdig fordeling og langsiktig økonomisk levedyktighet –
+både for virksomheten, brukerne og samfunnet. Dette er en meget sentral dimensjon for
+den som jobber med produktforvaltning og her er noen sentrale egenskaper ved
+økonomisk bærekraft som trekkes fram i SusAF: 1-Langsiktig økonomisk levedyktighet
+(systemet bør være økonomisk bærekraftig over tid, ikke bare lønnsomt på kort sikt), 2-
+Rettferdig verdiskaping og fordeling (teknologien bør bidra til rettferdig økonomisk
+utvikling og ikke forsterke ulikhet), 3-Støtte til lokal eller sirkulær økonomi (systemet
+kan fremme lokal verdiskaping eller gjenbruk av ressurser), 4-Reduksjon av økonomisk
+risiko (teknologien bør bidra til å redusere økonomisk sårbarhet, både for virksomheten
+og brukerne) og 4-Innovasjon og nye forretningsmodeller (systemet kan muliggjøre nye,
+mer bærekraftige måter å skape verdi på).
+ •   Teknisk bærekraft -   handler om hvorvidt et system eller en teknologisk løsning er
+robust, vedlikeholdbar og fremtidsrettet over tid. Noen sentrale egenskaper ved teknisk
+bærekraft i SusAF er: 1-Lang levetid (systemet bør kunne brukes over tid uten å måtte
+skiftes ut ofte), 2-Vedlikeholdbarhet (koden og arkitekturen bør være lett å forstå, endre
+og videreutvikle), 3-Skalerbarhet (systemet bør kunne håndtere økt bruk eller nye
+funksjoner uten store ombygginger), 4-Interoperabilitet (systemet bør kunne integreres
+med andre systemer og teknologier), 5-Unngå teknologisk gjeld (dårlige eller kortsiktige
+teknologivalg kan føre til store kostnader senere) og 6-Energieffektivitet (selv om dette
+også berører miljødimensjonen, er det teknisk relevant å utvikle løsninger som bruker
+minst mulig ressurser).
+ •   Sosial bærekraft   - handler om hvordan et system eller en teknologisk løsning påvirker
+samfunn, fellesskap og relasjoner mellom mennesker – både direkte og indirekte, på kort
+og lang sikt. Noen sentrale egenskaper ved sosial bærekraft i SusAF er: 1-Inkludering og
+rettferdighet (systemet bør være tilgjengelig og rettferdig for ulike grupper i samfunnet),
+2-Fellesskap og sosial tilhørighet (teknologi kan styrke eller svekke sosiale bånd), 3-
+Tillitsbygging (systemer bør fremme åpenhet, ansvarlighet og tillit mellom brukere og
+
+ tilbydere), 4-Demokrati og deltakelse (teknologi bør støtte brukermedvirkning og gi folk
+en stemme) og 5-Unngå sosial ekskludering (systemer bør ikke forsterke ulikhet eller
+marginalisere grupper).
+ •   Individuell bærekraft   - handler om hvordan et system påvirker den enkelte brukerens
+helse, trivsel, utvikling og livskvalitet. Dette er en viktig, men ofte oversett dimensjon av
+bærekraft, som setter søkelys på mennesket i sentrum av teknologien. Noen sentrale
+egenskaper ved individuell bærekraft i SusAF er: 1-Helse og velvære (i hvor stor grad
+systemet støtter opp om fysisk og psykisk helse), 2-Læring og utvikling (i hvor stor grad
+teknologien bidrar til personlig vekst og kompetansebygging), 3-Autonomi og kontroll
+(brukeren bør ha kontroll over hvordan teknologien brukes og hvordan data håndteres),
+4-Digital balanse (systemet bør ikke bidra til avhengighet, stress eller informasjons-
+overbelastning), og 5-Tilgjengelighet og brukervennlighet (løsningene bør være intuitiv
+og tilpasset ulike brukerbehov).
+ •   Miljømessig bærekraft   - handler om hvordan et system eller en teknologisk løsning
+påvirker miljøet – både direkte og indirekte, på kort og lang sikt. Dette inkluderer
+ressursbruk, energiforbruk, utslipp og avfall, samt hvordan teknologien påvirker
+miljøvennlige praksiser i samfunnet. Noen sentrale egenskaper ved miljømessig
+bærekraft i SusAF er: 1-Energiforbruk (hvor mye energi krever systemet i drift?), 2-
+Ressursbruk (hvilke fysiske og digitale ressurser kreves for å utvikle og bruke
+systemet?), 3-Avfall og forurensning (bidrar systemet til elektronisk avfall (e-avfall) eller
+annen forurensning?), 4-Livssyklusperspektiv (hvordan påvirker systemet miljøet
+gjennom hele sin livssyklus, fra etablering til utfasing?), og 5-Indirekte miljøpåvirkning
+(hvordan påvirker systemet brukernes atferd og miljøvalg?).
+
+ 1.8.   Referanseliste
+ [1]   H.-B. Kittlaus,   Software Product Management - The ISPMA-Compliant Study Guide
+and Handbook, 2nd Edition . Springer, 2022.
+ [2]   A. S. Dver,   Software product management essentials: a practical guide for small and
+mid-sized companies . Anclote Press, 2003.
+ [3]   C. Ebert og S. Brinkkemper, «Software Product Management–An Industry
+Evaluation»,   J. Syst. Softw. , 2014, Åpnet: 14. mai 2025. [Online]. Tilgjengelig på:
+http://www.sciencedirect.com/science/article/pii/S0164121214000156
+ [4]   K. Vlaanderen, S. Jansen, S. Brinkkemper, og E. Jaspers, «The agile requirements
+refinery: Applying SCRUM principles to software product management»,   Inf. Softw.
+Technol. , bd. 53, nr. 1, s. 58–70, 2011.
+ [5]   Scrum, «Hentet 13. mai 2025 fra følgende lenke: http://no.wikipedia.org/wiki/Scrum»,
+2025.
+ [6]   SusAF, «Hentet 6. november 2025 fra følgende lenke:
+https://www.suso.academy/en/sustainability-awareness-framework-susaf/»,   Sustainability
+Awareness Framework (SusAF) , 2024.
+ [7]   Karlskrona, «Hentet 6. november 2025 fra følgende lenke:
+https://sustainabilitydesign.org/»,   The Karlskrona Manifesto for Sustainability Design , 2024.

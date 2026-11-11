@@ -1,0 +1,529 @@
+
+
+===== Leksjon 1-intro-økonomi-2026h.docx =====
+
+IDI AIT, NTNU
+ Introduksjon til fage
+Monica Storvik, Tove Hepsø og Tor Atle Hjeltnes
+10.08.2026
+Lærestoffet er utviklet for faget DIFT1003 og INFT1004 Økonomisk styring og regnskap
+
+Introduksjon til fage
+Resymé: I den første leksjonen skal vi se litt på de vanligste organisasjonsformene for små og mellomstore bedrifter i Norge. Vi skal se på hva det må taes hensyn til ved en bedriftsetablering, som for eksempel valg av selskapsform, registrering i Brønnøysundregistrene, og vi skal se på diverse faremomenter underveis i etableringsprosessen.
+Pensum knyttet til denne leksjonen:
+Lærebok 1, Årsregnskapet, utgave 5, utgave 6 og utgave 7: kapittel 4.4, kapittel 16 til og med 16.4 og kapittel 34.6 og 34.7.
+Innhold
+1.1.	Innledning	2
+1.2.	Kursets gjennomføring – praktiske opplysninger	3
+1.3.	Jo og Stein	4
+1.4.	Selskapsformer	4
+1.4.1.	Enkeltmannsforetak	4
+1.4.2.	Ansvarlig selskap (ANS) og (DA)	5
+1.4.3.	Aksjeselskap (AS)	5
+1.5.	Brønnøysundregistrene	6
+1.5.1.	Foretaksregisteret	7
+1.5.2.	Enhetsregisteret	7
+1.5.3.	Angående registrering	8
+1.6.	Jostein AS	8
+1.7.	Andre forhold ved bedriftsetablering	8
+1.7.1.	Forretningsplan	8
+1.7.2.	Faremomenter	9
+1.7.3.	Mulige årsaker til en konkurs (generelt)	9
+1.7.4.	Gjeldsforhandling og konkurs	10
+1.7.5.	Diverse stikkord	10
+1.8.	Oppsummering	10
+
+Innledning
+Velkommen til den første leksjonen i faget Økonomisk styring og regnskap. I dette faget ønsker vi på en enkel måte å lære deg de viktigste begrepene innenfor fagområdet økonomi.
+Faget er delvis delt i to der første del er mer tradisjonell økonomisk styring og regnskap, mens andre halvdel er mer rettet mot bedriftsøkonomi. I faget ser blant annet på forskjellene mellom finansregnskap og internregnskap. Det er viktig å være klar over forskjellene samt være i stand til å vite når finansregnskap skal utarbeides og når internregnskap er det beste verktøyet til å foreta beslutninger. Dette faget gir deg grunnleggende kunnskap innen både økonomisk styring, fokus på finansregnskap og bedriftsøkonomi, fokus på internregnskap. Bedriftsøkonomi handler om å sette beslutningstakere på ulike nivåer i bedriftene bedre i stand til å styre økonomien og ta avgjørelser som gjør at målene nås, og har derfor sin hovedtyngde på internregnskap.
+Videre i faget skal vi se på viktigheten av budsjettering, vi skal se på selve regnskapsføringen, hvordan lese et regnskap, vi skal ta for oss hvor viktig det er å fakturere, og vi skal se på dette med lønn - for å nevne noen tema. Vi ønsker å sette søkelys på hvor viktig det er å ha et bevisst forhold til den økonomiske styringen i en bedrift.
+Økonomisk styring er et begrep vi kan benytte i flere sammenhenger. Vi kan la vår private økonomi gå av seg selv uten å ha noen form for oversikt over utgifter og inntekter. Dette kan gå bra om det hele tiden er mer i inntekter enn i utgifter. Er det en knapphet på inntektssiden, kan det gå galt om man ikke tar styring og gjør bevisste valg i forhold til løpende kostnader. Med økonomisk styring, kan vi med enkle grep ta kontroll og holde oversikt over kostnadsforbruket. Det kan gjøres så enkelt som å kartlegge de faste utgiftene som ikke er uunngåelig, og videre se disse opp i mot forventet inntekt.
+Bedriftsøkonomi er et omfattende begrep og er satt sammen av flere ulike delfag. Som en innføring til bedriftsøkonomi vil derfor se på internregnskap, budsjettering, investering/finansiering, mikroøkonomi, finansregnskap og regnskapsanalyse. Vi vil utover i kurset komme tilbake til de ulike temaene i større eller mindre grad.
+Økonomi dreier seg om knapphet, hvis alle har nok penger så er det lite behov for økonomi og økonomistyring, men økonomi må også kobles opp imot måloppnåelse. En må velge en økonomisk løsning som gjør at måloppnåelsen ikke reduseres, eller reduseres minst mulig. Når en skal foreta beslutninger er det en rekke faktorer som spiller inn, ikke alle er av økonomisk art, men i dette faget konsentrer vi oss mest om de økonomiske sidene ved beslutningene. Vi ønsker å besvare spørsmålene ut fra hva som er økonomisk mest fornuftig og gir det beste resultatet for bedriftseierne.
+I denne første leksjonen skal vi se på de vanligste selskapsformene vi har i Norge for små og mellomstore bedrifter.
+Av erfaring synes vi det er greit å bruke noen bedrifter gjennomgående i eksempler og øvinger så i dette faget skal vi gjøre oss kjent med firmaet Datadeler AS og bedriften Jostein AS. Det ene firmaet, Datadeler AS, produserer PCer og annet datautstyr ved at de kjøper inn PCer i deler og bygger de sammen før de selger de. Jostein AS er en bedrift i oppstartsfasen som driver med konsulenttjenester innen IT.
+
+Kursets gjennomføring – praktiske opplysninger
+Emnet vil bestå av 12 leksjoner. Pensum i emnet er leksjonene i tillegg til deler av de to lærebøkene vi har valgt ut. Vi har kommet fram til at det er behov for 2 lærebøker da dette emnet fokuserer både på økonomisk styring og regnskap, samt ulike tema inne bedriftsøkonomi. Lærebøkene er:
+Aage Sending: Innføring i bedriftsøkonomi, 5. Utgave(2014)© Fagbokforlage
+Trond Kristoffersen: Årsregnskapet, 7. Utgave(2019)© Fagbokforlaget (utgave 5 og utgave 6 kan også brukes)
+Oppdatert liste over hva som er pensum fra bøkene finner du på første side i hver leksjon, samt fortløpende på Canvas etter hvert som lærestoff publiseres. Det vil være en fordel å først lese ukens aktuelle leksjon for deretter å lese gjennom det som er satt opp som pensum tilknyttet hver enkelt leksjon. Gjennom leksjonene får dere et overblikk over hva ukens pensum omhandler. På denne måten vil dere lære mest mulig og få mest mulig utbytte av øvingene.
+Det vil bli lagt ut en ny leksjon hver uke hvor det følger med en øvingsdel som har tilknytning til leksjonen. Øvingsdelen skal besvares og sendes til veileder – fristen for innsending er tidligst 10 dager etter at leksjonen legges ut. Veileder har ansvaret for å rette din besvarelse. Øvingsbesvarelsen leveres via læringssystemet (LMSet) Canvas som du får tilgang til når du er registrert i faget. Filen som inneholder øvingen skal navnsettes på følgende måte: øvingsnummer-fagnavn (DIFT1003/INFT1004)-fornavn-etternavn.
+Eks: 01-DIFT1003-TorAtle-Hjeltnes eller INFT1004-TorAtle-Hjeltnes
+Eksamen er skriftlig eksamen. For å få gå opp til eksamen må 8 av 12 øvinger være sendt inn og godkjent, innen tidsfristen. Det anbefales at flest mulig øvinger gjennomføres da disse vil vise om dere har forstått de forskjellige temaene i faget. HUSK AT EN TIDSFRIST ER EN TIDSFRIST! Skulle du bli forhindret fra å levere flere øvinger innen fristen må du ta kontakt med faglærer så fort som mulig om du har behov for tilpasninger.
+En oversikt over leksjonene følger her:
+
+Jo og Stein
+Jo og Stein har akkurat avsluttet bachelorstudier innenfor drift av datasystemer. De er begge veldig opptatt av IT og har meget bred kunnskap innenfor oppsetting av PC-er, og det å sette maskiner i system og nettverk. For dem har dette i lang tid både vært en hobby og et studium.
+Både Jo og Stein kommer fra en liten plass i Nord-Trøndelag. Etter endt skolegang har de begynt å leke med tanken om å starte egen bedrift i hjembygda. De har merket seg at det er et marked for assistanse innenfor IT. Venner og familie har stadig hatt behov for hjelp til å installere programvare, oppgradere sine maskiner, reparere maskiner etc. Men å hjelpe venner og kjente har ikke økt lønningsposen noe særlig. De har lekt lenge med tanken om å ”drive for seg selv”. De ser for seg at de kan starte et konsulentfirma som kan bli benyttet av diverse kommunale institusjoner og privatpersoner. De har vurdert dette seriøst og sett at markdet er der, Jo og Stein blir enige om å etablere en bedrift.
+En av de første beslutninger de må foreta i oppstartsfasen er hvilken organisasjonsform de skal velge. Valget er av betydning i forhold til ansvar, risiko, skatt, rettigheter og plikter.
+Selskapsformer
+De vanligste organisasjonsformene/selskapsformene for små og mellomstore bedrifter er:
+Enkeltpersonforetak (ENK)
+Ansvarlig selskap (ANS)/(DA)
+Aksjeselskap (AS/ASA)
+Enkeltpersonforetak
+I et enkeltpersonforetak står en fysisk person ansvarlig for virksomheten. Det vil si at det kun er en eier. Et annet ord som betegner denne formen er å være selvstendig næringsdrivende. Eieren av et enkeltpersonforetak har stor økonomisk frihet – men er samtidig selv økonomisk ansvarlig for virksomhetens gjeld og forpliktelser. Eier og virksomhet er ett. Har virksomheten opparbeidet seg mye gjeld – og ender opp med konkurs, vil konkursboet gå inn i eierens private formue for å hente ut midler til å dekke opp gjelden.
+I motsatt fall – går virksomheten veldig bra øker også den personlige formuen. Skattemessig lignes enkeltpersonforetaket sammen med eieren personlig.
+Det finnes ingen egen lov som regulerer selskapsformen, enkeltpersonforetak. Man må være myndig og ikke ha konkurskarantene.
+Denne selskapsformen passer der det er små eller ingen investeringer og risikoen er liten. Dette er viktig å merke seg. enkeltpersonforetak er den vanligste organisasjonsformen i næringslivet. Foretakene er som regel små og med få ansatte.
+Ansvarlig selskap (ANS) og (DA)
+I et ansvarlig selskap (ANS) er man som i et enkeltmannsforetak, fullt ut ansvarlig for selskapets forpliktelser. Forskjellen er her at man er to eller flere eiere. I et ansvarlig selskap kalles eierne for deltakere eller kompanjonger.
+I praksis er det to hovedformer for ansvarlige selskap:
+ANS:	Alle deltakere har et solidarisk ansvar i forhold til hele gjelden. Det én deltaker ikke kan betale, kan kreves helt og fullt fra hvem som helst av de andre.
+DA:	DA står for delt ansvar. Her har deltakerne samlet et personlig ansvar for selskapsgjelden. Hver deltaker kan bare bli belastet for sin eierandel. For eksempel om firmaet Ball og Klabb DA skylder penger til REMA 1000, kan REMA 1000 bare kreve 10% av gjelden til den ene eieren som har en eierandel 10%, selv om de andre eierne ikke kan gjøre opp for seg.
+Ved stiftelse av et ANS må det avholdes et selskapsmøte. Deltakerne (eierne) er pliktig til å opprette en skriftlig selskapsavtale som alle skal undertegne. Denne skal sendes til Foretaksregisteret i Brønnøysund. Selskapsavtalen må inneholde selskapets formål, og den må inneholde hvor stor andel hver deltaker skal ha av et overskudd eller et underskudd.
+Bestemmelsene om ansvarlige selskap finnes i lov om ansvarlige selskaper og kommandittselskaper (selskapsloven). Et ansvarlig selskap har regnskapsplikt etter regnskapsloven § 1-2.
+Denne selskapsformen passer best for bedrifter med små investeringer og liten risiko. Og det er svært viktig at man kjenner og stoler på sine kompanjonger.
+Ansvarlig selskap er en vanlig organisasjonsform innenfor advokatbransjen, håndverksbransjen og blant annen innenfor revisjon.
+Aksjeselskap (AS)
+Aksjeselskap er en veldig vanlig organisasjonsform for store foretak i Norge. I et aksjeselskap (AS) kan det være en eller flere eiere. En eier har ingen personlig forpliktelse ovenfor selskapet og han har følgende et begrenset ansvar.
+Skal man starte opp et aksjeselskap må man stille med kr 30 000 i aksjekapital. Pengene skal stå på firmaets bankkonto når selskapet stiftes. Det er også mulig å dekke opp aksjekapitalen med inventar og maskiner i stedet for penger. Går selskapet konkurs, taper eierne kun det de har skutt inn i aksjekapitalen.
+Når man skal stifte et aksjeselskap må man holde et stiftelsesmøte og en konstituerende generalforsamling hvor eierne møtes. Det skal velges et styre, revisor og det skal fastsettes vedtekter for selskapet. Protokoll fra stiftelsesmøtet, kopi av vedtekter og villighetserklæring fra revisor må sendes Foretaksregisteret for at selskapet skal bli formelt stiftet.
+Som aksjonær (eier) har man to muligheter til å ta ut penger fra bedriften. Man kan ta ut aksjeutbytte, som er en godtgjørelse til aksjeeieren for hans aksjeinnskudd i bedriften. Utbytte er en del av det årlige overskuddet til bedriften. Man kan også ta ut penger i form av lønn for utført arbeidsinnsats.
+Et stikkord som må nevnes i denne sammenhengen er aksjonærmodellen. Aksjonærmodellen medfører at utbytte og gevinster etter fratrekk for et skjermingsfradrag er skattepliktig på aksjonærens hånd.
+Kilde: Smartepenger.no
+Slik er reglene for beskatning av aksjer, aksjefond, aksjesparekonto, og fondskonto.
+For privatpersoner blir gevinster/tap og utbytte skattlagt etter «Aksjonærmodellen». Dette gjelder for aksjer, aksjefondsandeler, aksjesparekonto, egenkapitalbevis, andeler i gjensidige forsikringsselskap, og kapitalandeler i samvirkeforetak.
+Her har det skjedd en del endringer de siste årene. Aksjeutbytter og gevinster over et visst skjermingsbeløp skattlegges som alminnelig inntekt, med 22 prosent skatt for personlige skatteytere for skatteåret 2021 og 2022. Før skatten beregnes skal det trekkes fra et skjermingsfradrag i utbytte eller gevinst.
+Modellen gjelder også for utenlandske aksjer.
+Oppjustering av skattegrunnlage
+I skatteårene 2021 og 2022 er satsen på alminnelig inntekt 22 prosent.
+I 2021 ble utbytte og gevinster på aksjer og aksjefond ganget opp med en faktor på 1,44, slik at skattesatsen i praksis ble 31,68 prosent. I 2022 økte denne oppjusteringsfaktoren til 1,60, slik at skattesatsen i praksis ble 35,20 prosent. Skatt fra ordinært utbytte fra inntektsåret 2023 utbetales i 2024, og i 2025 (2023 og 2024) er skatten på utbytte 37,84 prosent: 22 prosent (skatten på overskudd for AS i 2025) ganger 1,72 (en oppjusteringsfaktor fastsatt av Stortinget). Det samme for år 2026.
+Formålet med aksjonærmodellen er å redusere forskjellen i beskatning av kapital og arbeid ved å beskatte utbytte, utover et visst nivå, som alminnelig inntekt. Vi vil ikke gå nærmere inn på dette i kurset.
+Aksjeselskaper i Norge er regulert i en egen lov, Aksjeloven.
+Har man valgt en selskapsform, er neste steg å melde seg inn i Brønnøysundregistrene.
+Brønnøysundregistrene
+”Brønnøysundregistrene er en forvaltningsetat med ansvar for en rekke nasjonale kontroll- og registreringsordninger for næringslivet. Etatens overordnede mål er å bidra til økt økonomisk trygghet og effektivitet både for næringslivet og i samfunnet generelt.
+Brønnøysundregistrene gjør et viktig arbeid for å samordne næringslivets oppgaveplikter. Målet er å hindre overflødig innsamling og registrering av opplysninger, særlig av hensyn til små og mellomstore bedrifter.
+All registrering og rapportering er ikke bare en byrde, men gir også positive effekter. Brønnøysundregistrene er ett av Norges største lager av elektroniske data, og en viktig datakilde mange kan øse av. De fleste av oss har sannsynligvis i en eller annen sammenheng vært i kontakt med Brønnøysundregistrene. Som bedriftsleder, lånegiver, bruktbilkjøper, journalist eller enkeltperson kan du få tilgang til mye av informasjonen som er lagret i Brønnøysund.”
+Denne teksten er klippet ut i fra websidene til Brønnøysundregistrene (www.brreg.no).
+Brønnøysundregistrene har fått stor anerkjennelse internasjonalt for sin måte å løse forvaltningsoppgavene for Norge. Registrene har fått skryt for sin rolle i arbeidet med å måle og begrense næringslivets innrapporteringsbyrde.
+Brønnøysundregistrene består av mange register, og i denne sammenhengen er det to register som er relevante i forhold til bedriftsetablering. Det er Foretaksregisteret og Enhetsregisteret. Disse skal vi se litt på her.
+Foretaksregistere
+Hensikten med registreringen er blant annet å sikre korrekt oversikt over hvem som er ansvarlig i selskapet. I et enkeltmannsforetak er det ingen tvil om hvem som er ansvarlig, derfor gjelder ikke registreringsplikten generelt for den formen.
+Følgende organisasjonsformer har registreringsplikt til Foretaksregisteret:
+Aksjeselskaper og allmennaksjeselskaper
+Ansvarlige selskap, selskap med begrenset ansvar, kommandittselskap
+Enkeltmannsforetak som driver handel eller har mer enn fem ansatte
+Foreninger og stiftelser som driver næringsvirksomhe
+Utenlandske foretak med virksomhet i Norge
+Foretak med regnskapsplikt etter egen lov (f. eks. borettslag og sparebanker)
+Statsforetak
+Man må betale en avgift for å registrere seg i Foretaksregisteret. Aksjeselskap (AS) må betale
+kr 6 500 (via nett), Enkeltpersonforetak, Ansvarlige selskap (ANS) og selskap med delt ansvar (DA) må ut med kr 3 379 (via nett). (Prisene er per 1.1.2025. Prisen fastsettes av Stortinget fra år til år.)
+Enhetsregistere
+Enhetsregisteret er et felles knutepunkt for offentlige og private næringslivsregistre, og ble opprettet for å få en oversikt og samordning av disse. Enhetsregisteret inneholder de mest grunnleggende opplysninger om juridiske personer.
+Følgende selskap må registrere seg i Enhetsregisteret:
+alle som har ansatte
+alle som skal betale merverdiavgif
+alle som registreres i Foretaksregistere
+Registrering i Enhetsregisteret er gratis.
+Angående registrering
+Som nevnt er de fleste registreringspliktig til Brønnøysundregistrene. Noen slipper å registrere seg, men alle som er næringsdrivende har rett til å registrere seg om de ønsker dette. Og mange benytter seg av denne retten. En av fordelene er at man får et nisifret organisasjonsnummer. Når myndighetene kjenner dette nummeret kan de enklere samordne opplysningene om virksomheten som skal inn i offentlige registre. Dette gjør at man kan spare seg for mange spørreskjemaer.
+Det blir stadig viktigere å framstå med et organisasjonsnummer. Blant annet vil banker og andre finansieringsinstitusjoner kreve at en er registrert i forhold til lånesøknader. Ved å registrere seg er det klarhet i ansvarsforholdene. Kunder og leverandører synes det er betryggende når det ikke fins noen tvil om hvem som har ansvar for de ulike sidene ved virksomheten i et foretak.
+Når firmaet er registrert i Foretaksregisteret er firmanavnet vernet. Det vil si enerett til navnet på firmaet. Dette gjelder ikke om firmaet bare er registrert ved Enhetsregisteret.
+Jostein AS
+Jo og Stein har satt seg inn i de forskjellige selskapsformene de kan velge imellom. Siden de begge har et ganske stort press på sin private økonomi i form av studielån og billån, ønsker de ikke å utsette denne ytterligere om noe skulle gå galt. De ønsker derfor å stifte et aksjeselskap. De synes at Jostein AS er et glimrende navn. Den neste utfordringen blir å skaffe til veie penger for å dekke aksjekapitalen på
+kr 30 000 og utgiftene for å registrere seg i Foretaksregisteret i Brønnøysund. I leksjon 2 – Økonomistyring, skal vi ta for oss temaet om kapitalbehov, og kapitalbehov ved etablering.  Da skal vi se på hvordan Jo og Stein finansierer aksjekapitalen ved oppstart.
+Andre forhold ved bedriftsetablering
+Vi har nå gått i gjennom de vanligste organisasjonsformene for små og mellomstore bedrifter i Norge. Vi har sett litt på hvilke krav og forpliktelser som eierne må forholde seg til. Denne leksjonen baserer seg på den tidlige fasen i bedriftsetableringen. En ting som alle gründere og bedriftsetablerere må gå grundig igjennom og skrive, er en forretningsplan.
+Forretningsplan
+En forretningsplan skal skrives før man starter opp en bedrift eller før man setter i gang en produksjon av et produkt. Forretningsplanen skal blant annet inneholde detaljerte analyser av markedet, kunder, konkurrenter og den skal beskrive forretningsideen til bedriften. En slik plan vil styrke eierne i troen på å etablere seg om de får bekreftelser på at det finnes et marked for bedriften/produktet. Og den vil i motsatt fall spare eierne for arbeid og penger om forretningsplanen avdekker ukjente faktorer som har stor betydning for bedriftens overlevelse. Forretningsplanen har kanskje kommet fram til at det er et vanskelig marked for restauranter i Trondheim. Av de som allerede er etablert, er fåtallet overskuddsforetak. Dette kan komme som en overraskelse på eierne, som hadde et mål og en drøm om å starte en restaurant i Trondheim – drømmen blir ikke så god når man har analysert seg fram til at det blir vanskelig å lykkes. Ofte ender etableringsplanene på denne måten.
+Lesere av forretningsplanen kan være finansieringsinstitusjoner og investorer.
+Faremomenter
+For å prøve å få en bedrift til være så suksessfull som mulig, er det smart å tenke igjennom hvilke faremomenter man må være observant på. Nyetablerte bedrifter er i en kritisk fase. De har ikke fått skikkelig fotfeste hos sine kunder, de har relativ lav egenkapital, og de kan ha forholdsvis store kostnader som følge av nylig etablering av bedriften. Nyetablerte bedrifter er sårbare mot konjunktursvingninger. De har som regel ikke den forankringen i markedet som konkurrenten har – og er da mer utsatt for å gå konkurs.
+Mulige årsaker til en konkurs (generelt)
+At en bedrift går konkurs kan ha mange grunner. Det kan være dårlige interne rutiner og det kan være eksterne forhold som man ikke kan beskytte seg mot.
+Interne forhold
+bedriften har satset på feil produkter
+kostnadskontrollen i bedriften har vært mangelfull
+ledelsen har prioritert vekst framfor lønnsomhe
+bedriften har manglet finansielle mål
+Eksterne forhold
+betydelig nedgang i prisene på selskapets produkter
+konkurrentene har kommet med bedre og billigere produkter
+økte offentlige avgifter
+vanskeligheter med å få lån
+Videre er det viktig å se på eventuelle krisetegn ved en bedrift. Følgende krisetegn bør observeres og behandles raskt. I bedriftens daglige drift kan følgende være tegn på en eventuell krise:
+manglende samarbeid i bedriftens ledelse
+høyt sykefravær blant ansatte
+stor gjennomtrekk av ansatte
+dårlig kvalitet på bedriftens service
+dårlig økonomisk styring
+I bedriftens regnskap kan man også lese seg til faremomenter. Disse kan være:
+underskudd flere år på rad
+dårlig regnskapsføring av bedriften
+unnlatelse av diverse momenter i regnskapet som er vesentlig for å få fram et riktig bilde av bedriftens status
+Gjeldsforhandling og konkurs
+Sliter en bedrift med å betale for seg kan en løsning være å ta kontakt med kreditorene (de som vi skylder penger) for å vurdere situasjonen og prøve å forhandle seg til en løsning. Gjeldsforhandling er en fellesbetegnelse på betalingsutsettelse og akkord. Betalingsutsettelse betyr at man kan utsette innbetalingen av gjelden, og akkord vil si at kreditor ettergir en del av gjelden.
+Har man ikke funnet noen løsning med kreditor i forhold til gjeldsforhandlingene, og de fortsatt skal ha innbetalt det de har utestående, er sannsynligvis konkurs den eneste og siste utvei. En konkurs åpnes av skifteretten. Det gjøres beslag av debitors (han som skylder penger) økonomiske verdier. Debitor mister råderetten over sine økonomiske verdier. Han har ikke muligheter til å drive forretningsdrift så lenge det er åpnet en konkurs. Skifteretten skal administrere konkursboet. Den skal sørge for at kreditorene skal få tilbakebetalt sin gjeld, i den grad det er mulig.
+Diverse stikkord
+Insolvent		
+Det er kun mulig å åpne en konkursbehandling når debitor er insolvent. Insolvent betyr at man ikke er i stand til å betale for sine forpliktelser etter hvert som de forfaller.
+Pan
+En panterett er en særrett til å søke dekning for et krav i en formuesgjenstand. En panterett betyr at en pantekreditor står i en særstilling ved konkurs. Ved salg av gjenstanden får pantekreditor først dekket sitt krav. Et konkursbo må respektere en panterett.
+Dividende
+I et konkursbo kan det ligge mange krav som kreves å bli dekket. Skifteomkostninger skal dekkes foran all annen gjeld. Videre nevnte vi at en leverandør som har tatt pant i varen han har levert til kunden sin, får først dekket sitt krav ved salg av varen. Lønn prioriteres høyt i forhold til krav som skal dekkes, det samme gjelder offentlig gjeld.
+Krav som kommer fra uprioriterte leverandører kalles for dividende. Disse har ikke sikkerhet for sine krav.
+Oppsummering
+Denne leksjonen er en innledning til faget Økonomisk styring og regnskap. Siden vi ønsker å følge en bedrift gjennom kurset, er det naturlig av vi i første leksjonen tar for oss de første steg som gjelder ved en bedriftsetablering. Vi har sett på organisasjonsformene, Brønnøysundregistrene og sett på hvilke faremomenter som man må være oppmerksom på i en oppstartsfase og videre i den daglige drift.
+I neste leksjon skal vi se mer på økonomistyring, blant annet ved hjelp av budsjett.
+Lenker i leksjonen:
+https://www.altinn.no/starte-og-drive/
+ www.brreg.no
+Nr | Leksjoner
+1 | Introduksjon til fage
+2 | Grunnleggende forståelse av økonomistyring
+3
+ | Balansen
+4
+ | Resultatregnskape
+5 | Lønn og merverdiavgif
+6 | Vurdering og verdsettelse av balanseposter og rapoportering
+7 | Kostnads- og inntektsanalyse
+8 | Kostnadsbegreper og kalkulatoriske kostnader
+9 | Kostnadsfordeling og kalkulasjonsprinsipper
+10 | Ulike driftsregnskapsmodeller
+11 | Produktvalg
+12 | Investeringer og prosjektøkonomi
+ |
+ |
+
+
+===== Leksjon2-okonomistyring-2026h.docx =====
+
+IDI AIT, NTNU
+ Økonomistyring
+Monica Storvik, Tove Hepsø og Tor Atle Hjeltnes
+13.08.2026
+Lærestoffet er utviklet for faget DIFT1003 og INFT1004 Økonomisk styring og regnskap
+Basert på Aage Sending: Innføring i bedriftsøkonomi, 4. Utgave (2006) og 5. Utgave(2014)© Fagbokforlage
+Basert på Trond Kristofferen: Årsregnskapet, 7. Utgave (2023)© Fagbokforlage
+
+Økonomistyring
+Resymé: Økonomistyring er viktig i mange sammenhenger både privat og som leder i en bedrift. I denne leksjonen skal vi belyse litt flere områder rundt økonomistyringen i en bedrift.
+Lærebok 1, Årsregnskapet: Pensum til leksjonen finner vi i kapittel 1, 2, 6.1, og 6.2. i læreboka utgave 5, 6 og 7.
+
+Innhold
+1.1.	Innledning	3
+1.2.	Økonomistyring	4
+1.3.	Økonomistyring - hva er det?	4
+1.4.	Økonomistyring – planlegging og budsjettering	5
+1.5.	Økonomistyring og regnskap	5
+1.5.1.	Finansregnskap	6
+1.5.2.	Skatteregnskap	7
+1.5.3.	Internregnkap	7
+1.5.4.	Hvordan foreta økonomisk styring	7
+1.5.5.	Klare mål	8
+1.5.6.	God planlegging	8
+1.5.7.	Delegering av ansvar	9
+1.5.8.	Hvem driver økonomistyring i bedriften?	9
+1.6.	Budsjettering og planlegging	10
+1.6.1.	Resultatbudsjett	10
+1.6.2.	Likviditetsbudsjett	12
+1.6.3.	Forskjellen på resultatbudsjett og likviditetsbudsjett	12
+1.7.	Økonomi og etikk	12
+1.7.1.	Regnskapsloven	13
+1.7.2.	Aksjeloven	13
+1.7.3.	Skatteloven	13
+1.8.	Bedriftens økonomiske kretsløp	14
+1.8.1.	Produksjonskretsløpet	14
+1.8.2.	Finanskretsløpet	15
+1.9.	Kapitalbehov og finansiering	16
+1.9.1.	Langsiktig gjeld	16
+1.9.2.	Kortsiktig gjeld og annen oppstartskapital	17
+1.9.3.	Finansieringsbehovet til Jostein AS	18
+1.10.	Oppsummering	19
+
+Innledning
+I forrige leksjon ble Jostein AS stiftet. Vi så på de forskjellige organisasjonsformene som er de mest vanlige for små og mellomstore bedrifter. En av hensiktene med å lære om selskapsformene er at de har forskjellige plikter og rettigheter. Dermed blir valg av organisasjonsform ikke uten betydning. Vi skal nå gå litt videre i livet til Jostein AS. Hva er viktig nå for selskapet, hvilket mål har de og hva skal de gjøre for å oppnå disse.
+Innledningsvis i forrige leksjon ble temaet økonomisk styring berørt. Det ble nevnt at økonomisk styring blant annet er viktig for at ledelsen i en bedrift har kontroll på sine inntekter og ikke minst utgifter, for så å kunne planlegge den videre drift på en best mulig måte.
+Var det nok av alt i verden hadde det vært lite behov for ordet økonomi. Da hadde vi sluppet planlegging og ressursbruk på nettopp økonomistyring. Hadde vi som privatpersoner hatt full og gratis tilgang på mat, klær og husvære, og vi som en bedrift hatt full gratis tilgang på råvarer og arbeidskraft, så ville ikke planlegging vært et høyt prioritert område.
+God økonomi er å få mest mulig for minst mulig. Dette målet er overordnet både i privat- og offentlig sektor. I privat sektor er som regel god økonomi det samme som et akseptabelt overskudd i form av penger. I offentlig sektor vil ofte god økonomi være å ha nok ressurser for å dekke alle behov som en etat er pålagt å gjennomføre. For en sykehusavdeling er det ikke et ønske å få mest mulig overskudd, men å få utnyttet ressursene optimalt i forhold til sine pasienter. Er det knapphet på ressurser, kan en ikke kutte ned på medisinbruken – selv om dette kanskje er en stor utgiftspost, en må kanskje heller se på kostnadene på personalsiden og redusere kostnader der. Altså oppfattes god økonomi på forskjellige måter i forskjellige organisasjoner.
+I denne leksjonen skal vi gå litt nærmere inn på dette med økonomistyring i en bedrift. Vi skal se litt på at dette ikke kun gjelder toppledelsen. Andre ansatte er også med på å påvirke det økonomiske resultatet, og videre den økonomiske styringen gjennom måten de velger å utføre sin jobb på.
+
+Økonomistyring
+Formålet er å være oppdatert og i forkant av eventuelle situasjoner som kan oppstå.
+En bedrift som har stor pågang fra sine kunder og god fortjeneste på sine varer kan faktisk velte og gå konkurs ved mangel på økonomisk styring. Vi kan ta et eksempel fra virkeligheten.
+’Tre personer har stor faglig dyktighet i det å bygge en spesiell type båt. De aner at det er et marked for slike båter. De starter en bedrift og kundene strømmer på. Eierne har høy kompetanse innenfor båt-bygging og er svært nøyaktige. Båtene er av relativ høy prisklasse. Pågangen etter båt-typen er enorm og de jobber nesten døgnet rundt for å møte etterspørselen fra kundene. I oppstartsfasen prioriterer de å ikke bruke ekstra ressurser på administrative oppgaver. Planen er at daglig leder skal gjøre ”papir arbeid” på kveldstid. Men tid til dette er det ikke. Kostnadene til innkjøp av råvarer øker, og pengene inn fra kundene kommer ikke fort nok da daglig leder ikke har nok tid til å fakturere fortløpende. Bankkontoen er akkurat i pluss. Plutselig skjer det noe uforutsett. En kunde vil ikke gjøre opp for seg da han finner en mangel ved båten. Det viser seg at det er en følge-feil som gjelder alle båter. En feil som er enkel å rette opp, men det vil ta noe tid – og tid er penger. Kundene vil ikke betale for båtene før feilen er utbedret. Varekostnadene øker, men inntektene har stagnert. Regninger til underleverandører må betales – men nå er bankkontoen ikke lenger i pluss. Faktisk er det så ille at kravet fra en leverandør kan få bedriften begjært konkurs.’
+Dette eksempelet er ikke enestående, mange små bedrifter plasserer ressursene sine der hvor de er dyktigst og der hvor de har den største interessen. Eksempelet viser at økonomistyring er svært viktig. Hadde denne båt-bedriften holdt styring på sine kostnader – og ikke minst sørget for å være à jour med å sende ut faktura for å få penger fortere inn, hadde kanskje følge-feil-saken ikke vært noe problem. Da daglig leder selv ikke hadde tid til å gjøre de administrative oppgavene burde han ha ansatt noen til å fått utført disse, eller de kunne fått tjenesten uført av et regnskapsfirma.
+Økonomistyring - hva er det?
+Veldig mange tror at økonomistyring er noe som de profesjonelle økonomene tar seg av, men det en ser i næringslivet i dag er at de fleste beslutninger tas av ikke økonomer. Økonomiske beslutninger opptrer for hyppig og i for stort omfang til at de kan håndteres bare av økonomene i bedriftene. Grunnleggende økonomisk forståelse og innsikt på et visst nivå må i dag anses som nødvendig allmennkunnskap selv for lederstillinger på et lavt nivå. Selv om dere ikke ser for dere en fremtid som økonom så er det uansett nyttig å ha et visst minimum av økonomikunnskaper.
+En annen ting som står sentralt i økonomifag på grunnleggende nivå er å lære seg å beherske fagterminologien. Jo bedre en leder behersker den økonomiske fagterminologien jo bedre er en i stand til å kommunisere med økonomene i beslutningsspørsmål og i analyse av regnskapet.
+Økonomistyring består i aktiv bruk av dataene (regnskapene) for å gjøre bedriften bedre. Økonomistyring anvendt på riktig måte og med sterk brukermedvirkning stimulerer og motiverer til økt innsats og produksjon på alle plan. En nyere trend innenfor økonomistyring betegnes balansert målstyring. Her søker en å systematisere ulike faktorer som er viktige for en virksomhets suksess, hvorav et sentralt felt er finansielle prestasjonsmål. Vi vil komme nærmere tilbake til balansert målstyring seinere i leksjonen.
+Økonomistyring – planlegging og budsjettering
+En sentral oppgave for dagens ledere er planlegging og kontroll. Dette gjelder uansett type organisasjon, jo bedre du planlegger fremtiden jo større er sjansen for at bedriften gjør det bra og at en tidlig kan ta tak i eventuelle ting som ikke går så bra.
+Planleggings- og kontrollprosessen består av flere oppgaver:
+det skal fastsettes mål på kort og lang sikt, både økonomiske mål og mål av ikke-økonomisk ar
+det skal utarbeides budsjetter og handlingsplaner for å nå disse målene
+det må utvikles et rapporteringssystem som viser hvilke prestasjoner som utøves
+det må etableres oppfølgingsprosedyrer – kontroll for å sikre at målene nås
+Alle disse oppgavene inngår i begrepet økonomistyring. Når målene er fastsatt så er det viktig å komme i gang med budsjetteringen. Å sette opp budsjett er av mange undervurdert, men ved å bruke budsjettene opp imot regnskapet løpende gjennom året gir det et godt bilde av situasjonen i bedriften. Det finnes mange typer budsjett som kan settes opp, hvilke typer som bør settes opp kommer an på type bedrift og størrelsen på bedriften. De mest sentrale budsjettene er resultatbudsjett, balansebudsjett og likviditetsbudsjett.
+Langtidsplanlegging og budsjettering er viktige elementer for å tvinge ledere til å se fremover. Det er viktig at lederne er i stand til å oppfatte signaler til justering i aktivitetene og eventuelt foreta nødvendig justeringer for å nå målene i tide.
+Et økonomistyringssystem krever at det er bygd opp en god organisasjonsstruktur i bedriften. Klare linjer for ansvar og myndighet er viktig. For at en skal lykkes er det også viktig at budsjett og myndighet henger sammen. Hvis en person blir tildelt ansvar for et prosjekt eller lignende, men ikke blir tildelt budsjettmidler som personen selv kan styre over så er det vanskelig for personen som blir tildelt ansvaret å nå målene som er satt for prosjektet. Generelt skal økonomistyringssystemene være instrumenter for at virksomheten skal nå sine mål.
+Økonomistyring og regnskap
+Vi kan dele regnskap inn i følgende typer:
+finansregnskap
+skatteregnskap
+internregnskap
+Disse tre regnskapstypene tjener ulike formål. Regnskapet skal registrere og presentere hva som faktisk skjer, og kontrollprosessen skal avdekke avvik mellom planer (budsjetter) og det som ble realisert (regnskap). Alle bedrifter er pålagt å ha et finansregnskap. Når det gjelder internregnskap er det ikke noe lovhjemmel som sier at bedriftene må ha det, men en ser at internregnskap er et nyttig verktøy i de daglige beslutninger ledere må ta på alle nivåer i en organisasjon.
+For at regnskapet skal løse sine oppgaver tilfredsstillende, er det etablert noen prinsipper. Disse prinsippene er tillagt ulik vekt i finans- og internregnskapet. Følgende prinsipper er sentrale:
+historisk kost-prinsippet, innebærer at eiendeler vanligvis regnskapsføres til kostpris og at denne er grunnlaget for vurderingen av eiendelen. En svakhet med dette prinsippet er at verdien av eiendelene i regnskapet ikke representerer dagens verdi. Dette prinsippet brukes fullt ut i finansregnskapet og i stor grad i internregnskapet, men i internregnskapet er det også mange som benytter seg av gjenanskaffelsesverdi.
+sammenstillingsprinsippet, innebærer at inntekter sammenstilles med kostnadene som har gått med for å skape denne inntekten.
+krav til konsistens, betyr at en skal vurdere like tilfeller på samme måte i de forskjellige periodene. Hvis en bytter regnskapsprinsipp skal en i finansregnskapet forklare hvilke konsekvenser det har fått, det samme bør en også gjøre i internregnskapet.
+Forsiktighetsprinsippet eller krav til realisme, innebærer at inntekter skal tas med når de er realisert, mens kostnadene skal registreres selv om de ikke er sikre. Finansregnskapet benytter seg av forsiktighetsprinsippet i stor grad, mens i internregnskapet er det kravet til realisme som er viktig.
+fortsatt drift prinsippet, her vurderes kostnader og den økonomiske stillingen under forutsetning om at bedriften skal drives videre.
+Det er viktig å være kjent med disse prinsippene når en skal jobbe både med finansregnskapet og med internregnskapet.
+Regnskapsinformasjon er viktig for å dekke spesielt tre funksjoner. Informasjonen:
+skal være til hjelp i beslutningstaking
+skal brukes til kontroll
+er viktig i forbindelse med forvaltningsoppgaver.
+En hovedfunksjon for regnskapsinformasjon er å hjelpe beslutningstakere til å gjøre anslag for fremtiden basert på erfaringer fra fortiden. Når det gjelder kontroll går det ut på å sammenligne realiserte resultater med vedtatte planer. Dette er viktig for å se om en er på riktig vei eller om en underveis må endre kurs. Forvaltningsoppgaver innebærer flere elementer, men det mest sentrale her er at regnskapet skal danne grunnlag for beskatning, momsavregning og statistiske opplysninger.
+Et regnskap har ulike målgrupper eller interessenter. De fleste interessentene har kun tilgang til finansregnskapet, mens noen få også får tilgang til internregnskapet.
+Finansregnskap
+Finansregnskapet er bedriftens offisielle regnskap og dette er lovbestemt. Det inneholder resultatoppstilling, balanseoppstilling samt noter, og gir først og fremst tall for bedriften totalt. Disse tallene er ikke tilstrekkelig i forhold til de kravene som stilles i internregnskapet. Årsaken til det er at en ikke ønsker å vise omverdenen for mange detaljer.
+Finansregnskapet er ikke laget med tanke på økonomistyring, men skal gi eksterne interessenter en mulighet for å vurdere bedriftens resultat og økonomiske stilling.
+
+Skatteregnskap
+Skatteregnskapet er ikke regnskap i samme grad som finansregnskapet og internregnskapet. Det bygger på finansregnskapet og suppleres med skjemaer som får frem forskjellene mellom finansregnskapet og skatteregnskapet. Avvikene finnes blant annet på avskrivinger, vareforbruk, tap på fordringer og ikke fradragsberettigede kostnader.
+Internregnkap
+Internregnskap er et informasjonssystem for økt verdiskaping. Internregnskapet skal gjøre beslutningstakere uansett nivå i bedriften i bedre stand til å styre økonomien og ta målfremmende avgjørelser. I internregnskapet er det fokus på følgende:
+en skal få frem en mer bedriftsøkonomisk velfundert lønnsomhetsmåling, bl.a gjennom mer relevante kostnader
+en skal måle lønnsomhet på ulike nivåer og ikke bare for bedriften total
+en skal få grunnlag for produktkalkyler
+en skal tilrettelegge for effektiv kostnadskontroll
+en skal gi de som kan påvirke resultatet relevant styringsinformasjon
+en skal sørge for relevant prestasjonsmåling av salgs-, resultat- og kostnadsansvarlige
+en skal gi riktige data til ulike beslutninger
+I internregnskapet foretrekker en ofte og god nok informasjon fortest mulig, mens en i finansregnskapet legger liten vekt på rask rapportering og mer vekt på formelt riktig informasjon. Finansregnskapet er regelorientert, mens internregnskapet er handlingsorientert. Som nevnt tidligere så legger finansregnskapet vekt på forsiktighetsprinsippet, mens en i internregnskapet legger mer vekt på realisme.
+Hvordan foreta økonomisk styring
+I en bedrift er det som sagt vanlig å føre minst to typer regnskap. Et regnskap er en lovpålagt å føre, i tillegg føres et regnskap som kun er ment til internt bruk. Dette kalles internregnskap.
+Internregnskapet skal gjøre leserne oppmerksomme på hvordan situasjonen er på diverse områder i bedriften, dette regnskapet ønsker bedriften som regel å holde internt. Kanskje settes det opp et internregnskap for å klare å holde følge med sine konkurrenter, da er det ikke ønskelig at disse får lesetilgang til dette. Vi kan ta et eksempel på dette:
+Går vi til våre Nord-trønderske venner Jo og Stein, ønsker de etter et halvt års drift å se på kostnadene forbundet med å ta på seg oppdrag for de kommunale etatene. De kommunale etatene krever mye forarbeid før de skal utføre tjenester for dem. De krever at det er satt opp et eksakt tilbud, hvor alt skal spesifiseres fra timeantall som forventes brukt, til nøyaktige priser på maskinvare som må kjøpes inn. Dette er en tidkrevende jobb og mye av dette forarbeidet får de ikke betalt for. De ønsker å se på hvor stor andel av oppdragene de har utført som er gjort til private kunder og videre til de kommunale etatene. Slik informasjon kan de ikke lese ut i fra bedriftens årsregnskap. De må hente ut ønskede opplysninger fra regnskapssystemet, og sette disse opp imot hverandre. Dette oppsettet blir et internregnskap.
+Altså er internregnskapet et verktøy for å holde økonomistyring i en bedrift. Jostein AS kom fram til at de hadde ikke den fortjenesten de burde ha totalt ved utføring av tjenester til kommunen. For å løse dette bestemmer de seg for å legge på et administrasjonsgebyr når de heretter skal jobbe for de offentlige etatene. En slik løsning er kanskje ikke alltid den beste. Er det stor konkurranse må en passe seg for at en ikke holder et for stort prisnivå for sine kunder. Kundene er ikke ubegrenset lojale, også for de gjelder det å få gjort mest mulig for minst mulig.
+Det å lese tall fra internregnskapet for så videre å vurdere disse og ta de riktige valg er økonomistyring. Et annet verktøy for å ha økonomistyring over bedriften er å føre et budsjett over for eksempel forventede inntekter og utgifter. Viktigheten av budsjett skal vi komme tilbake til senere i denne leksjonen og i en senere leksjon.
+Det lovpålagte regnskapet er også et viktig verktøy i den økonomiske styringen. Mange små bedrifter har kun dette regnskapet som informasjon om den økonomiske situasjonen, og bruker denne til å vurdere framtiden. Da sammenligner de gjerne perioder for å se hvordan utviklingen i firmaet er. Vi skal se på det å føre regnskap i leksjon 3 og 4.
+Klare mål
+For at økonomistyringen i en bedrift skal ha mening må målene være fastlagt. Ansatte i en bedrift må vite hva målene er, og de må være entydige for at de skal kunne forholde seg til de. Er det klare og konkrete mål, kan bedriften i ettertid finne ut om disse er nådd.
+Eksempler på mål for Jostein AS:
+
+tilfredsstillende fortjeneste
+Jo og Stein skal alltid være oppdatert på den teknologiske fronten
+de skal fakturere sine kunder straks jobben er utfør
+de skal ha 50% av markedet for leveranse av IT-tjenester i nærområdet innen ett år
+For ansatte er realistiske mål noe de kan forholde seg til og disse virker mer motiverende.
+Har en bedrift god økonomisk oversikt, vil det for eksempel fanges opp at en avdeling har gjort en veldig god jobb en måned. De ansatte i avdelingen har jobbet ut i fra virksomhetens mål, og oppnådd gode resultater. For at de ansatte skal holde motivasjonen oppe er det fornuftig av ledelsen å påskjønne de ansatte med rosende ord og kanskje en kake for det gode resultatet. Hadde ikke ledelsen hatt sin gode oversikt, og ikke fulgt med på at avdelingen virkelig stod på for at bedriftens mål skal nås og videre bemerket dette, hadde de ansatte muligens til slutt mistet gnisten og motivasjonen for å stå på ytterligere. Altså er det motiverende å belønne den gode innsatsen kjapt etter at den er utført. Dette kan sies å være god bedriftsøkonomi.
+God planlegging
+I ordet planlegging ligger det at bedriften bestemmer seg for å hva de skal gjøre, når de skal gjøre det og hvordan de gjør det. Det er også viktig å følge opp planene for å se om de blir realisert – ellers blir planleggingen bortkastet. Måten dette gjøres på er via diverse former for kontroll.
+Budsjetter og handlingsplaner er en måte å planlegge driften på. Kontrollen er å sammenligne oppnådde resultater med budsjettet. Ved å la de ansatte få delta i prosessen med å planlegge og å foreta kontroll øker dette motivasjonen for å gjøre en bedre jobb. Det å ta mellomtider gir muligheter for justeringer underveis. Hele denne prosessen vil øke samarbeidet med de ansatte i mellom.
+Økonomistyring kan og vil ofte medføre upopulære avgjørelser. Vi tar et nytt eksempel fra Jostein AS:
+Jo og Stein har stor oppdragsmengde og føler de har for mye å gjøre til tider. De har behov for litt assistanse på den administrative siden, og de har behov for å få utført renhold i kontorlokalene som de leier. De bestemmer seg for å ansette Stein sin onkel, Lasse, for å få gjort disse oppgavene. Han har tidligere jobbet på kontor, men er nå arbeidsledig. Etter et halvt års drift fungerer dette ikke som det skal. Ved beregninger ut i fra tallene i regnskapet blir denne administrative kostnaden for stor. Lasse er heller ikke så veldig effektiv, han belaster Jo og Stein med mye tid da han ikke klarer å jobbe selvstendig nok. Hva gjør Jo og Stein? Ut i fra et familiært hensyn er det vel lurest å prøve å gjøre det beste ut av det, men bedriftsøkonomisk så tåler ikke Jostein AS denne ekstra kostnaden på sikt. Og siden de er ganske ferske på å drive bedrift, hvor det er viktig å drive relativt nøkternt, må de ta det upopulære valget å avskjedige Lasse.
+Delegering av ansvar
+Vi synes det er viktig å nevne litt om det å delegere ansvar. Toppledelsen i en bedrift har som regel ansvaret for de beslutninger som er av betydning i en bedrift. Når en bedrift vokser blir det vanskeligere for toppledelsen å kontrollere den løpende driften og ta alle de nødvendige beslutninger. Et grep for å opprettholde god økonomisk styring er å delegere ansvaret for den daglige drift og kontroll til ledere på lavere nivå. Dette kalles for å desentralisere styringen. Denne beslutningen kan gi økt motivasjon og gi bedre beslutninger.
+Hvem driver økonomistyring i bedriften?
+Det er feil å tro at det er kun økonomene i en bedrift som driver med økonomistyring. Økonomene sin jobb er å bearbeide og samle inn de økonomiske dataene i en bedrift for så å presentere disse videre til beslutningstakerne. Alle som tar beslutninger med økonomiske konsekvenser driver økonomistyring, dette kan være:
+avdelingssjefer
+produksjonssjefer
+selgere
+økonomisjefer
+personalsjefer
+også arbeiderne på gulvet. Når disse bestemmer seg for å gjøre en god eller dårlig jobb har dette økonomiske konsekvenser for bedriften.
+Det er viktig at de som skal treffe beslutninger har tilgang på informasjon om økonomisk styring. Og det er viktig at disse behersker grunnleggende økonomiske verktøy og tenkemåter. Vi håper du som leser av dette, har fått en liten tankevekker over hvor viktig det er med økonomisk styring og at når du blir bedriftseier behersker en fornuftig tenkemåte og holder god oversikt over bedriftens inntekter og kostnader!
+Normalt gjennomføres som nevnt økonomistyring ut i fra tall hentet ut i fra regnskapssystemet. Hvilket regnskapssystem en skal velge å bruke i en bedrift må vurderes ut i fra hvilke kostnader en har muligheter å ta høyde for. Regnskapssystemer finnes i alle prisklasser, ut i fra hvor mange ansatte og hvor stort omfang systemet skal dekke. Det er viktig at måten en holder økonomistyring ikke blir for ressurs- og kostnadskrevende. Det er viktig å vurdere nytten opp i mot kostnaden.
+Budsjettering og planlegging
+Som tidligere nevnt, er budsjett et verktøy for økonomistyringen i en bedrift. Et budsjett er en oppstilling over de økonomiske virkningene vi venter å få av det vi planlegger. Et budsjett tvinger ledelsen til å planlegge og se fremover.
+I teorien om budsjetter finner vi at et budsjettsystem kan bestå av en rekke budsjettyper. Budsjettene kan deles inn i hovedbudsjetter og delbudsjetter (underbudsjetter). De vanligste budsjettene er:
+salgsbudsje
+innkjøpsbudsje
+kostnadsbudsje
+produksjonsbudsje
+investeringsbudsje
+markedsføringsbudsje
+Med utgangspunkt i delbudsjettene settes hovedbudsjettene opp, og disse er:
+resultatbudsje
+likviditetsbudsje
+balansebudsje
+
+Vi skal i dette faget se på resultatbudsjett og likviditetsbudsjett.
+Resultatbudsje
+Et resultatbudsjett skal gi uttrykk for en bedrifts inntekter og kostnader i løpet av en periode. Det kan settes opp resultatbudsjett basert på for eksempel et år, et kvartal eller en måned. Når en setter opp et resultatbudsjett skal det gjenspeile de inntektene og kostnadene som gjelder kun for den aktuelle periode. Husk her at vi må skille mellom kostnader og utgifter. En utgift oppstår i den perioden den blir betalt, mens en kostnad gjelder for en bestemt periode. Hvis vi i januar et år betaler kroner 3 000 i husleie for 1. kvartal samme år, blir utgiften i januar på kroner 3 000. Kostnaden for januar blir 3 000/3 måneder = 1 000, mens utgiften på januar blir på kroner 3 000. Det er viktig å merke seg at et resultatbudsjett skal bestå av kostnader. Det vil si kostnaden pr. periode. Tidspunkt for når regningen blir betalt spiller ikke noen rolle ved resultatbudsjett, betalingstidspunkt er kun aktuelt ved oppsett av likviditetsbudsjett.
+
+Resultatbudsjett pr. år: Hvis vi skal sette opp et resultatbudsjett for et år må vi sette opp forventet tall for 12 måneder. Har vi oppgitt kostnadene/ inntektene pr. måned eller pr. kvartal må disse ganges opp slik at de gjelder for 12 måneder.
+Resultatbudsjett pr. kvartal: Skal vi sette opp et resultatbudsjett for et kvartal skal dette inneholde inntekter og kostnader for 3 måneder. Hvis beløpene er oppgitt for 1 måned må vi gange disse med 3, er det oppgitt for et år må vi dele beløpet på 4 for at det skal gjelde for et kvartal.
+Resultatbudsjett pr. måned: Ved oppsett av resultatbudsjett pr. måned må tallene gjelde kun for en måned. Har vi oppgitt inntektene og kostnadene for et år må disse deles på 12 for å gjelde pr. måned. Har vi derimot oppgitt kostnadene pr. kvartal må kostnadene deles på 3 for å gi inntekten/kostnaden pr. måned.
+Eksempel på budsjett pr. kvartal:
+Vi har følgende opplysninger, og ut i fra dette skal vi sette opp et resultatbudsjett for
+1. kvartal (januar-februar-mars):
+Lønn pr. måned		10 000
+Husleie pr. måned		  2 000
+Mat pr. måned			  1 500
+Klær pr. måned		     500
+Strøm pr. kvartal		  3 000 (betales i januar)
+Bilforsikring pr. år		  3 600 (betales i februar for hele året)
+
+Resultatbudsjett for 1 kvartal:
+
+Hvis vi tar utgangspunkt i opplysningene over og setter opp resultatbudsjett for bare en måned vil det bli slik.
+
+Resultat budsjett for januar:
+
+Likviditetsbudsje
+Et likviditetsbudsjett skal vise bedriftens fremtidige innbetalinger og utbetalinger. Det som er viktig her er når penger kommer inn på konto til en bedrift og når regninger blir betalt altså når utgiften oppstår. Her er det betalingstidspunktet som er viktig. Hvis vi tar med oss eksempelet med husleien over og skal sette opp likviditetsbudsjett for 1. kvartal så skal det i likviditetsbudsjettet føres opp 3000 kroner som utgift i januar og ingen ting verken i februar eller mars.
+
+Eksempel på likviditetsbudsjett for et kvartal:
+Hvis vi fortsatt tar utgangspunkt i tallene over og setter opp likviditetsbudsjett for 1. kvartal blir det som følger:
+
+Forskjellen på resultatbudsjett og likviditetsbudsje
+Det som skiller disse to budsjettypene er at i et resultatbudsjett skal det settes opp en oversikt over inntekter og kostnader for en periode, her skal vi ikke ta stilling til betalingstidspunkt. Et likviditetsbudsjett skal vise pengestrømmen inn og ut for en bedrift. Det vil si at inntektene skal føres opp i likviditetsbudsjettet den måneden den er forventet innbetalt og utgiftene skal settes opp den måneden regningene blir betalt.
+Økonomi og etikk
+Spørsmål om etikk er ofte vanskelig, men det er ganske viktig å nevne noe om det i denne sammenhengen. Etikk er noe vi alle kan forholde oss til. Det gjelder fra ansatte til toppledelsen. De ansatte kan med sin etiske atferd være motstander av å snyte på skatten og gjøre sin daglige jobb i tråd med gode miljøhensyn. For ledelsen i en bedrift kan de for eksempel utøve god etikk ved å ikke benytte ”svart” arbeidskraft og avstå fra å motta gaver som kan påvirke deres beslutninger.
+Store bedrifter setter økonomi og etikk stadig høyere på prioriteringslisten. Equinor har for eksempel regler for sine medarbeidere for blant annet å forebygge korrupsjon.
+God etikk er å følge de lover og regler en bedrift er pålagt i forhold til regnskapsføring. Her skal vi se litt på hvilke lover en vanlig skattepliktig bedrift må forholde seg til og følge.
+Regnskapsloven
+Regnskapsloven inneholder egne bestemmelser om innholdet i årsregnskapet, årsberetningen, grunnleggende regnskapsprinsipper, vurderingsregler, regnskapsoppstilling og notekrav for små foretak.
+Som regnskapspliktige etter denne loven regnes blant annet, (for fullstendig oversikt se regnskapsloven § 1-2, lovdata.no):
+
+aksjeselskaper
+statsforetak
+enkeltmannsforetak med verdi over 20 millioner kroner eller flere enn 20 ansatte
+Aksjeloven
+Aksjeselskaper er regulert av aksjeloven. I aksjeloven finner en blant annet hvilke krav som settes til aksjekapital og en finner hvilke regler som gjelder ved utdeling av utbytte. I et aksjeselskap må en forholde seg til regnskapsloven når det gjelder innhold i årsregnskapet og for eksempel regnskapsoppstilling. Og aksjeselskapet må videre forholde seg til aksjeloven når det gjelder spørsmål rundt sin egen selskapsform – som for eksempel utbetaling av utbytte til selskapets eiere.
+Skatteloven
+Foretak som er skattepliktige må videre forholde seg til skatteloven. Et årsregnskap utarbeides etter bestemmelsene i regnskapsloven. Videre er det en betegnelse som heter skatteregnskap. Dette regnskapet er utarbeidet i samsvar med skattereglene som en finner i skatteloven. Skattlegging av bedrifter har andre formål enn regnskapslovgivningen. Skattereglene fastsettes etter politiske mål.
+Skatteloven sier at enhver person som er bosatt i riket er pliktig til å betale skatt. Videre sier den at blant annet følgende selskaper har skatteplikt:
+- Aksjeselskaper
+- Sparebanker og finansieringsforetak
+- Statsforetak
+Ansvarlige selskap og enkeltmannsforetak er ikke egne skattesubjekter. Det vil si det overskuddet og formuen som er skattepliktig i slike selskaper, blir fordelt på eierne som videre må betale skatt for det overskytende i selskapet.
+Vi har nå listet opp lovene som et vanlig norsk foretak må forholde seg til. Det er viktig at foretaket har en atferd som er av god etikk, og prøver å leve opp til de lover og regler de er pålagt etter beste evne. Lever de etter en slik norm blir det enklere for både leverandører og kunder å forholde seg til den fakta som blir presentert, videre er det viktig for en bedrift at det har godt renommé og er til å stole på. Dette er også en god markedsføringsstrategi.
+Bedriftens økonomiske kretsløp
+I en bedrift blir det foretatt transaksjoner nesten daglig. Disse transaksjonen kan være betaling av faktura, utbetaling av lønn og betaling av arbeidsgiveravgift. Transaksjonene må føres i bedriftens regnskap. Formålet med et regnskap er å måle aktivitetene i bedriften for videre å rapportere resultatet av målingen til ledelsen eller de som har den økonomiske styringen. Transaksjonene eller aktiviteten i bedrift inngår i et økonomisk kretsløp.
+Vi skal her se nærmere på det økonomiske kretsløpet og hvordan dette gir en fin oversikt over strømmen av varer og penger i en bedrift. Hvordan føringene blir i regnskapet skal vi ta for oss fra leksjon 3.
+Det er vanlig å dele inn en bedrifts økonomiske kretsløp i to hoveddeler:
+produksjonskretsløpe
+finanskretsløpe
+Figur 2.1 viser et eksempel på det økonomiske kretsløpet for Jostein AS.
+Figur 2.1
+Videre kan produksjonskretsløpet deles inn i et vare- og tjenestekretsløp og et pengekretsløp.
+Produksjonskretsløpe
+Produksjonskretsløpet deles inn i:
+vare- og tjenestekretsløp
+pengekretsløp
+Vare- og tjenestekretsløp
+En bedrift har som mål å selge et produkt. Dette produktet kan være en vare eller en tjeneste. De fleste forstår betydningen av en vare, denne er håndterbar og fysisk. Dette kan være en komfyr, en sjokolade eller f. eks en bil. Men en tjeneste er ikke så håndterbar. En kunde kan for eksempel kjøpe seg tjenester innenfor renhold, regnskapsføring, hussalg og snøbrøyting.  Produktet er ikke en fysisk vare, men en tjeneste som blir utført. En bedrift som leverer tjenester som produkt har som regel ikke produksjonslokaler. De høyeste kostnadene innen for denne type bedrift er lønnskostnader. Det er personer og deres kompetanse som er i sentrum ved en tjenesteytende bedrift.
+En kan si at i produksjonsprosessen for en vare- og tjenesteytende bedrift brukes følgende ressurser:
+varer, maskiner (fysiske)
+ansatte og deres kompetanse
+tjenester fra underleverandører, f. eks rådgivning
+En bedrift må kjøpe varer og tjenester av underleverandører. Dette både til produksjon av produktet og til administrasjon av bedriften. Bedriften må leie lokaler for ansatte og for eventuell produksjon (handelsbedrift). En handelsbedrift må kjøpe inn varer som benyttes i produksjonen, og bedriften må kjøpe strøm til oppvarming av lokaler og til drift av maskiner. Altså ser vi at det er en strøm av varer og tjenester til bedriften fra leverandørene. Videre går det en strøm av varer og tjenester fra bedriften til kundene. Denne strømmen kalles en vare- og tjenestestrøm eller en realstrøm. Realstrømmen består av overføringer av ressurser (varer og tjenester) til kundene. Verdien av disse overføringene representerer bedriftens salgsinntekter. De varer og tjenester som bedriften kjøper danner grunnlaget for en beregning av bedriftens kostnader. Realstrømmen påvirker derfor bedriftens lønnsomhet.
+Pengekretsløpe
+Strømmen av varer og tjenester som går i mellom leverandører og bedriften, og videre fra kunden til bedriften må betales. Denne strømmen kalles da naturlig for en pengestrøm, eller en kontantstrøm.
+For at bedriften skal kunne drive sin virksomhet er det viktig at de får oppgjør fra sine kunder – slik at de videre får betalt regninger fra underleverandører og lønn til ansatte. Pengestrømmen går derfor begge veier og påvirker bedriftens likviditet ( bedriftens betalingssituasjon).
+Finanskretsløpe
+En bedrift må ofte betale ut mer penger til leverandører og andre enn hva den får innbetalt fra sine kunder. Spesielt i en oppstartsfase. Dette kan skyldes anskaffelse av maskiner, lokaler og ansatte. I et slik tilfelle har bedriften en dårlig likviditet. Da må eiere skyte inn mer kapital i virksomheten, eller ta opp lån. Denne tilføringen av ny kapital inngår i finanskretsløpet. Finanskretsløpet omfatter transaksjoner med eiere og lånegivere (se figur 2.1).
+Finanskretsløpet og pengedelen av produksjonskretsløpet bestemmer bedriftens samlede likviditetsutvikling. Bedriften må ha kontroll på disse strømmene for å alltid å ha penger til disposisjon. Bedriften må ha penger til å dekke lønn til ansatte, betale regninger fra leverandører, og avdrag på lån. Det er overskuddslikviditet når det er igjen penger etter å ha dekket den daglige drift. Mange bruker denne overskuddslikviditeten til investering av aksjer og lignende.
+Vi har nå sett på det økonomiske kretsløpet – hvordan varer og tjenester går fra leverandørene til bedriften og videre til kunden, samtidig som vi har sett på strømmen av penger som blir en følge av vare- og tjenestestrømmen. En slik oversikt kan være et nyttig verktøy for å få et overblikk over bedriftens transaksjoner og bedriftens betalingsevne (likviditet).
+Kapitalbehov og finansiering
+Når en starter opp en bedrift er det et stort behov for kapital. Har en penger til å kjøpe inn viktig utstyr og penger til markedsføring i oppstartsfasen – har en større sjanse for å lykkes. En kommer hurtigere i gang med å skaffe kunder og tjene penger.
+Vi kan dele opp finansieringen ved hjelp av:
+- kortsiktig gjeld
+- langsiktig gjeld
+Langsiktig gjeld
+Langsiktig gjeld vil si gjeld som skal tilbakebetales flere år inn i framtiden. De vanligste langsiktige lånene er:
+pantelån
+gjeldsbrevlån
+leasing
+Pantelån
+Pantelån brukes ved større investeringer i anlegg med lang levetid, 15 til 30 år.
+Som sikkerhet for riktig betaling av lånet får den som gir lånet en panteobligasjon i anlegget, det vil si det gir banken rett til å selge anlegget, om lånet ikke blir betalt til rett tid.
+Gjeldsbrevlån
+Gjeldsbrevlån skal gjøres opp i løpet av for eksempel tre til fem år. Som sikkerhet må lånetaker ofte stille en kausjon. Det vil si at en person stiller seg personlig ansvarlig for at lånet blir tilbakebetalt. Det er vanlig å finansiere traktorer, gravemaskiner etc. ved hjelp av gjeldsbrevlån.
+Leasing
+Leasing er en ordning som tar sikte på å skaffe bedriftene nye driftsmidler og anleggsmidler. De vanligste leasingobjektene er:
+transportutstyr
+datautstyr
+maskiner
+biler
+Leasing betyr leie, og leieavtalen går ut på at finansieringsselskapet for eksempel kjøper den bilen bedriften har behov for, for deretter å leie det ut til bedriften mot en fast avgift. Normalt er leietiden mellom 3 og 5 år. Leasing kan være aktuelt om en for eksempel starter opp en transportbedrift og ikke har muligheter til å skaffe midler for å kjøpe en lastebil. En slipper å binde stor gjeld til bedriften.
+I dette kapitlet skal vi hovedsakelig ta for oss kapitalbehov i en etableringsfase for en liten bedrift og hvordan dette kapitalbehovet kan finansieres. Den vanligste finansieringsformen i en slik sammenheng er kortsiktig.
+Kortsiktig gjeld og annen oppstartskapital
+Kortsiktig gjeld vil si gjeld som forfaller innen ett år.
+Det er flere måter å skaffe kapital i en viktig oppstartsfase. Disse måtene kan være:
+egne oppsparte midler
+lån fra familie
+banklån
+kassakredi
+statlig støtte
+crowd funding
+Det er svært viktig at en som nyetablert bedriftseier prøver å holde et så lavt kostnadsbruk som overhode er mulig. Den første tiden er preget av lite eller ingen inntekter og relativt store utgifter. For å lykkes best mulig må en prøve å holde kostnadsnivået lavt. Mange har brent seg på ved å ”ta av” litt for tidlig. Dette ved å gå til innkjøp av flott firmabil, parkett på kontoret og dyre profileringsklær. Fallhøyden kan da bli stor om inntektene ikke svarer til forventningene.
+Egne oppsparte midler
+Har en egne oppsparte midler er dette den gunstigste finansieringsformen for å dekke kapitalbehovet. Da slipper en merutgifter som for eksempel renter på et lån vil medføre. Skal en starte et aksjeselskap er det krav at en må stille med en aksjekapital på
+kr  30 000. Dette er mye penger, og det finnes nyetablerere som ikke har så mye penger oppspart.
+Lån fra familie
+Lån fra familie og venner er en relativ vanlig måte å skaffe hurtig kapital på. Denne formen begrenser mengden på kapitalen, da det i slike tilfeller stort sett er snakk om små midler. En bør også være ganske sikker i sin sak ved bedriftsetableringen – så en ikke taper pengene for familien.
+Banklån
+Dette er vel den mest vanlige formen for finansiering av kapitalbehov. Et vanlig banklån kan være både kortsiktig og langsiktig. Ulempen er at banken krever sikkerhet i pengene de låner ut. Har en behov for å dekke opp aksjekapitalen med et banklån, har en som regel ingen andre verdier å stille som sikkerhet enn hus og bil. Bedriften har ikke startet opp enda så der er det ikke noen verdier å stille som sikkerhet. En har da involvert sitt private liv i bedriften, selv om selskapsformen er aksjeselskap.
+Banklån er også en vanlig form ved senere kapitalbehov for bedriften, når det er behov for å investere i maskiner eller inventar.
+Kostnaden ved å låne fra banken er rentene på lånet. I en oppstartsfase er det ikke noen fordel å ha dette som en kostnad i tillegg til de mange andre kostnader som oppstartsfasen krever.
+Fordelen med denne finansieringsformen er at en kan få ut pengene ganske raskt.
+Kassakredi
+En kassakreditt er et lån som hovedsakelig skal finansiere den daglige drift. En kassakreditt fungerer omtrent på samme måte som et vanlig bankinnskudd. Bedriften kan foreta uttak inntil et bestemt totalbeløp, en kredittgrense. Saldoen på kassakreditten varierer, avhengig av hvilke innskudd og uttak blir foretatt på den aktuelle kontoen i perioden. Kostnaden for denne tjenesten er renter av det faktiske lånebeløpet på kontoen, samt provisjon av den avtalte kredittgrensen.
+Statlig støtte
+Når en skal etablere en bedrift bør en gjøre seg kjent med mulighetene for å søke om diverse stipender fra staten og andre private fond. En kjent stipendordning er Innovasjon Norge. Her er det mulig for nyetablerere å søke om etableringsstipend, og det er muligheter for allerede etablerte å søke om midler. Det en må være oppmerksom på er at søkeprosessen kan være tidkrevende og ressurskrevende. Har en behov for penger raskt – kan en ikke satse på denne finansieringsformen.
+Crowd funding - folkefinansiering
+Crowdfunding, eller folkefinansiering, er en måte å samle inn penger på via nettet. Mange personer gir små pengebidrag for å støtte et prosjekt, et produkt, en bedrift eller en sak. Prosessen skjer som regel på en spesiell nettside, en såkalt plattform. Om man får tilgang på mye penger gjennom denne typen finansiering kan det være et positivt signal om at bedriften/tjenesten/produktet er ønsket av markedet.
+Vi har her belyst de vanligste formene for finansiering for små og mellomstore bedrifter. Hvilken form en velger beror i stor grad på hvor stort finansieringsbehov en har og hvor mye en kan stille i sikkerhet.
+Finansieringsbehovet til Jostein AS
+I forrige leksjon stiftet Jo og Stein aksjeselskapet Jostein AS. Videre har vi blitt kjent med at en i denne selskapsformen må stille en aksjekapital på kr 30 000 for at selskapet skal bli stiftet. Denne aksjekapitalen er bundet til selskapet og må alltid være der i form av penger eller utstyr/maskiner. I tillegg har de behov for å gjøre nødvendige innkjøp i oppstartsfasen og dekke f. eks. depositum til leie av kontorlokalene.
+Det store spørsmålet blir hvor får Jo og Stein i hundretusen kroner. Selv har de ingen oppsparte midler og de har heller ingen i familien som har muligheter til å låne ut penger.  Det blir opplagt at de må gå til den lokale banken for å søke om et banklån. Banken låner selvfølgelig ikke ut kr 30 000 uten form for sikkerhet. Men de er veldig positiv til at Jo og Stein har flyttet tilbake til hjembygda for så å etablere næringsvirksomhet her. Jo og Stein har også lagt fram for banken Forretningsplanen som viser hvordan de har analysert markedet og funnet at det er mulig for en IT-bedrift å gjøre det bra her i bygda. Banken møter dem på halvveien med å låne ut kr 15 000, mot at de finner noen som kan stille sikkerhet for kr 15 000 av de utlånte pengene. Jos mamma stiller huset sitt som sikkerhet, hun har full tiltro til at dette prosjektet vill fungere og synes heller ikke at kr 15 000 er et for stort beløp.
+Da har Jo og Stein aksjekapitalen på plass. Men hva med penger til innkjøp av IT-utstyr og depositum til kontorlokalene. Hvordan skal løpende driftskostnader dekkes når de ikke har fått utført noe inntektsbringende arbeid enda?
+En vanlig løsning på dette er å søke banken om kassekreditt. Kassekreditten skal dekke fortløpende driftskostnader. Det er viktig i denne sammenhengen å nevne at en må passe seg for ikke å foreta langsiktige kjøp ved hjelp av kortsiktig gjeld. Bruker en kassekreditt for å kjøpe en traktor, kommer en fort i en situasjon hvor likviditeten blir dårlig, og en må selge traktoren for å rette opp på betalingsevnen. Anleggsmidler (eiendeler som er bundet over lengre tid) bør finansieres med langsiktig lån.
+Oppsummering
+I denne leksjonen har vi tatt for oss hvor viktig det er å følge opp den økonomiske styringen i en bedrift. Vi har også nevnt at alle ansatte bidrar med å øke bedriftens inntjening med sin innsats, og med gode intern-kontroller.
+Et verktøy som ledelsen bør benytte seg av for å se om bedriftens mål er nådd er budsjett. Et budsjett er en oppstilling over de økonomiske virkningene vi venter å få av det vi planlegger. Vi har sett på de to viktigste budsjettene som en bør ha kjennskap til; resultatbudsjett og likviditetsbudsjett.
+Videre ble det tatt opp at økonomi og etikk er viktige tema å forholde seg til ved en bedrift. Dette gjelder fra å ”snyte på skatten” for ansatte og videre å respektere sine kunder og leverandører best mulig. Flere store konsern har etikk på dagsorden – blant annet for å forebygge korrupsjon.
+En bedrift har mange transaksjoner, dvs. betaling av faktura, utbetaling av lønn etc. Disse transaksjonene inngår i bedriftens økonomiske kretsløp. Vi har tegnet en figur som viser strømmen av varer/tjenester og strømmen av penger.
+Til slutt i leksjonen så er kapitalbehov og finansiering hovedtema. Hvordan skal Jostein AS skaffe penger til å starte opp sitt Aksjeselskap og videre hvordan skal de skaffe tilveie kapital til den daglige drift.
+I neste leksjon skal vi begynne å gå inn på selve regnskapet i en bedrift. Vi starter opp med å se på balansen, dvs forholdet mellom eiendeler og gjeld.
+Resultatbudsje
+ Inntekter
+-kostnader
+Sum resulta
+Resultatbudsjett | 1. kvartal
+Lønn 10 000 x 3 | 30 000
+Sum inntekter | 30 000
+Husleie 2 000 x 3 |   6 000
+Mat 1 500 x 3 |   4 500
+Klær 500 x 3 |   1 500
+Strøm |   3 000
+Bilforsikring 3600/4 |      900
+Sum kostnader | 15 900
+Inntekter- kostnader |
+RESULTAT | 14 100
+Resultatbudsjett | Januar
+Lønn 10 000 x1 | 10 000
+Sum inntekter | 10 000
+Husleie 2 000 x 1 |   2 000
+Mat 1 500 x 1 |   1 500
+Klær 500 x 1 |      500
+Strøm 3000 / 3 |   1 000
+Bilforsikring 3600/12 |      300
+Sum kostnader |   5 300
+Inntekter- kostnader |
+RESULTAT |   4 700
+Likviditetsbudsje
+   Innbetalinger
+- Utbetalinger
+Likviditet denne måneden
+Likviditetsbudsjett | Januar | Februar | Mars
+Lønn  | 10 000 | 10 000 | 10 000
+Sum innbetalinger | 10 000 | 10 000 | 10 000
+Husleie  |   2 000 |   2 000 |   2 000
+Mat  |   1 500 |   1 500 |   1 500
+Klær  |      500 |      500 |      500
+Strøm |   3 000 |    |
+Bilforsikring  |       |   3 600 |
+Sum utbetalinger |   7 000 |   7 600 |   4 000
+Innbetalinger - utbetalinger |  |  |
+Likviditet denne måneden |   3 000 |   2 400 |   6 000

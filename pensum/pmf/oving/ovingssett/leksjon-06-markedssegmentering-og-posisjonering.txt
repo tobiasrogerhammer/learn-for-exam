@@ -1,0 +1,255 @@
+PMF Lek 6 Markedssegmentering og posisjonering oppdatert
+IDI AIT, NTNU
+Markedssegmentering og posisjonering
+Tor Atle Hjeltnes
+11.09.2026
+Lærestoffet er utviklet for faget Produktutvikling, marked og forvaltning av programvareprodukter
+
+Markedssegmentering og posisjonering
+Resymé: I denne leksjonen skal vi ta for oss markedssegmentering, særlig rettet mot forbrukermarkedet. Vi ser på forskjellige målgruppestørrelser, og at man kan segmentere markedet ut fra forskjellige kriterier. Denne leksjonen ser også på hva posisjonering og differensiering er, samt viktigheten av dette når man skal forvalte eller utvikle produkter og tjenester.
+Innhold
+1.1. Innledning 2
+1.2. Forskjellige markedsføringsnivå 2
+1.3. Markedssegmentering i forbrukermarkedet 3
+1.3.1. Geografisk segmentering 4
+1.3.2. Demografisk segmentering 4
+1.3.3. Psykografisk segmentering 5
+1.3.4. Atferdssegmentering 5
+1.3.5. Segmentering i bedriftsmarkedet 6
+1.4. Valg av målgruppe 6
+1.4.1. Vurdering av markedssegmenter 6
+1.4.2. Valg av markedssegmenter 9
+1.5. Differensiering 11
+1.6. Grunnlag for differensiering 11
+1.6.1. Produktdifferensiering 11
+1.6.2. Service-, personal-, kanal- og image-differensiering 14
+1.7. Posisjonering og posisjoneringsstrategi 16
+1.7.1. Hvor mange og hvilke fordeler skal fremheves? 17
+1.8. Oppsummering 18
+
+Innledning
+I leksjon 5 så vi på kundene og hva som påvirker deres adferd. Nå skal vi se nærmere på hvordan vi kan dele kundene inn i (identifisere) ulike segmenter som vi ønsker å selge våre produkt i. Når man skal dele markedet inn i segmenter finnes det mange forskjellig segmenteringsvariabler. Etter segmenteringen må man velge ut en eller flere målgrupper hvor vi tror lønnsomheten vil være god. Til slutt må vi finne ut hvordan vi ønsker å posisjonere oss i forhold til denne målgruppen. Denne leksjonen er skrevet med utgangspunkt i kapittel 9 og kapittel 10 i læreboken. Begge kapittel er pensum i dette emnet knyttet opp mot denne leksjonen.
+Effektiv målrettet markedsføring krever at markedsførerne:
+identifiserer og lager profiler på særskilte målgrupper som har spesifikke behov og ønsker (markedssegmentering)
+velger ett eller flere markedssegmenter som de retter seg inn mot (markedsmålretting)
+etablerer og formidler særskilte fordeler ved bedriftens tilbud for hvert markedssegment (markedsposisjonering)(Kotler 2016)
+
+Forskjellige markedsføringsnivå
+En av beslutningene som må tas når mulige kunder skal informeres om (og fristes med) et produkt eller en tjeneste, er hvilke kunder man skal henvende seg til. Man kan henvende seg til alle mulige kunder som finnes, til én bestemt kunde, eller et utvalg – dette er eksempler på såkalte markedssegmenter og leder til ulike markedsføringsstrategier:
+Masse-markedsføring: Ingen spesielle utvalg eller produkttilpasninger gjøres, alle er potensielle kunder. Denne strategien brukes så godt som aldri nå til dags.
+Markedsføring til segmenter: Et segment er en gruppe kunder som deler et sett behov og ønsker. Disse kan være sterkt eller svakt sammenfallende, men forskjellige segmenter skal kunne skilles klart fra hverandre. Eksempler her kan være ”gamer-segmentet” kontra ”kontor-pc-segmentet” kontra ”grafisk design-segmentet” i markedet for datautstyr.
+Markedsføring til nisjer: En nisje er et ”segment av et segment” – en gruppe som kan defineres klart og entydig, har spesifikke behov og er villige til å betale ekstra for å få behovene dekket. Dette kan f.eks. være forretningsreisende i direktørstillinger som reiser mye og er villige til å betale for meget dyre flybilletter for å få maksimal fleksibilitet og komfort.
+Lokal markedsføring: Målrettet markedsføring som tar hensyn til lokale forhold, tradisjoner og befolkning kalles lokal markedsføring. Dette kan høres ut som en form for segment, men henvender seg ofte til et relativt lite marked (nabolag eller bygd), og kan favne over flere segmenter etter andre kriterier. Man konsentrerer om å nå menneskene som er i nærheten og ønsker å oppnå en form for lokal forankring og tilpasning.
+Enkeltmarkedsføring – ”customerization”: Markedsføring som er skreddersydd til én kundes ønsker og behov. Denne formen for markedsføring øker i omfang i takt med utvikling av nettbaserte handelstjenester og automatisert datainnsamling og –analyse.
+Alle disse strategiene innebærer forskjellige kostnader, muligheter og fallgruver for bedriften. Det er derfor svært viktig å ha vurdert alternativene, og gjort et grundig arbeid med markedsanalyse og –segmentering.
+
+Markedssegmentering i forbrukermarkedet
+Markeder består av kjøpere, og kjøpere er forskjellige. De kan være forskjellige med hensyn til ønsker, kjøpekraft, bosted, holdninger og kjøpevaner. Alt dette er faktorer som kan brukes for å splitte opp markedet i delmarkeder.
+Markedssegmentering er det å inndele et marked i veldefinerte seksjoner. Et markedssegment er en gruppe av kunder som har en del behov og ønsker som er felles. Markedsførerens oppgave er å identifisere og klassifisere et hensiktsmessig antall markedssegmenter, og deretter bestemme seg for hvilke av disse de skal henvende seg til. (Kotler, 2016)
+Markedssegmentering
+Produktposisjonering
+Målgruppeutvelgelse
+1. Identifisere segmenteringsvariabler og dele inn markedet
+2. Beskrive segmentene som er fremkommet
+3. Vurdere lønnsomheten i de enkelte segmentene
+4. Velge delmarked(er) (målgrupper)
+5. Identifisere mulig posisjonering for den enkelte målgruppe
+6. Velge, utvikle og kommunisere posisjoneringskonseptet
+Figur - Markedssegmentering, målgruppeutvelgelse og posisjonering
+Her skal vi ta for oss faktorer som blir brukt for å dele inn forbrukermarkeder inn i markedssegmenter. Vi benytter to grupper av variabler: de som kjennetegner forbrukeren selv, og de som kjennetegner forbrukerens atferd. For faktorer som kjennetegner forbrukeren selv er det vanlig å benytte geografiske, demografiske og psykografiske faktorer ved inndelingen. Når dette er gjort, undersøker man om noen av kundesegmentene som markedet er blitt delt inn i, skiller seg ut i måten de reagerer på produktet på (atferd).
+Den andre måten å danne segmenter på er altså å ta utgangspunkt i forbrukernes atferd. Hvilke egenskaper ved produktet de legger vekt på? I hvilke forbindelser benytter de produktet og hvilke holdninger de har til produktet. Når segmentene er oppstilt, ser man om det er noen kjennemerker ved forbrukeren som er spesielle for hver av segmentene (Kotler, 2005). Vi kan for eksempel tenke oss at markedsforskeren undersøker om personer som ønsker både ”lav pris” og ”høy kvalitet” når de skal kjøpe mobiltelefon, faller i bestemte geografiske, demografiske eller psykografiske grupper. Ved å ta utgangspunkt i segmentering for forbrukermarkedet får vi en forståelse av viktigheten ved å tilpasse produktet til de målgruppene vi ønsker å nå. Vi skal nå se litt nærmere på de fire segmenteringskriteriene og gjøre rede for hvordan de brukes for å segmentere markeder.
+
+Geografisk segmentering
+Geografisk segmentering innebærer at man deler markedet inn i ulike geografiske enheter, slik som land og regioner, byer og tettsteder, klima og terreng (fjellstrøk, kyststrøk) og nabolag og tetthet. Bedriftsledelsen må bestemme seg for å satse på et bestemt, noen få, eller alle geografiske områder. Vi må ta hensyn til lokale variasjoner når det gjelder behov og preferanser. Et eksempel på dette er Mercedes som selger biler over hele verden. Bilene som selges i Norge skiller seg ut ved at de leveres med et mer effektivt varmeapparat da vi lever i et kaldere klima (Mercedes, 2008). De geografiske forskjellene brukes da også i markedsføringen.
+
+Demografisk segmentering
+Ved demografisk segmentering deles markedet opp etter demografiske kriterier, slik som alder og livsfase, kjønn, inntekt og yrke, utdanning, husstandsstørrelse og sivilstatus. Demografiske variabler er et mye brukt grunnlag for kundeinndeling (Kotler, 2016). En av grunnene er at forbrukers ønsker, preferanser og brukshyppighet ofte er nær forbundet med demografiske faktorer. En annen årsak er at demografiske faktorer er lettere å måle enn de fleste andre typer kriterier. Selv når målgruppen beskrives på basis av ikke-demografiske kriterier (f.eks personlighetstype), er det nødvendig å trekke inn demografiske faktorer for å vite størrelsen på gruppen.
+
+Psykografisk segmentering
+Ved psykografisk segmentering blir kjøperne delt inn i grupper ut ifra psykologiske trekk, personlighetstrekk, livsstil og verdier og sosial klasse. Disse variablene går dypere og forklarer hvorforfolk handler som de gjør, basert på hvem de er som personer. Personer innen samme demografiske gruppe kan være svært ulike når de vurderes etter psykografiske kriterier. Eksempelvis vil ofte valget av, og interessen for, et produkt henge sammen med forbrukerens livsstil. Markedsførere av de forskjelligste varer og tjenester har i økende grad begynt å segmentere sine markeder etter faktoren livsstil.
+
+Atferdssegmentering
+Ved atferdsbasert segmentering deles kjøperne inn i grupper på basis av sine kunnskaper om, holdninger til, bruk av og respons på et produkt. Mange markedsførere mener at atferdsfaktorer er det beste utgangspunktet når man skal sette opp markedssegmenter.
+Under atferdssegmentering finnes det også forskjellige kriterier, se tabell 1. Kjøpere kan deles inn etter ved hvilke anledninger de får et behov, kjøper et produkt eller bruker et produkt. Hotellovernattinger kan foretas i forbindelse med ulike anledninger, for eksempel arbeid eller ferie. En hotellkjede kan spesialisere seg på å nå grupper der en av disse anledningene dominerer. Andre kriterier som kan gjøre seg gjeldende under atferdssegmentering er, produktfordeler, brukerstatus, brukshyppighet, kjøpetrofasthet, stadium i kjøpsprosessen og holdning.
+Kriterium
+Eksempler på inndeling
+Geografiske kriterier
+Handelsområde
+Nord-Norge, Midt-Norge, Sør-Norge.....
+Fylke, størrelse
+A, B, C, D
+By eller landdistrikt, størrelse
+Under 5000, 5000 – 50000, 50000 -
+Befolkningstetthet
+By, tettsted, landdistrikt
+Klima
+Innlandsklima, kystklima
+Demografiske kriterier
+Alder
+0-10, 11-20, / Unge barn, skolebarn, ungdommer, unge voksne, …
+Kjønn
+Mann, kvinne
+Familiestørrelse
+1,2,3,4,.....
+Familiestatus
+Ung, enslig, gift,........
+Inntekt
+0-60000, 60000-120000,.....
+Yrke
+Akademikere, håndverkere, arbeidsløse..
+Utdanning
+Grunnskole, videregående, høgskole, universitet
+Psykografiske kriterier
+Samfunnsklasse
+Arbeiderklasse, lavere middelklasse,....
+Livsstil
+Gammeldags, konservativ, moderne, ....
+Personlighet
+Autoritær, ambisiøs, omgjengelig,.......
+Atferdskriterier
+Anledninger
+Kjøper hver gang, kjøper ved spesielle anledninger
+Egenskaper
+Kvalitet, service, økonomi
+Brukerstatus
+Ikke-bruker, eksbruker, potensiell bruker,.
+Brukshyppighet
+Sjelden, middels, ofte
+Merketrofasthet
+Ingen, middels, sterk
+Stadium i kjøpsprosessen
+Intet kjennskap, kjenner produktet så vidt, kjenner det godt, interessert, skulle gjerne hatt det, har tenkt å kjøpe
+Holdning til produktet
+Entusiastisk, positiv, likegyldig, negativ,...
+Tabell - En del viktige segmenteringskriterier for forbrukermarkeder (Kotler, 1998)
+
+Segmentering i bedriftsmarkedet
+Bedriftsmarkedet kan segmenteres etter mange av de samme variablene som forbrukermarkedet, for eksempel geografiske kriterier, ønskede produktegenskaper/fordeler og brukshyppighet. I et lite og oversiktlig marked med forholdsvis få potensielle kunder, som i mange norske bransjer, vil segmenteringen vanligvis ikke by på store problemer. På de store internasjonale markedene må man ofte konsentrere seg om mindre nisjer og finne kriterier for utvelgelsen. I tillegg til demografiske kriterier kan man tenke seg en segmentering som går på hvor organisert innkjøpet er, kriterier som benyttes ved kjøp og lignende (pris, kvalitet, leveringssikkerhet etc.) Les mer om dette i læreboken fra side 361.
+
+Valg av målgruppe
+Gjennom segmenteringsprosessen får bedriften skilt ut hvilke alternative muligheter den har i markedet. Oppgaven blir deretter å vurdere de ulike segmentene og bestemme seg for hvor mange og hvilke man skal satse på. Dette vil være helt avgjørende for hvordan det endelige produktet vil framstå og hvordan det skal markedsføres. Produktet må tilpasses det eller de segmentene man velger å satse på.
+
+Vurdering av markedssegmenter
+I vurderingen av markedssegmenter er det tre faktorer bedriften må ta hensyn til, nemlig segmentets størrelse og vekst, strukturelle forhold i segmentet, og bedriftens egne målsettinger og ressurser.
+Segmentstørrelse og –vekst: Det første spørsmålet en bedrift må stille, er om et potensielt segment har den rette størrelsen og de rette vekstegenskapene. Hvor stort ”rett størrelse” er vil avhenge av størrelsen på bedriften og behovet for inntjening i forhold til kostnader. Det at et segment er i vekst er en fordel da bedrifter ønsker salgsøkning og lønnsomhetsbedring. Det negative med et segment i vekst er faren for at det kommer til nye konkurrenter som presser lønnsomheten nedover.
+Strukturelle forhold i segmentet: Et segment kan godt ha ønsket størrelse og vekst, men likevel ikke være attraktivt fra en lønnsomhetssynsvinkel. Ifølge Porters femkraftsmodell (Porter, 1985) er det fem faktorer eller krefter som bestemmer hvor attraktivt et helt marked eller segmenter innen markedet vil være på lang sikt, se figur 2. En bedrift må vurdere hvilken innvirkning hver av de følgende fem grupper har på den langsiktige lønnsomheten: dagens konkurrenter, mulige nye bedrifter i bransjen, substitutter, kjøpere og leverandører.
+Trusler om nyetablering
+Trusler om substitusjon
+Rivalisering og eksisterende konkurranse
+Kundenes makt
+Leverandørenes makt
+Figur 2 – De fem strukturelle forholdene som avgjør hvor attraktivt et segment vil være, Femkraftsmodellen (Porter, 1985)
+Rivalisering og eksisterende konkurranse: Et segment er ikke attraktivt hvis det befinner seg mange, sterke eller aggressive konkurrenter der allerede. Bildet blir ende verre dersom segmentet har nullvekst eller negativ vekst, dersom kapasitetsutvidelser skjer i store sprang, dersom de faste kostnadene er høye, dersom avviklingshindrene er høye, eller dersom noen av konkurrentene satser alt på å holde seg fast i segmentet. Slike forhold fører til hyppige priskriger, dyre reklamekampanjer og motkampanjer, foruten lansering av nye produkter, og gjør det kostbart for bedriftene å konkurrere der.
+Trussel fra mulige nyetableringer: Et segment er ikke å foretrekke hvis risikoen er stor for at det skal dukke opp nye konkurrenter som bringer med seg økt leveringskapasitet, betydelige ressurser og krav om kapring av markedsandeler. Spørsmålet er hvorvidt det er lett for nye bedrifter å etablere seg i segmentet. Høye etableringshindre og skarpe mottiltak fra dagens konkurrenter bidrar til å hindre nye bedrifter adgang. Jo lavere etableringshindrene er og jo svakere mottiltak inntrengere kan vente seg, desto mindre attraktivt er segmentet. Dette forutsetter at vi selv har fotfeste i segmentet.
+Trussel fra substituttprodukter: Et segment er lite attraktivt dersom det allerede finnes substitutter for produktet, eller dersom slike kan ventes å komme. Substitutter setter et tak for hvilke priser og overskudd man kan oppnå i et segment. Man må følge nøye med i prisutviklingen på substituttprodukter. Hvis det skjer teknologiske fremskritt, eller hvis konkurransen øker i disse substituttbransjene, er det sannsynlig at prisene og lønnsomheten i segmentet synker.
+Trussel som skyldes at kundenes forhandlingsposisjon er sterk: Et segment er lite attraktivt dersom kjøperne der har stor eller økende makt. Da vil kjøperne prøve å presse prisene, kreve bedre kvalitet og mer og bedre service, og spille konkurrentene ut mot hverandre, alt på bekostning av selgerens lønnsomhet. Kjøpernes forhandlingsposisjon styrkes når de går sammen i grupper, når produktet representerer en betydelig del av kjøperens totale kostnader eller innkjøp, når produktet er standardisert eller udifferensiert, når kjøperens byttekostnader er lave, når kjøperne er prisfølsomme fordi de tjener lite penger, eller når kjøperne kan integrere bakover. For å gardere seg kan selgeren velge de kjøperne som sitter i den svakeste forhandlingsposisjonen eller har de høyeste byttekostnadene. En bedre måte er å komme med så gode tilbud at kjøperne ikke kan si nei.
+Trussel som skyldes at leverandørens forhandlingsposisjon er sterk: Et segment er lite attraktivt dersom firmaets leverandører – av råmaterialer, elektrisk kraft, banktjenester osv., inklusive eventuelle fagforeninger – er i stand til å øke sine priser eller redusere kvaliteten eller kvantiteten på bestilte varer og tjenester. Leverandører er ofte mektige når de leverer en viktig innsatsfaktor, når byttekostnadene er høye, og når leverandørene kan integrere forover. Det beste forsvaret er å bygge opp et godt forhold til leverandørene og ha flere av dem for det samme produktet.
+Bedriftens egne målsettinger og ressurser: Selv om et segment er gunstig med hensyn til så vel størrelse og vekst som strukturelle forhold, må bedriften også se på sine egne målsettinger og ressurser i forhold til det aktuelle segmentet. Det kan godt oppstå en situasjon hvor attraktive segmenter må kuttes ut fordi de ikke er forenelig med bedriftens langsiktige målsettinger. Selv når segmentet passer godt inn med bedriftens målsettinger, må man vurdere om firmaet har de kunnskaper og ressurser som skal til for å lykkes i vedkommende segment. Om kompetansen er til stede er det ingen garanti for at segmentet er gunstig å satse på. Skal bedriften virkelig lykkes i det aktuelle markedssegmentet, må den skaffe seg en eller flere absolutte fordeler i forhold til konkurrentene. En bedrift bør aldri gå inn i markeder eller markedssegmenter hvis den ikke kan gi kundene noe mer enn det andre konkurrenter kan gi.
+
+Valg av markedssegmenter
+Etter å ha evaluert de ulike segmentene håper man å stå igjen med et eller flere markedssegmenter det er verdt å satse på. Det er en viktig oppgave å avgjøre hvilke og hvor mange segmenter man skal etablere seg i. Dette kalles en målgruppeutvelgelse (Kotler, 2016). En målgruppe består av kunder med felles behov eller andre kjennetegn, som bedriften ønsker å betjene. Det er fem ulike måter å danne målgrupper på, dette har vi illustrert i figur 3, ”Fem former for segmenteringsstrategier”. I tillegg til dette kommer Individuell markedsføring som i sin mest ekstreme form kan føre til «segmenter med en person». Les mer om dette i læreboken fra side 370. I læreboken har man slått sammen selektiv spesialisering, markedsspesialisering og produktspesialisering og beskriver disse som Spesialisering innen flere segmenter, les fra side 366 i læreboken.
+MARKED
+P
+R
+O
+D
+U
+K
+T
+Konsentrasjon om Selektiv spesialisering Markedsspesialisering Produktspesialisering Full dekning
+et enkelt segment
+Figur 3 - Fem former for segmenteringsstrategier
+Konsentrasjon om et enkelt segment
+Den enkleste segmenteringsstrategien er å velge ut et bestemt segment som man satser på. Dette kan være fornuftig hvis man tror man har ekstra gode forutsetninger for å lykkes i dette segmentet. En annen grunn kan være at man ikke har kapital til å utvikle produktet til å passe flere segmenter. Det kan også være en taktikk å velge et bestemt segment fordi det ikke finnes konkurrenter eller fordi man ser dette segmentet som springbrett til andre segmenter. Faren ved å satse på bare et segment er sårbarheten man vil oppleve om det skulle skje noe uforutsett som gjør at kundene i dette segmentet ikke kjøper produktet. Man vil da stå uten inntekt.
+Selektiv spesialisering
+Som man ser av figur 3 velger man her ut noen segmenter som alle objektivt sett er attraktive og passer godt til bedriftens målsettinger og ressurser. Fordelen med denne strategien er at det ikke behøver å være synergi mellom de forskjellige segmentene, dette gjør at man står sterkere om et av segmentene skulle vise seg å falle bort. Man kan tjene godt på de gjenværende segmentene.
+Produktspesialisering
+Ved produktspesialisering fokuserer bedriften på et bestemt produkt som den selger til flere segmenter. Et eksempel på dette har vi når en bedrift som produserer kalkulatorer selger den til både skoler, bedrifter og private husholdninger. Firmaet er innstilt på å lage forskjellige kalkulatorer for ulike kundegrupper, men unnlater å produsere andre elektroniske instrumenter kundegruppene kunne tenkes å ha behov for. Fordelen med denne satsningen er at man skaffer seg omdømme for å være dyktig på et bestemt produkt. Faren er om det skulle dukke opp et substitutt som gjør det bestemte produktet overflødig.
+Markedsspesialisering
+Ved markedsspesialisering konsentrerer firmaet seg om å dekke mange behov hos en bestemt kundegruppe. Eksempel på dette er et fraktselskap inne fiskeindustrien som jobber mot oppdretterne og har spesialisert seg på å levere tjenester i form av frakt av laks til alle deler av verden, med bil, trailer, tog, båt og fly. Firmaet skaffer seg rykte som spesialist på å levere fisk for denne kundegruppen. Ved nye leveringsbehov vil fraktselskapet tilpasse seg oppdretterne. Faren er om det skulle komme en lakseparasitt eller store endringer i salgsvolumet av laks slik at oppdretterne får mindre penger eller går konkurs.
+Full dekning
+Ved full markedsdekning forsøker bedriften å dekke samtlige kundegrupper og levere alle de produkter kundene har behov for. Dette er kun mulig for de største bedriftene. Det er to måter å dekke et helt marked på, udifferensiert markedsføring eller differensiert markedsføring.
+Udifferensiert markedsføring vil si at bedriften ser bort i fra segmentforskjeller og forsøker å dekke hele markedet med et og samme tilbud. Det fokuseres på det som er felles ved kjøpernes behov. Man lager et produkt og utarbeider et markedsføringsprogram som appellerer til et bredest mulig spekter av kjøpere. Man satser på massedistribusjon og massemarkedsføring. Fordelen ved dette er at man holder nede kostnadene ved produksjon og markedsføring. Faren er at det lett kan oppstå sterk konkurranse mellom de forskjellige aktørene.
+Differensiert markedsføring vil si at bedriften satser på mange segmenter, men markedsfører produktet forskjellig i de forskjellige segmentene. Fordelen ved denne typen markedsføring er at man treffer flere kjøpere og får derved solgt flere produkter. Faren er at det kommer ekstra kostnader til produksjon, administrasjon, lagerhold og markedsføring.
+
+Differensiering
+Vi har sett tidligere i denne leksjon på hvordan vi kan velge en målgruppe hvor vi vil forsøke å selge vårt produkt. Hvis det ikke er andre som betjener denne målgruppen, kan vi regne med at bedriften kan ta en pris som gir rimelig fortjeneste. Tar man en for høy pris og etableringshindrene er lave i det valgte segmentet, vil det sikkert dukke opp konkurrenter, og prisen vil bli presset ned. Er det flere bedrifter som henvender seg til den samme målgruppen, og produktene deres er udifferensiert, vil de fleste kundene kjøpe fra den bedriften som har den laveste prisen. Andre bedrifter blir da tvunget til å sette ned sin pris. Det eneste alternativet for den bedriften som var først ute i dette markedssegmentet, er å differensiere markedstilbudet sitt så det skiller seg klart ut fra konkurrentenes tilbud. Vi skal nå se hvordan en bedrift kan differensiere sitt tilbud på en effektiv måte overfor målgruppen sin, og dermed både sikre seg en konkurransefordel og oppnå en høyere pris.
+”Differensiering vil si å utforme et sett med meningsfylte fordeler som skiller firmaets tilbud ut i fra konkurrentenes tilbud.”
+
+Grunnlag for differensiering
+En bedrift eller et markedstilbud kan differensieres med hensyn til produkt, service, personale, kanal og image/profil. Nå skal vi se nærmere på disse kategoriene.
+
+Produktdifferensiering
+Her skal vi se hvordan det fysiske produktet kan differensieres. Et produkt kan være alt fra standardprodukter som kylling og stål, til produkter som lettere lar seg differensiere, slik som biler, klær og møbler.
+Tilleggsutstyr – Tilleggsutstyr er egenskaper som kommer i tillegg til produktets grunnleggende funksjon. Ofte er utgangspunktet for et produkt en ”strippet” utgave. Ut fra den kan bedriften lage andre utgaver ved å føye til ekstra egenskaper. En bilprodusent kan for eksempel tilby ekstrautstyr som for eksempel skinninteriør, aluminiumsfelger og klimaanlegg. Bilprodusenten må bestemme seg for hvilket utstyr som skal være standard og hva som skal være ekstrautstyr. Tilleggsutstyret setter fantasien i sving hos kjøperne, og jo mer tilleggsutstyr, jo flere kjøpergrupper har man mulighet til å trekke til seg. Å være først ute med en etterspurt ny produktegenskap, er et av de mest effektive konkurransemidlene som finnes. For å finne ut hva kundene ønsker bør man være i dialog med de som allerede har kjøpt produktet for å høre hva mer de kunne ønske seg. Når dette blir kjent må man se på hva det koster å tilføye denne egenskapen i forhold til kundeverdien. Bedriften må også se på hvor mange personer som ønsker de enkelte egenskapene, hvor lang tid det vil ta før den enkelte egenskapen kan lanseres, hvorvidt det er lett for konkurrenter å kopiere denne egenskapen, osv.
+Ytelse – Med ytelse menes ”funksjonsnivåene” for produktets grunnleggende egenskaper. Det er vanlig å dele inn i fire ytelsesnivåer, lavt, middels, høyt eller meget høyt. Det man må finne ut er om økt ytelse også gir økt fortjeneste. Undersøkelser viser at det er sammenheng mellom høyere produktytelse og høyere fortjeneste, se figur 4. I undersøkelsen tjente forretningsenhetene med høy kvalitet 60% mer enn forretningsenhetene med lav kvalitet. Dette gjorde de fordi de kunne ta høyere pris på grunn av den høyere kvaliteten. I tillegg bidro kvaliteten til at de oppnådde flere gjenkjøp, økt kjøpetrofasthet og positiv omtale av produktet folk imellom. Bedriften må ta stilling til hvilken kvalitetsprofil de ønsker å holde. Det er ofte slik at det ikke koster mye mer å lage produkter som holder høy kvalitet, enn det det koster å lage produkter av lav kvalitet. Dette må man ta hensyn til allerede i førutviklingsfasen til produktet.
+Lønnsonhet
+Lavt Middels Meget høyt
+Kvalitetsnivå
+Figur – Forholdet mellom produktkvalitet og lønnsomhet
+Samsvar – Med samsvar tenkes det på hvor godt et produkt med hensyn til bruk og konstruksjon lever opp til de oppgitte spesifikasjoner.
+Holdbarhet – Holdbarhet er et mål på produktets forventede levetid. Kundene er villige til å betale mer for et mer holdbart produkt. Dette forutsetter at produktet ikke går av moten eller blir utradert teknologisk. Dette gjør at holdbarhet for eksempel ikke er et godt salgsargument for datamaskiner.
+Pålitelighet – Pålitelighet er et mål på sannsynligheten for at et produkt skal svikte eller gå i stykker innen et bestemt tidsrom.
+Reparerbarhet – Reparerbarhet er et mål på hvor lett det er å få reparert et produkt når det går i stykker.
+Stil – Stil står for hvor godt produktet tar seg ut og føles for kjøperen. Hvis et merke fremstår som mer eksklusivt vil dette være et salgsargument. Et eksempel er Bang & Olufsens produkter. Stil som differensieringsmiddel er i høy grad også aktuelt for produktets emballasje, særlig for matvarer, kosmetikk, toalettartikler og små elektriske varer.
+Design: Helheten skapes – Alle de foregående elementene skal knyttes sammen av produktdesigneren eller formgiveren. Da skjønner vi hvor vanskelig formgivning er, tatt i betrakting alle de avveininger som må gjøres. Fra firmaets synspunkt er det ikke nok at produktet skal ha god design. Det må være enkelt å produsere og distribuere også. Fra kundens synspunkt er det heller ikke nok at et produkt har god design og er behagelig å se på. Det må i tillegg være lett å åpne, montere eller få på plass, lett å lære å bruke, reparere og bli kvitt igjen. Hva man velger å legge vekt på vil i stor grad avhenge om man vet hva målgruppen i markedet oppfatter som de viktigste elementene. Man må hele tiden som produktutvikler også fokusere på kostnadene. Det hjelper ikke om man har designet verdens beste produkt om kostnadene har gjort produktet så kostbart at ingen vil kjøpe det.
+Vi har nå sett på noen muligheter vi har for produktdifferensiering. Det er tydelig at man bør ta stilling til mulighetene for differensiering så tidlig som mulig. På denne måten kan man best mulig tilpasse produktet slik at dette tilpasses målgruppen/ene som skal kjøpe produktet. Desto tidligere man har funnet sine målgrupper og deres behov er det mulig å klargjøre produktene til den aktuelle målgruppen. På denne måten kan man spare seg for en god del arbeid ved at man slipper å gjøre store justeringer på produktet etter at det i utgangspunktet er ferdigstilt. Vi vil nå oppsummere hvilke andre former for differensiering som kan være aktuelle.
+
+Service-, personal-, kanal- og image-differensiering
+I tillegg til å differensiere det fysiske produktet, kan en bedrift også differensiere ved hjelp av service og tilleggsytelser og –tjenester. Når det ikke er så lett å få differensiert det fysiske produktet, ligger nøkkelen til suksess i konkurransen ofte i å bedre kvaliteten på service og å utvide service- og tjenestesiden, se tabell 1.
+Serviceelement
+Lett å bestille
+Installasjon
+Kundeopplæring
+Kundekonsultasjon
+Vedlikehold og reparasjon
+Levering
+Tabell - Service-differensiering
+Personalmessig differensiering går ut på at man skaffer seg en konkurransefordel ved å ansette dyktigere ansatte og gi dem bedre opplæring enn det konkurrentene gjør. Kjennetegn ved ansatte som har fått god opplæring kan være god kompetanse, høflighet, troverdighet, pålitelighet, årvåkenhet og god kommunikasjonsevne.
+Personale
+Kompetanse
+Høflighet
+Troverdighet
+Pålitelighet
+Lydhørhet
+Kommunikasjon
+Kanal/Image/profil-differensiering går ut på at man skiller konkurrerende produkter og tjenester som virker relativt like fra hverandre ved å gi firmaet som selger produktet (eller produktet) en bestemt profil. Et eksempel på dette kan være «energidrikken» Prime. De fleste energidrikker er forholdsvis like når det gjelder smak/innhold og hvor de selges. Energidrikken Prime skaffet seg et unikt image og profil. Bak energidrikken står to av verdens mest populære influensere. Olajide Olayinka Williams «JJ» Olatunji, bedre kjent som KSI, og Logan Paul. Drikken var svært ettertraktet og ble solgt for så mye som 150 til 200 kr per flaske. Drikken kom til Norge i 2024 og ble solgt for 35 kr per flaske. Prime knyttet til seg Erling Braut Håland i markedsføringen, men dette var ikke nok og det hele ble en flopp i Norge og samarbeidet med salg gjennom blant annet Coop ble avsluttet.
+Når det gjelder differensiering i forhold til kanal så gjelder det at bedrifter kan få konkurransefordeler gjennom måten de utformer sine distribusjonskanalers dekningsområder, ekspertise og ytelse på.
+Kanal
+Dekning
+Ekspertise
+Resultat
+Image
+Symboler
+Media
+Atmosfære
+Arrangementer
+Ut ifra det vi har beskrevet tidligere er det mulig å differensiere alle produkter. Årsaken til at et produkt bør differensieres er det faktum at kjøpere har ulike behov og vil derfor ikke tiltrekkes av de samme produktene. Det er viktig at man tar vel overveide valg når man skal differensiere fra konkurrentene.
+Følgende kriterier bør gjelde for en forskjell man ønsker å fremme i markedet:
+Viktig – forskjellen må innebære en høyt verdsatt fordel for et tilstrekkelig antall kjøpere.
+Særegen – Enten er det ikke noen andre som bruker denne forskjellen, eller firmaet klarer å fremheve den på en måte som skiller seg klart ut fra de andre som bruker den.
+Overlegen – Den samme fordelen kan ikke uttrykkes bedre på andre måter.
+Kommuniserbar – Forskjellen må kunne kommuniseres til kjøperne – også visuelt.
+Vanskelig å kopiere – Det må ikke være lett for konkurrenter å bruke den samme forskjellen i sin markedsføring.
+Overkommelig – Kjøperen må ha råd til å betale for forskjellen.
+Lønnsom – Det må lønne seg for bedriften å bruke forskjellen.
+
+Posisjonering og posisjoneringsstrategi
+Det er ikke alle kjøpere som vil legge merke til alle måtene et merke skiller seg fra konkurrentene på. Man bør plukke ut noen av de fordelene som appellerer sterkest til den målgruppen man retter seg inn mot. Man utarbeider en fokusert posisjoneringsstrategi.
+”Posisjonering vil si å utforme bedriftens tilbud slik at det blir verdsatt av målgruppen og får en bestemt plass i denne kundegruppens bevissthet.” (Kotler, 2004)
+Posisjonering blir oppgaven å bestemme seg for hvor mange og hvilke fordeler bedriften skal fremheve overfor sin målgruppe i markedet.
+Ordet posisjonering ble popularisert av to reklamesjefer, Al Ries og Jack Trout. De betrakter posisjonering som en skapende øvelse utført med et eksisterende produkt:
+Posisjonering begynner med et produkt, en vare, en tjeneste, et firma, en institusjon eller til og med en person…. Men posisjonering er ikke noe du gjør med produktet. Posisjonering er noe du gjør med potensielle kunders bevissthet. Det vil si at du posisjonerer produktet i de potensielle kunders bevissthet. (Ries og Trout)
+
+Hvor mange og hvilke fordeler skal fremheves?
+Det er en oppfatning blant mange markedsførere at bare en eneste fordel skal fremheves overfor en bestemt målgruppe. Det kan være gunstig å finne et unikt salgsargument for et produkt/merke, og så holde seg til dette. Det beste rådet er å plukke ut en eneste egenskap og forkynne at man er nummer en på denne egenskapen. Andre mener at det kan være mulig å framheve flere fordeler når man skal posisjonere produktet. Et eksempel på dette kan være tannkremen Aquafresh som fremhever tre fordeler: tannråte, friskere ånde og hvitere tenner. Utfordringen er å få kundene til å tro på dette. Dette løser Aquafresh ved å ha tre farger på tannkremen, noe som er med på å bekrefte egenskapene visuelt.
+Hvilken egenskap man velger å posisjonere ut ifra kan variere. Nøkkelen til suksess er at man leverer det man lover. Da har bedriften store sjanser til å bli kjent og husket for denne egenskapen. Det kan være gunstig å posisjonere flere fordeler, men dette er vanskeligere, da det blir verre å oppnå troverdighet og få etablert en klar posisjon i markedet. Det er fire generelle posisjoneringsfeil en bedrift må unngå:
+Underposisjonering – Enkelte bedrifter oppdager at kjøperne bare har en vag forestilling av merket. De vet faktisk ikke noe spesielt om det aktuelle merket/produktet når de blir spurt.
+Overposisjonering – Kjøperne har kanskje et for snevert bilde av merket. En forbruker tror for eksempel at et glassverk bare lager varer i tusenkronersklassen, når det i realiteten også har fine glass som ikke koster mer enn en hundrelapp.
+Uklar posisjonering – Kjøperne kan ha et uklart bilde av merket. Uklarheten kan skyldes at man setter frem altfor mange påstander om det eller at man endrer merkets posisjonering for ofte.
+Tvilsom posisjonering – Kjøperne har kanskje vondt for å tro på de fremsatte påstandene i betraktning av merkets spesifikasjoner, pris eller produsent.
+Når det gjelder hvilke fordeler man skal fremheve vil det være lurt å se på sine konkurrenter og framheve den/de fordelene hvor man er bedre enn sine konkurrenter og fordeler som målgruppen finner viktig. Etter å ha utarbeidet posisjoneringsstrategien blir det viktig å få kommunisert denne effektivt.
+
+Oppsummering
+Segmentering og målgruppeutvelgelse er viktig for å få solgt produktet/produktene. Når vi ser denne segmenteringen og målgruppeutvelgelsen i forhold til produktutvikling er det klart at det er viktig å kartlegge mest mulig så tidlig som mulig i produktutviklingsprosessen. På denne måten er det mulig å tilpasse produktet mest mulig i forhold til det/de segmentet/segmentene vi ønsker å nå.
+Differensiering og posisjonering bør gjøre med utgangspunkt i den målgruppen eller de målgruppene man ønsker å selge produktet eller tjenesten til. Man kan differensiere tilbudet sitt på ulike måter som alle kan gi økt verdi for kundene. I tillegg til differensieringen må man også posisjonere bedriften og produktet/tjenesten man ønsker å selge. Posisjonering vil si å utforme bedriftens tilbud og image slik at målgruppen i markedet forstår og verdsetter hva bedriften leverer i forhold til konkurrentene, og at man oppnår en bestemt plass i kundens bevissthet.
