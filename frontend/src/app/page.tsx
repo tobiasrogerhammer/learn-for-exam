@@ -10,6 +10,7 @@ import {
   PanelLeftOpen,
   Plus,
   Settings2,
+  SlidersHorizontal,
 } from "lucide-react";
 import { api } from "../../convex/_generated/api";
 import { EmptyState } from "@/components/flashcards-view";
@@ -18,6 +19,7 @@ import { ListenView } from "@/components/listen-view";
 import { AccountButton } from "@/components/account-button";
 import { StudyPanel } from "@/components/study-panel";
 import { SubjectOverview } from "@/components/subject-overview";
+import { SubjectPicker } from "@/components/subject-picker";
 import { SubjectSidebar } from "@/components/subject-sidebar";
 import { UploadPanel } from "@/components/upload-panel";
 import { Button } from "@/components/ui/button";
@@ -42,9 +44,11 @@ import {
   createSubject,
   deleteSubject,
   getActiveSubjectId,
+  getChosenSubjects,
   listSubjects,
   renameSubject,
   setActiveSubjectId,
+  setChosenSubjects,
 } from "@/lib/subjects";
 import { checkHealth } from "@/lib/tts-api";
 import type {
@@ -60,6 +64,9 @@ export default function HomePage() {
   const me = useQuery(api.users.me);
   const isAdmin = me?.isAdmin === true;
   const [subjects, setSubjects] = useState<Subject[]>([]);
+  // The subjects you picked for your menu; null until you have picked
+  const [chosen, setChosen] = useState<string[] | null>(null);
+  const [pickerOpen, setPickerOpen] = useState(false);
   const [subjectId, setSubjectId] = useState<string | null>(null);
   const [library, setLibrary] = useState<LibraryItem[]>([]);
   const [docCounts, setDocCounts] = useState<Record<string, number>>({});
@@ -94,15 +101,20 @@ export default function HomePage() {
       .then(([, loadedMode]) => {
         if (cancelled) return;
         const all = listSubjects();
+        const picked = getChosenSubjects();
+        const visible = picked ? all.filter((s) => picked.includes(s.id)) : all;
         const stored = getActiveSubjectId();
         const counts = countBySubject();
         const active =
-          all.find((s) => s.id === stored) ??
-          all.find((s) => counts[s.id]) ??
-          all[0] ??
+          visible.find((s) => s.id === stored) ??
+          visible.find((s) => counts[s.id]) ??
+          visible[0] ??
           null;
         setProgressMode(loadedMode);
         setSubjects(all);
+        setChosen(picked);
+        // New accounts pick their subjects first
+        if (isAuthenticated && picked === null && all.length > 0) setPickerOpen(true);
         setSubjectId(active?.id ?? null);
         refreshSubject(active?.id ?? null);
         setContentReady(true);
@@ -127,7 +139,8 @@ export default function HomePage() {
   }, [isAdmin]);
 
 
-  const subject = subjects.find((s) => s.id === subjectId) ?? null;
+  const visibleSubjects = chosen ? subjects.filter((s) => chosen.includes(s.id)) : subjects;
+  const subject = visibleSubjects.find((s) => s.id === subjectId) ?? null;
   const selected = library.find((x) => x.id === selectedId) ?? null;
 
   const switchSubject = (id: string) => {
@@ -141,6 +154,11 @@ export default function HomePage() {
   const handleCreateSubject = (name: string) => {
     const created = createSubject(name);
     setSubjects(listSubjects());
+    if (chosen) {
+      const ids = [...chosen, created.id];
+      setChosenSubjects(ids);
+      setChosen(ids);
+    }
     switchSubject(created.id);
   };
 
@@ -174,12 +192,22 @@ export default function HomePage() {
 
   const tools = subject?.tools ?? [];
 
+  const saveChosen = (ids: string[]) => {
+    setChosenSubjects(ids);
+    setChosen(ids);
+    setPickerOpen(false);
+    if (!subjectId || !ids.includes(subjectId)) {
+      const first = subjects.find((s) => ids.includes(s.id));
+      if (first) switchSubject(first.id);
+    }
+  };
+
   return (
     <div className="relative isolate flex min-h-screen flex-col md:flex-row">
       <div className="pointer-events-none fixed inset-0 -z-10 bg-[radial-gradient(ellipse_at_top,_rgba(15,118,110,0.12),_transparent_55%),radial-gradient(ellipse_at_bottom_right,_rgba(30,64,175,0.08),_transparent_45%)]" />
       <div className="pointer-events-none fixed inset-0 -z-10 opacity-[0.35] [background-image:linear-gradient(to_right,rgb(15_23_42/0.04)_1px,transparent_1px),linear-gradient(to_bottom,rgb(15_23_42/0.04)_1px,transparent_1px)] [background-size:28px_28px]" />
 
-      <aside className={`border-b border-border/50 bg-background/70 px-4 py-4 backdrop-blur md:sticky md:top-0 md:h-screen md:w-72 md:shrink-0 md:overflow-y-auto md:border-r md:border-b-0 md:px-3 md:py-5 ${sidebarHidden ? "md:hidden" : ""}`}>
+      <aside className={`border-b border-border/50 bg-background/70 px-4 py-4 backdrop-blur md:sticky md:top-0 md:flex md:h-screen md:w-72 md:flex-col md:shrink-0 md:overflow-y-auto md:border-r md:border-b-0 md:px-3 md:py-5 ${sidebarHidden ? "md:hidden" : ""}`}>
         <div className="px-2">
           <p className="font-[family-name:var(--font-brand)] text-2xl tracking-tight text-foreground">
             Lær for eksamen
@@ -204,9 +232,9 @@ export default function HomePage() {
             className={`size-4 shrink-0 text-muted-foreground transition-transform ${menuOpen ? "rotate-180" : ""}`}
           />
         </button>
-        <div id="emne-meny" className={`mt-4 md:mt-8 md:block ${menuOpen ? "block" : "hidden"}`}>
+        <div id="emne-meny" className={`mt-4 flex-col md:mt-8 md:flex md:flex-1 ${menuOpen ? "flex" : "hidden"}`}>
           <SubjectSidebar
-            subjects={subjects}
+            subjects={visibleSubjects}
             activeId={subjectId}
             docCounts={docCounts}
             documents={library}
@@ -227,8 +255,31 @@ export default function HomePage() {
             }}
             onDelete={handleDeleteSubject}
           />
+          {contentReady && subjects.length > 0 ? (
+            <div className="mt-6 border-t border-border/50 pt-3 md:mt-auto">
+              <button
+                type="button"
+                onClick={() => setPickerOpen(true)}
+                className="flex w-full items-center gap-2 rounded-md px-2 py-2 text-sm text-muted-foreground hover:bg-muted/70 hover:text-foreground"
+              >
+                <SlidersHorizontal className="size-4" />
+                Legg til eller fjern emner
+              </button>
+            </div>
+          ) : null}
         </div>
       </aside>
+      {pickerOpen ? (
+        <SubjectPicker
+          open
+          // Empty subjects are only worth choosing for the admin, who fills them
+          subjects={isAdmin ? subjects : subjects.filter((s) => docCounts[s.id])}
+          docCounts={docCounts}
+          chosen={chosen}
+          onSave={saveChosen}
+          onClose={chosen === null && isAuthenticated ? undefined : () => setPickerOpen(false)}
+        />
+      ) : null}
 
       <div className="min-w-0 flex-1">
         <header className="border-b border-border/50 bg-background/70 backdrop-blur">

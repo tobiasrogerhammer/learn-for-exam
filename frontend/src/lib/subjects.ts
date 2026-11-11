@@ -56,3 +56,14 @@ export function getActiveSubjectId(): string | null {
 export function setActiveSubjectId(id: string): void {
   writeKey(ACTIVE_KEY, id);
 }
+
+const CHOSEN_KEY = "learn-for-exam:chosen-subjects:v1";
+
+/** The subjects you picked to see, or null if you haven't picked yet (then all are shown) */
+export function getChosenSubjects(): string[] | null {
+  return readKey<string[] | null>(CHOSEN_KEY, null);
+}
+
+export function setChosenSubjects(ids: string[]): void {
+  writeKey(CHOSEN_KEY, ids);
+}
