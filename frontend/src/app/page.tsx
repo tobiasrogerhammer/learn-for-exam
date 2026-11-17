@@ -257,7 +257,7 @@ export default function HomePage() {
       <aside className={`border-b border-border/50 bg-background/70 px-4 py-4 backdrop-blur md:sticky md:top-0 md:flex md:h-screen md:w-72 md:flex-col md:shrink-0 md:overflow-y-auto md:border-r md:border-b-0 md:px-3 md:py-5 ${sidebarHidden ? "md:hidden" : ""}`}>
         <div className="px-2">
           <p className="font-[family-name:var(--font-brand)] text-2xl tracking-tight text-foreground">
-            Lær for eksamen
+            Øv til eksamen
           </p>
           <p className="mt-0.5 text-sm text-muted-foreground">
             Lytt, repeter og test deg selv

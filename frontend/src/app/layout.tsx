@@ -28,12 +28,12 @@ const description =
 export const metadata: Metadata = {
   // Absolute links for the share image, so previews work in chats and social media
   metadataBase: new URL("https://exam-practice.tobiashammer.dev"),
-  title: "Lær for eksamen",
+  title: "Øv til eksamen",
   description,
   openGraph: {
     title: "Øv til eksamen",
     description,
-    siteName: "Lær for eksamen",
+    siteName: "Øv til eksamen",
     locale: "nb_NO",
     type: "website",
   },

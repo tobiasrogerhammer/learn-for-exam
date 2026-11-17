@@ -81,7 +81,6 @@ export default function OpengraphImage() {
           <div style={{ fontSize: 32, color: "#3b5a5c", lineHeight: 1.35, maxWidth: 520 }}>
             Les, marker, skriv notater og øv med quiz og flashcards.
           </div>
-          <div style={{ display: "flex", fontSize: 26, color: TEAL, marginTop: 8 }}>Lær for eksamen</div>
         </div>
 
         <Page rotate={-6} marked={[]} top={110} left={700} />
