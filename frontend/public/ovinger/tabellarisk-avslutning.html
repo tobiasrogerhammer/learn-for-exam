@@ -122,6 +122,13 @@ span.cell { min-height: 32px; }
 .cell.bad { background: var(--bad-soft); color: var(--bad); font-weight: 600; }
 .cell.fasit { background: var(--fasit-soft); color: var(--fasit); }
 .cell.given { color: var(--muted); }
+.cell.auto { font-weight: 600; color: var(--ink); }
+.cell.auto.closed { background: var(--ok-soft); color: var(--ok); }
+
+/* Summering av Til resultat og Til balanse */
+.sumbar { display: grid; gap: 12px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 16px 18px; }
+.sumbar-head { display: flex; flex-wrap: wrap; gap: 8px 16px; align-items: center; justify-content: space-between; }
+.sumbar .ib td.diff { font-weight: 600; }
 
 /* Kontrollspørsmål */
 .summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 14px 20px; background: var(--sheet); border: 1px solid var(--rule); border-radius: 6px; padding: 18px; }
@@ -178,7 +185,7 @@ summary { cursor: pointer; padding: 12px 16px; font-family: var(--font-display);
   <header>
     <span class="eyebrow">Økonomisk styring og regnskap · mengdetrening</span>
     <h1>Tabellarisk avslutning</h1>
-    <p class="lede">Hver oppgave er ny: åpningsbalanse og transaksjoner i samme oppsett som Jostein AS-eksempelet fra leksjon 4. Før posteringene i debet og kredit, summer kontoene, avslutt mot resultat eller balanse og trykk Rett.</p>
+    <p class="lede">Hver oppgave er ny: åpningsbalanse og transaksjoner i samme oppsett som Jostein AS-eksempelet fra leksjon 4. Før posteringene i debet og kredit, avslutt hver konto mot resultat eller balanse og trykk Rett. Sum-radene regner seg ut selv.</p>
   </header>
 
   <section class="controls" aria-label="Innstillinger">
@@ -226,6 +233,13 @@ summary { cursor: pointer; padding: 12px 16px; font-family: var(--font-display);
       <p class="note" id="sheetNote">Kontoer som starter med 1 og 2 avsluttes mot balansen, 3 til 8 mot resultatet. Tomme celler teller som 0.</p>
     </div>
     <div id="blocks" class="sheet"></div>
+    <div class="sumbar" id="sumbar">
+      <div class="sumbar-head">
+        <p class="note">Summer det du har ført i radene Til resultat og Til balanse, på tvers av alle kontoene.</p>
+        <button class="btn" id="sumBtn" type="button">Summer</button>
+      </div>
+      <table class="ib" id="sumTable" hidden></table>
+    </div>
     <div class="summary" id="summary"></div>
   </section>
 
@@ -545,7 +559,11 @@ function renderSheet() {
       h += `<tr class="${r.cls || ''}" data-row="${r.id}"><th class="lbl" scope="row">${r.date ? `<span class="tdate">${r.date}</span>` : ''}${esc(r.label)}</th>`;
       for (const a of bl) for (const s of ['d', 'k']) {
         const key = `${r.id}|${a}|${s}`;
-        h += `<td class="${s}">${cellHTML(key, !given, sol.E[key] || 0, `${a} ${ACC[a][1]}, ${s === 'd' ? 'debet' : 'kredit'}, ${r.label}`)}</td>`;
+        // The two Sum rows add up the column by themselves
+        const cell = r.id === 'sum' || r.id === 'tot'
+          ? `<span class="cell auto" data-auto="${key}"></span>`
+          : cellHTML(key, !given, sol.E[key] || 0, `${a} ${ACC[a][1]}, ${s === 'd' ? 'debet' : 'kredit'}, ${r.label}`);
+        h += `<td class="${s}">${cell}</td>`;
       }
       h += '</tr>';
     }
@@ -586,10 +604,11 @@ function renderAll() {
   $('sheetSection').hidden = drill;
   $('drillSection').hidden = !drill;
   $('sheetNote').textContent = state.mode === 'close'
-    ? 'Posteringene er ført. Fyll ut Sum, Til resultat, Til balanse og siste Sum, og svar på spørsmålene under.'
-    : 'Kontoer som starter med 1 og 2 avsluttes mot balansen, 3 til 8 mot resultatet. Tomme celler teller som 0.';
+    ? 'Posteringene er ført. Fyll ut Til resultat og Til balanse, og svar på spørsmålene under. Siste Sum blir grønn når kontoen stemmer med fasiten.'
+    : 'Kontoer som starter med 1 og 2 avsluttes mot balansen, 3 til 8 mot resultatet. Tomme celler teller som 0. Siste Sum blir grønn når kontoen stemmer med fasiten.';
   renderTask();
-  if (drill) renderDrill(); else renderSheet();
+  sumsShown = false;
+  if (drill) renderDrill(); else { renderSheet(); recalcSums(); renderSums(); }
   $('statements').hidden = true;
   $('feedback').textContent = ''; $('feedback').className = 'feedback';
   $('fasitBtn').textContent = 'Vis fasit';
@@ -606,6 +625,59 @@ function recordStats(right, total) {
   const s = store.get('stats', { tasks: 0, right: 0, total: 0 });
   s.tasks++; s.right += right; s.total += total;
   store.set('stats', s); renderStats();
+}
+
+/* Sum-radene regnes ut fra det som står over i hver kolonne */
+function cellValue(key) {
+  const inp = document.querySelector(`input.cell[data-key="${key}"]`);
+  if (!inp) return state.sol.E[key] || 0; // given cells when the postings are filled in
+  const v = parseAmt(inp.value);
+  return Number.isFinite(v) ? v : 0;
+}
+function recalcSums() {
+  const { task } = state;
+  if (!task || state.mode === 'drill') return;
+  const rows = ['ib', ...task.trans.map((_, i) => `t${i}`)];
+  for (const a of task.accounts) {
+    const sum = {}, tot = {};
+    for (const side of ['d', 'k']) {
+      sum[side] = rows.reduce((n, r) => n + cellValue(`${r}|${a}|${side}`), 0);
+      tot[side] = sum[side] + cellValue(`res|${a}|${side}`) + cellValue(`bal|${a}|${side}`);
+    }
+    for (const side of ['d', 'k']) {
+      const s = document.querySelector(`[data-auto="sum|${a}|${side}"]`);
+      const t = document.querySelector(`[data-auto="tot|${a}|${side}"]`);
+      if (s) s.textContent = sum[side] ? fmt(sum[side]) : '';
+      // The last Sum turns green once both sides match the answer for this account
+      const right = ['d', 'k'].every(x => tot[x] === (state.sol.E[`tot|${a}|${x}`] || 0));
+      if (t) { t.textContent = tot[side] ? fmt(tot[side]) : ''; t.classList.toggle('closed', tot.d > 0 && right); }
+    }
+  }
+}
+
+/* Legger sammen debet og kredit i en rad, fra det som er ført i tabellen */
+let sumsShown = false;
+function rowTotals(row) {
+  const t = { d: 0, k: 0 };
+  document.querySelectorAll(`input.cell[data-key^="${row}|"]`).forEach(inp => {
+    const v = parseAmt(inp.value);
+    if (Number.isFinite(v)) t[inp.dataset.key.split('|')[2]] += v;
+  });
+  return t;
+}
+function renderSums() {
+  const table = $('sumTable');
+  table.hidden = !sumsShown;
+  $('sumBtn').textContent = sumsShown ? 'Skjul summering' : 'Summer';
+  if (!sumsShown) return;
+  const res = rowTotals('res'), bal = rowTotals('bal');
+  const r = res.d - res.k;
+  const resText = r === 0 ? 'Går i null' : `${fmt(Math.abs(r))} ${r > 0 ? 'mer i debet (overskudd)' : 'mer i kredit (underskudd)'}`;
+  const b = bal.k - bal.d;
+  const balText = b === 0 ? 'Går i null' : `${fmt(Math.abs(b))} ${b > 0 ? 'mer i kredit' : 'mer i debet'}`;
+  table.innerHTML = '<thead><tr><th>Rad</th><th class="n">Sum debet</th><th class="n">Sum kredit</th><th class="n">Differanse</th></tr></thead><tbody>'
+    + `<tr><td>Til resultat</td><td class="n">${fmt(res.d)}</td><td class="n">${fmt(res.k)}</td><td class="n diff">${resText}</td></tr>`
+    + `<tr><td>Til balanse</td><td class="n">${fmt(bal.d)}</td><td class="n">${fmt(bal.k)}</td><td class="n diff">${balText}</td></tr></tbody>`;
 }
 
 function sumExpected() {
@@ -698,6 +770,8 @@ function toggleFasit() {
     if (state.fasit) { inp.dataset.user = inp.value; const v = E[inp.dataset.key] || 0; inp.value = v ? fmt(v) : ''; inp.readOnly = true; inp.classList.add('fasit'); }
     else { inp.value = inp.dataset.user || ''; inp.readOnly = false; inp.classList.remove('fasit'); }
   });
+  recalcSums();
+  renderSums();
   const exp = sumExpected();
   document.querySelectorAll('[data-sum]').forEach(inp => {
     if (state.fasit) { inp.dataset.user = inp.value; inp.value = fmt(exp[inp.dataset.sum]); inp.readOnly = true; inp.classList.add('fasit'); }
@@ -750,6 +824,8 @@ function clearAll() {
   document.querySelectorAll('.drill-ans').forEach(el => el.hidden = true);
   document.querySelectorAll('tr.rowbad').forEach(el => el.classList.remove('rowbad'));
   $('feedback').textContent = '';
+  recalcSums();
+  renderSums();
 }
 
 function renderPlan() {
@@ -765,6 +841,9 @@ $('newTask').addEventListener('click', () => { state.seed = Math.floor(Math.rand
 $('checkBtn').addEventListener('click', check);
 $('fasitBtn').addEventListener('click', toggleFasit);
 $('clearBtn').addEventListener('click', clearAll);
+$('sumBtn').addEventListener('click', () => { sumsShown = !sumsShown; renderSums(); });
+// The sums follow along as you type once they are shown
+$('blocks').addEventListener('input', () => { recalcSums(); if (sumsShown) renderSums(); });
 document.addEventListener('keydown', e => {
   if (e.key !== 'Enter' || !e.target.classList?.contains('cell')) return;
   e.preventDefault();
