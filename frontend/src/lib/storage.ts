@@ -1,5 +1,6 @@
 import { api } from "../../convex/_generated/api";
 import { convex } from "./convex";
+import { showAudiobooks } from "./features";
 import type { DocumentMeta, LibraryItem, StudySet, Subject } from "./types";
 
 /**
@@ -46,10 +47,11 @@ async function fetchContent(): Promise<void> {
   if (!convex) throw new Error("Convex er ikke satt opp");
   const loaded = await convex.query(api.content.load, {});
   content.subjects = loaded.subjects;
-  // Audiobook timings come with the document when it is opened
+  // Audiobook timings come with the document when it is opened. Without
+  // audiobooks turned on (see features.ts) they are left out everywhere.
   content.documents = loaded.documents.map((d) => ({
     ...d,
-    audiobook: d.audiobook ? { ...d.audiobook, chunks: [] } : undefined,
+    audiobook: d.audiobook && showAudiobooks ? { ...d.audiobook, chunks: [] } : undefined,
   })) as DocumentMeta[];
   // Text loaded earlier may be out of date, e.g. after publishing an audiobook
   content.details = {};

@@ -26,6 +26,7 @@ import { SubjectSidebar } from "@/components/subject-sidebar";
 import { UploadPanel } from "@/components/upload-panel";
 import { Button } from "@/components/ui/button";
 import { getListenPositions } from "@/lib/audiobook";
+import { showAudiobooks } from "@/lib/features";
 import {
   countBySubject,
   deleteDocument,
@@ -429,12 +430,14 @@ export default function HomePage() {
                         onDelete={() => handleDelete(selected.id)}
                         onStudySetChange={() => refreshSubject(subjectId)}
                       />
-                      <ListenView
-                        item={selectedItem}
-                        isAdmin={isAdmin}
-                        backendReady={backendReady}
-                        onLibraryChange={handleAudiobookPublished}
-                      />
+                      {showAudiobooks ? (
+                        <ListenView
+                          item={selectedItem}
+                          isAdmin={isAdmin}
+                          backendReady={backendReady}
+                          onLibraryChange={handleAudiobookPublished}
+                        />
+                      ) : null}
                     </div>
                   </details>
                 ) : null}
@@ -483,7 +486,7 @@ export default function HomePage() {
               {progressMode === "account"
                 ? "Fremgangen din lagres på kontoen din."
                 : "Fremgangen din lagres i denne nettleseren."}{" "}
-              Lydbøkene er laget med norsk tale (Piper).
+              {showAudiobooks ? "Lydbøkene er laget med norsk tale (Piper)." : null}
             </p>
           </main>
         </div>
