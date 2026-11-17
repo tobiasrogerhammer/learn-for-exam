@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 import { Fraunces, Source_Sans_3, Source_Serif_4 } from "next/font/google";
 import { Providers } from "@/components/providers";
 import { themeScript } from "@/lib/theme";
@@ -57,6 +58,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       </head>
       <body className="min-h-full flex flex-col font-sans">
         <Providers>{children}</Providers>
+        {/* Visitor counts without cookies, so no consent banner is needed */}
+        <Analytics />
       </body>
     </html>
   );
