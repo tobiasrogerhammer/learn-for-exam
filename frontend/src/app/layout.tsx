@@ -22,10 +22,26 @@ const reading = Source_Serif_4({
   display: "swap",
 });
 
+const description =
+  "Les pensum kapittel for kapittel, marker det viktige, skriv notater og øv med quiz, flashcards og gjenkalling.";
+
 export const metadata: Metadata = {
+  // Absolute links for the share image, so previews work in chats and social media
+  metadataBase: new URL("https://exam-practice.tobiashammer.dev"),
   title: "Lær for eksamen",
-  description:
-    "Øv til eksamen per emne: lytt til pensum med norsk tale, og øv med flashcards, quiz og gjenkalling.",
+  description,
+  openGraph: {
+    title: "Øv til eksamen",
+    description,
+    siteName: "Lær for eksamen",
+    locale: "nb_NO",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Øv til eksamen",
+    description,
+  },
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
