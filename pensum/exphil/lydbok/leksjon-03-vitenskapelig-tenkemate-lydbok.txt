@@ -1,0 +1,205 @@
+# Leksjon 3: Vitenskapelig tenkemåte
+
+Velkommen til leksjon tre. Denne leksjonen handler om hva som kjennetegner en vitenskapelig tenkemåte. Vi ser på hvorfor vitenskapen trenger metoder, hvordan en vitenskapelig test er bygd opp, og hvordan Karl Popper ville skille vitenskap fra pseudovitenskap. Til slutt ser vi på innvendingene mot Popper, på overraskelsesprinsippene og på hvorfor grunnfrekvens er så viktig.
+
+# Hva er vitenskapsfilosofi?
+
+I dette kapitlet ser vi på hva vitenskapsfilosofi er, og hvilke spørsmål den stiller.
+
+Vitenskapsfilosofi er den delen av filosofien som stiller filosofiske spørsmål om vitenskapelig tenkemåte og metode. Forskere vil finne ut hvordan verden er. Vitenskapsfilosofen spør et steg lenger tilbake. Hva er det som gjør at vitenskapelige metoder i det hele tatt kan gi oss kunnskap?
+
+Vitenskapsfilosofien bygger på epistemologi. Epistemologi er læren om kunnskap. Den spør hva kunnskap er, hvilke kilder til kunnskap som er pålitelige, og hvordan vi kan avgjøre om oppfatningene våre er korrekte eller berettigede.
+
+Når slike spørsmål rettes mot vitenskapen, får vi noen overordnede spørsmål. Det første er hvordan en vitenskapelig test bør foregå for at den skal gi oss kunnskap om verden. Det andre er hvordan vi skiller vitenskap fra pseudovitenskap. Dette kalles demarkasjonsproblemet. Det tredje er på hvilket grunnlag en hypotese kan regnes som bekreftet av observasjoner, om i det hele tatt. Det fjerde er hvordan vitenskapen utvikler seg, og om den nærmer seg sannheten.
+
+Hvorfor er dette viktig? Forelesningene gir to grunner. Den første er at vitenskap er viktig. Samfunnet bruker store felles ressurser på den, og den er ofte en del av grunnlaget for politiske beslutninger. Den andre grunnen er at vitenskap er vanskelig. Vi lar oss lett lede på villspor, og vitenskapen handler ofte om ting vi ikke kan se direkte.
+
+Formålet med vitenskap er å gi oss kunnskap om virkeligheten, slik at vi kan forklare og forutsi det som skjer. Kunnskapen gjør det også mulig å påvirke naturen, og har gitt oss for eksempel antibiotika, elektrisitet og vaskemaskiner.
+
+Vitenskap kan beskrives på tre måter. Den er sosialt organisert, gjennom universiteter, konferanser og tidsskrifter. Den er et sett av aktiviteter, som å gjøre eksperimenter og skrive artikler. Og den er et sett med metoder, for eksempel hypotetisk-deduktiv metode.
+
+En vitenskapelig undersøkelse har gjerne tre dimensjoner. Den første er fenomenet vi vil vite noe om, for eksempel framtidens klima. Den andre er dataene og observasjonene vi har, for eksempel temperaturmålinger. Den tredje er teoriene og modellene av fenomenet. Mye av vitenskapsfilosofien handler om forholdet mellom data og teori. Når gir dataene oss god grunn til å tro på en teori?
+
+Kort oppsummert: Vitenskapsfilosofi bygger på epistemologi og spør hvordan vitenskapen kan gi oss kunnskap, hvordan den skiller seg fra pseudovitenskap, og når hypoteser er bekreftet.
+
+# Hvorfor trenger vitenskapen metoder?
+
+I dette kapitlet ser vi på de to hovedgrunnene til at vitenskapen trenger metoder.
+
+Den første grunnen er at vi er disponert for tankefeil. Den viktigste her er bekreftelsestendens. Det er tendensen til å lete etter, tolke og huske informasjon som bekrefter det vi allerede tror, og overse det som ikke passer. Sosiale medier er et eksempel. Algoritmene viser oss innhold som ligner det vi liker fra før, og slik blir oppfatningene våre forsterket. Et hverdagseksempel er den som tror det alltid regner i helgene. Hun husker de våte lørdagene og glemmer de solrike.
+
+Forskere har de samme tendensene som alle andre. Derfor trengs prosedyrer som motvirker dem. Et eksempel er dobbel blinding. Da vet verken forsøkspersonene eller forskerne som måler effekten hvem som har fått den ekte behandlingen, og hvem som har fått narrepille. Slik kan ikke forventningene påvirke resultatet.
+
+Den andre grunnen er at vitenskapen ofte handler om ting vi ikke kan observere direkte. Noe er for stort, for lite eller for langt unna, som virus, dinosaurer og universets begynnelse. Noe er for generelt, som naturlover eller effekten av en medisin på hele befolkningen. Vi ser bare enkelttilfeller. Og noe handler om årsak og virkning, som vi heller ikke kan se direkte.
+
+Det siste er særlig viktig. Det er en vanlig feil å tro at samvariasjon betyr årsakssammenheng. At iskremsalget og solbrillesalget øker samtidig, betyr ikke at det ene forårsaker det andre. Begge skyldes trolig sol og varme.
+
+Teorier handler om hvordan virkeligheten er, men de testes mot observasjoner. Siden vi er disponert for systematiske skjevheter, og siden vi ikke kan se det vi forsker på direkte, må vi følge prosedyrer som tar høyde for dette.
+
+Kort oppsummert: Vitenskapen trenger metoder fordi vi lett lurer oss selv, og fordi det vi vil vite noe om, sjelden kan observeres direkte.
+
+# Hypotetisk-deduktiv metode
+
+I dette kapitlet lærer vi det grunnleggende skjemaet for en vitenskapelig test, og ser hva som skjer når forskere avviker fra det.
+
+Vitenskapen forklarer observasjoner ved å foreslå hypoteser. En god hypotese bør ha stor forklaringskraft, passe med det vi allerede vet, være enkel og være bedre enn alternativene. Kravet om enkelhet kalles ofte Ockhams barberkniv. Blant hypoteser som ellers stiller likt, er den enkleste mest sannsynlig riktig. Men selv en god hypotese må testes.
+
+Den hypotetisk-deduktive metoden har fire steg. I steg én formulerer vi en hypotese. I steg to utleder vi en observerbar konsekvens, altså noe som bør skje dersom hypotesen er sann. I steg tre tester vi ved å sjekke om dette faktisk skjer. I steg fire vurderer vi hypotesen. Skjer det vi forutsa, regnes hypotesen som foreløpig bekreftet. Skjer det ikke, regnes den som avkreftet.
+
+Ta et enkelt eksempel. Hypotesen er at kaken er ferdig. Hvis den er ferdig, vil det ikke feste seg røre på en tannpirker vi stikker ned i den. Vi tester og ser at tannpirkeren er ren. Hypotesen regnes som bekreftet.
+
+Et historisk eksempel er Semmelweis. Ved et sykehus i Wien døde mange fødende kvinner av barselfeber på en avdeling der medisinstudenter kom rett fra obduksjonssalen. Hypotesen var at et giftig likstoff fra døde kropper forårsaket feberen. Konsekvensen han utledet, var at dødeligheten ville gå ned hvis studentene vasket hendene med klorkalk. Studentene begynte med det, og dødeligheten gikk ned. Hypotesen ble bekreftet.
+
+Et eksempel med avkreftelse handler om voldelige dataspill. Hypotesen var at slike spill gjør oss mer likegyldige til vold. Forskerne forutsa at spillere ville vise svakere aktivitet i hjernens empatikretser enn en kontrollgruppe. Testen viste ingen forskjell. Hypotesen ble avkreftet.
+
+Det er nyttig å skille mellom oppdagelseskontekst og begrunnelseskontekst. Oppdagelseskonteksten handler om hvordan en hypotese blir til, kanskje gjennom en innskytelse eller en tilfeldig observasjon. Begrunnelseskonteksten handler om hvordan hypotesen prøves etter at den er formulert. Metoden handler om det siste.
+
+I steg tre foregår mye av det praktiske arbeidet. Det kan kreve tusenvis av deltakere og et helt team av forskere. Et viktig krav er at undersøkelsen er åpen og kan gjentas. Andre forskere må kunne se hva som ble gjort, og få samme resultat om de gjør det samme.
+
+Et sentralt poeng er at hypotesen og prediksjonen skal formuleres før testen. Forelesningene viser en studie der forskere undersøkte to hundre ulike variabler og fant at de som bor nær en trafikkert vei hadde tretti prosent mer kreft. Forskjellen var bare tilfeldig i én av hundre tilfeller. Problemet er at de ikke startet med denne hypotesen. Når man leter gjennom to hundre variabler, vil man vente et par slike treff av rene tilfeldigheter. Funnet er et forslag til en hypotese, ikke en bekreftelse. Det må testes på nye data.
+
+Kortsvarsoppgaven om kosttilskudd og hodepine viser det samme. Forskerne forutsa en klar sammenheng, men fant den ikke. Da burde hypotesen regnes som avkreftet. I stedet lette de videre, fant en sammenheng hos dem med høy fysisk aktivitet, og konkluderte med det. De tok altså ikke avkreftelsen på alvor, og de laget en ny hypotese etter å ha sett dataene uten å teste den på nytt.
+
+Kort oppsummert: Formuler hypotesen, utled en prediksjon, test og vurder, og gjør det i den rekkefølgen.
+
+# Asymmetrien mellom bekreftelse og avkreftelse
+
+I dette kapitlet ser vi på hvorfor det sies at det er lettere å avkrefte enn å bekrefte en hypotese, og om det stemmer.
+
+I et deduktivt gyldig argument følger konklusjonen med nødvendighet fra premissene. I et induktivt argument gjør premissene konklusjonen mer eller mindre sannsynlig. Tenk deg at tusen personer har brukt et legemiddel i ett år uten bivirkninger. At legemiddelet er helt trygt, er da sannsynlig, men ikke sikkert. Tenk deg så at Gerd fikk bivirkninger. Da følger det med nødvendighet at legemiddelet ikke er helt trygt.
+
+Det klassiske eksemplet handler om svaner. Uansett hvor mange hvite svaner vi ser, kan vi aldri vite sikkert at alle svaner er hvite. Men én eneste svart svane er nok til å vise at påstanden er gal.
+
+Avkreftelse følger en gyldig form som kalles modus tollens. Hvis hypotesen er sann, skal vi se en bestemt observasjon. Vi ser den ikke. Altså er hypotesen gal. Bekreftelse følger derimot en ugyldig form. Hvis hypotesen er sann, skal vi se observasjonen. Vi ser den. Altså er hypotesen sann. Dette er ugyldig, fordi observasjonen kunne skjedd selv om hypotesen var gal. Feilen kalles bekreftelse av konsekvensen.
+
+Dette er kjernen i asymmetrien. Bekreftelse er aldri logisk tvingende, mens avkreftelse er det. Og det er alltid mulig at vi senere finner en bedre hypotese som forklarer det vi ser.
+
+Asymmetrien henger sammen med induksjonsproblemet, som knyttes til David Hume. Hvordan kan vi begrunne at det vi har sett mange ganger, vil fortsette å skje? Det eneste svaret ser ut til å være at det har pleid å gå slik før. Men da bruker vi induksjon for å begrunne induksjon, og det er å argumentere i sirkel.
+
+Popper presiserte problemet. Det er ikke at induksjon ikke gir sikker kunnskap. Det har ingen trodd. Problemet er at hvis vi ikke kan forklare hvorfor induksjon er rasjonelt, kan vi heller ikke forklare hva som skiller gode induktive slutninger fra dårlige. Da blir bekreftelse bare et spørsmål om hva som virker rimelig for den enkelte forskeren.
+
+Stemmer så asymmetrien? Logisk sett, ja. I praksis er det mer komplisert. Når en prediksjon slår feil, kan det skyldes målefeil eller gale tilleggsantakelser. Vi tester sjelden én hypotese om gangen. Det kommer vi tilbake til.
+
+Det samme gjelder kaken. At tannpirkeren kommer ut ren, beviser ikke at kaken er ferdig. Men hvis det er røre på tannpirkeren, følger det at kaken ikke er ferdig, så sant vi godtar at testen virker.
+
+Kort oppsummert: Avkreftelse er logisk gyldig, bekreftelse er det ikke, men i praksis er heller ikke avkreftelse så enkel som logikken antyder.
+
+# Demarkasjonsproblemet og Poppers falsifikasjonisme
+
+I dette kapitlet ser vi på hvordan Karl Popper ville skille vitenskap fra pseudovitenskap.
+
+Pseudovitenskap er teorier og metoder som framstilles som vitenskapelige, men som ikke gir systematisk kunnskap. Eksempler som ofte nevnes, er astrologi, kreasjonisme, paranormal psykologi og alternative behandlinger som homøopati. Demarkasjonsproblemet er spørsmålet om hvordan vi skiller slikt fra ekte vitenskap.
+
+Skillet er ikke så lett som det kan virke. Ta intelligent design, ideen om at livet er formet av en intelligent skaper. Den kan se ut til å forklare mer enn evolusjonsteorien og samle alt i én helhetlig teori. Hvis forklaringskraft var nok, kunne den se vitenskapelig ut. Vi trenger et bedre kriterium. Dessuten kan beskyldninger om pseudovitenskap brukes politisk, så kriteriet bør være godt begrunnet.
+
+Popper foreslo falsifiserbarhet som kriterium. Vitenskap er å formulere hypoteser som kan testes, og jo dristigere, jo bedre. Det er å utsette dem for tester som kan motbevise dem, og å gi dem opp når de er motbevist. Pseudovitenskap er å forsvare hypoteser som ikke kan motbevises, å bare lete etter bekreftende data, eller å redde hypotesen med såkalte ad hoc-hypoteser.
+
+Poppers eksempler på pseudovitenskap var psykoanalyse, marxisme og astrologi. Et av eksemplene er Alfred Adlers teori om at all menneskelig handling er drevet av et mindreverdighetskompleks. Den passer med en mann som dytter et barn i sjøen. Men den passer like godt med en mann som ofrer livet for å redde barnet. En teori som passer med alt, kan ikke testes. For Popper er det et tegn på svakhet, ikke styrke.
+
+En ad hoc-hypotese er en tilleggshypotese som skal forklare et avvik, men som ikke kan testes for seg selv. Den er en krykke som holder teorien oppe. Den øker forklaringsevnen, men svekker evnen til å forutsi. Freuds drømmeteori sier at drømmer er ønskeoppfyllelser. En pasient drømte noe hun ikke ønsket. Freud forklarte det med at hun ønsket at han skulle ta feil. Slik ble et motbevis gjort om til en bekreftelse. Andre eksempler er kreasjonister som sier at dinosaurfossiler er Guds prøve på troen, og påstanden om at alternativ behandling slutter å virke når den testes.
+
+Homøopati viser begge kjennetegnene. Man legger merke til tilfellene som passer, og man redder teorien med påstander som at effekten forsvinner under testing, eller at de som tester midlene går legemiddelindustriens ærend.
+
+Poppers mønstereksempel på god vitenskap var Einsteins relativitetsteori. Den kom med dristige prediksjoner som kunne slått feil. En god teori tar en reell risiko.
+
+Hva gjør Poppers syn tiltrekkende? For det første motvirker det bekreftelsestendensen. For det andre passer det med et bilde av vitenskap som en kritisk aktivitet, det Popper kalte kritisk rasjonalisme. For det tredje mente Popper at det løste induksjonsproblemet. Hvis vitenskapen bare prøver å avkrefte, trenger den ikke induksjon, bare deduksjon.
+
+Popper hadde også et syn på hvordan vitenskapen utvikler seg. Det tradisjonelle synet er at framskritt er en gradvis opphopning av riktige hypoteser, som et byggverk. For Popper er framskritt en gradvis eliminering av gale hypoteser, omtrent som i evolusjonen.
+
+Noen hypoteser overlever mange forsøk på å motbevise dem. Hvis én slik hypotese står igjen alene, kaller Popper den korroborert. Men det betyr ikke at den er bekreftet, ikke engang litt.
+
+Kort oppsummert: For Popper er vitenskap å utsette dristige, testbare hypoteser for forsøk på å motbevise dem, mens pseudovitenskap unngår å bli testet.
+
+# Innvendinger mot falsifikasjonismen
+
+I dette kapitlet ser vi på hvilke deler av Poppers syn som er godt akseptert, og hvilke innvendinger som er reist mot det.
+
+Noen deler er bredt akseptert. En hypotese må kunne testes og kunne vise seg å være feil. Og å bare lete etter bekreftelse er typisk for pseudovitenskap. Andre deler er mer omstridt. Det gjelder påstanden om at framskritt bare handler om å eliminere gale hypoteser, at en hypotese aldri kan bekreftes, og at én observasjon er nok til å falsifisere en hypotese.
+
+Den første store innvendingen er Quine-Duhem-tesen, oppkalt etter Quine og Duhem. Den sier at hypoteser aldri testes alene. Når vi tester, gjør vi alltid en rekke tilleggsantakelser, såkalte hjelpehypoteser. I dataspillstudien antok forskerne for eksempel hvor i hjernen empatikretsene sitter, hva som er gode tegn på hjerneaktivitet, og at maskinene virket. Når resultatet er uventet, kan det like gjerne være en av disse antakelsene som er gal. Det er derfor alltid mulig å få observasjonene til å passe med en hypotese, så lenge man er villig til å gi slipp på noe annet.
+
+Tenk på kaken igjen. Den har stått i ovnen i ti minutter, og vi tror den ikke er ferdig. Tannpirkeren kommer ut ren. Er hypotesen da gal? Ikke nødvendigvis. Kanskje traff vi et sprøtt parti, eller kanskje testen ikke passer for denne kaken.
+
+Dette er et problem for Popper fordi falsifikasjonismen forutsetter at én observasjon kan felle én hypotese. Men når flere hypoteser er i spill, viser en mislykket prediksjon bare at minst én av dem er gal. Det blir også uklart hvor grensen går mellom en rimelig justering og en ad hoc-hypotese.
+
+Dette leder til spørsmålet om Poppers kriterium er for strengt. Forelesningene nevner mørk materie som en tilleggshypotese i fysikken som har blitt stående og regnes som god vitenskap. Guds eksistens, derimot, kan forklare alt og er derfor ikke testbar. Hvis forskere alltid skulle forkaste en teori ved første motstridende observasjon, ville mye anerkjent vitenskap falle bort. Kravet om testbarhet er godt akseptert. Det er den strenge versjonen som er omstridt.
+
+Den andre store innvendingen er at Popper ikke forklarer hvordan observasjoner kan styrke en teori. Skal vi bygge en bro, er det åpenbart klokere å bruke en grundig testet teori enn en ny og utestet teori. Men for Popper er ingen av dem bekreftet. Han klarer derfor ikke å forklare hvorfor det er rasjonelt å stole mer på den testede teorien.
+
+En tredje innvending er at Popper kanskje var for rask med å gi opp induksjon. Han mente at ingen kan gi prinsipper for hva som er god induktiv støtte. Men Elliot Sober har senere foreslått nettopp slike prinsipper, nemlig overraskelsesprinsippene.
+
+Dette gir også et svar på spørsmålet om det finnes andre gode svar etter Quine-Duhem. I stedet for å tenke at én observasjon feller én hypotese, kan vi tenke på bekreftelse og avkreftelse som noe som kommer i grader.
+
+Kort oppsummert: Hypoteser testes alltid sammen med andre antakelser, og Popper mangler en god forklaring på hvorfor vel testede teorier fortjener mer tillit.
+
+# Overraskelsesprinsippene
+
+I dette kapitlet ser vi på hvordan vi kan vurdere hvor mye en observasjon faktisk støtter en hypotese.
+
+Elliot Sober formulerte overraskelsesprinsippene. En observasjon bekrefter en hypotese i den grad observasjonen er forventet hvis hypotesen er sann, og i den grad den ville vært overraskende hvis hypotesen var usann.
+
+Begge delene må vurderes. Det holder ikke at observasjonen passer med hypotesen. Den må også være noe vi ikke ville ventet å se om hypotesen var gal. Det er denne andre delen som skiller ekte støtte fra bekreftelsestendens. Overraskelse, og dermed bekreftelse, kommer i grader. Hvor overraskende noe er, avhenger av hva annet vi vet og hvilke andre hypoteser vi vurderer.
+
+Ta bergmynteekstrakt. Hypotesen er at det kurerer forkjølelse. Aisha drakk det morgen og kveld og var frisk etter fjorten dager. Det er forventet hvis hypotesen er sann. Men det er ikke overraskende om hypotesen er gal, siden forkjølelse som regel går over av seg selv. Støtten er svært svak.
+
+Ta Halleys komet. Hypotesen er at Newtons lover er sanne. Ut fra lovene ble det forutsagt at kometen ville komme i året sytten hundre og femtiåtte, og den kom da. Dette er forventet om lovene er sanne, og ville vært et stort sammentreff om de var gale. Støtten er sterk.
+
+Ta cannabis og depresjon. En studie fant langt flere deprimerte blant dem som bruker cannabis nesten daglig. Det er forventet om cannabis øker risikoen for depresjon. Men det er ikke så overraskende om hypotesen er gal. Kanskje bruker deprimerte oftere cannabis, eller kanskje noe tredje gir begge deler. Støtten er moderat.
+
+Ta influensamidlet som kalles Flukiller. Av fem tusen syke som tok midlet, ble nitti prosent friske på tre dager. I en like stor kontrollgruppe som fikk narrepille, gjaldt det bare ti prosent. Dette er forventet om midlet virker, og svært overraskende om det ikke gjør det. Støtten er sterk. Kontrollgruppen gjør det mulig å se hva som ville skjedd uten midlet.
+
+Til slutt kortsvarsoppgaven om Trine. Hun tror jordtype A gir raskere vekst enn jordtype B. Etter en uke er basilikumen i A femti prosent høyere. Det er forventet om hypotesen er sann. Men det er ikke særlig overraskende om den er gal. Det er bare én plante i hver potte, og planter kan vokse ulikt av mange grunner, som ulike frø eller litt ulikt lys. Støtten er derfor svak. Trine kunne fått en bedre test med mange planter og like forhold.
+
+Legg merke til forskjellen mellom bergmynte og Flukiller. I begge tilfellene ble folk friske. Men bare i det ene tilfellet visste vi hva som ville skjedd uten behandlingen. Det er nettopp dette det andre prinsippet spør etter. Når du vurderer en studie, er det derfor lurt å spørre om det finnes en kontrollgruppe, hvor mange som er med, og om det finnes andre rimelige forklaringer på resultatet.
+
+Kort oppsummert: Spør alltid både om observasjonen passer med hypotesen, og om den ville vært overraskende uten hypotesen.
+
+# Grunnfrekvens og bekreftelse
+
+I dette kapitlet ser vi på hvorfor vi også må spørre hvor sannsynlig en hypotese er i utgangspunktet.
+
+Overraskelsesprinsippene må suppleres med et tredje spørsmål. Hvor sannsynlig er det i utgangspunktet at hypotesen er sann, uavhengig av observasjonen? Dette handler om grunnfrekvens, også kalt grunnsannsynlighet. Det betyr hvor vanlig noe er fra før.
+
+Ta et eksempel med alkometer. Politiet stopper en tilfeldig bil, og sjåføren blåser rødt. Alkometeret gir feil utslag hos fem prosent av dem som er edru. Mange vil tro det er nittifem prosent sannsynlig at sjåføren har drukket. Men bare omtrent én av fem hundre sjåfører kjører ruspåvirket. Av fem hundre sjåfører er fire hundre og nittini edru, og omtrent tjuefem av dem blåser rødt ved en feil. Den ene som har drukket, blåser også rødt. Bare én av rundt tjueseks som blåser rødt har altså drukket. Sannsynligheten er rundt fire prosent.
+
+Et annet eksempel handler om Cato, som har testet positivt for en sjelden og dødelig sykdom. Sykdommen finnes hos null komma tre prosent av befolkningen. Testen slår korrekt ut hos nitti prosent av de syke, og slår feilaktig ut hos tre prosent av de friske. Tenk deg hundre tusen mennesker. Tre hundre er syke, og to hundre og sytti av dem får positivt svar. Blant de friske får nesten tre tusen et falskt positivt svar. Av alle som tester positivt, er bare rundt åtte prosent faktisk syke. Moralen er at når noe er sjeldent, gir selv en god test mange falske alarmer.
+
+Forelesningene bruker også et eksempel med sykehusinnleggelser for covid. Hvis de fleste er vaksinert, kan det være mange vaksinerte blant de innlagte selv om vaksinen beskytter godt. Vi må se på andelen i hver gruppe, ikke bare tallene.
+
+Ta så rapportene om uidentifiserte fenomener i luftrommet. Mange jagerflygere har rapportert om objekter uten synlige vinger eller motorer som står stille i orkan eller akselererer svært raskt. Hypotesen er at det finnes ukjent, avansert teknologi i luftrommet. Observasjonene er forventet om hypotesen er sann. De er delvis overraskende om den er gal, men kan også skyldes sansefeil, vær eller kjent teknologi. Og i utgangspunktet er hypotesen svært lite sannsynlig. Samlet gir observasjonene derfor begrenset støtte.
+
+Denne tankegangen kalles bayesianisme, etter Thomas Bayes. Ideen er at vi kan beregne sannsynligheten for hypoteser, og at mer overraskende observasjoner gir mer støtte. Dette utfordrer Popper, fordi det gir en prinsipiell måte å si at observasjoner kan gjøre en hypotese mer sannsynlig. Men det forutsetter at vi vurderer hvor sannsynlige hypotesene er fra før, og det kan være faglig omstridt.
+
+Kort oppsummert: En positiv observasjon må alltid vurderes opp mot hvor sannsynlig hypotesen var i utgangspunktet.
+
+# Anvendelse: Hvor kom koronaviruset fra?
+
+I dette kapitlet bruker vi det vi har lært på casen om koronavirusets opprinnelse.
+
+To hypoteser har dominert debatten. Den ene er at viruset smittet fra dyr til mennesker via et marked i Wuhan som solgte levende ville dyr. Den andre er at viruset lekket ved et uhell fra et virologisk institutt i byen. Evolusjonsbiologen Kristian Andersen trodde først på lablekkasje, men endret mening.
+
+Han peker på flere forhold. Et bestemt sete i viruset ser ikke konstruert ut. De tidligste smittetilfellene klynget seg rundt markedet og ikke rundt laboratoriet. Virusets slektstre hadde to tidlige grener, som tyder på minst to smittehopp fra dyr. Og prøver fra en bestemt salgsbod inneholdt genetiske spor fra mulige mellomverter.
+
+Den siste studien passer godt inn i den hypotetisk-deduktive metoden. Hypotesen er at viruset kom fra dyr på markedet. Prediksjonen er at prøver fra området der ville dyr ble solgt, vil inneholde både virus og genetiske spor fra dyr. Forskerne testet, fant slike spor, blant annet fra mårhund, og regnet hypotesen som bekreftet.
+
+Med overraskelsesprinsippene spør vi om hver observasjon er forventet hvis markedshypotesen er sann, og overraskende hvis laboratoriehypotesen er sann. To grener på slektstreet passer med gjentatt kontakt mellom dyr og mennesker, men dårlig med at én smittet person startet det hele. Når flere slike observasjoner peker samme vei, blir støtten sterkere. Grunnfrekvens kommer inn når vi spør hvor sannsynlig hver hypotese er i utgangspunktet, for eksempel hvor vanlig det er at nye virus smitter fra dyr, sammenlignet med hvor vanlig laboratorielekkasjer er.
+
+Andersen har trekk som Popper ville likt. Han endret mening da observasjonene talte imot ham, og han gjorde tester som kunne slått feil. Men eksemplet viser også svakheter ved Popper. Andersen mener at observasjonene gjør markedshypotesen mer sannsynlig, ikke bare at den andre er eliminert. Og hver test bygger på hjelpehypoteser, som tilhengere av den andre hypotesen kan angripe.
+
+Kort oppsummert: Casen viser hvordan HD-metoden, overraskelsesprinsippene, grunnfrekvens og kritikken av Popper kan brukes sammen på et virkelig eksempel.
+
+# Oppsummering
+
+La oss samle trådene fra leksjonen.
+
+Vitenskapsfilosofi bygger på epistemologi og spør hvordan vitenskapen kan gi kunnskap, hvordan den skiller seg fra pseudovitenskap, og når hypoteser er bekreftet. Vitenskapen trenger metoder fordi vi er disponert for bekreftelsestendens, og fordi den handler om ting vi ikke kan se direkte.
+
+Den hypotetisk-deduktive metoden har fire steg. Vi formulerer en hypotese, utleder en prediksjon, tester og vurderer. Prediksjonen skal komme før testen.
+
+Det er en logisk asymmetri mellom bekreftelse og avkreftelse. Avkreftelse er gyldig, bekreftelse er det ikke. Induksjonsproblemet er at vi ikke kan begrunne induksjon uten å bruke induksjon.
+
+Popper mente at falsifiserbarhet skiller vitenskap fra pseudovitenskap, og at pseudovitenskap kjennetegnes av teorier som ikke kan testes, ensidig leting etter bekreftelse og ad hoc-hypoteser. De viktigste innvendingene er Quine-Duhem-tesen og at Popper ikke kan forklare hvorfor vel testede teorier fortjener mer tillit.
+
+Overraskelsesprinsippene sier at en observasjon bekrefter en hypotese i den grad den er forventet hvis hypotesen er sann, og overraskende hvis den er usann. Og vi må alltid ta hensyn til grunnfrekvensen, altså hvor sannsynlig hypotesen er i utgangspunktet.
+
+Takk for at du lyttet til leksjon tre.

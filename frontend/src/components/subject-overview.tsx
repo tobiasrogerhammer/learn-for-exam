@@ -5,10 +5,10 @@ import { SourceIcon } from "@/components/source-icon";
 import { listenedLabel, listenedShare } from "@/lib/audiobook";
 import { getLessonProgress } from "@/lib/lesson-flow";
 import { CATEGORIES, categoryOf, chapterCount } from "@/lib/library";
-import type { LibraryItem, ListenPosition } from "@/lib/types";
+import type { DocumentMeta, ListenPosition } from "@/lib/types";
 
 type Props = {
-  items: LibraryItem[];
+  items: DocumentMeta[];
   /** Document ids that have practice material */
   withStudySet: Set<string>;
   positions: Record<string, ListenPosition>;
@@ -76,7 +76,7 @@ export function SubjectOverview({ items, withStudySet, positions, onSelect }: Pr
 }
 
 /** How far you are in the lesson's fixed order of reading, notes and summary */
-function FlowLabel({ item }: { item: LibraryItem }) {
+function FlowLabel({ item }: { item: DocumentMeta }) {
   const progress = getLessonProgress(item.id);
   const total = chapterCount(item);
   if (progress.summaryDone) {

@@ -1,0 +1,588 @@
+--- side 1 ---
+Kunnskap for en bedre verden
+EXPH0300: Examen philosophicum for
+naturvitenskap og teknologi
+Forelesning 8
+Mirela Fus-Holmedal
+mirela.fus-holmedal@ntnu.no
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+
+--- side 2 ---
+Agenda
+1. Avsluttende om menneskesyn
+(Tenk! Del 3, kap. 12)
+2. Normativ etikk
+(Tenk! Del 4, kap. 15 og 16)
+5909 9781
+2
+
+--- side 3 ---
+Menneskesyn
+• Substansdualisme
+– En invendning: Interaksjonsproblemet
+• Fysikalisme (fysisk monisme)
+– Identitetsteori
+– Funksjonalisme (forenlig med fysikalisme)
+• Extended mind (utvidet sinn)
+• Maskinfunksjonalisme
+– Turingtesten
+– Invendinger
+• Det kinesiske rom (mot sterk KI og funksjonalisme)
+• Kunnskapsargumentet (mot fysikalisme)
+3
+
+--- side 4 ---
+4
+
+--- side 5 ---
+5
+Turingtesten (1950):
+Imitasjonsspill laget av
+matematikeren Alan Turing
+(1912-1954)
+• Kan en maskin etterligne
+menneskelige ferdigheter
+på en sånn måte at man vil
+tro det er et menneske?
+• Kan maskiner tenke?
+Endret med ChatGPT og
+lignende?
+
+--- side 6 ---
+Det kinesiske rom (1980):
+John Searle (1932-2025)
+• Innvending mot den funksjonalistiske
+ideen om at maskiner kan tenke
+• Regelboken gjør at Searle svarer
+korrekt på kinesisk selv om han ikke
+forstår eller vet om det er meningsfylt
+(«similating vs. understanding a
+thought» & «svak» vs. «sterk» KI)
+En slik atferd ville samsvare med
+Turing-testens syn på forståelse.
+6
+
+--- side 7 ---
+*Det kinesiske rommet
+• Searle sitter på sitt kontor, papirark
+sendes inn under døren med kinesiske
+tegn på.
+• Searle kan ikke kinesisk, men en bok viser
+ham hvordan tegnene skal kombineres.
+• Når han sender ark ut under døren med
+kinesiske setninger, tror folk han kan
+kinesisk.
+• Men kan han faktisk?
+7
+
+--- side 8 ---
+Kunnskapsargumentet
+(Mary i det svart-hvite
+rommet) (1982): Frank Jackson
+(1943-)
+• Innvending mot ideen om at opplevelsen av mentale tilstander kan
+forklares på en fysisk måte
+• Tredjepersonsperspektivet forklarer alle fysiske fakta ved mentale
+fenomen, men mangler den subjektive kvaliteten (kvalia); den er bare
+tilgjengelig fra førstepersonsperspektivet
+• Forklaringsggapet mellom første- og tredjepresonsperspektivet
+• Rettet mot enhver form for fysikalisme.
+8
+
+--- side 9 ---
+*Kunnskapsargumentet og kvalia
+• En forsker kan forklare alle fysiske aspekter
+av hva det vil si å ha en bestemt form for
+sansning (farger): hun har tilgang til alle fysiske
+fakta.
+• Hun har aldri selv erfart den form for
+sansning.
+• Hvis hun så erfarer den, vil vi anta at hun
+lærer noe nytt. I så fall må vi hevde at det
+finnes fakta om det å sanse som ikke kan
+reduseres til fysiske fakta.
+• Så: ikke alle fakta er fysiske.
+• Slike fakta kalles ofte for kvalia: En hvordan-er-
+det-er-å... -kvalitet.
+9
+
+--- side 10 ---
+Spørsmål?
+10
+
+--- side 11 ---
+2. Intro til etikk
+
+--- side 12 ---
+Etikk – teori og praksis
+• Etikk dreier seg om normative spørsmål
+– Rett og gal handling
+– Hva er et godt liv, en god praksis
+– Hvordan går vi fram for å bli gode, gjøre
+det rette
+– Både teoretiske og praktiske spørsmål
+• Viktig i de fleste yrker og i alle liv
+• Sentral del av offentlig debatt
+12
+
+--- side 13 ---
+Dilemmaer: faglige vs. etiske
+Faglige dilemmaer: går
+på hvordan virkeligheten er.
+Etiske dilemmaer: her gis
+det ikke entydige svar.
+• Eks.: Vil transportalternativ A
+eller B være mest bærekraftig?
+– I praksis kan det være
+vanskelig å avgjøre slike
+spørsmål- allikevel
+finnes det kun et korrekt
+svar på dem.
+• Eks.: Hvis vi skal følge FNs
+bærekraftmål, skal vi da
+prioritere
+1. økonomisk vekst?
+2. forbedring av sosiale vilkår?
+3. klima og miljø?
+• Finnes det entydige korrekte
+svar her?
+13
+
+--- side 14 ---
+Hvorfor trenger vi å vite noe om etikk?
+Beslutningssituasjoner:
+• reflektere over etiske dilemmaer
+når vi selv må foreta valg.
+Vurderingssituasjoner:
+• vurdere et handlingsforløp i
+ettertid, enten det er noe vi selv
+har gjort eller noe andre har gjort.
+14
+
+--- side 15 ---
+Moral og etikk
+Alle har oppfattelser av hva som
+er rett og galt, godt og dårlig:
+• fra oppdragelse, kulturen vi vokser
+opp i etc.
+• uttrykkes også i (et samfunns)
+moral.
+• kan beskrives deskriptivt.
+Moral som taus forkunnskap: vi
+ser ofte verden «med moralske
+briller» uten å tenke over det.
+Etiske teorier er derimot
+resultat av filosofisk
+refleksjon.
+• Går på:
+– hva vi bør gjøre, og
+– hvordan vi kan
+begrunne dette, og
+– kan ikke reduseres til
+moral.
+15
+Eksempel: En person kan mene at det er galt å lyve (moral); en filosof som
+spør hvorfor det er galt å lyve og om det finnes unntak, driver med etikk.
+
+--- side 16 ---
+Hva er etikk?
+1) Deskriptiv etikk
+2) Normativ etikk
+3) Metaetikk
+4) Anvendt etikk
+16
+
+--- side 17 ---
+1) Deskriptiv etikk: Undersøker
+og dokumenterer hvilke moralske
+verdier og normer som finnes og
+varierer i befolkningen, samt hvor
+utbredte de er.
+• Eks. Hvor stor andel av
+befolkningen som er for
+selvbestemt abort, samt om det er
+et skille i holdninger mellom
+generasjoner
+2) Normativ etikk: Det
+systematiske studiet av hva det er
+som gjør at noe er moralsk riktig eller
+galt, rettferdig eller urettferdig.
+• Utilitarisme, pliktetikk og dydsetikk
+17
+3) Anvendt etikk: Handler om å
+anvende etiske teorier og
+refleksjon på konkrete moralske
+problemer i samfunnet.
+• Eks: Medisinsk etikk, miljøetikk,
+næringslivsetikk, ingeniøretikk og
+etikk som omhandler dyrs
+rettigheter
+4) Metaetikk: Diskuterer om etiske
+utsagn kan være sanne eller
+usanne, og om det finnes rasjonelle
+grunner for å slutte seg til én etisk
+norm fremfor en annen.
+• Moralsk nihilisme,
+kulturrelativisme og moralsk
+realisme/objektivisme
+
+--- side 18 ---
+Tre normative etiske teorier
+Tre perspektiver på hvordan etiske valg
+kan begrunnes:
+1. Utilitarisme: fokus på
+konsekvenser (nytte)
+• Handlingsorientert og
+ettprinsippteori
+2. Pliktetikk: fokus på våre plikter og
+rettigheter (menneskeverd)
+• Handlingsorientert og ettprinsippteori teori
+3. Dydsetikk: En handling er rett om
+den uttrykker en god karakter
+• Aktørorientert teori
+Platon
+(428 -348 f.Kr.)
+18
+Immanul Kant
+(1724-1804)
+Jeremy Bentham
+(1748-1832)
+
+--- side 19 ---
+Spørsmål?
+19
+
+--- side 20 ---
+Jeremy Bentham (1748-1832) John Stuart Mill (1806-1873) Peter Singer (f. 1946)
+3. Utilitarisme Nøkkelord: maksimere gode
+konsekvenser, nytte, lykke, preferanser
+
+--- side 21 ---
+Tankeeksperiment: Vognproblem
+21
+https://www.youtube.com/watch?v=bOpf6KcWYyw
+
+--- side 22 ---
+22
+
+--- side 23 ---
+Bentham: Den klassiske utilitarismen
+(lykkeutilitarisme) – nytte-etikk
+• «Nytteprinsippet»: Man skal velge den handling
+som gir størst sum av gode konsekvenser for alle
+berørte parter.
+• Klassisk utilitarisme: Ulike oppfatninger om hva
+som er godt, men i siste instans er det ulike former
+for lykke
+– En god handling maksimerer lykke
+• «Nytte» og «velferd» = «lykke»
+23
+
+--- side 24 ---
+Benthams hedonisme og (politiske)
+konsekvenser av synet
+• Teori for etikk og politikk
+– Godt, rettferdig samfunn
+– Foreslo en rekke radikale reformer
+• Lykke = følelse av behag, fravær av smerte
+• Hvem som har følelsen er irrelevant
+– «Alle skal telle som én, ingen som mer enn én»
+– Kvinner skal likebehandles med menn
+• Hva som gir følelsen er irrelevant
+– Oppheve forbud mot homoseksualitet
+«Hvis vi legger fordommene til side, har gleden over et enkelt spill akkurat den samme
+24
+verdien som gleden vi kan få av vitenskap, musikk og poesi» (Bentham, 1825, s. 206)
+
+--- side 25 ---
+Bentham: Beregning av hvor mye lykke en handling
+fører til
+• hvor mange som berøres av
+handlingen,
+• hvor intenst behaget eller
+ubehaget er,
+• hvor langvarig følelsen av
+behag eller ubehag er
+25
+
+--- side 26 ---
+Innvendinger mot Bentham
+1. Kan nytelse måles objektivt? Er disse tingene ikke veldig
+subjektive?
+2. Er mennesket bare opptatt av nytelse?
+➢ John Stuart Mill: mennesket er et særdeles komplisert
+vesen, men i Benthams øyne er det «noe veldig enkelt».
+26
+
+--- side 27 ---
+Mills variant av utilitarismen:
+Forskjeller i kvalitet hva angår nytelse
+• Mill forsvarer et antikt syn på
+nytelse.
+• Det er ulike typer: intellektuell
+nytelse er mer sann og mer
+verdt enn sanselig nytelse.
+• Avhenger av Mills menneskesyn:
+«selvkultivering» er
+avgjørende.
+• Mennesker har evner for et
+annet liv enn dyr.
+Argumenter:
+❑ Mennesker opplever ulike typer
+nytelse: sanselige og intellektuelle.
+❑ Alle kjenner til sanselige nytelser,
+ikke alle til intellektuelle nytelser.
+❑ De som har opplevd begge deler
+foretrekker intellektuelle nytelser.
+❑ De som har opplevd begge deler er
+de som er best til å vurdere dem i
+forhold til hverandre.
+27
+
+--- side 28 ---
+Mill: Sokrates vs. den glade gris
+«Det er bedre å være et misfornøyd
+menneske enn en glad gris; bedre å være
+en misfornøyd Sokrates enn en tilfreds
+tosk. Og hvis tosken, eller grisen, er av en
+annen oppfattelse, er det fordi de kun
+kjenner deres egen side i saken. Den andre
+parten i sammenlikningen kjenner begge.»
+(Mill 2015, 124; se Svendsen & Säätelä,
+2010, 131).
+Altså: Mennesket har høyere evner enn
+dyr og dets lykke og nytelse avhenger
+av å utfolde disse.
+28
+
+--- side 29 ---
+Mill og ytringsfriheten
+• Alle ytringer bør være tillatt
+så lenge de ikke kan føre til
+overhengende fare for skade på
+andre.
+• Begrunnelse: det er nyttig.
+– Men: nytte må forstås «i
+videste forstand, fundert i
+menneskets permanente
+interesser, forstått som et
+progressivt vesen». (Tenk!
+278)
+Mills begrunnelse for
+ytringsfrihet (Tenk! 279-80):
+1. En ytring vi ikke liker kan
+være sann.
+2. Er den ikke sann, kan den
+være delvis sann og hjelpe
+med å utfordre herskende
+oppfattelser.
+3. Selv hvis den er helt usann,
+kan den forhindre at våre
+sanne oppfattelser forvandles
+til dogmer.
+29
+
+--- side 30 ---
+En innvending mot Mill
+• Gir det mening å hevde at intellektuelle nytelser er bedre og
+gir mer lykke enn sanselige nytelser?
+– Noen moderne utilitarister foretrekker derfor å fokusere på
+tilfredsstillelse av preferanser, ikke maksimering av
+nytelse.
+30
+
+--- side 31 ---
+Preferanseutilitarisme
+• Ser oppfyllelse av preferanser/ønsker,
+og ikke lykke som den overordnede etiske
+verdien.
+– Fordi mange vil, etter refleksjon, velge
+bort noen situasjoner som maksimerer
+lykke.
+• Styrke: stemmer bedre enn den
+lykkebaserte utilitarismen med hva vi
+mennesker faktisk opplever som verdifullt
+• Svakheten: må likestille alle typer
+preferanser.
+31
+Hvis én person har et helt RIMILIG
+ønske, for eksempel å unngå sterkt
+smerte, mens en annen har et ENDA
+STERKERE ønske om noe helt sprøtt,
+som å finne ut hvor mange gresstrå det
+er på en plen, virker det merkelig at vi
+bør prioritere å hjelpe
+gressentusiasten heller enn personen
+som vil unngå smerte. (Se for eksempel
+de Lazari-Radek & Singer, 2017, kap. 3)
+
+--- side 32 ---
+Insentivhensyn og hensynet til avtakende grensenytte
+må balanseres mot hverandre…
+Et insentiv er noe som
+motiverer mennesker til å
+handle på en ønskelig måte.
+Avtakende grensenytte: jo mer
+man allerede har av et gode, jo mindre
+ekstra nytte (eller lykke) vil man få av en
+ekstra enhet av dette godet.
+– Sosial utjevning og det å sikre
+at alle har grunnleggende
+velferdsgoder, kan altså
+begrunnes utilitaristisk med at
+ekstra verdier gir mye mer lykke
+for dem som har lite, enn for dem
+som har mye fra før.
+32
+
+--- side 33 ---
+Hvordan
+forholder
+utilitarister seg
+til usikre
+konsekvenser?
+33
+• Forventet nytte: Den mulige nytten av
+konsekvensen ganget med sannsynligheten for
+konsekvensen.
+– Eks. 1: Hvordan bør vi beregne nytten av å
+bruke bilbelte?
+– Eks. 2: Hvordan bør vi beregne nytten av et
+kostbart tiltak som skal redusere risikoen for
+oljeutslipp?
+
+--- side 34 ---
+Vurderingssituasjoner
+• Når en handling er utført – skal vi rose/klandre
+på grunn av intenderte eller faktiske
+konsekvenser?
+– Bentham: Vi bedømmer det som var de forventede
+konsekvensene (f.eks. nystekt pizza) i
+handlingsøyeblikket
+• Moralsk (u)flaks: Bør faktiske konsekvenser
+(f.eks.nedbrent leilighetskompleks) være
+avgjørende for vurderingen, selv når vi ikke har full
+kontroll over utfallet?
+34
+• Mellomvariant: Bedømme hva man burde skjønt
+i handlingsøyeblikket, ikke hva man faktisk antok.
+
+--- side 35 ---
+35
+Moralsk status
+• = status som en som har krav på
+å bli tatt hensyn til når man tar
+moralske beslutninger
+– Hvem har krav på å bli tatt
+med i beregningen når
+handlingsalternativer
+vurderes?
+– Hvilken vekt bør
+interessene til ulike grupper
+av individer tillegges?
+
+--- side 36 ---
+Dyrs moralske status
+“The question is not, "Can they reason?" nor, "Can
+they talk?" but "Can they suffer?” (Bentham)
+• Speciecism/artssisme:
+Å mene at artstilhørighet i
+seg selv er en grunn til å gi
+forskjellig moralsk status, er
+sammenlignbart med
+rasisme (Peter Singer,
+Animal Liberation, 1973)
+36
+
+--- side 37 ---
+Fra de utilitaristiske prinsippene
+følger det at menneskelivet ikke
+har noen egenverdi.
+Har alt menneskeliv
+en spesiell status?
+37
+
+--- side 38 ---
+Infanticid
+Hvis et barn blir født med store
+misdannelser, bør leger da kunne
+avslutte barnets liv?
+Peter Singer: «Det faktum at et vesen
+er et menneske, i den forstand at det er
+et medlem av arten Homo sapiens, er
+ikke relevant for hvor galt det er å drepe
+det; det er snarere egenskaper som
+rasjonalitet, autonomi og selvbevissthet
+som gjør en forskjell. [...] Å drepe et
+funksjonshemmet spedbarn er ikke
+moralsk likt å drepe en person. Ofte er
+det overhodet ikke galt.»
+38
+
+--- side 39 ---
+• Har vi større moralske plikter
+overfor de som lever nære
+oss i tid og rom, enn de som
+lever fjernt fra oss?
+– Har jeg de samme pliktene
+overfor et barn i Sør-Sudan
+som et barn på Gjøvik?
+– Har jeg de samme pliktene
+overfor en person som
+kommer til å leve om 1000
+år, som jeg har overfor en
+person som lever i dag?
+39
+Personer som lever fjernt
+fra oss i tid eller rom
+
+--- side 40 ---
+40
+Vern av natur og dyrearter
+Har det en verdi i seg selv/ iboende verdi å bevare
+villmark og utrydningstruede arter?
+Nei, bare i den grad det bidrar til å øke velferden til dyr eller mennesker.
+
+--- side 41 ---
+41
+Kritikk av utilitarismen
+1. Rettferdiggjør at noen ofres for den samlede nytten
+– Ignorere behovene og rettighetene til noen
+• Eks. avlive en person for å gi organer til flere andre
+2. For moralsk krevende
+– Prinsippet om avtakende grensenytte gjør at vi nesten alltid heller bør
+gi bort penger enn å bruke de på oss selv
+• Når folk sulter og er syk, vil det alltid være galt å bruke penger på
+egen (moderat) luksus
+– Eks. nye klær, ferie etc.
+3. Fratar oss for ansvar for kollektive handlingsproblemer
+– En gruppe av handlinger gir positive eller negative effekter som ikke er
+en sum av effekter av enkelthandlinger
+• Eks. Min handling gir ingen effekt på de totale klimautslipp
+
+--- side 42 ---
+Krever utilitarismen for
+mye av oss (1), eller de
+fleste av oss gjør noe
+moralsk galt når vi
+velger å prioritere oss
+selv foran å hjelpe
+andre (2)?
+
+--- side 43 ---
+Spørsmål?
+43
+
+--- side 44 ---
+44
+Neste gang
+• Fortsettelse, normativ etikk
+• Pensum:
+– Tenk! Del 4,
+• Kap. 17-18
+
+--- side 45 ---
+Takk for i dag!
+Kunnskap for en bedre verden
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+

@@ -1,0 +1,513 @@
+{
+  "summary": "Modulen handler om hvordan man skriver gode akademiske tekster, med utgangspunkt i den første obligatoriske øvingsoppgaven. Den forklarer hva argumentativ framstilling er: å begrunne påstander, ta stilling til og anvende fagstoffet, og drøfte balansert. Videre dekker den teoriforståelse, tekststruktur fra tittel til litteraturliste, avsnitt med temasetninger, bindeord og klarhet. Til slutt behandles kildeføring og APA 7, skriveprosessen og respons, og vurderingskriteriene for øvingsoppgaven.",
+  "flashcards": [
+    {
+      "front": "Hvilke fire krav stilles særlig til akademiske tekster sammenlignet med tekster fra videregående?",
+      "back": "Klarhet, struktur, ryddig argumentasjon og grundig kildeføring.",
+      "section": "Hva er en akademisk tekst?"
+    },
+    {
+      "front": "Hva skiller en akademisk tekst fra et leserinnlegg?",
+      "back": "Den akademiske teksten begrunner påstandene med faglitteratur, begreper og forskning, viser til kildene på en etterprøvbar måte, er tydelig strukturert og skrevet klart og presist.",
+      "section": "Hva er en akademisk tekst?"
+    },
+    {
+      "front": "Hva sier læringsmålene om hvordan studentene skal argumentere og formulere seg?",
+      "back": "Argumentere selvstendig, saklig og systematisk ut fra prinsipper for kritisk kildebruk, og formulere seg presist, strukturert og argumenterende.",
+      "section": "Hva er en akademisk tekst?"
+    },
+    {
+      "front": "Hva betyr argumentativ framstilling?",
+      "back": "At du ikke bare fremsetter påstander, men gir gode grunner til at de stemmer, for eksempel med faglitteratur, begreper og definisjoner eller forskningsresultater.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "front": "Hva er forskjellen på å oppsummere og å anvende fagstoff?",
+      "back": "Å oppsummere er å gjengi pensum. Å anvende er å vurdere momentene i casen opp mot begreper og teorier og trekke slutninger ut fra dette.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "front": "Hvorfor holder det ikke å skrive at et argument har en analogistruktur?",
+      "back": "Du må også forklare hva et analogiargument innebærer, og vise hvordan det kommer til uttrykk i det konkrete tilfellet.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "front": "Gjør bruk av «jeg» eller «vi» en akademisk tekst subjektiv?",
+      "back": "Ikke nødvendigvis. Det er argumentasjonen som utgjør forskjellen på bare egne meninger og noe mer objektivt.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "front": "Hvilke spørsmål kan du stille for å bygge opp din egen argumentasjon?",
+      "back": "Hva er påstanden min? Hva er argumentene? Hvorfor tror jeg på dem (riktighet)? Hvordan støtter de påstanden (relevans)? Hva kan være motargumenter?",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "front": "Hva vil det si å drøfte balansert?",
+      "back": "Å vurdere argumenter både for og imot et standpunkt og bygge lag på lag med argumenter gjennom flere avsnitt.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "front": "Hva betyr det å «pakke ut» en teori?",
+      "back": "Å forklare de viktige og relevante momentene, det grunnleggende prinsippet og hva de ulike begrepene betyr, med utgangspunkt i pensum.",
+      "section": "Teoriforståelse: forklare og anvende"
+    },
+    {
+      "front": "Hvilken rolle har teorier og begreper i drøftingen?",
+      "back": "De er verktøyene. Først forklares de, deretter anvendes de på problemstillingen.",
+      "section": "Teoriforståelse: forklare og anvende"
+    },
+    {
+      "front": "Hva er tittelens funksjon i en akademisk tekst?",
+      "back": "Den er leserens første møte med teksten og en leseanvisning som forbereder leseren på det som følger.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "front": "Hva bør innledningen inneholde?",
+      "back": "Tema og bakgrunn, problemstilling, hvilke teorier fra pensum som brukes, hvilke momenter teksten tar opp og i hvilken rekkefølge, og eventuell avgrensning. Gjerne 1–2 avsnitt.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "front": "Hva er tekstens røde tråd?",
+      "back": "Emnet slik det er formulert i innledningen. Alle avsnittene etterpå bør handle om dette emnet.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "front": "Hva skal skje i hoveddelen?",
+      "back": "Analyse og drøfting av emnet. Her gjør du det innledningen lovet, med naturlig rekkefølge mellom avsnittene, og teksten skal være argumenterende.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "front": "Hva er den viktigste regelen for avslutningen?",
+      "back": "All redegjørelse og drøfting skal være ferdig før avslutningen. Avslutningen oppsummerer funnene og samler trådene, uten nye argumenter.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "front": "Hva er en temasetning?",
+      "back": "Setningen, gjerne den første, som sier hva avsnittet handler om og avgrenser det. Når du beveger deg bort fra den, bør du starte et nytt avsnitt.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "front": "Hva er hovedregelen for hvor mange poeng et avsnitt bør ha?",
+      "back": "Ett hovedpoeng per avsnitt, og det bør være tydelig hvordan poenget bidrar til å svare på oppgaven.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "front": "Hvilke to ting gjør bindeord for en tekst?",
+      "back": "De får teksten til å flyte bedre, og de får påstandene og argumentene til å henge logisk sammen.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "front": "Hvorfor bør du være forsiktig med ord som «selvsagt», «åpenbart» og «som kjent»?",
+      "back": "De påstår at noe er sikkert uten å begrunne det. I en argumenterende tekst bør du vise hvorfor noe stemmer.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "front": "Hvordan kan du guide leseren gjennom teksten?",
+      "back": "Med overganger som «Som vi argumenterte for i forrige avsnitt» og «I denne delen skal vi presentere noen motargumenter».",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "front": "Nevn funksjonene til kildehenvisninger i akademiske tekster.",
+      "back": "Akademisk redelighet, underbygge egen argumentasjon, plassere teksten i en tradisjon, posisjonering overfor andres arbeid, unngå plagiat, og informere leseren om relevant kildemateriale.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "front": "Når skal du henvise til kilder?",
+      "back": "Ved direkte sitat, ved parafrase, ved henvisning til en konkret bok eller artikkel, når du presenterer teori og begreper, og ved faktapåstander som statistikk og forskningsresultater.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "front": "Hva er forskjellen på sitat og parafrase?",
+      "back": "Et sitat er en ordrett gjengivelse i anførselstegn. En parafrase er en omskriving med egne ord (indirekte sitat). Begge skal ha henvisning.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "front": "Når trenger du vanligvis ikke oppgi kilde?",
+      "back": "Når du skriver noe som er allment kjent og akseptert.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "front": "Hvilke regler gjelder for kildebruk i øvingsoppgaven?",
+      "back": "Kildehenvisning er et absolutt krav, pensum skal være hovedkilden, det skal henvises med sidetall når kilden har det, og det skal henvises til pensumlitteratur, ikke til lysbilder.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "front": "Hvilke to steder skal referansene stå i APA 7?",
+      "back": "Løpende i teksten i parentes, og i en alfabetisk litteraturliste til slutt, på egen side med hengende innrykk.",
+      "section": "Referansestil og litteraturliste"
+    },
+    {
+      "front": "Hva er hengende innrykk?",
+      "back": "At første linje i hver referanse står helt til venstre, mens de neste linjene er rykket inn. Det gjør forfatternavnene lette å finne.",
+      "section": "Referansestil og litteraturliste"
+    },
+    {
+      "front": "Hvilken referansestil anbefales, og hva er viktigst uansett stil?",
+      "back": "APA 7, som læreboken bruker. Uansett stil må du være konsekvent.",
+      "section": "Referansestil og litteraturliste"
+    },
+    {
+      "front": "Hva er trinnene i skriveprosessen?",
+      "back": "Oppgaveforståelse, disposisjon, litteraturgjennomgang, førsteutkast, respons på utkast, revisjon og finskriving med korrektur.",
+      "section": "Skriveprosessen og respons"
+    },
+    {
+      "front": "Hva kjennetegner god respons på et utkast?",
+      "back": "Den er saklig, peker også på det som fungerer godt, er begrunnet og konkret, og kommer med konkrete forslag når noe er uklart.",
+      "section": "Skriveprosessen og respons"
+    },
+    {
+      "front": "Hva er de seks bedømmingskriteriene for øvingsoppgaven?",
+      "back": "Besvarelse av oppgaven, formalia (kilder og ordgrense), avgrensning, struktur, teoriforståelse og argumentasjon.",
+      "section": "Vurderingskriterier for øvingsoppgaven"
+    },
+    {
+      "front": "Hva skjer hvis ett av delspørsmålene i casen ikke er besvart?",
+      "back": "Oppgaven underkjennes, uansett hvor godt de andre delene er besvart.",
+      "section": "Vurderingskriterier for øvingsoppgaven"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hva kjennetegner en akademisk tekst mest, sammenlignet med et leserinnlegg?",
+      "options": [
+        "Den er lengre",
+        "Den unngår å ta stilling",
+        "Den begrunner påstandene med fagstoff og viser til kildene",
+        "Den bruker alltid upersonlig språk"
+      ],
+      "answer_index": 2,
+      "explanation": "En akademisk tekst skal begrunne påstander med faglitteratur, begreper og forskning, og vise til kilder. Den skal ta stilling, og personlige pronomen er ikke forbudt.",
+      "section": "Hva er en akademisk tekst?"
+    },
+    {
+      "question": "Hva betyr det å anvende fagstoffet i en casebesvarelse?",
+      "options": [
+        "Å vurdere momentene i casen opp mot begreper og teorier og trekke slutninger",
+        "Å sitere mest mulig fra læreboken",
+        "Å gjengi pensum så fullstendig som mulig",
+        "Å oppsummere casen med egne ord"
+      ],
+      "answer_index": 0,
+      "explanation": "Å anvende er å bruke begreper og teorier på casen og trekke slutninger, ikke bare oppsummere.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "question": "Hva sier seminaret om å skrive «Vi mener at ...» i en akademisk tekst?",
+      "options": [
+        "Det er alltid feil fordi teksten blir subjektiv",
+        "Det er bare lov i avslutningen",
+        "Det er påkrevd for å vise selvstendighet",
+        "Det gjør ikke nødvendigvis teksten subjektiv, det er argumentasjonen som avgjør"
+      ],
+      "answer_index": 3,
+      "explanation": "Personlige pronomen er ikke det samme som å være subjektiv. Det er argumentasjonen som skiller egne meninger fra noe mer objektivt.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "question": "Når du vurderer om argumentene dine faktisk støtter påstanden, vurderer du ...",
+      "options": [
+        "riktighet",
+        "relevans",
+        "formalia",
+        "avgrensning"
+      ],
+      "answer_index": 1,
+      "explanation": "Relevans handler om hvordan argumentene støtter påstanden. Riktighet handler om hvorvidt argumentene er sanne.",
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "question": "Hvorfor bør du forklare begreper som sensor sikkert kjenner?",
+      "options": [
+        "For å nå ordgrensen",
+        "Fordi sensor kanskje ikke kjenner pensum",
+        "Fordi oppgaven tester din forståelse av teorier og begreper",
+        "Fordi det er et krav i APA 7"
+      ],
+      "answer_index": 2,
+      "explanation": "Øvingsoppgaven og eksamen tester hvor godt du har forstått teoriene. Et begrep uten forklaring viser ikke forståelse.",
+      "section": "Teoriforståelse: forklare og anvende"
+    },
+    {
+      "question": "Hvilken rekkefølge anbefales for teori i en casebesvarelse?",
+      "options": [
+        "Først forklare (pakke ut) teorien, så bruke den som verktøy på problemstillingen",
+        "Bare anvende, siden sensor kjenner teorien",
+        "Først anvende, så forklare",
+        "Forklare teorien i avslutningen"
+      ],
+      "answer_index": 0,
+      "explanation": "Teorien pakkes ut med utgangspunkt i pensum og brukes deretter som verktøy i drøftingen.",
+      "section": "Teoriforståelse: forklare og anvende"
+    },
+    {
+      "question": "Hva hører IKKE hjemme i avslutningen?",
+      "options": [
+        "En oppsummering av hva teksten har vist",
+        "En konklusjon som henger sammen med slutten av hoveddelen",
+        "En sammenbinding av trådene",
+        "Nye argumenter og ny drøfting"
+      ],
+      "answer_index": 3,
+      "explanation": "All redegjørelse og drøfting skal være ferdig før avslutningen.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "question": "Hva er tekstens røde tråd?",
+      "options": [
+        "Litteraturlisten",
+        "Emnet slik det er formulert i innledningen, som alle avsnitt bør handle om",
+        "Den lengste delen av hoveddelen",
+        "Konklusjonen"
+      ],
+      "answer_index": 1,
+      "explanation": "Emnet som introduseres i innledningen er den røde tråden som skal trekkes gjennom hele teksten.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "question": "Casen har tre delspørsmål. Hvordan bør teksten organiseres?",
+      "options": [
+        "Som tre separate svar uten sammenheng",
+        "Bare det viktigste delspørsmålet trenger svar",
+        "Som én helhetlig tekst der delsvarene bindes sammen av innledning, overganger og avslutning",
+        "Som en punktliste med ett punkt per delspørsmål"
+      ],
+      "answer_index": 2,
+      "explanation": "Teksten skal ikke bestå av separate deler som ikke forholder seg til hverandre. Helheten skal ivaretas.",
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "question": "Hva er et tegn på at du bør starte et nytt avsnitt?",
+      "options": [
+        "At du beveger deg bort fra det temasetningen varsler",
+        "At avsnittet har blitt over fem setninger",
+        "At du skal sitere en kilde",
+        "At du bruker et bindeord"
+      ],
+      "answer_index": 0,
+      "explanation": "Temasetningen avgrenser avsnittet. Beveger du deg bort fra den, hører stoffet hjemme i et nytt avsnitt.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "question": "Hvilket bindeord uttrykker kontrast eller motargument?",
+      "options": [
+        "Følgelig",
+        "Dessuten",
+        "Eksempelvis",
+        "Imidlertid"
+      ],
+      "answer_index": 3,
+      "explanation": "«Imidlertid» markerer kontrast. «Følgelig» er logisk følge, «dessuten» nytt poeng og «eksempelvis» eksempel.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "question": "Hvorfor frarådes ord som «åpenbart» og «som kjent»?",
+      "options": [
+        "De er for uformelle",
+        "De påstår sikkerhet uten å begrunne",
+        "De gjør teksten for lang",
+        "De er ikke tillatt i APA 7"
+      ],
+      "answer_index": 1,
+      "explanation": "Ord som uttrykker sikkerhet erstatter begrunnelse. I en argumenterende tekst bør du vise hvorfor noe stemmer.",
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "question": "Du forklarer Poppers falsifikasjonisme med egne ord. Må du henvise?",
+      "options": [
+        "Nei, fordi det er skrevet med egne ord",
+        "Nei, fordi Popper er allment kjent",
+        "Ja, fordi det er en parafrase av teori fra pensum",
+        "Bare hvis du bruker anførselstegn"
+      ],
+      "answer_index": 2,
+      "explanation": "Parafrase og presentasjon av teori og begreper krever henvisning, selv om ordene er dine egne.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "question": "Hvilken av disse er IKKE en funksjon ved kildehenvisninger ifølge seminaret?",
+      "options": [
+        "Å øke antall ord i teksten",
+        "Posisjonering overfor andres arbeid",
+        "Akademisk redelighet",
+        "Å informere leseren om relevant kildemateriale"
+      ],
+      "answer_index": 0,
+      "explanation": "Kildehenvisninger handler om redelighet, underbygging, tradisjon, posisjonering, å unngå plagiat og informasjon. Litteraturlisten regnes dessuten ikke med i ordtallet.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "question": "Hva skal du henvise til når du bruker stoff fra forelesningene?",
+      "options": [
+        "Lysbildene på Canvas",
+        "Foreleserens navn og dato",
+        "Ingenting, forelesninger trenger ikke henvisning",
+        "Pensumlitteraturen, med sidetall"
+      ],
+      "answer_index": 3,
+      "explanation": "Ikke henvis til lysbilder, men til pensumlitteraturen med sidetall.",
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "question": "Hvordan skal litteraturlisten se ut i APA 7?",
+      "options": [
+        "Kronologisk etter utgivelsesår, uten innrykk",
+        "Alfabetisk, på egen side, med hengende innrykk",
+        "I den rekkefølgen kildene brukes i teksten",
+        "Som fotnoter nederst på hver side"
+      ],
+      "answer_index": 1,
+      "explanation": "Referansene står alfabetisk i en egen litteraturliste på egen side med hengende innrykk.",
+      "section": "Referansestil og litteraturliste"
+    },
+    {
+      "question": "Hva er første trinn i skriveprosessen ifølge seminaret?",
+      "options": [
+        "Førsteutkast",
+        "Disposisjon",
+        "Oppgaveforståelse",
+        "Litteraturgjennomgang"
+      ],
+      "answer_index": 2,
+      "explanation": "Du starter med å forstå hva oppgaven spør om, før disposisjon, litteraturgjennomgang og utkast.",
+      "section": "Skriveprosessen og respons"
+    },
+    {
+      "question": "Hvilken tilbakemelding er best i tråd med rådene om respons?",
+      "options": [
+        "«Avsnitt 3 er uklart fordi det blander to poeng. Kanskje del det i to, med hver sin temasetning? Innledningen fungerer godt fordi den sier tydelig hva teksten skal gjøre.»",
+        "«Teksten er dårlig.»",
+        "«Jeg er uenig i konklusjonen.»",
+        "«Bra jobba!»"
+      ],
+      "answer_index": 0,
+      "explanation": "God respons er saklig, begrunnet og konkret, peker også på det som fungerer, og gir forslag til forbedring.",
+      "section": "Skriveprosessen og respons"
+    },
+    {
+      "question": "En gruppe har skrevet svært godt på delspørsmål a og b, men ikke besvart c. Hva blir resultatet?",
+      "options": [
+        "Godkjent, fordi a og b veier opp",
+        "Godkjent med merknad",
+        "Godkjent hvis teksten er over 1200 ord",
+        "Underkjent, uansett kvaliteten på a og b"
+      ],
+      "answer_index": 3,
+      "explanation": "Hvis én av delene ikke er besvart, underkjennes oppgaven uansett hvor godt de andre delene er besvart.",
+      "section": "Vurderingskriterier for øvingsoppgaven"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Hva skiller akademiske tekster fra andre typer tekster, som en skoleoppgave fra videregående eller et leserinnlegg?",
+      "key_points": [
+        "Krav til klarhet, struktur, ryddig argumentasjon og grundig kildeføring",
+        "Påstander begrunnes med faglitteratur, begreper og forskning",
+        "Kildene vises på en etterprøvbar måte",
+        "Teksten anvender fagstoff og tar stilling, ikke bare gjenforteller"
+      ],
+      "section": "Hva er en akademisk tekst?"
+    },
+    {
+      "prompt": "Hva vil argumentativ framstilling si, og hvordan kan du bruke argumentasjonsteori til å bygge opp din egen argumentasjon?",
+      "key_points": [
+        "Begrunne påstander, ikke bare fremsette dem",
+        "Ta stilling og anvende fagstoffet på casen",
+        "Forklare hvordan du kom fram til konklusjonen",
+        "Spørsmål: påstand, argumenter, riktighet, relevans, motargumenter",
+        "Drøfte balansert for og imot, lag på lag gjennom flere avsnitt",
+        "Argumentasjonen, ikke bruk av «jeg/vi», avgjør om teksten er saklig"
+      ],
+      "section": "Argumentativ framstilling"
+    },
+    {
+      "prompt": "Hvordan viser du teoriforståelse i en casebesvarelse?",
+      "key_points": [
+        "Forklar alle relevante teorier og begreper med utgangspunkt i pensum",
+        "Pakk ut: viktige momenter, grunnleggende prinsipp, begrepenes betydning",
+        "Bruk deretter teoriene som verktøy på problemstillingen",
+        "Henvis til pensum med sidetall"
+      ],
+      "section": "Teoriforståelse: forklare og anvende"
+    },
+    {
+      "prompt": "Beskriv hvordan en akademisk tekst bør være strukturert, og hva hver del skal gjøre.",
+      "key_points": [
+        "Tittel: leseanvisning",
+        "Innledning: tema, problemstilling, teori, rekkefølge og avgrensning, 1–2 avsnitt",
+        "Hoveddel: analyse og drøfting, argumenterende, rød tråd",
+        "Avslutning: oppsummerer funn, ingen ny drøfting",
+        "Litteraturliste",
+        "Teksten skal være helhetlig, ikke oppstykket"
+      ],
+      "section": "Struktur: fra tittel til litteraturliste"
+    },
+    {
+      "prompt": "Hvordan bidrar temasetninger, bindeord og klarhet til en god akademisk tekst?",
+      "key_points": [
+        "Ett hovedpoeng per avsnitt",
+        "Temasetningen avgrenser avsnittet og gir fokus",
+        "Bindeord gir flyt og logisk sammenheng (følge, kontrast, nytt poeng, eksempel, presisering, sannsynlighet)",
+        "Vær forsiktig med ord som uttrykker sikkerhet",
+        "Skriv klart, få andre til å lese, og guid leseren med overganger"
+      ],
+      "section": "Avsnitt, bindeord og klarhet"
+    },
+    {
+      "prompt": "Hvilke funksjoner har kildehenvisning i akademiske tekster?",
+      "key_points": [
+        "Akademisk redelighet: vise hvor noe er hentet fra",
+        "Underbygge egen argumentasjon",
+        "Plassere teksten i en tradisjon som bygger på andres arbeid",
+        "Posisjonering: enig eller uenig med andre",
+        "Unngå plagiat",
+        "Informere leseren om relevant kildemateriale"
+      ],
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "prompt": "Når skal man referere til kilder, og hvilke regler gjelder for kildebruk i øvingsoppgaven?",
+      "key_points": [
+        "Ved sitat, parafrase og henvisning til en konkret bok eller artikkel",
+        "Når man presenterer teori og begreper",
+        "Ved faktapåstander som statistikk og forskningsresultater",
+        "Ikke nødvendig for det som er allment kjent og akseptert",
+        "Pensum som hovedkilde, med sidetall, og ikke henvis til lysbilder"
+      ],
+      "section": "Kildeføring: hvorfor og når"
+    },
+    {
+      "prompt": "Forklar hvordan referanser skal føres i APA 7.",
+      "key_points": [
+        "Referansene står to steder",
+        "Løpende i teksten i parentes: forfatter, år og sidetall",
+        "Alfabetisk litteraturliste til slutt",
+        "Litteraturlisten på egen side med hengende innrykk",
+        "Vær konsekvent i valgt stil"
+      ],
+      "section": "Referansestil og litteraturliste"
+    },
+    {
+      "prompt": "Beskriv skriveprosessen fra oppgavetekst til ferdig tekst, og hvordan man gir god respons på et utkast.",
+      "key_points": [
+        "Oppgaveforståelse, disposisjon, litteraturgjennomgang",
+        "Førsteutkast, respons, revisjon, finskriving med korrektur",
+        "Respons skal være saklig og peke på både styrker og svakheter",
+        "Respons skal være begrunnet og konkret",
+        "Kom med konkrete forslag når noe er uklart"
+      ],
+      "section": "Skriveprosessen og respons"
+    },
+    {
+      "prompt": "Hva må være på plass i øvingsoppgaven, og hvilke kriterier vurderes den etter?",
+      "key_points": [
+        "Alle delspørsmål må besvares, ellers underkjennes oppgaven",
+        "Kriterier: besvarelse, formalia, avgrensning, struktur, teoriforståelse, argumentasjon",
+        "Hver tekst 1200–1500 ord, ingen under ordkravet",
+        "Korrekt og tilstrekkelig kildehenvisning",
+        "Selvstendig arbeid, plagiat og KI-tekst som eget arbeid gir underkjenning"
+      ],
+      "section": "Vurderingskriterier for øvingsoppgaven"
+    }
+  ]
+}

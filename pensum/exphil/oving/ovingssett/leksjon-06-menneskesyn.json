@@ -1,0 +1,485 @@
+{
+  "summary": "Leksjonen handler om menneskesyn, med to hovedtemaer: forholdet mellom kropp og sinn, og fri vilje. Den går gjennom substansdualisme og interaksjonsproblemet, identitetsteori og funksjonalisme, det utvidede sinnet, Turing-testen og Searles kinesiske rom. Videre tar den opp det vanskelige bevissthetsproblemet og Jacksons kunnskapsargument. Til slutt sammenlignes kompatibilisme, libertarianisme og hard determinisme som svar på spørsmålet om fri vilje og moralsk ansvar.",
+  "flashcards": [
+    {
+      "front": "Hva er forskjellen på sinn og bevissthet?",
+      "back": "Sinnet er summen av mentale evner, tilstander og prosesser (sansning, følelser, tenkning, språkforståelse, problemløsning, selvrefleksjon). Bevissthet er en del av sinnet: evnen til å oppfatte og ha subjektive opplevelser.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Hva er fysikalisme og vitenskapelig naturalisme?",
+      "back": "Fysikalisme: alt som eksisterer, er fysisk. Vitenskapelig naturalisme: alle fenomener kan i prinsippet beskrives og forklares med naturvitenskapens metoder.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Hvorfor kan bevissthet skape problemer for et fysikalistisk verdensbilde?",
+      "back": "Bevissthet framstår som et subjektivt fenomen som er vanskelig å beskrive i et fysisk språk, og det er vanskelig å finne en vitenskapelig forklaring på at vi har bevissthet.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Hva går kropp/sinn-problemet ut på?",
+      "back": "Hvordan det mentale livet vårt (tanker, følelser, minner) henger sammen med sitt antatte fysiske grunnlag i hjernen, og hvor langt dette grunnlaget strekker seg: bare hjernen, kroppen eller også omgivelsene.",
+      "section": "Forholdet mellom kropp og sinn"
+    },
+    {
+      "front": "Hvilke to motstridende intuisjoner ligger bak kropp/sinn-problemet?",
+      "back": "Fysikalisme: universet er i bunn og grunn fysisk. Dualisme: vi har et mentalt liv med tanker, følelser og ønsker som ser ut til å ha noe ikke-fysisk ved seg.",
+      "section": "Forholdet mellom kropp og sinn"
+    },
+    {
+      "front": "Gi eksempler på egenskaper vi tilskriver det mentale, men ikke det fysiske.",
+      "back": "Mentale tilstander kan være smertefulle, handle om noe, være sanne eller usanne, begrunnede eller logisk konsistente. Nevroner har derimot størrelse, ladning og reseptorer med bestemt form.",
+      "section": "Forholdet mellom kropp og sinn"
+    },
+    {
+      "front": "Hva er substansdualisme?",
+      "back": "Synet at det finnes to grunnleggende forskjellige typer ting: et immaterielt sinn og en materiell kropp, som eksisterer uavhengig av hverandre, men samvirker. Klassisk forsvart av Descartes.",
+      "section": "Substansdualisme"
+    },
+    {
+      "front": "Hva er Descartes' delbarhetsargument?",
+      "back": "Kroppen kan deles opp, men sinnet er helt udelelig. Hvis to ting har forskjellige egenskaper, er de forskjellige ting. Altså er sinn og kropp to forskjellige ting.",
+      "section": "Substansdualisme"
+    },
+    {
+      "front": "Hva er argumentet fra kunnskap og tvil?",
+      "back": "Jeg kan være sikker på at bevisstheten min eksisterer, men jeg kan tvile på at kroppen min eksisterer. Altså er det mentale og det materielle to forskjellige ting.",
+      "section": "Substansdualisme"
+    },
+    {
+      "front": "Hva gikk Elisabeth av Böhmens kritikk av substansdualismen ut på?",
+      "back": "Interaksjonsproblemet: hvordan kan noe immaterielt bevege og beveges av en kropp? Hun ville heller innrømme at sjelen har materie og utstrekning enn at noe immaterielt kan påvirke kroppen.",
+      "section": "Substansdualisme"
+    },
+    {
+      "front": "Hva sier identitetsteorien?",
+      "back": "At mentale tilstander er identiske med bestemte nevrale tilstander i hjernen. For eksempel er smerte fyring av c-fibre, slik vann er H2O.",
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "front": "Hvilke fortrinn har identitetsteorien?",
+      "back": "Den løser interaksjonsproblemet på en enkel måte, og den forklarer sammenhenger mellom bestemte hjerneskader og bortfall av bestemte mentale funksjoner.",
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "front": "Hva er multippel realisering?",
+      "back": "At samme type mental tilstand kan virkeliggjøres på fysisk ulike måter, for eksempel i ulike nevroner, ulike personer eller ulike arter. Identitetsteorien utelukker dette.",
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "front": "Hva er nevroplastisitet, og hvorfor er det et problem for identitetsteorien?",
+      "back": "Hjernens evne til funksjonell omorganisering, for eksempel at berøringsnevroner kan behandle synsinntrykk. Det tyder på at mentale tilstander er multippelt realiserbare.",
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "front": "Hva sier funksjonalismen?",
+      "back": "At mentale tilstander kjennetegnes ved hva de gjør, altså rollen de har i et system (årsaker, virkninger og forhold til andre mentale tilstander), ikke ved hva de består av.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "front": "Hvordan definerer funksjonalismen smerte?",
+      "back": "Som den tilstanden som forårsakes av vevsskade, fører til tilbaketrekning og utbrudd som «au!», og forårsaker andre mentale tilstander som sinne og frykt.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "front": "Hva viser musefelle-eksempelet?",
+      "back": "At en funksjonell egenskap, å være en musefelle, kan realiseres på fysisk sett svært ulike måter, med ulike materialer og konstruksjoner.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "front": "Hva er det utvidede sinnet?",
+      "back": "Tanken (Clark og Chalmers) om at mentale tilstander også kan virkeliggjøres av omgivelsene, som teknologi. Ottos notatbok spiller samme rolle som Ingas hukommelse og blir en ekstern del av minnet hans.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "front": "Hva er maskinfunksjonalisme?",
+      "back": "Synet at mentale prosesser er informasjonsbehandlingsprosesser som løser problemer. Åpner for at datamaskiner og programmer kan ha mentale tilstander.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "front": "Hva er Turing-testen?",
+      "back": "Et imitasjonsspill: en dommer kommuniserer skriftlig med et menneske og en maskin. Klarer ikke dommeren å skille dem, tenker maskinen ifølge Turing.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "front": "Hvorfor er Turing-testen funksjonalistisk?",
+      "back": "Den ser bare på input og output (spørsmål og svar), ikke på hva maskinen består av. Gjør noe det samme som en tenkende hjerne, så tenker det.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "front": "Hva er Searles kinesiske rom?",
+      "back": "Searle manipulerer kinesiske tegn etter en regelbok og gir svar som får folk til å tro at han kan kinesisk, men han forstår ingenting. Symbolmanipulasjon er ikke forståelse.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "front": "Hva er forskjellen på svak og sterk kunstig intelligens?",
+      "back": "Svak KI: maskiner kan simulere tenkning. Sterk KI: en maskin med riktig program har faktisk et sinn og forstår. Searle argumenterer mot sterk KI.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "front": "Hva er det vanskelige bevissthetsproblemet?",
+      "back": "Spørsmålet om hvordan tilstander med subjektive opplevelseskvaliteter kan oppstå fra fysiske prosesser som ikke har dem, altså fra førstepersonsperspektiv til tredjepersonsperspektiv.",
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "front": "Hva er Frank Jacksons kunnskapsargument?",
+      "back": "Mary kjenner alle fysiske fakta om fargesyn, men lærer noe nytt når hun ser rødt. Altså finnes det fakta som ikke er fysiske, og fysikalismen er gal.",
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "front": "Hva er kvalia?",
+      "back": "Den subjektive «hvordan-det-er-å»-kvaliteten ved en opplevelse, som bare er tilgjengelig fra førstepersonsperspektivet.",
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "front": "Hvorfor regnes fri vilje som viktig?",
+      "back": "Den ser ut til å være en forutsetning for moralsk ansvar, for å forsvare straff, for at vi kan fortjene noe og for at det er noe poeng i å gi rasjonelle grunner for handlinger.",
+      "section": "Fri vilje og determinisme"
+    },
+    {
+      "front": "Hva er determinisme?",
+      "back": "Synet at enhver hendelse er fullstendig bestemt av tidligere hendelser. Er determinismen sann, kunne vi aldri ha handlet annerledes enn vi gjorde.",
+      "section": "Fri vilje og determinisme"
+    },
+    {
+      "front": "Hva er forskjellen på inkompatibilisme og kompatibilisme?",
+      "back": "Inkompatibilisme: fri vilje og determinisme er uforenlige. Kompatibilisme: fri vilje er forenlig med determinisme.",
+      "section": "Fri vilje og determinisme"
+    },
+    {
+      "front": "Hva sier libertarianismen?",
+      "back": "Fri vilje er å kunne ha handlet annerledes, og er uforenlig med determinisme. Vi handler fritt i alle fall noen ganger, altså er determinismen gal, og vi er noen ganger moralsk ansvarlige.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "front": "Hva sier hard determinisme?",
+      "back": "Fri vilje er å kunne ha handlet annerledes, og er uforenlig med determinisme. Determinismen er sann, altså handler vi aldri fritt og er aldri moralsk ansvarlige.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "front": "Hva sier kompatibilismen om hva fri vilje er?",
+      "back": "Å handle uhindret slik man ønsker (handlefrihet), eventuelt å gjøre det man ønsker å ønske, eller å ha selvkontroll over egne impulser. Dette er forenlig med determinisme.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "front": "Hvilke to posisjoner når samme konklusjon om ansvar fra ulike premisser?",
+      "back": "Kompatibilisme og libertarianisme: begge mener vi noen ganger er moralsk ansvarlige, men er uenige om hva fri vilje er og om determinismen kan være sann.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hva er bevissthet ifølge forelesningene?",
+      "options": [
+        "Summen av alle mentale evner og prosesser",
+        "Det samme som intelligens",
+        "Evnen til å oppfatte og ha subjektive opplevelser, som en del av sinnet",
+        "Hjernens elektriske aktivitet"
+      ],
+      "answer_index": 2,
+      "explanation": "Sinnet er summen av mentale evner, mens bevissthet er den delen som handler om oppfattelse og subjektiv opplevelse.",
+      "section": "Innledning"
+    },
+    {
+      "question": "Hvilket spørsmål er kjernen i kropp/sinn-problemet?",
+      "options": [
+        "Hvordan det mentale livet vårt henger sammen med det fysiske grunnlaget i hjernen og kroppen",
+        "Om kroppen trenger søvn",
+        "Om dyr har fri vilje",
+        "Hvordan vi kan bevise at andre mennesker finnes"
+      ],
+      "answer_index": 0,
+      "explanation": "Problemet handler om forholdet mellom det mentale og det fysiske, og om hvor langt det fysiske grunnlaget strekker seg.",
+      "section": "Forholdet mellom kropp og sinn"
+    },
+    {
+      "question": "Hvilken premiss er avgjørende i Descartes' delbarhetsargument?",
+      "options": [
+        "At sinnet kan deles i tenkning, følelse og vilje",
+        "At kroppen er udelelig",
+        "At sinnet befinner seg i hjertet",
+        "At sinnet er udelelig mens kroppen kan deles"
+      ],
+      "answer_index": 3,
+      "explanation": "Argumentet bygger på at kroppen kan deles, men sinnet ikke, og at ting med ulike egenskaper er ulike ting.",
+      "section": "Substansdualisme"
+    },
+    {
+      "question": "Hva er interaksjonsproblemet?",
+      "options": [
+        "At hjernen og kroppen ikke kommuniserer",
+        "At det er uklart hvordan et immaterielt sinn kan påvirke og påvirkes av en materiell kropp",
+        "At mennesker ikke kan samhandle uten språk",
+        "At maskiner ikke kan forstå mennesker"
+      ],
+      "answer_index": 1,
+      "explanation": "Elisabeth av Böhmen spurte hvordan noe immaterielt kan bevege og beveges av en kropp.",
+      "section": "Substansdualisme"
+    },
+    {
+      "question": "Hva er identitetsteoriens påstand om smerte?",
+      "options": [
+        "Smerte forårsakes av hjerneaktivitet, men er noe annet",
+        "Smerte er identisk med en bestemt nevral tilstand, for eksempel c-fiberfyring",
+        "Smerte er en rolle som kan spilles av hva som helst",
+        "Smerte er en tilstand i et immaterielt sinn"
+      ],
+      "answer_index": 1,
+      "explanation": "Identitetsteorien sier at mental tilstand og nevral tilstand er det samme, slik vann er H2O.",
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "question": "Hvilket fenomen er et problem for identitetsteorien fordi det tyder på multippel realisering?",
+      "options": [
+        "Nevroplastisitet",
+        "Interaksjonsproblemet",
+        "Cogito-argumentet",
+        "Nedkjølingseffekten"
+      ],
+      "answer_index": 0,
+      "explanation": "Nevroplastisitet viser at samme mentale funksjon kan realiseres av ulike nevroner, noe identitetsteorien utelukker.",
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "question": "Hva definerer en mental tilstand ifølge funksjonalismen?",
+      "options": [
+        "Hvilket materiale den består av",
+        "Hvor i hjernen den befinner seg",
+        "Om den er immateriell",
+        "Hvilken rolle den spiller mellom årsaker, virkninger og andre mentale tilstander"
+      ],
+      "answer_index": 3,
+      "explanation": "Funksjonalismen definerer mentale tilstander ved hva de gjør, ikke hva de består av.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "question": "Hvorfor fører funksjonalismen naturlig til tanken om det utvidede sinnet?",
+      "options": [
+        "Fordi den sier at sinnet er immaterielt",
+        "Fordi det er funksjonen og ikke materialet som teller, så ting utenfor kroppen kan spille mentale roller",
+        "Fordi den avviser at hjernen har betydning",
+        "Fordi den bygger på substansdualisme"
+      ],
+      "answer_index": 1,
+      "explanation": "Når funksjon er det avgjørende, kan for eksempel Ottos notatbok spille samme rolle som hukommelsen.",
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "question": "Hva viser Searles kinesiske rom ifølge Searle?",
+      "options": [
+        "At maskiner kan forstå kinesisk",
+        "At Turing-testen er for vanskelig å bestå",
+        "At regelstyrt symbolmanipulasjon ikke er tilstrekkelig for forståelse",
+        "At mennesker ikke kan lære kinesisk"
+      ],
+      "answer_index": 2,
+      "explanation": "Searle følger reglene og gir gode svar uten å forstå noe. Det er et argument mot sterk KI.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "question": "Hvorfor bygger Turing-testen på et funksjonalistisk syn?",
+      "options": [
+        "Fordi den undersøker maskinens materialer",
+        "Fordi den forutsetter et immaterielt sinn",
+        "Fordi den bare vurderer atferd i form av input og output",
+        "Fordi den måler hjerneaktivitet"
+      ],
+      "answer_index": 2,
+      "explanation": "Testen bryr seg bare om hva maskinen gjør i samtalen, ikke om hva den er laget av.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "question": "Hagemann hevder at språkmodeller bare kobler tokens og tall uten konsepter. Hvilken teori fra pensum støtter henne mest direkte?",
+      "options": [
+        "Turing-testen",
+        "Maskinfunksjonalisme",
+        "Kompatibilisme",
+        "Searles kinesiske rom"
+      ],
+      "answer_index": 3,
+      "explanation": "Searles poeng om at symbolmanipulasjon ikke gir mening, ligner Hagemanns påstand om at mening skapes av mottakeren.",
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "question": "Hva skal Frank Jacksons Mary-eksempel vise?",
+      "options": [
+        "At farger ikke finnes",
+        "At det finnes fakta om opplevelse som ikke er fysiske fakta",
+        "At vitenskapen kan forklare alt",
+        "At Mary har fri vilje"
+      ],
+      "answer_index": 1,
+      "explanation": "Mary kjenner alle fysiske fakta, men lærer likevel hvordan det er å se rødt. Argumentet retter seg mot fysikalisme og funksjonalisme.",
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "question": "Hvilke teorier rammes av kunnskapsargumentet?",
+      "options": [
+        "Bare substansdualismen",
+        "Bare libertarianismen",
+        "Både identitetsteori og funksjonalisme",
+        "Ingen av teoriene i pensum"
+      ],
+      "answer_index": 2,
+      "explanation": "Mary kjenner både alle fysiske og alle funksjonelle forhold, så argumentet rammer begge fysikalistiske teorier.",
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "question": "Hva betyr det å ha fri vilje i den forstanden som skaper konflikt med determinismen?",
+      "options": [
+        "Å kunne ha handlet annerledes enn man gjorde, med alt annet likt",
+        "Å handle uten å bli hindret",
+        "Å ha sterke ønsker",
+        "Å følge loven"
+      ],
+      "answer_index": 0,
+      "explanation": "Det er forståelsen av fri vilje som evne til å handle annerledes som er uforenlig med at alt er forutbestemt.",
+      "section": "Fri vilje og determinisme"
+    },
+    {
+      "question": "Hvilke to posisjoner deler forståelsen av fri vilje, men kommer til motsatte konklusjoner om moralsk ansvar?",
+      "options": [
+        "Kompatibilisme og hard determinisme",
+        "Kompatibilisme og libertarianisme",
+        "Substansdualisme og identitetsteori",
+        "Libertarianisme og hard determinisme"
+      ],
+      "answer_index": 3,
+      "explanation": "Begge er inkompatibilister, men de er uenige om determinismen er sann.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "question": "Hva mener en kompatibilist om moralsk ansvar dersom determinismen er sann?",
+      "options": [
+        "Vi er aldri ansvarlige",
+        "Vi kan likevel være ansvarlige, fordi frihet er å handle uhindret etter egne ønsker",
+        "Bare dyr er ansvarlige",
+        "Ansvar krever at determinismen er gal"
+      ],
+      "answer_index": 1,
+      "explanation": "Kompatibilisten forstår fri vilje som handlefrihet eller selvkontroll, noe som er forenlig med determinisme.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "question": "Maria sier hun ikke kunne la være å underslå penger. Hva vil en hard determinist si?",
+      "options": [
+        "Hun er fullt ansvarlig fordi hun handlet etter egne ønsker",
+        "Hun er ansvarlig fordi universet ikke er deterministisk",
+        "Hun er ikke moralsk ansvarlig i dypeste forstand, fordi handlingene var forutbestemt",
+        "Hun er ansvarlig bare hvis hun angrer"
+      ],
+      "answer_index": 2,
+      "explanation": "Den harde deterministen mener at ingen handler fritt, og at ingen derfor er moralsk ansvarlige.",
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Hva går det filosofiske problemet om forholdet mellom kropp og sinn ut på?",
+      "key_points": [
+        "Hvordan mentale tilstander henger sammen med fysiske prosesser i hjernen",
+        "Hvor langt det fysiske grunnlaget strekker seg: hjerne, kropp, omgivelser",
+        "Konflikt mellom fysikalistisk og dualistisk intuisjon",
+        "Mentale og fysiske egenskaper virker svært ulike",
+        "Hovedsvar: substansdualisme, identitetsteori, funksjonalisme"
+      ],
+      "section": "Forholdet mellom kropp og sinn"
+    },
+    {
+      "prompt": "Hva er substansdualisme, og hva gikk Elisabeth av Böhmens kritikk ut på? Hvor problematisk er kritikken?",
+      "key_points": [
+        "Sinn og kropp er to ulike substanser som samvirker (Descartes)",
+        "Argumenter: tvil og delbarhet",
+        "Interaksjonsproblemet: hvordan kan noe immaterielt påvirke og påvirkes av en kropp?",
+        "Rammer kjernen: jo mer forskjellige, desto vanskeligere samspill",
+        "Uten samspill kan teorien ikke forklare dagligdagse erfaringer"
+      ],
+      "section": "Substansdualisme"
+    },
+    {
+      "prompt": "Gjør rede for fysikalisme og identitetsteorien, argumentene for den og innvendingene mot den.",
+      "key_points": [
+        "Fysikalisme: alt er fysisk",
+        "Identitetsteori: mentale tilstander er hjernetilstander, som vann er H2O",
+        "For: løser interaksjonsproblemet, forklarer sammenheng mellom hjerneskader og mentale funksjoner",
+        "Mot: multippel realisering og nevroplastisitet",
+        "Mot: opplevelsesaspektet og Jacksons kunnskapsargument"
+      ],
+      "section": "Fysikalisme og identitetsteorien"
+    },
+    {
+      "prompt": "Forklar Frank Jacksons kunnskapsargument og vurder hvor problematisk det er for fysikalismen.",
+      "key_points": [
+        "Mary kjenner alle fysiske fakta om fargesyn",
+        "Hun lærer noe nytt når hun ser rødt",
+        "Altså finnes ikke-fysiske fakta, kvalia",
+        "Rammer både identitetsteori og funksjonalisme",
+        "Fysikalisten må forklare hva den nye opplevelsen er"
+      ],
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "prompt": "Gjør rede for funksjonalisme og hvordan den kan lede til tanken om det utvidede sinnet. Er tanken plausibel?",
+      "key_points": [
+        "Mentale tilstander defineres ved funksjon, ikke materiale",
+        "Tar høyde for multippel realisering",
+        "Når funksjon teller, kan ting utenfor kroppen spille mentale roller",
+        "Ottos notatbok som ekstern del av minnet",
+        "Vurdering: gjør samme jobb, men notatboken har ingen opplevelser og må tolkes"
+      ],
+      "section": "Funksjonalisme og det utvidede sinnet"
+    },
+    {
+      "prompt": "Hva er Turing-testen, hvorfor er den funksjonalistisk, og er den en god test? Trekk inn Searle.",
+      "key_points": [
+        "Imitasjonsspill der en dommer ikke skal klare å skille maskin fra menneske",
+        "Funksjonalistisk fordi den bare ser på input og output",
+        "Searles kinesiske rom: symbolmanipulasjon uten forståelse",
+        "Argument mot sterk KI: simulering er ikke forståelse",
+        "For testen: vi bedømmer også andre mennesker ut fra atferd"
+      ],
+      "section": "Turing-testen og det kinesiske rommet"
+    },
+    {
+      "prompt": "Gjør rede for kompatibilisme, libertarianisme og hard determinisme og deres syn på moralsk ansvar.",
+      "key_points": [
+        "Libertarianisme: fri vilje uforenlig med determinisme, vi er fri, determinismen er gal, vi er noen ganger ansvarlige",
+        "Hard determinisme: samme forståelse av fri vilje, determinismen er sann, vi er aldri ansvarlige",
+        "Kompatibilisme: fri vilje er handlefrihet eller selvkontroll, forenlig med determinisme, vi kan være ansvarlige",
+        "Kompatibilisme og libertarianisme: samme konklusjon, ulike premisser",
+        "Libertarianisme og hard determinisme: motsatte konklusjoner, delvis like premisser"
+      ],
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "prompt": "Maria underslår millioner og sier ønsket var for sterkt. Er hun moralsk ansvarlig ifølge kompatibilister, libertarianere og harde determinister?",
+      "key_points": [
+        "Kompatibilist: ansvarlig, hun handlet uhindret etter egne ønsker",
+        "Kompatibilist kan drøfte manglende selvkontroll",
+        "Libertarianer: ansvarlig hvis hun kunne latt være, noe vi noen ganger kan",
+        "Hard determinist: ikke ansvarlig, handlingene var forutbestemt"
+      ],
+      "section": "Kompatibilisme, libertarianisme og hard determinisme"
+    },
+    {
+      "prompt": "Hvordan ville en substansdualist, en identitetsteoretiker og en funksjonalist forklare Monicas forelskelse?",
+      "key_points": [
+        "Dualist: følelsen er i det immaterielle sinnet og samvirker med kroppen",
+        "Identitetsteoretiker: forelskelsen er en bestemt hjernetilstand",
+        "Funksjonalist: forelskelsen defineres ved rolle, input, output og andre mentale tilstander",
+        "Monicas utsagn om at ord ikke strekker til, peker mot kvalia"
+      ],
+      "section": "Bevissthetens vanskelige problem"
+    },
+    {
+      "prompt": "Hvorfor ser fri vilje ut til å være en forutsetning for moralsk ansvar, og hvordan utfordrer determinismen dette?",
+      "key_points": [
+        "Ros, ris og straff forutsetter ansvar",
+        "Ansvar forutsetter at vi handlet fritt",
+        "Fri vilje forstås ofte som å kunne ha handlet annerledes",
+        "Determinisme: alt er bestemt av tidligere hendelser, så vi kunne aldri ha handlet annerledes"
+      ],
+      "section": "Fri vilje og determinisme"
+    }
+  ]
+}

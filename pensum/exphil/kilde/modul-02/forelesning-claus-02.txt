@@ -1,0 +1,386 @@
+--- side 1 ---
+Forelesning 2 EXPH0300
+Fortsettelse,
+argumentasjonsteori
+v/ Claus Halberg
+Førsteamanuensis
+Institutt for filosofi og religionsvitenskap
+claus.halberg@ntnu.no
+
+--- side 2 ---
+Plan for forelesningen i dag
+1. Litt rekapitulering fra forrige gang
+2. Argumentasjonsanalyse
+• Standpunkt
+• Sammensatte og uavhengige argumenter
+• Standpunktargumenter og indirekte argumenter
+3. Argumentasjonsvurdering
+• Vurdering av relevans
+• Vurdering av riktighet
+• Vurdering av ulike argumentasjonstyper
+• Deduktiv argumentasjon
+• Ulike typer induktiv argumentasjon
+
+--- side 3 ---
+Rekapitulering fra forrige gang, I:
+4 teser om kritisk tenkning
+✓For å komme fram til en velbegrunnet oppfatning om hva en skal tro
+om en sak eller gjøre i en situasjon må en kunne tenke kritisk.
+✓Kritisk tenkning innebærer evne og mot til å tenke selvstendig, klart,
+systematisk og rasjonelt om hvilke grunner som taler for, og hvilke
+som taler mot, en gitt oppfatning eller handling.
+✓M.a.o. er gode ferdigheter i å analysere og vurdere argumentasjon
+særlig viktig for å kunne tenke kritisk.
+✓Nyttige redskaper til å analysere og vurdere argumentasjon finnes i
+argumentasjonsteori, dvs. læren om hvordan argumentasjon
+bygges opp og hva som gjør den sterk vs. svak i logisk forstand.
+
+--- side 4 ---
+Rekapitulering fra forrige gang, II:
+Logisk funksjon, riktighet og relevans
+I ex.phil. vurderer vi argumenter
+utelukkende med henblikk på deres
+logiske funksjon.
+Et argument som er godt i logisk forstand
+må oppfylle to kriterier:
+✓Riktighet: Det som argumentet påstår
+stemmer, er sant, er sannsynlig o.l.
+✓Relevans: Argumentet er relevant i den
+grad det – såfremt det er riktig – taler for
+eller mot påstanden det rettes mot.
+
+--- side 5 ---
+Argumentasjonsanalyse
+= Identifisere innholdet og strukturen i en
+argumentasjon (framlagt i, f.eks. en tekst).
+Innholdet:
+➢standpunktet det argumenteres for
+➢de enkelte argumentene
+Strukturen:
+➢de innbyrdes relasjonene mellom argumentene,
+måten de er ment å fungere sammen på.
+
+--- side 6 ---
+Standpunkt og argument
+• Standpunkt
+• Hovedpåstanden det argumenteres for
+eller mot (f.eks. i en debatt eller tekst)
+• Som regel en påstand det er uenighet
+om eller som ikke er åpenbart riktig
+• Argument
+• Én eller flere påstander som settes fram
+som støtte for eller svekkelse av en
+annen påstand (f.eks. standpunktet)
+
+--- side 7 ---
+Eksempel på argumentasjon
+«Det er nå konsensus blant fysikere om at universet ikke er evig men ble
+til i Det store smellet for omlag 13,8 milliarder år siden. Men alt som har
+blitt til en gang må jo ha sin årsak i noe utenfor seg selv. Og utenfor
+universet kan det bare finnes Gud. Altså må universet ha blitt skapt av
+Gud».
+Hva er standpunkt og hva er argument her?
+
+--- side 8 ---
+Sammensatte og uavhengige argumenter
+Sammensatte argumenter:
+- Består av to eller flere påstander som er ment å samlet gi én grunn til å tro at en
+annen påstand (eksempelvis standpunktet) er riktig
+- Kjennetegnet av at relevansen av én av påstandene styrkes (ev. svekkes) dersom
+den andre påstanden er riktig (ev. gal)
+- Markeres med sammenløpende piler i argumentdiagrammet
+Uavhengige argumenter:
+- To eller flere argumenter for samme påstand utgjør uavhengige argumenter dersom
+det å benekte én av påstandene ikke påvirker de(n) andre påstanden(e)s relevans.
+- Markeres med atskilte piler i argumentdiagrammet
+
+--- side 9 ---
+Eksempel på et sammensatt argument
+S: Vi mennesker bør unngå å spise kjøtt.
+A1: For at vi skal kunne
+spise kjøtt må det tas livet
+av et dyr.
+A2: Vi bør unngå å leve på
+en måte som krever at dyr
+unødig blir tatt livet av.
+A3: Det produseres nok
+plantebasert mat til at hele
+jordens befolkning kan klare
+seg fint på kjøttfri kost.
+
+--- side 10 ---
+Eksempel på uavhengige argumenter
+S: Vi her i Norge bør spise mindre kjøtt enn vi gjør.
+A1: Det er ikke sunt å spise så
+mye kjøtt som vi gjør i Norge.
+A2: Husdyrholdet som forsyner
+norske forbrukere med kjøtt påfører
+dyrene uakseptable lidelser.
+
+--- side 11 ---
+Sammensatte eller uavhengige argumenter?
+S: Norge bør ikke satse på elektrifisering av olje- og gassfelt.
+A1: Elektrifisering av olje- og
+gassfelt vil gi høyere
+strømpriser for vanlige
+husholdninger.
+A2: Strømmen som går til
+elektrifisering av sokkelen
+kunne vært brukt mer
+effektivt i annen industri.
+
+--- side 12 ---
+Sammensatte eller uavhengige argumenter?
+S: Norge bør ikke satse på elektrifisering av olje- og gassfelt.
+A1: Elektrifisering av olje- og
+gassfelt vil gi høyere
+strømpriser for vanlige
+husholdninger.
+A2: Strøm utgjør allerede en
+for høy del av norske
+husholdningers utgifter.
+
+--- side 13 ---
+Standpunktargumenter
+og indirekte argumenter
+Standpunktargumenter:
+Argumenter som er ment å støtte
+eller svekke standpunktet direkte.
+Indirekte argumenter:
+Argumenter som er ment å støtte
+eller svekke standpunktet
+indirekte, ved å støtte eller svekke
+andre argumenter direkte.
+
+--- side 14 ---
+Eksempel på argumentasjon inndelt i
+standpunktargument og indirekte argument
+Standpunkt: Vi bør redusere kjøttforbruket vårt.
+Standpunktargument: Det er ikke bærekraftig å spise så mye kjøtt som vi gjør.
+Indirekte argument: Produksjonen av kjøttet vi spiser fortrenger naturlige
+økosystemer ved å legge beslag på mye landareal.
+
+--- side 15 ---
+Er argumentene riktig plassert her?
+Bruk av KI i stedet for eget hode til
+oppgaveløsning svekker vår kognitive kapasitet.
+Det har blitt påvist lavere konnektivitet mellom hjernens nervekretser hos
+forsøkspersoner som løser oppgaver ved hjelp av ChatGPT enn hos dem som
+arbeider uten hjelp av KI.
+Kognitiv kapasitet avhenger av god konnektivitet mellom
+hjernens nervekretser.
+
+--- side 16 ---
+Argumentasjonsvurdering
+• Vi vurderer en argumentasjon for å kunne ta
+stilling til hvor sterk støtte den gir et standpunkt.
+• Når vi vurderer argumentasjon ser vi på hvert
+enkelt argument ut fra følgende to spørsmål:
+• Er argumentet riktig? Ev., hvor sterk tiltro bør vi ha
+til at det er riktig?
+• Er argumentet relevant for påstanden det
+framsettes for eller mot, og i så fall i hvilken grad?
+
+--- side 17 ---
+Relevans
+• Et argument er relevant i den grad det – såfremt det er riktig – taler for
+(ev. mot) påstanden det rettes mot (jfr. Tenk! s. 31-32).
+• Dvs.: Et argument er relevant i den grad det – såfremt det er riktig –
+utgjør en forskjell for hvor sterkt vi bør tro på påstanden det rettes mot.
+• I motsetning til riktighet kommer relevans i grader: fra lav, via middels
+og høy, til maksimal (i særskilte tilfeller).
+
+--- side 18 ---
+Hvor høy eller lav relevans har argumentene?
+Det bør brukes mindre skjerm og mer papirbøker i opplæringen i skolen.
+Skoleelever ser
+umiddelbart mer
+intellektuelle ut når de
+blar i og gransker en
+bok enn når de tafser
+på en skjerm.
+De unge har mye lettere for
+å miste konsentrasjonen
+om det de leser når de
+leser på skjerm framfor i
+papirbøker.
+
+--- side 19 ---
+Maksimal relevans og deduktiv gyldighet
+• At et argument er maksimalt relevant for standpunktet innebærer at
+standpunktet er garantert å være riktig dersom argumentet er riktig.
+• M.a.o.: Dersom et argument er maksimalt relevant for et standpunkt vil
+det være selvmotsigende å påstå at argumentet er riktig og samtidig
+benekte at standpunktet er riktig.
+• Når et argument er maksimalt relevant for standpunktet sier vi at
+slutningen (fra argument til standpunkt) er deduktivt gyldig.
+• Deduktivt gyldige slutninger utgjør et grensetilfelle og forekommer
+nokså sjelden i dagliglivets argumentasjon. Dagliglivets argumentasjon
+er som oftest induktiv (mer om det om litt).
+
+--- side 20 ---
+I hvilket av de to resonnementene har argumentet A1+A2 maksimal
+relevans for standpunktet (dvs., er slutningen deduktiv gyldig)?
+Resonnement 1:
+A1: Alt rent gull smelter ved 1064 grader
+celsius.
+A2: Denne metallklumpen smelter ved
+1064 grader celsius
+S: Altså er denne metallklumpen av rent
+gull.
+Resonnement 2:
+A1: Alt rent gull smelter ved 1064 grader
+celsius.
+A2: Denne metallklumpen er av rent gull.
+S: Altså smelter denne metallklumpen
+ved 1064 grader celsius.
+
+--- side 21 ---
+Modus ponens:
+deduktivt gyldig slutningsform
+A1: Hvis barometeret faller, så blir det dårlig
+Hvis p, så q.
+vær.
+A2: Barometeret faller.
+S: Altså blir det dårlig vær.
+p.
+Altså q.
+
+--- side 22 ---
+Modus tollens:
+deduktivt gyldig slutningsform
+A1: Hvis det har regnet i løpet av det siste
+kvarteret, så er gaten våt nå.
+A2: Gaten er ikke våt nå.
+S: Altså har det ikke regnet i løpet av det siste
+kvarteret.
+Hvis p, så q.
+ikke q.
+Altså ikke p.
+
+--- side 23 ---
+Modus tollens:
+deduktivt gyldig slutningsform
+A1: Hvis Jonas Gahr Støre
+er Norges statsminister,
+så er Donald Trump en
+bullshitter.
+A2: Donald Trump er ikke
+en bullshitter.
+S: Altså er Jonas Gahr
+Støre ikke Norges
+statsminister.
+Hvis p, så q.
+ikke q.
+Altså ikke p.
+
+--- side 24 ---
+Induktiv argumentasjon
+= argumentasjonsform der argumentets funksjon er å
+sannsynliggjøre (ev. rimeliggjøre) standpunktet, ikke å garantere det.
+I induktiv argumentasjon er det alltid slik at det i prinsippet er mulig at
+standpunktet er feil selv om argumentet er riktig.
+Induksjon er den hyppigst forekommende argumentasjonsformen,
+både i hverdagen, offentlig debatt og innen vitenskapelig forskning.
+
+--- side 25 ---
+Induktiv generalisering
+• Å slutte fra (et utvalg) enkelttilfeller til
+en mer generell påstand.
+Røyking dreper
+to av tre røykere.
+• Vurdering av relevans i induktive
+generaliseringer:
+• Hvor stort er utvalget av enkelttilfeller
+som generaliseringen gjøres fra?
+• Hvor representativt er utvalget?
+Alle mine seks onkler røkte
+som skorsteiner hele livet,
+og fire av dem døde av
+røykerelaterte sykdommer.
+
+--- side 26 ---
+Induktiv generalisering
+• Å slutte fra (et utvalg) enkelttilfeller til
+en mer generell påstand.
+Røyking dreper
+to av tre røykere.
+• Vurdering av relevans i induktive
+generaliseringer:
+• Hvor stort er utvalget av enkelttilfeller
+som generaliseringen gjøres fra?
+• Hvor representativt er utvalget?
+I en australsk langtidsstudie
+som fulgte mer enn 200.000
+mennesker fra 45 års alder og
+oppover i flere år, fant man at to
+tredjedeler av røykerne som
+inngikk i studien døde av
+røykerelaterte sykdommer.
+
+--- side 27 ---
+Induktiv syllogisme
+• Motsatt av induktiv
+generalisering: Å slutte fra en
+generalisering til det som gjelder
+for et bestemt enkelttilfelle.
+• Vurdering av relevans i induktive
+syllogismer:
+• Hvor stort er utvalget av
+enkelttilfeller bak generaliseringen
+i argumentet?
+• Hvor representativ er enkelttilfellet
+man slutter seg til for dette
+utvalget?
+Cato har to tredjedels
+risiko for å dø av
+røykerelaterte sykdommer.
+Cato er røyker. To av tre
+røykere dør av
+røykerelaterte
+sykdommer.
+
+--- side 28 ---
+Analogiargument
+• Å slutte seg fra at noe gjelder for
+ett enkelttilfelle til at det samme
+gjelder for et annet, lignende
+tilfelle.
+Dersom den norske venstresiden ikke
+snart legger woke-politikken til side
+og begynner å ta vanlige arbeidere på
+alvor vil Norge kunne få et autoritært
+styre før vi vet ordet av det.
+• Vurdering av relevans i
+analogiargumenter
+• Er det relevante likheter mellom
+tilfellet i argumentet og tilfellet i
+standpunktet?
+• Er det ev. relevante forskjeller
+mellom tilfellene?
+I USA har den politiske venstresiden over
+lang tid neglisjert arbeiderklassen til
+fordel for woke-politikk, og har nå en
+president som er i ferd med å ta landet i
+en autoritær retning.
+
+--- side 29 ---
+Veldig kort om vurdering av riktighet
+• Vi sier ikke om et argument (eller annen påstand) at det
+har «høy riktighet» eller «lav riktighet» – det er i seg selv
+enten riktig eller uriktig.
+• Derimot kan vi ha større eller mindre grunn til å tro at et
+argument er riktig, eller vi kan vurdere sannsynligheten
+for at argumentet er riktig som større eller mindre.
+• Når vi tar stilling til sannsynligheten for at et argument er
+riktig må vi basere oss på:
+• Egen kunnskap eller konsultering av andre kilder
+• Styrken i eventuelle indirekte argumenter
+
+--- side 30 ---
+Neste forelesning (uke 36)
+Tema:
+Vitenskapelig tenkemåte
+Pensum:
+Tenk! Del 2, kap. 4-7
+

@@ -1,0 +1,159 @@
+# Leksjon 6: Menneskesyn
+
+Velkommen til leksjon seks i ex.phil. Denne leksjonen handler om menneskesyn, og vi skal se på to store spørsmål. Det første er hvordan sinnet vårt henger sammen med kroppen og hjernen. Det andre er om vi har fri vilje, og om vi kan holdes moralsk ansvarlige for det vi gjør.
+
+# Innledning
+
+I dette kapitlet får du en oversikt over hva modulen handler om, og hvorfor spørsmålene er viktige.
+
+Modulen har to temaområder. Det ene er sinn, bevissthet og forståelse. Det andre er fri vilje. Begge utfordrer forståelsen vår av hva virkeligheten er, og av hva det vil si å være menneske.
+
+Det er nyttig å skille mellom sinn og bevissthet. Sinnet er summen av de mentale evnene og prosessene våre, som sansning, følelser, tenkning, språkforståelse, problemløsning og selvrefleksjon. Bevissthet er en del av sinnet, nemlig evnen til å ha subjektive opplevelser, for eksempel opplevelsen av regndråper mot huden eller av en farge.
+
+Mirela Fus-Holmedal stiller tre spørsmål om sinnet. Er sinnet i bunn og grunn noe fysisk, eller kan det ikke forklares med rent fysiske størrelser? Hvor går sinnets grenser, er det i hjernen, i kroppen eller også i omgivelsene? Og hvordan kan sosial og kulturell sammenheng, for eksempel kjønn, påvirke opplevelsen av å være til stede i verden?
+
+Hvorfor er bevissthet et filosofisk problem? Mange naturvitere tar for gitt et fysikalistisk verdensbilde. Fysikalisme er synet at alt som finnes, er fysisk. Beslektet med dette er vitenskapelig naturalisme, synet at alle fenomener i prinsippet kan forklares med naturvitenskapens metoder. Men bevissthet framstår som noe subjektivt, som er vanskelig å beskrive i et fysisk språk, og det er vanskelig å forklare vitenskapelig hvorfor vi i det hele tatt har bevissthet.
+
+Hvorfor er fri vilje et problem? Tanken om at vi kunne ha handlet annerledes, ser ut til å være en forutsetning for moralsk ansvar. Samtidig sier determinismen at enhver tilstand i universet er fullstendig bestemt av tidligere tilstander. Hvis det også gjelder handlingene våre, kunne vi aldri ha handlet annerledes.
+
+# Forholdet mellom kropp og sinn
+
+I dette kapitlet lærer du hva det filosofiske problemet om forholdet mellom kropp og sinn går ut på.
+
+Kropp og sinn-problemet handler om hvordan det mentale livet vårt, altså tanker, følelser, minner og opplevelser, henger sammen med det fysiske grunnlaget i hjernen. Et tilleggsspørsmål er hvor langt dette grunnlaget strekker seg. Er det bare hjernen, er det hele kroppen, eller kan det også omfatte ting i omgivelsene?
+
+Claus Halberg beskriver problemet som en konflikt mellom to intuisjoner. Den ene er fysikalismen, som sier at universet i bunn og grunn er fysisk, og at alt som skjer, i prinsippet kan forklares med fysikkens modeller og lover. Den andre er dualismen, som sier at vi riktignok er en del av det fysiske universet, men at vi har et mentalt liv som ser ut til å ha noe ikke-fysisk ved seg.
+
+At det mentale og det fysiske virker forskjellige, ser vi på egenskapene vi gir dem. Opplevelser kan være smertefulle eller behagelige. Oppfatninger handler om noe, og kan være sanne eller usanne, begrunnede eller ubegrunnede. Tankerekker kan være logisk konsistente eller inkonsistente. Nevroner har derimot en bestemt størrelse, kan være mer eller mindre elektrisk ladet, og har reseptorer med bestemte former. Det gir liten mening å si at et nevron er sant, eller at en tanke er to millimeter lang. Spørsmålet er hvordan så ulike egenskaper kan høre til det samme mennesket.
+
+De viktigste svarene i pensum er substansdualisme, som sier at sinn og kropp er to forskjellige ting, identitetsteori, som sier at mentale tilstander er det samme som hjernetilstander, og funksjonalisme, som sier at mentale tilstander er definert ved hva de gjør. Substansdualismen står i motsetning både til materialismen, som sier at alt er materie, og til idealismen, som sier at alt i bunn og grunn er mentalt.
+
+Kort oppsummert: kropp og sinn-problemet handler om hvordan noe som virker så forskjellig fra det fysiske, nemlig det mentale, kan henge sammen med hjernen og kroppen.
+
+# Substansdualisme
+
+I dette kapitlet ser vi på Descartes' substansdualisme, argumentene for den, og Elisabeth av Böhmens kritikk.
+
+Substans betyr ting, og dualisme betyr todeling. Substansdualisme er altså synet at det finnes to grunnleggende forskjellige typer ting, nemlig sinn og materie. Det mentale livet vårt foregår i en immateriell ting, sinnet, som eksisterer uavhengig av og samvirker med en materiell ting, kroppen.
+
+René Descartes er den klassiske substansdualisten. Ifølge ham er det materielle utstrakt, det tar opp plass og følger mekanikkens lover. Både dyrekropper og menneskekropper fungerer som maskiner. Det mentale er derimot ikke utstrakt og følger ikke mekanikkens lover. Mennesket er et dobbeltvesen, og bare mennesket har en ikke-materiell sjel. Sinn og kropp kan påvirke hverandre. Et stikk i fingeren gir smerte, og når jeg bestemmer meg for å løfte armen, løftes armen. Ifølge Descartes skjer forbindelsen i hjernen.
+
+Descartes har to kjente argumenter. Det første er argumentet fra kunnskap og tvil, som bygger på utsagnet jeg tenker, altså er jeg. Jeg kan være sikker på at bevisstheten min finnes, men jeg kan tvile på at kroppen min finnes. Altså må det mentale og det materielle være to forskjellige ting. Det andre er delbarhetsargumentet. Kroppen kan deles opp, i alle fall i tanken. Sinnet er derimot helt udelelig. Det er ett og samme sinn som vil, føler og forstår, og sinnet mister ingenting om man mister en arm. Hvis to ting har forskjellige egenskaper, er de to forskjellige ting. Altså er sinnet og kroppen forskjellige.
+
+Elisabeth av Böhmen skrev brev til Descartes og pekte på det som kalles interaksjonsproblemet. Hvordan kan det mentale virke på det fysiske, hvis det mentale er en ikke-materiell ting? Og hvordan kan det fysiske virke på noe som ikke er fysisk? Alt vi vet om hvordan ting påvirker hverandre, handler om ting som har utstrekning, bevegelse og kontakt. Et immaterielt sinn har ingen av delene. Elisabeth skrev at hun heller ville innrømme at sjelen har materie og utstrekning, enn at noe immaterielt kan bevege og beveges av en kropp. Kritikken peker dermed mot at det mentale må ha noe fysisk ved seg, og hun trekkes fram som en forløper for fysikalismen.
+
+Hvor problematisk er dette for substansdualismen? Kritikken rammer selve kjernen. Descartes vil både si at sinn og kropp er helt forskjellige, og at de virker på hverandre. Jo mer forskjellige de er, desto vanskeligere blir det å forklare samspillet. Og gir han opp samspillet, kan han ikke forklare noe så dagligdags som at det gjør vondt å tråkke på en spiker. En dualist kan svare at vi ikke trenger å forstå hvordan samspillet skjer for å vite at det skjer, men da står teorien igjen med en uforklart mekanisme.
+
+Kort oppsummert: substansdualismen sier at sinn og kropp er to ulike ting, men møter et alvorlig problem i spørsmålet om hvordan de kan påvirke hverandre.
+
+# Fysikalisme og identitetsteorien
+
+I dette kapitlet ser vi på fysikalismen generelt og identitetsteorien spesielt, hvordan den begrunnes, og hvilke innvendinger den møter.
+
+Fysikalismen avviser dualismen som uvitenskapelig. Det eneste som finnes, er fysiske fenomener, også mennesker og sinnene deres. Mentale tilstander er fysiske tilstander i hjernen, og vitenskapen vil etter hvert forklare dem, slik den har forklart at diamant er karbon og at vann er hydrogen og oksygen. Pensum presenterer to hovedtyper fysikalistiske teorier, nemlig identitetsteorien og funksjonalismen.
+
+Identitetsteorien, som blant andre J. J. C. Smart står for, sier at mentale tilstander er identiske med bestemte nevrale tilstander i hjernen. En smerte er ikke noe annet enn aktivitet i en bestemt type nervefibre, for eksempel såkalte c-fibre. Forholdet er som forholdet mellom vann og H to O. Vann blir ikke skapt av H to O, vann er H to O. På samme måte er smerte ikke noe hjernen skaper, smerte er hjerneaktiviteten. Patricia Churchland har sagt det slik: sinnet er hva hjernen gjør.
+
+Identitetsteorien har flere fortrinn. For det første løser den interaksjonsproblemet på en enkel og elegant måte. Hvis mentale tilstander er fysiske, er det ikke noe mysterium at de påvirker kroppen. For det andre forklarer den hvorfor bestemte hjerneskader fører til at bestemte mentale funksjoner faller bort. Det er akkurat det vi ville forvente hvis de mentale funksjonene er hjerneprosesser.
+
+Men teorien møter også innvendinger. Den viktigste handler om multippel realisering. Identitetsteorien sier at én type mental tilstand er det samme som én type hjernetilstand. Men det ser ut til at samme mentale tilstand kan ha ulikt fysisk grunnlag. Hjernen har det som kalles nevroplastisitet, altså evnen til å organisere seg om. Nevroner som er spesialisert på berøring, kan for eksempel læres opp til å behandle synsinntrykk ved hjelp av et apparat som oversetter bilder til berøring. Når forskjellige mennesker får samme oppgave, aktiveres lignende områder i hjernen, men mønstrene er forskjellige fra person til person. Ved skader, som ved sykdommen ALS eller ved locked-in-syndrom, kan andre nevroner trenes opp til å gjøre oppgavene. Og dyr med en helt annen nevrofysiologi enn oss kan trolig også ha smerte. Alt dette tyder på at det mentale kan virkeliggjøres på fysisk ulike måter, og det utelukker identitetsteorien.
+
+En annen innvending er at grunnlaget for smerte ikke bare finnes i hjernen, men også i kroppen. Og den mest grunnleggende innvendingen, som rammer all fysikalisme, er at teorien har vansker med å forklare hvordan det føles å være i en mental tilstand. Den kommer vi tilbake til i kapitlet om bevissthetens vanskelige problem.
+
+Kort oppsummert: identitetsteorien sier at mentale tilstander er hjernetilstander. Den løser interaksjonsproblemet, men har vansker med at samme mentale tilstand kan realiseres på ulike måter, og med opplevelsesaspektet.
+
+# Funksjonalisme og det utvidede sinnet
+
+I dette kapitlet lærer du hva funksjonalismen sier, og hvordan den kan føre til tanken om det utvidede sinnet.
+
+Funksjonalismen bygger på at vi kan beskrive en ting på to nivåer. Vi kan beskrive hva tingen er og består av, altså de fysiske egenskapene. Og vi kan beskrive hva tingen gjør, altså de funksjonelle egenskapene. Tenk på en musefelle. Det som gjør noe til en musefelle, er at den fanger mus. Den kan være laget av tre, metall eller plast, og den kan ha en fjær, en klaff eller en boks. Å være en musefelle kan altså realiseres på mange fysisk forskjellige måter.
+
+Funksjonalismen sier at mentale tilstander kjennetegnes av hva de gjør, ikke av hva de består av. Smerte er for eksempel den tilstanden som utløses av vevsskade, som får oss til å trekke oss unna og rope au, og som fører til andre mentale tilstander, som sinne, frykt eller bekymring. Alt som spiller denne rollen, er smerte, uansett hva det er laget av.
+
+Den store fordelen er at funksjonalismen tar høyde for multippel realisering, som var problemet for identitetsteorien. Smerte er ikke knyttet til én bestemt fysisk prosess. Dermed kan dyr med annen nevrofysiologi, og i prinsippet også maskiner, ha mentale tilstander.
+
+Mirela skiller mellom to varianter av funksjonalisme. Den første er det utvidede sinnet, på engelsk extended mind. Clark og Chalmers argumenterer for at mentale tilstander også kan virkeliggjøres av omgivelsene, for eksempel av teknologi. Tankeeksperimentet deres handler om Inga og Otto, som begge skal finne veien til kunstmuseet MoMA i New York. Inga husker adressen og går dit. Otto skriver alt viktig ned i en notatbok som han alltid har med seg. Han slår opp adressen og går dit. Notatboken spiller den samme rollen for Otto som hukommelsen spiller for Inga. Hvis mentale tilstander er definert ved funksjon, er notatboken en del av Ottos minne, bare at minnet er lagret utenfor hodet. Slik fører funksjonalismen naturlig til det utvidede sinnet. Når det er funksjonen og ikke materialet som teller, finnes det ingen prinsipiell grunn til at sinnet må stoppe ved hodeskallen. Et hverdagseksempel er smarttelefonen, som mange bruker som kalender, adressebok og hukommelse. Donna Haraway peker i samme retning med begrepet kyborg, en blanding av maskin og organisme. Hun mener at skillene mellom dyr og menneske og mellom organisme og maskin bør brytes ned.
+
+Er tanken om det utvidede sinnet plausibel? For den taler at notatboken faktisk gjør den samme jobben som hukommelsen, og at vi i praksis er tett vevd sammen med verktøyene våre. Mot den taler at notatboken ikke har noen opplevelser, og at Otto må lese og tolke det som står der, noe Inga ikke trenger å gjøre med sitt eget minne. Kanskje er notatboken et hjelpemiddel for sinnet, heller enn en del av det.
+
+Den andre varianten er maskinfunksjonalisme. Den sier at mentale prosesser er informasjonsbehandling som skal løse konkrete problemer. Det åpner for at datamaskiner og programmer kan ha mentale tilstander, og leder til spørsmålet om maskiner kan tenke.
+
+Kort oppsummert: funksjonalismen definerer det mentale ved funksjon, ikke materiale. Det forklarer multippel realisering og kan føre til at sinnet strekker seg ut i omgivelsene.
+
+# Turing-testen og det kinesiske rommet
+
+I dette kapitlet ser vi på Turing-testen, hvorfor den bygger på funksjonalisme, og John Searles argument mot sterk kunstig intelligens.
+
+Matematikeren Alan Turing foreslo i 1950 et imitasjonsspill for å svare på spørsmålet om maskiner kan tenke. En dommer kommuniserer skriftlig med to parter uten å se dem. Den ene er et menneske, den andre en maskin. Dommeren skal finne ut hvem som er mennesket. Hvis maskinen etterligner et menneske så godt at dommeren ikke klarer å skille dem, har den bestått, og ifølge Turing tenker den. Forelesningene formulerer kriteriet litt ulikt. Claus sier at maskinen består hvis dommeren tar feil like ofte som hen gjetter riktig. Mirela sier at testen er bestått hvis dommeren ikke klarer å skille menneske fra maskin i mer enn sytti prosent av tilfellene. Poenget er det samme.
+
+Hvorfor er testen funksjonalistisk? Fordi den bare ser på hva som går inn og hva som kommer ut, altså spørsmålene og svarene. Den bryr seg ikke om hva maskinen er laget av eller hva som skjer inni den. Hvis noe gjør den samme jobben som en tenkende hjerne, så tenker det. Spørsmålet er blitt mer aktuelt med ChatGPT og lignende språkmodeller.
+
+John Searle laget et tankeeksperiment for å vise at en maskin ikke kan tenke bare fordi den kjører et avansert program. Searle sitter alene i et rom. Ark med kinesiske tegn sendes inn under døren. Searle kan ikke kinesisk, men han har en regelbok som sier hvilke tegn han skal sende ut som svar på hvilke tegn som kommer inn. Svarene er så gode at folk utenfor tror han kan kinesisk. Men forstår han kinesisk? Nei, han flytter bare symboler etter regler uten å vite hva de betyr. Likevel ville han bestått Turing-testen.
+
+Searles poeng er at en datamaskin bare kan organisere symboler etter regler. Å forstå symbolene krever i tillegg at man kan tolke dem og gi dem mening, og ifølge Searle har vi den evnen på grunn av hjernens biologiske egenskaper. Det er forskjell på å simulere en tanke og å forstå den. Searle skiller mellom svak og sterk kunstig intelligens. Svak kunstig intelligens er synet at maskiner kan simulere tenkning og være nyttige verktøy. Sterk kunstig intelligens er synet at en maskin med riktig program faktisk har et sinn og forstår. Searles argument retter seg mot sterk kunstig intelligens og mot maskinfunksjonalismen.
+
+Er Turing-testen en god test? For den taler at vi også bedømmer om andre mennesker tenker ut fra hva de sier og gjør, siden vi ikke har direkte tilgang til andres sinn. Mot den taler Searles argument om at atferd som ser intelligent ut, kan oppstå uten forståelse. Testen måler kanskje evnen til å etterligne, ikke evnen til å tenke.
+
+I seminarcaset hevder Kristin Hagemann at store språkmodeller ikke egentlig bruker språk. Hos mennesker kobles et ord til et begrep i hodet. Språkmodellen kobler bare biter av ord, såkalte tokens, med tall i en statistisk modell, og det er vi som skaper meningen. For å forsvare Hagemann ligger det nær å bruke Searles kinesiske rom. Språkmodellen er som Searle i rommet. Den kombinerer symboler etter mønstre uten å vite hva de betyr. Man kan også bruke tanken om opplevelseskvaliteter, som vi kommer til i neste kapittel. For å utfordre Hagemann ligger det nær å bruke funksjonalismen og Turing-testen. Hvis det mentale er definert ved funksjon, og modellen gjør det samme som et menneske i samtale, er det ikke åpenbart hvorfor det skulle bety noe at den består av tall i stedet for nevroner. Tanken om multippel realisering sier nettopp at det mentale kan virkeliggjøres i ulike materialer.
+
+Kort oppsummert: Turing-testen er funksjonalistisk fordi den bare ser på atferd. Searles kinesiske rom viser at symbolbehandling etter regler ikke er det samme som forståelse.
+
+# Bevissthetens vanskelige problem
+
+I dette kapitlet ser vi på opplevelsesaspektet ved bevissthet, Frank Jacksons kunnskapsargument og hvor problematisk det er for fysikalismen.
+
+Å være bevisst er å ha opplevelser med en subjektiv kvalitet. Tenk på inntrykket av den røde fargen på en moden tomat, følelsen av en stikkende smerte, eller opplevelsen av et sviende nederlag. Det vanskelige bevissthetsproblemet er spørsmålet om hvordan slike opplevelser kan oppstå fra noe som ikke har dem, for eksempel nevroner som fyrer. Med andre ord, hvordan kan noe som best beskrives fra et førstepersonsperspektiv, altså slik det er for meg, oppstå fra noe som best beskrives fra et tredjepersonsperspektiv, altså slik en forsker ser hjernen utenfra? Avstanden mellom disse perspektivene kalles gjerne forklaringsgapet. Dette er et felles problem for de fysikalistiske teoriene.
+
+Frank Jackson har laget et kjent tankeeksperiment. Mary har levd hele livet i et rom der alt er svart og hvitt. Hun har blitt ekspert på vitenskapen om fargesyn, og hun kjenner alle fysiske og funksjonelle fakta om hvordan vi ser farger, fra optikk til hjernens oppbygning. En dag slipper hun ut og ser en moden tomat. Lærer hun noe nytt? De fleste har en sterk intuisjon om at hun gjør det. Hun lærer hvordan det er å se rødt.
+
+Argumentet går slik. Før hun slipper ut, kjenner Mary alle fysiske fakta om fargesyn. Når hun ser rødt, lærer hun et nytt faktum. Altså finnes det fakta om å sanse som ikke er fysiske. Og da er fysikalismen gal. Slike fakta om hvordan noe oppleves, kalles kvalia. Tredjepersonsperspektivet kan forklare alle de fysiske sidene ved en opplevelse, men selve opplevelseskvaliteten er bare tilgjengelig fra innsiden.
+
+Hvor problematisk er dette for fysikalismen? Ganske problematisk, fordi argumentet tilsynelatende viser at fysikalismen er ufullstendig selv om all fysisk vitenskap blir fullført. Det rammer også funksjonalismen, siden Mary kjenner alle funksjonelle forhold også. En fysikalist kan prøve å svare at Mary ikke lærer noe nytt om verden, men bare får en ny opplevelse av noe hun allerede visste alt om. Men da må fysikalisten forklare hva denne opplevelsen er, og det er nettopp det som er vanskelig.
+
+I seminaroppgaven om Monica, som er forelsket, sier hun at ord ikke kan beskrive følelsene, og at venninnen måtte ha opplevd det selv for å forstå. Det uttrykker tanken om kvalia. Hvordan ville de tre teoriene forklare forelskelsen? En substansdualist ville si at følelsen er en tilstand i det immaterielle sinnet, mens hjertebank og sommerfugler i magen skjer i kroppen, og at sinnet og kroppen påvirker hverandre. En identitetsteoretiker ville si at forelskelsen er en bestemt tilstand i hjernen, slik vann er H to O, og at hjertebanken er en fysisk følge av den. En funksjonalist ville si at forelskelsen er definert ved sin rolle. Den utløses av å se personen, den gir hjertebank og tankekjør, og den henger sammen med glede og lengsel. Både identitetsteoretikeren og funksjonalisten må likevel forklare den opplevelseskvaliteten Monica beskriver.
+
+Kort oppsummert: bevissthetens vanskelige problem og Jacksons kunnskapsargument hevder at opplevelser har kvaliteter, kvalia, som fysiske fakta ikke fanger opp.
+
+# Fri vilje og determinisme
+
+I dette kapitlet forklarer vi problemet om fri vilje og determinisme, og hvorfor det henger sammen med moralsk ansvar.
+
+Fri vilje oppfattes ofte som en forutsetning for flere ting vi tar for gitt. Den ser ut til å være nødvendig for at vi kan ha moralsk ansvar, for at fengselsstraff kan forsvares, for at det gir mening å si at noen fortjener noe, for eksempel lønnen for eget arbeid, og for at det har noen hensikt å gi gode grunner for handlinger. Når vi gir noen ros eller ris, forutsetter vi at de er ansvarlige, og ansvar ser ut til å kreve fri vilje.
+
+Determinisme er synet at enhver hendelse er fullstendig bestemt av tidligere hendelser. Det mekanistiske natursynet, der naturen er som et urverk, er deterministisk. Claus mener vi har grunn til å tro at universet vårt, for alle praktiske formål, er slik. Hvis fri vilje betyr at vi kunne ha handlet annerledes, oppstår problemet. Hvis determinismen er sann, kunne vi aldri ha handlet annerledes enn vi gjorde. Kjetil stiller et skarpt spørsmål: betyr dette at Anders Behring Breivik var dømt til å bli terrorist i det øyeblikket han ble født? Mirela peker på at det da blir vanskelig å holde noen ansvarlige, slik for eksempel Kants pliktetikk forutsetter.
+
+Mirela nevner også eksperimenter utført av Benjamin Libet, som har blitt tolket som at det er en illusjon at bevisstheten spiller en rolle når vi handler. Hvis hjernen bestemmer seg før vi blir oss bevisst valget, er det enda et problem for den frie viljen.
+
+Kjernen i problemet er tre spørsmål. Hva skal vi mene med fri vilje? Er fri vilje mulig i et deterministisk univers? Og hva følger for moralsk ansvar? Svarene deler seg i to grupper. Inkompatibilister mener at fri vilje og determinisme er uforenlige. Frihet er mer enn å gjøre som vi ønsker, for det videre hendelsesforløpet må være opp til oss og ikke bestemt på forhånd. Kompatibilister mener at fri vilje og determinisme er forenlige.
+
+Kort oppsummert: fri vilje ser ut til å være en forutsetning for moralsk ansvar, men determinismen truer tanken om at vi kunne ha handlet annerledes.
+
+# Kompatibilisme, libertarianisme og hard determinisme
+
+I dette kapitlet går vi gjennom de tre hovedsvarene på problemet om fri vilje, og ser hvordan de kommer fram til sine konklusjoner om moralsk ansvar.
+
+Den første posisjonen er libertarianisme. Den må ikke forveksles med den politiske retningen med samme navn. Libertarianeren mener at vi handler fritt hvis og bare hvis vi kunne ha handlet annerledes, med alt annet likt. Dette er uforenlig med determinisme. Men libertarianeren mener at vi i alle fall noen ganger handler fritt, og trekker derfor slutningen at determinismen er gal. Konklusjonen er at vi i alle fall noen ganger er moralsk ansvarlige. Et spørsmål libertarianeren må svare på, er om den frie viljen virkelig reddes av at universet ikke er helt deterministisk. Hvis handlingene skyldes tilfeldigheter, er de vel ikke mer våre enn om de var forutbestemt?
+
+Den andre posisjonen er hard determinisme. Den harde deterministen deler libertarianerens forståelse av fri vilje, og er enig i at fri vilje er uforenlig med determinisme. Men hun mener at determinismen er sann. Altså handler vi aldri fritt, og fri vilje er en illusjon. Konklusjonen er at vi aldri er moralsk ansvarlige for handlingene våre.
+
+Den tredje posisjonen er kompatibilisme, som blant annet går tilbake til Thomas Hobbes. Kompatibilisten mener at fri vilje ikke er det samme som å kunne ha handlet annerledes under nøyaktig de samme forholdene. Å handle fritt er i stedet å få gjøre som man ønsker uten å bli hindret, eller å få gjøre det man ønsker å ønske, eller å ha en viss grad av selvkontroll, altså evne til å styre egne impulser. Slik frihet er forenlig med determinisme. Ønskene mine kan godt være bestemt av tidligere årsaker, men jeg er likevel fri når ingenting hindrer meg i å handle på dem. Hobbes sier det slik at ønsket ditt er bestemt, men at du er fri akkurat når du kan oppfylle det og ingenting kommer i veien. Konklusjonen er at vi kan ha fri vilje og moralsk ansvar selv om determinismen er sann.
+
+Nå kommer et poeng som er viktig på eksamen. Kompatibilisme og libertarianisme kommer fram til samme konklusjon, nemlig at vi i alle fall noen ganger er moralsk ansvarlige. Men de bygger på ganske ulike premisser. De er uenige om hva fri vilje er, og om fri vilje er forenlig med determinisme. Libertarianeren må avvise determinismen, mens kompatibilisten kan godta den. Libertarianisme og hard determinisme kommer derimot fram til helt motsatte konklusjoner, selv om premissene deres delvis overlapper. Begge er inkompatibilister. Begge forstår fri vilje som evnen til å handle annerledes, og begge mener at dette er uforenlig med determinisme. De er bare uenige på ett punkt, nemlig om determinismen er sann. Derfor ender den ene med at vi har ansvar, og den andre med at vi aldri har det.
+
+La oss bruke seminaroppgaven om Maria. Hun er økonomisjef og blir stadig mer opptatt av rikdom og status. Over flere år overfører hun stadig større beløp til seg selv, til hun har underslått millioner. Hun sier at hun visste hva hun gjorde, men at ønsket om suksess var for sterkt til at hun kunne la være.
+
+En kompatibilist vil langt på vei si at Maria er moralsk ansvarlig. Hun handlet etter egne ønsker, ingen tvang henne, og hun visste hva hun gjorde. At ønskene hennes har årsaker, endrer ikke det. Hennes egen forklaring kan riktignok gi kompatibilisten noe å tenke på hvis fri vilje forstås som selvkontroll. Manglet hun evnen til å styre impulsene sine? De fleste vil likevel si at hun hadde god tid og mange anledninger til å stoppe. En libertarianer vil si at Maria er ansvarlig dersom hun, med alt annet likt, kunne ha latt være, og libertarianeren mener at vi i alle fall noen ganger har denne evnen. Påstanden om at hun ikke kunne la være, blir da en bortforklaring. En hard determinist vil si at Maria ikke er moralsk ansvarlig i dypeste forstand, fordi alt hun gjorde var bestemt av tidligere årsaker. Det betyr ikke at samfunnet ikke skal reagere, men reaksjonen kan ikke begrunnes med at hun fortjener straff.
+
+Kort oppsummert: libertarianisme og hard determinisme deler synet på hva fri vilje er, men er uenige om determinismen, og ender derfor med motsatte svar. Kompatibilisme og libertarianisme ender med samme svar, men av ulike grunner.
+
+# Oppsummering
+
+I dette siste kapitlet samler vi trådene fra leksjonen.
+
+Kropp og sinn-problemet handler om hvordan det mentale livet vårt henger sammen med hjernen og kroppen. Substansdualismen sier at sinn og kropp er to ulike ting, men Elisabeth av Böhmen viste at det er vanskelig å forklare hvordan de kan påvirke hverandre. Identitetsteorien sier at mentale tilstander er hjernetilstander. Den løser samspillsproblemet, men møter problemet med at det mentale kan realiseres på ulike måter. Funksjonalismen definerer det mentale ved hva det gjør, og kan føre til tanken om det utvidede sinnet og om tenkende maskiner.
+
+Turing-testen er et funksjonalistisk kriterium for om maskiner kan tenke, mens Searles kinesiske rom viser at symbolbehandling ikke er forståelse. Jacksons kunnskapsargument om Mary hevder at det finnes kvalia som fysiske fakta ikke fanger opp, og det rammer både identitetsteori og funksjonalisme.
+
+Til slutt så vi at fri vilje ser ut til å være en forutsetning for moralsk ansvar, men at determinismen truer den. Libertarianisme og hard determinisme deler synet på fri vilje, men ender med motsatte konklusjoner. Kompatibilisme og libertarianisme ender med samme konklusjon, men fra ulike premisser.
+
+Takk for at du lyttet til leksjon seks.

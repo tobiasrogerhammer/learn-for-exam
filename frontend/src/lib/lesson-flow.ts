@@ -5,10 +5,17 @@
  * then do the practice methods open.
  */
 
+import { frontMatterCount } from "../../convex/lib/frontMatter";
 import { readKey, writeKey } from "./storage";
-import type { LibraryItem, Section } from "./types";
+import type { DocumentMeta, LibraryItem, Section } from "./types";
 
-export type Chapter = { id: string; title: string; body: string };
+export type Chapter = {
+  id: string;
+  title: string;
+  body: string;
+  /** Title page, summary and contents shown before the first chapter's text */
+  preface?: string;
+};
 
 /**
  * The cleaned-up reading text is Markdown: "## " starts a chapter, "### " a
@@ -44,6 +51,11 @@ export function toChapters(source: string) {
  * The chapters you go through, the same ones Pensum counts. Text before the
  * first chapter belongs to the first one.
  */
+/** How many sections at the start are folded into the first chapter's preface */
+export function lessonFrontMatter(item: LibraryItem): number {
+  return item.reading?.markdown ? 0 : frontMatterCount(item.document.sections);
+}
+
 export function lessonChapters(item: LibraryItem): Chapter[] {
   const markdown = item.reading?.markdown;
   if (markdown) {
@@ -52,9 +64,18 @@ export function lessonChapters(item: LibraryItem): Chapter[] {
     if (intro) chapters[0] = { ...chapters[0], body: `${intro}\n\n${chapters[0].body}` };
     return chapters;
   }
-  return item.document.sections.map((s) => ({
+  // Title page, summary and contents become a preface to the first real chapter
+  const sections = item.document.sections;
+  const front = frontMatterCount(sections);
+  const preface = sections
+    .slice(0, front)
+    .map((s) => s.text.trim())
+    .filter(Boolean)
+    .join("\n\n");
+  return sections.slice(front).map((s, i) => ({
     id: s.id,
     title: s.title,
+    ...(i === 0 && preface ? { preface } : {}),
     // Plain text keeps its line breaks as paragraphs
     body: s.text
       .split(/\n+/)
@@ -73,29 +94,42 @@ function contentWords(text: string): Set<string> {
   );
 }
 
+/** Short word stems, so "kostnaden" and "kostnadene" count as the same word */
+export function wordStems(text: string): Set<string> {
+  return new Set(
+    text
+      .toLowerCase()
+      .split(/[^\p{L}\p{N}]+/u)
+      .filter((w) => w.length >= 4)
+      .map((w) => w.slice(0, 6)),
+  );
+}
+
 /**
- * The audiobook is written for listening, so its sections don't line up with
- * the reading chapters. Each audio section goes to the chapter whose words it
- * shares most, keeping the order, so a chapter gets a run of audio sections.
- * Returns the audio section ids for each chapter.
+ * Pairs each source text with the target text it shares most words with,
+ * keeping the order: the targets picked never go backwards. Returns the target
+ * index for each source.
  */
-export function alignAudio(chapters: Chapter[], sections: Section[]): string[][] {
-  const out: string[][] = chapters.map(() => []);
-  if (chapters.length === 0 || sections.length === 0) return out;
-  const chapterWords = chapters.map((c) => contentWords(`${c.title} ${c.body}`));
-  const score = sections.map((s) => {
-    const words = contentWords(`${s.title} ${s.text}`);
-    return chapterWords.map((cw) => {
+export function alignInOrder(
+  sources: string[],
+  targets: string[],
+  tokens: (text: string) => Set<string> = contentWords,
+): number[] {
+  const n = sources.length;
+  const m = targets.length;
+  if (n === 0 || m === 0) return sources.map(() => 0);
+  const targetWords = targets.map(tokens);
+  const score = sources.map((text) => {
+    const words = tokens(text);
+    return targetWords.map((tw) => {
       if (words.size === 0) return 0;
       let shared = 0;
-      for (const w of words) if (cw.has(w)) shared++;
-      return shared / Math.sqrt(words.size * Math.max(cw.size, 1));
+      for (const w of words) if (tw.has(w)) shared++;
+      return shared / Math.sqrt(words.size * Math.max(tw.size, 1));
     });
   });
 
-  // best[i][j]: best total for the first i+1 sections with section i in chapter j
-  const n = sections.length;
-  const m = chapters.length;
+  // best[i][j]: best total for the first i+1 sources with source i on target j
   const best = score.map(() => new Array<number>(m).fill(-Infinity));
   const from = score.map(() => new Array<number>(m).fill(0));
   for (let j = 0; j < m; j++) best[0][j] = score[0][j];
@@ -111,11 +145,29 @@ export function alignAudio(chapters: Chapter[], sections: Section[]): string[][]
       from[i][j] = runArg;
     }
   }
+  const out = new Array<number>(n);
   let j = best[n - 1].indexOf(Math.max(...best[n - 1]));
   for (let i = n - 1; i >= 0; i--) {
-    out[j].unshift(sections[i].id);
+    out[i] = j;
     j = from[i][j];
   }
+  return out;
+}
+
+/**
+ * The audiobook is written for listening, so its sections don't line up with
+ * the reading chapters. Each audio section goes to the chapter whose words it
+ * shares most, keeping the order, so a chapter gets a run of audio sections.
+ * Returns the audio section ids for each chapter.
+ */
+export function alignAudio(chapters: Chapter[], sections: Section[]): string[][] {
+  const out: string[][] = chapters.map(() => []);
+  if (chapters.length === 0 || sections.length === 0) return out;
+  const picks = alignInOrder(
+    sections.map((s) => `${s.title} ${s.text}`),
+    chapters.map((c) => `${c.title} ${c.body}`),
+  );
+  picks.forEach((chapter, i) => out[chapter].push(sections[i].id));
   return out;
 }
 
@@ -135,6 +187,11 @@ export type LessonProgress = {
   notes: Record<number, string>;
   summary: string;
   summaryDone: boolean;
+  /**
+   * 2 once chapter numbers count from the first real chapter. Progress saved
+   * before that counted title page, summary and contents as chapters too.
+   */
+  layout?: number;
 };
 
 const EMPTY: LessonProgress = {
@@ -144,12 +201,39 @@ const EMPTY: LessonProgress = {
   notes: {},
   summary: "",
   summaryDone: false,
+  layout: 2,
 };
 
 const key = (documentId: string) => `learn-for-exam:lesson-flow:${documentId}`;
 
-export function getLessonProgress(documentId: string): LessonProgress {
-  return { ...EMPTY, ...readKey<Partial<LessonProgress>>(key(documentId), {}) };
+/**
+ * Your progress in a lesson. Pass how many sections were folded into the
+ * preface, so progress saved before that moves to the right chapters.
+ */
+export function getLessonProgress(documentId: string, frontMatter = 0): LessonProgress {
+  const stored = readKey<Partial<LessonProgress>>(key(documentId), {});
+  const progress = { ...EMPTY, ...stored };
+  if (stored.layout === 2 || frontMatter === 0) return { ...progress, layout: 2 };
+  const move = (i: number) => i - frontMatter;
+  const keep = (i: number) => move(i) >= 0;
+  const notes: Record<number, string> = {};
+  for (const [i, text] of Object.entries(progress.notes)) {
+    // Notes on a folded-in section join the first chapter's notes
+    const to = Math.max(0, move(Number(i)));
+    notes[to] = [notes[to], text].filter(Boolean).join("\n\n");
+  }
+  return {
+    ...progress,
+    read: progress.read.filter(keep).map(move),
+    done: progress.done.filter(keep).map(move),
+    highlights: Object.fromEntries(
+      Object.entries(progress.highlights)
+        .filter(([i]) => keep(Number(i)))
+        .map(([i, list]) => [move(Number(i)), list]),
+    ),
+    notes,
+    layout: 2,
+  };
 }
 
 export function saveLessonProgress(documentId: string, progress: LessonProgress): void {
@@ -181,4 +265,25 @@ export function addHighlight(list: Highlight[], next: Highlight, fullText: strin
   return [...rest, { start, end, text: fullText.slice(start, end).trim() }].sort(
     (a, b) => a.start - b.start,
   );
+}
+
+/**
+ * How far you are through the lessons: chapters you have written notes for,
+ * and lessons you have summed up. Only the subjects you picked count, when you
+ * have picked any.
+ */
+export function lessonFlowTotals(lessons: DocumentMeta[]) {
+  let chaptersDone = 0;
+  let chaptersTotal = 0;
+  let lessonsDone = 0;
+  let lessonsStarted = 0;
+  for (const lesson of lessons) {
+    const total = lesson.chapterCount;
+    const progress = getLessonProgress(lesson.id);
+    chaptersTotal += total;
+    chaptersDone += progress.done.filter((i) => i < total).length;
+    if (progress.summaryDone) lessonsDone++;
+    else if (progress.done.length || progress.read.length) lessonsStarted++;
+  }
+  return { chaptersDone, chaptersTotal, lessonsDone, lessonsStarted, lessonsTotal: lessons.length };
 }

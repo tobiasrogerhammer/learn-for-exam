@@ -1,0 +1,593 @@
+--- side 1 ---
+Kunnskap for en bedre verden
+EXPH0300: Examen philosophicum for
+naturvitenskap og teknologi
+Forelesning 2
+Mirela Fus-Holmedal
+mirela.fus-holmedal@ntnu.no
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+
+--- side 2 ---
+2
+Agenda
+1. Fortsettelse argumentasjon og debatt
+2. Argumentasjonsanalyse
+3. Argumentasjonsvurdering
+6946 2017
+Referansegruppe:
+• Sara Elverhaug, saraelv@stud.ntnu.no
+• Dina Løken, dmloken@stud.ntnu.no
+
+--- side 3 ---
+Intro: Skriv ned en kort og enkel påstand. For
+eksempel: "I morgen er det tirsdag."
+3
+
+--- side 4 ---
+1. Fortsettelse argumentasjon og debatt
+
+--- side 5 ---
+Debattnormer -> saklighet
+1. Begrunn oppfatningene dine
+– Påstander uten begrunnelse stanser diskusjon
+– Umulig å etterprøve og vanskelig å endre
+oppfatning
+2. Bidra med riktig informasjon
+– Gjør diskusjonen forankret i kunnskap, sannhet
+3. Bidra med relevant informasjon
+– Sikrer at man holder seg til saken, at
+diskusjonen ikke blir irrelevant
+5
+
+--- side 6 ---
+Riktighet vs. relevans
+To egenskaper av argumenter som er gode i logisk
+forstand:
+1. Riktighet: Et argument er riktig dersom det det
+påstår er riktig (dvs. at det er sant, korrekt, stemmer
+o.l.).
+2. Relevans: Et argument er relevant i den grad –
+dersom det er riktig– det taler for eller mot påstanden
+det rettes mot.
+34
+
+--- side 7 ---
+Eksempel på riktighet og relevans
+OBS! Et argument kan
+være riktig uten å være
+relevant...
+Kaffedrikking øker
+risikoen for kreft
+...og at et argument kan
+være relevant uten å
+være riktig!
+Koffein er
+kreftfremkallende
+De fleste som dør av
+kreft i Norge, er
+kaffedrikkere
+(relevant, men ikke riktig) (riktig, men ikke relevant)
+35
+
+--- side 8 ---
+Begrunn påstanden fra ‘Intro’ med en
+både riktig og relevant påstand.
+8
+
+--- side 9 ---
+Brudd på debattnormer
+• Brudd på kravet om riktig informasjon
+– Løgn: et bevisst forsøk på å si noe (man
+tror er) usant
+– Bullshit (jfr. Harry Frankfurt, 1986) = å si
+ting uten hensyn til om det er sant eller
+ikke.
+• Usaklighet
+– Personargumentasjon
+– Stråmannsargumentasjon
+37
+
+--- side 10 ---
+Personargumentasjon (ad hominem)
+Anne: «I fjor sto du
+her og unnskyldte
+deg for en episode
+på nachspielet etter
+fylkesårsmøtet. Og
+nå vil du ha vin i
+butikk!?»
+• Har som formål å redusere
+troverdigheten til en person eller
+gruppe ved å beskrive dem med
+negative karakteristikker
+• Jfr. ordtaket: «å ta mannen i stedet
+for ballen»
+Jens: «Vinsalg i
+dagligvarebutikker er helt
+klart å foretrekke.
+Danmark har allerede
+innført denne ordningen
+med stort hell, og flertallet
+av nordmenn ønsker seg
+en slik ordning.»
+• Kjennetegn
+– «name-calling»
+– Fokus på irrelevante
+karakteregenskaper
+• Ofte usaklig, noen ganger relevant
+(eks.: eksperter på området)
+10
+
+--- side 11 ---
+Stråmannsargumentasjon
+Jens:«Privat bruk av
+cannabis bør legaliseres.
+Som rusmiddel har det
+relativt få
+skadevirkninger, og
+legalisering vil dessuten
+få bukt med organisert
+kriminalitet.»
+Anne: «I motsetning til min
+motstander så mener jeg
+at fri flyt av narkotika er
+en dårlig ide. Vi vet at det
+bare leder til personlige
+tragedier, dødelige
+overdoser og økt
+gjengkriminalitet.»
+• Brudd på kravet om både riktig
+og relevant informasjon.
+• Man fremstiller andres
+synspunkter som mindre
+rimelige, eller mer
+kontroversielle, enn de egentlig
+er.
+• Man argumenterer mot et
+annet standpunkt enn det ens
+diskusjonspartner faktisk hevder.
+– Derfor:
+stråmannsargumenter kan
+aldri være relevante.
+11
+
+--- side 12 ---
+Logikk og retorikk
+• Argumenters logiske funksjon
+– Å støtte (eller svekke) påstander (riktig + relevant
+arg.)
+– Argumenter som støtter en påstand, gir oss god
+grunn til å tro på påstanden
+– Vi har fokus på denne på ex.phil.
+• Argumenters retoriske funksjon
+– Å overbevise eller overtale andre (f.eks. reklame,
+politiske taler)
+– Kan fylles på en rekke andre måter enn ved å
+bruke riktige og relevante argumenter, f.eks.
+➢ stråmannsargumentasjon
+➢ personangrep
+➢ appell til følelser eller populær stemning, etc.
+12
+
+--- side 13 ---
+Spørsmål?
+13
+
+--- side 14 ---
+1. Identifisere og bryte ned
+argumentasjonens
+bestanddeler
+2. Skaffe seg oversikt over
+argumentasjonsstrukturen
+2. Argumentasjonsanalyse
+14
+
+--- side 15 ---
+Argumentasjonens bestanddeler
+• Argumentasjon består av en rekke påstander av forskjellige
+typer
+• Standpunkt: Hovedpåstanden i teksten eller debatten
+– «vi bør støtte Ukraina»; «vi bør også se saken fra Russlands side»;
+«vindkraft er veien frem» (kan typisk argumenteres for eller imot)
+• Argumenter: Påstander som er ment å styrke eller svekke
+standpunktet
+– Standpunktargumenter, indirekte argumenter, uavhengige argumenter,
+sammensatte argumenter, implisitte argumenter, konsekvensargumenter,
+motargumenter mm.
+15
+
+--- side 16 ---
+Standpunktargumenter
+• Dette er argumenter som er
+ment å støtte eller svekke
+standpunktet direkte
+– Merk at det kan være flere
+standpunktargumenter som støtter
+standpunktet
+Standpunkt:
+Stemmerettsalderen i Norge
+bør senkes til 16 år
+Standpunktargument:
+Å senke stemmerettsalderen til
+16 år vil gi økt valgdeltakelse
+16
+
+--- side 17 ---
+Indirekte argumenter
+• Argumenter som er ment å
+støtte eller svekke
+standpunktet, ved å støtte eller
+svekke andre argumenter
+dirkete (f.eks.
+standpunktargumentet)
+– Huskeregel: Indirekte argumenter
+henviser ofte til forskning,
+statistikk eller historiske fakta
+Standpunkt:
+Stemmerettsalderen i Norge bør
+senkes til 16 år
+Standpunktargument:
+Å senke stemmerettsalderen til 16 år
+vil gi økt valgdeltakelse
+Indirekte argument:
+En forsøksordning med å gi 16-
+åringer stemmerett, ga økt
+valgdeltakelse
+17
+
+--- side 18 ---
+Argumentasjonsstruktur
+Argumentasjonsdiagrammer:
+– Gir en visuell representasjon
+av argumentasjonen og
+illustrerer den logiske
+strukturen i argumentasjonen
+– Hjelper oss å holde orden på
+argumentasjonsstrukturen, samt
+identifiserer svakheter og
+styrker ved argumentasjonen
+18
+
+--- side 19 ---
+• Argumenter (på samme linje)
+som er uavhengige av
+hverandre
+– Hvis man avviser ett av
+argumentene, vil det ikke
+påvirke relevansen eller
+Uavhengige argumenter
+Standpunkt: Vi bør ikke spise
+kjøtt
+SA1: Å spise kjøtt er ikke sunt
+for oss
+SA2: Å spise kjøtt er ikke
+miljøvennlig
+SA3: Å spise kjøtt krenker dyrs
+iboende verdi
+riktigheten av det andre
+argumentet!
+19
+
+--- side 20 ---
+Uavhengige argumenter i et
+argumentasjonsdiagram
+Standpunkt: Vi bør ikke spise
+kjøtt
+SA1: Det er ikke
+sunt for oss
+SA2: Det er ikke
+miljøvennlig
+SA3: Det krenker
+dyrs iboende verdi
+20
+
+--- side 21 ---
+Sammensatte argumenter
+• Argumenter som består av to
+eller flere påstander som i
+fellesskap gir én enkelt grunn til
+å tro standpunktet
+• Det er dermed en indre logisk
+sammenheng mellom de to
+påstandene
+Standpunkt:
+Sokrates er dødelig
+SAa:
+Alle mennesker er dødelige
+SAb:
+Sokrates er et menneske
+21
+
+--- side 22 ---
+22
+Sammensatte og uavhengige
+argumenter i et argumentasjonsdiagram
+SP: Færre
+studenter vil fullføre
+utdanningen sin i
+årene som kommer
+SAa: Høstens
+statsbudsjett
+øker ikke
+studiestøtten
+SAb: Uten
+høyere
+studiestøtte vil
+frafallet øke
+UA:
+Søkertallene
+går ned
+Tankeeksperiment: Anta
+først at det er riktig at flere
+studenter vil falle fra med
+mindre studiestøtten økes
+(SAb riktig), men at det
+samtidig viser seg at
+statsbudsjettet faktisk
+øker studiestøtten (SAa
+feil). I så fall vil neppe
+påstanden «Uten høyere
+studiestøtte vil frafallet øke»
+(Sab) være relevant for å
+støtte standpunktet.
+
+--- side 23 ---
+Implisitte argumenter i et
+argumentasjonsdiagram
+Påstander som inngår i
+en argumentasjon, men
+som ikke blir eksplisitt
+formulert
+SP: Færre studenter vil
+fullføre utdanningen sin i
+årene som kommer
+SP: Norge bør bruke mer av
+statsbudsjettet på forsvar.
+Implisitt argument: Det
+er en negativ utvikling
+SAa: Høstens
+statsbudsjett øker
+ikke studiestøtten
+SAb: Uten høyere
+studiestøtte vil
+frafallet øke
+SAa: Alle NATO-medlemmer
+forventes å bruke minst to
+prosent av brutto
+nasjonalprodukt på forsvar.
+Sab: Implisitt argument:
+Norge bruker mindre enn
+to prosent av brutto
+nasjonalprodukt på forsvar.
+23
+
+--- side 24 ---
+Kan du komme opp med et implisitt
+argument for standpunktet fra ‘Intro’?
+24
+
+--- side 25 ---
+Motargumenter i et argumentasjonsdiagram
+SP: Færre studenter vil
+fullføre utdanningen sin i
+årene som kommer
+Kan forekomme både som
+standpunktargumenter og
+som indirekte argumenter
+SAa: Høstens
+statsbudsjett øker
+ikke studiestøtten
+SAb: Uten høyere
+studiestøtte vil
+frafallet øke
+Implisitt argument:
+Det er en negativ
+utvikling
+Motargument: Det forventes
+ingen økning i studentenes
+utgifter de neste årene
+25
+
+--- side 26 ---
+Deskriptive og normative påstander: «er» vs. «bør»
+• Deskriptive
+– «Kaffedrikking øker risikoen for kreft»
+• ofte en del av den akademiske debatten (forskning)
+• Normative
+– «Privat bruk av cannabis bør legaliseres»
+• ofte en del av samfunnsdebatten
+• OBS!
+– «Oljeprisen bør falle når produksjonen avtar neste år»
+– «Charles Dickens er en god forfatter»
+– uten verken «er» eller «bør»: «Gutter gråter ikke»
+26
+
+--- side 27 ---
+Gjøvik er en norsk by i Innlandet fylke,
+lokalisert på vestsiden av Mjøsa ved
+Hunnselvas utløp.
+27
+
+--- side 28 ---
+Gjøvik ligger på riktig side av Mjøsa.
+28
+
+--- side 29 ---
+Eksempel: Implisitte argumenter i normativ argumentasjon
+Vi må utfase
+fossile
+brennstoffer nå!
+Klimaendringene er
+delvis forårsaket av
+økende mengde
+CO2 i atmosfæren
+Vi bør stoppe
+klimaendringene
+Den økende mengde
+CO2 i atmosfæren
+skyldes vår bruk av
+fossile brennstoffer
+29
+
+--- side 30 ---
+Spørsmål?
+30
+
+--- side 31 ---
+Å ta stilling til i
+hvilken grad
+argumentene som
+føres er vellykkede
+Relevans + riktighet
+3. Argumentasjonsvurdering
+
+--- side 32 ---
+Relevans
+«Hvis det er riktig, hva så?»
+[Altså: er argumentet relevant
+for påstanden det
+argumenterer for? Er det en
+opplagt forbindelse mellom
+dem?]
+32
+• I argumentasjonsteori er
+hovedfokuset hvordan vi vurderer
+argumenters relevans
+• Relevans er en egenskap ved
+forholdet mellom argumentet og
+påstanden det skal støtte og svekke
+• Når du vurderer hvorvidt et argument
+er relevant, tar du stilling til et
+hypotetisk spørsmål: Hvis
+argumentet hadde vært riktig, i
+hvilken grad ville det gitt grunn til å
+tro påstanden det er rettet mot?
+
+--- side 33 ---
+To former for relevans: Induksjon
+Induktive argumenter: Har som funksjon å sannsynliggjøre en
+annen påstand; etablerer en svakere forbindelse mellom argument
+og standpunkt
+– Det er denne type argumenter vi ofte møter i den offentlige debatten
+– Er ikke maksimal relevante, men gir oss større eller mindre grunn til å tro på
+standpunktet
+– Induktiv generalisering: Den enkleste formen for induksjon: Argumenter fra
+enkelttilfeller til en generell påstand
+33
+
+--- side 34 ---
+To former for relevans: Deduksjon
+Deduktive argumenter: Har som funksjon å etablere en påstand
+gjennom en sterk logisk forbindelse til standpunktet
+– Deduktive argumenter brukes mest innen matematikk og filosofi (logikk)
+– Maksimal relevans: Hvis argumentet er riktig, er det umulig at standpunktet
+ikke også er riktig; standpunktet følger med nødvendighet fra argumentet
+Standpunkt: Sokrates er dødelig
+SAa: Alle mennesker er dødelige
+SAb: Sokrates er et menneske
+34
+
+--- side 35 ---
+Fire typer induktive argumenter
+Induktiv generalisering
+• N tilfeller [eller n%] av observerte objekter
+med egenskapen F har egenskapen G
+• Alle objekter med egenskapen F har
+egenskapen G
+Argument: Hver gang jeg har tatt buss nr. 3 til
+forelesning, har den kommet frem noen minutter for
+sent.
+Standpunkt: Buss nr. 3 er vanligvis forsinket.
+Induktiv syllogisme
+• x har egenskapen F
+• x har egenskapen G
+• De fleste tilfeller av
+observerte objekter med
+egenskapen F har egenskapen G
+Analogiargument
+x og y er like i visse
+henseender
+x har egenskapen F
+y har egenskapen F
+Slutning til beste
+forklaring
+(abduksjon)
+Standpunktet antas å gi
+den beste forklaring på
+en rekke fakta vi kan
+observere
+35
+
+--- side 36 ---
+Klassiske typer av deduktive argumenter
+Eksempler
+Modus ponens
+❖Hvis p så q
+❖P
+❖Derfor: q
+Modus tollens
+❖Hvis p så q
+❖Ikke q
+❖Derfor: ikke p
+Hypotetisk syllogisme
+❖Hvis p så q
+❖Hvis q så r
+❖Derfor: Hvis p så r
+Disjunktiv syllogisme
+❖P eller q
+❖Ikke p
+❖Derfor: q
+1. Hvis månen er en ost,
+så vinner jeg i lotto.
+2. Månen er en ost.
+K: Jeg vinner i lotto.
+36
+
+--- side 37 ---
+Riktighet «Å ja, stemmer det?»
+[Altså: er argumentet riktig?]
+37
+• Et argument er enten riktig eller uriktig,
+men vi kan ha ulik styrke i grunnen til å
+tro at et argument er riktig (forskning,
+observasjon, erfaring, praksisbasert kunnskap)
+• Et argument med usikker riktighet
+kan være godt så lenge det har
+tilstrekkelig høy relevans
+• Din evne til å vurdere om
+en påstand er riktig,
+avhenger dermed av din
+egen bakgrunnskunnskap
+og din evne til å spore opp
+pålitelig informasjon (å
+være kildekritisk)
+• Du har som regel ikke
+direkte innsyn i om et
+argument er riktig eller
+ikke: Når du vurderer om et
+argument er riktig, tar du
+derfor i realiteten stilling til
+hvor sannsynlig det er at
+argumentet er riktig
+
+--- side 38 ---
+Spørsmål?
+38
+
+--- side 39 ---
+39
+Neste gang
+• Vitenskapsfilosofi
+• Pensum: Tenk! Del 2
+– Kap. 4: Hva er vitenskap?
+– Kap. 5: Hypotetisk-deduktiv
+metode
+– Kap. 6: Demarkasjonskriterium
+og falsifikasjonisme
+– Kap. 7: Bekreftelse
+
+--- side 40 ---
+Takk for i dag!
+Kunnskap for en bedre verden
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+

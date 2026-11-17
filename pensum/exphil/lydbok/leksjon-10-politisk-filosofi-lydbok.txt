@@ -1,0 +1,217 @@
+# Leksjon 10: Politisk filosofi
+
+Velkommen til leksjon ti. Denne leksjonen handler om politisk filosofi, som dreier seg om når og hvordan staten har rett til å bruke makt over oss. Vi skal se på skadeprinsippet, på ulike forståelser av frihet og rettigheter, på ytringsfrihet og likestilling, på kritikken fra Charles Taylor og Martha Nussbaum, og til slutt på debatten om demokrati og ekspertstyre. Husk at dette temaet bare er aktuelt for kortsvarsdelen av eksamen.
+
+# Innledning
+
+I dette kapitlet ser vi på hva politisk filosofi er, og hvilke hovedspørsmål faget stiller.
+
+Politisk filosofi handler om rettmessig utøvelse av politisk makt. Etikken spør hvordan vi bør handle som enkeltpersoner. Politisk filosofi spør hvordan myndighetene bør handle. Sentrale spørsmål er hvor langt staten kan gå i å bestemme over oss, hva det vil si å være fri, hvordan en rettferdig stat er organisert, og hvem som bør bestemme.
+
+Retten til å gi lover er den høyeste formen for myndighet, fordi den bestemmer rammene for all annen maktbruk. Politisk filosofi stiller moralske spørsmål om denne makten, men den skiller seg fra privat moral. Ikke alt som er moralsk galt, bør være forbudt. Å leve usunt, å lyve eller å være utro kan være galt, men de fleste mener at staten ikke bør forby det.
+
+Lover både begrenser og beskytter frihet. Skoleplikten er et godt eksempel. Den begrenser barns frihet her og nå, men uten skolegang ville friheten vært mye mindre i voksenlivet. Plikten gir oss altså muligheter vi ellers ikke ville hatt.
+
+En viktig tradisjon er politisk liberalisme, som legger vekt på borgernes frihet overfor staten. Dette er ikke det samme som økonomisk liberalisme. Både utilitarister og Kant er politiske liberalister, men de begrunner friheten ulikt. For utilitaristen er inngrep i folks liv et onde som bare er greit hvis det hindrer et større onde. For Kant handler det om respekt for borgernes selvbestemmelse.
+
+Forelesningene ordner stoffet etter de tre etiske teoriene. Den utilitaristiske tilnærmingen gir oss skadeprinsippet. Den pliktetiske tilnærmingen ser frihet som en iboende rett. Og den dydsetiske tilnærmingen ser mennesket som et politisk dyr.
+
+Kort oppsummert: Politisk filosofi spør når statens maktbruk er rettmessig, og svarene avhenger av hvilken etisk teori man bygger på.
+
+# Negativ og positiv frihet
+
+I dette kapitlet ser vi på et av de viktigste skillene i modulen, nemlig skillet mellom negativ og positiv frihet.
+
+Negativ frihet er frihet fra noe. Den finnes i to varianter. Den første er frihet som ikke-innblanding, som vi finner hos Mill. Her er du fri hvis ingen hindrer deg. Hvis veien er stengt, er du ikke fri til å komme deg fra ett sted til et annet. Den andre varianten er frihet som ikke-dominans, som vi finner hos Kant og Wollstonecraft. Her er du fri hvis du ikke står i et forhold der noen kan bruke vilkårlig makt over deg, slik som forholdet mellom herre og slave, eller mellom rik og fattig.
+
+Positiv frihet er frihet til noe. Den handler om de indre forutsetningene som gjør det mulig for en person å bestemme over sitt eget liv. Spørsmålet er hvilke handlinger vi faktisk settes i stand til å utføre. Et eksempel er å kunne sette seg egne mål og handle ut fra dem. Positiv frihet knyttes til Taylor og Nussbaum.
+
+Det er verdt å vite at forelesningene plasserer ikke-dominans litt ulikt. De fleste regner det som negativ frihet, altså frihet fra andres vilkårlige makt. Men ett sett med lysbilder beskriver Wollstonecrafts frihet som uavhengighet og knytter den til positiv frihet. Det viktigste er å forstå innholdet. Ikke-dominans betyr at ingen er i posisjon til å bestemme vilkårlig over deg, ikke bare at ingen faktisk hindrer deg.
+
+Her er to eksempler. Hvilket vedtak bidrar til negativ frihet: rett til videregående opplæring, reklamasjonsrett, oppheving av forbudet mot proffboksing, eller lovfestet overtidsbetaling? Svaret er opphevingen av boksforbudet, fordi den fjerner et hinder. Og hvilket tiltak sikrer ytringsfrihet som en positiv frihet? Det er å sørge gjennom utdanning for at alle har kompetansen som skal til for å delta i det offentlige ordskiftet.
+
+Kort oppsummert: Negativ frihet er frihet fra hindringer eller fra dominans. Positiv frihet er de konkrete mulighetene til å styre sitt eget liv.
+
+# Skadeprinsippet og paternalisme
+
+I dette kapitlet ser vi på Mills skadeprinsipp, på skillet mellom myk og hard paternalisme, og på problemene med prinsippet.
+
+Skadeprinsippet lyder slik: Bruk av makt mot kompetente og velinformerte voksne er bare tillatt for å hindre skade på andre. Det betyr at man har lov til å være umoralsk og til å skade seg selv. Bare fare for andre kan begrunne inngrep. Så lenge vi ikke påfører andre skade de ikke har samtykket til, bør vi få gjøre som vi vil. Kompetent betyr at man er i stand til å ta fornuftige valg, for eksempel at man ikke er psykotisk.
+
+Paternalisme betyr faderlighet. Det er når staten bestemmer over borgerne slik foreldre bestemmer over barn. Inngrep for å beskytte noen mot seg selv er paternalistiske, og skadeprinsippet er i utgangspunktet imot dette. Men det skilles mellom to former.
+
+Myk paternalisme er å hindre noen som ikke forstår at de utsetter seg for fare, inntil de er informert. Dette er i tråd med skadeprinsippet. Når personen først forstår faren, har vi ikke rett til å stoppe henne, men vi kan gi råd. Pasienter kan for eksempel nekte å ta imot blod.
+
+Hard paternalisme er å hindre kompetente og velinformerte voksne i å gjøre noe som er farlig for dem selv. Dette strider mot skadeprinsippet. Det norske forbudet mot proffboksing er et eksempel.
+
+Tenk deg at Kari vil gå på fjelltur alene i dårlig vær. Hvis hun ikke vet at det er meldt storm, kan en fjellvakt stoppe henne og fortelle det. Det er myk paternalisme. Hvis hun vet om stormen, er erfaren og likevel vil gå, sier skadeprinsippet at ingen har rett til å hindre henne. Men hva hvis turen setter redningsmannskaper i fare? Da ser vi hvor vanskelig grensen kan være.
+
+Skadeprinsippet reiser flere vanskelige spørsmål. Hva er egentlig en skade? Fysisk skade teller, men hva med frykt, ubehag, sårede følelser, økonomiske tap eller dårlig påvirkning av normer? Hva er maktbruk? Er dulting, moralsk press og avgifter også maktbruk? Hvor går grensen mellom å skade seg selv og å skade andre? Mange handlinger som virker private, påvirker også familie og samfunn. Og hvordan veier vi gevinstene ved et forbud mot kostnadene? Den norske sexkjøpsloven nevnes som et eksempel.
+
+Det finnes også en æsj-dimensjon som skadeprinsippet ikke fanger opp. Noen handlinger, som samtykkende sex mellom voksne søsken, oppleves av mange som gale selv om det er vanskelig å peke på en skade. Skadeprinsippet kan ikke forklare hvorfor slike handlinger eventuelt bør forbys.
+
+Forelesningene ber deg vurdere forbud mot tunge narkotiske stoffer, sexkjøp, heldekkende ansiktsplagg og hatefulle ytringer, og advarsler på tobakk, opp mot skadeprinsippet. En advarsel på en sigarettpakke er myk paternalisme, fordi den informerer. Et forbud mot narkotika for informerte voksne er vanskeligere å forsvare, med mindre man kan vise at det skader andre.
+
+Kort oppsummert: Skadeprinsippet tillater bare inngrep for å hindre skade på andre. Det er forenlig med myk, men ikke med hard paternalisme, og det er uklart hvor grensene for skade og maktbruk går.
+
+# Mill om frihetens verdi og ytringsfrihet
+
+I dette kapitlet ser vi på hvorfor Mill mente frihet er verdifullt, og på hans begrunnelse for ytringsfrihet.
+
+For utilitaristen Mill er frihet viktig fordi den har nytteverdi. Den gir mest total lykke. Frihet har altså instrumentell verdi, det vil si at den er et middel for noe annet. Mill mente at mennesker trenger mer enn sanselige nytelser. Vi trenger å utvikle intellekt og kreativitet. Det er bedre å være en ulykkelig Sokrates enn en lykkelig gris. Frihet gir rom for selvrefleksjon og for å uttrykke seg.
+
+Mill forsvarte også livsstilsfrihet, altså friheten til å velge yrke, partner, tro, hobbyer og klær. Mennesker er forskjellige og blir lykkelige på ulike måter. Når folk får leve ut sine særegenheter, utvikles individualiteten, og det gir energi og nytte for hele samfunnet. Mangfold gir et rikere liv for alle og fører til læring og framskritt.
+
+Mills begrunnelse for ytringsfrihet er interessebasert. Ytringsfrihet gir mer kunnskap, og mer kunnskap gir mer samlet velferd. Sensur skader kunnskapen uansett hva som sensureres. Hvis vi sensurerer sanne oppfatninger, hindres vi i å kvitte oss med usanne. Hvis vi sensurerer halvsannheter, hindres vi i å forbedre dem. Og hvis vi sensurerer usanne oppfatninger, mister vi muligheten til å rette dem opp og til å bli minnet om hvorfor de sanne oppfatningene er sanne.
+
+Gjennom kritikk finner vi ut om våre egne meninger holder, og vi får grunnlag for å vurdere myndighetenes valg. Selv usanne meninger skjerper evnene våre og gjør oss mer motstandsdyktige mot dårlige valg. Et viktig poeng hos Mill er at det at noen føler seg krenket, ikke er grunn nok til å straffe den som ytrer seg.
+
+Mill mente at alle ytringer som ikke fører til vold, bør tillates. Et klassisk eksempel på en ytring som kan begrenses, er å rope brann i en full teatersal. I norsk rett er det også forbudt med blant annet trusler, oppfordringer til straffbare handlinger, ytringer som truer landets sikkerhet, deling av bilder av andre uten samtykke, og hatefulle ytringer mot blant annet religion, hudfarge og seksuell orientering.
+
+John Stuart Mill og Harriet Taylor Mill brukte også nytteargumenter for kvinnefrigjøring. Kvinner bør ha politiske rettigheter, utdanning, yrkesliv og økonomisk uavhengighet, fordi de har samme interesse som menn i å utvikle seg, og fordi samfunnet tjener på det.
+
+Kort oppsummert: For Mill er frihet verdifull fordi den gir lykke og utvikling. Ytringsfrihet er viktig fordi den gir kunnskap, og bare ytringer som fører til vold, bør begrenses.
+
+# Interessebaserte og statusbaserte rettigheter
+
+I dette kapitlet ser vi på to ulike måter å begrunne rettigheter på, og på hva det betyr for ytringsfriheten.
+
+Interessebaserte teorier, som Mills, begrunner rettigheter ut fra hvilke fordeler de gir oss som enkeltpersoner og samfunn. Rettigheter blir da forstått instrumentelt, som midler til et mål.
+
+Statusbaserte teorier, som vi finner hos Kant, Wollstonecraft og Locke, begrunner rettigheter i den respekten vi har krav på bare fordi vi er mennesker. Rettighetene gjelder uavhengig av hvilke fordeler eller ulemper de gir. Disse teoriene kalles også naturrettslige.
+
+Ifølge naturrettsteorier har alle mennesker medfødte og umistelige rettigheter, som retten til liv, trygghet, eiendom og frihet fra undertrykkelse. John Locke mente at vi har rett til å bestemme over vår egen person og eiendom, så lenge vi ikke skader andres frihet. Myndighetenes oppgave er å beskytte denne retten. En slavekontrakt strider mot våre naturlige rettigheter, selv om den er frivillig.
+
+Et tankeeksperiment viser forskjellen. Kan politiet torturere en forbryter for å beskytte uskyldige? En utilitarist må i prinsippet veie nytte mot skade. En naturrettsteoretiker kan si at tortur er galt uansett, fordi det krenker en iboende rett.
+
+Et annet eksempel er slaveri. Er slaveri galt fordi det gir lidelse? Slaveriforsvareren George Fitzhugh hevdet at lønnsarbeidere hadde det verre enn slaver, fordi slavene ble forsørget av herren sin. Hvis slaveri bare er galt fordi det gir lidelse, blir det vanskelig å avvise et slikt argument prinsipielt. En statusbasert teori sier derimot at slaveri er galt uansett hvordan slaven har det.
+
+Siden naturlige rettigheter ikke kan begrunnes ut fra konsekvenser, må de begrunnes på en annen måte. En mulig vei går via Kant. Min frihet må kunne bestå sammen med alle andres tilsvarende frihet. Kant sa at det bare finnes én iboende rettighet, nemlig frihet, så langt den kan bestå sammen med alles frihet under en allmenn lov.
+
+Ytringsfrihet kan også begrunnes statusbasert. Frances Kamm mener at ytringsfrihet er et uttrykk for respekt for mennesker som tenkende vesener. Å nekte noen å ytre seg er å ikke respektere dem. Thomas Nagel mener at alle har krav på tankefrihet, altså på å kunne danne seg egne meninger. Det kan man bare gjøre ved å møte motstridende syn. Derfor er det respektløst å ville beskytte voksne mot intolerante fanatikere gjennom sensur. Nagels forsvar gjelder også hatytringer.
+
+Forskjellen fra Mill er altså at Mill forsvarer ytringsfrihet fordi den gir gode følger, mens Kamm og Nagel forsvarer den fordi den er en del av å respektere mennesker, uavhengig av følgene.
+
+Hva kan sies for og mot naturretter? For dem taler at mange har en sterk intuisjon om at vi har ubetingede plikter, for eksempel til ikke å drepe eller straffe vilkårlig. Mot dem taler at de mangler en overbevisende begrunnelse. Begrunnelsen blir ofte sirkulær, fordi personstatus gir rettigheter, og rettighetene begrunner personstatusen. Dessuten kan de brukes til motstridende konklusjoner. Noen mener at omfordeling trygger friheten, mens andre mener at omfordeling krenker eiendomsretten.
+
+Kort oppsummert: Interessebaserte teorier begrunner rettigheter i nytten de gir. Statusbaserte teorier begrunner dem i respekten mennesker har krav på, uavhengig av konsekvensene.
+
+# Frihet som ikke-dominans
+
+I dette kapitlet ser vi nærmere på Wollstonecrafts og Kants frihetsbegrep, og på hvorfor det fører til krav om demokrati og omfordeling.
+
+Mary Wollstonecraft mente at frihet er menneskets fødselsrett. Frihet er fravær av forhold som lar noen bruke vilkårlig makt over andre. Det er ikke nok at du kan handle uhindret. Du er bare fri hvis ingen er i posisjon til å hindre deg. Frihet er gjensidig uavhengighet.
+
+Det viktigste eksempelet er slaven. En slave er ufri, selv om hun i praksis får gjøre som hun vil, for eksempel fordi herren er snill eller borte. Ifølge Mills forståelse kan hun virke fri, fordi ingen blander seg inn. Men ifølge ikke-dominans er hun ufri, fordi herren når som helst kunne bestemme over henne.
+
+Medfødt frihet forutsetter gjensidighet. Alle borgere skal ha lik frihet. Dette er Kants tanke om at hver persons frihet må kunne bestå sammen med alles frihet.
+
+Frihet som ikke-dominans krever en demokratisk rettsstat. Borgerne må være beskyttet av loven mot vilkårlig makt, både fra hverandre og fra lederne. Og lederne må stilles til ansvar gjennom frie valg. Uten dette ville lederne hatt vilkårlig makt, og borgerne ville vært ufrie selv om lederne var snille.
+
+Frihet som ikke-dominans er også uforenlig med fattigdom. De fattige er avhengige av de rikes velvilje, og det gir de rike makt over dem. Derfor bør staten omfordele noe av velstanden for å hindre at folk havner i fattigdom.
+
+Her ser vi en viktig forskjell fra Mill. Wollstonecrafts og Kants frihetsbegrep gir argumenter for demokrati og økonomisk omfordeling. Mills begrep krever i utgangspunktet bare at staten holder seg unna.
+
+Kort oppsummert: Ikke-dominans betyr at ingen skal være underlagt andres vilkårlige makt. Det krever en demokratisk rettsstat og en stat som motvirker fattigdom.
+
+# Likestilling og feminisme
+
+I dette kapitlet ser vi på ulike begrunnelser for likestilling, og på to viktige skiller innenfor feministisk tenkning.
+
+Alle liberale teorier fremmer likestilling, men de begrunner den ulikt. Utilitaristene Mill og Taylor Mill begrunner den med nytte. Wollstonecraft begrunner den naturrettslig. Den naturgitte retten til frihet er lik for kvinner og menn, fordi den bygger på fornuften vi har felles.
+
+Wollstonecraft påpekte at like politiske rettigheter ikke er nok. Kvinner må også være økonomisk uavhengige. I det tradisjonelle ekteskapet var kvinnen økonomisk avhengig av mannen, og det er et herredømmeforhold. Da er hun ufri, selv om mannen er snill.
+
+Det første skillet er mellom likhetsfeminisme og forskjellsfeminisme. Likhetsfeminismen legger vekt på det som er likt mellom kjønnene, og mener at kvinner skal ha de samme rettighetene og mulighetene som menn. Forskjellsfeminismen mener at kjønnene er grunnleggende ulike, og at de særegne kvinnelige bidragene til samfunnet bør verdsettes høyere, både økonomisk og kulturelt. Institusjonene bør endres slik at kvinnelige verdier får større plass. Forskjellsfeminismen spør om et samfunn der alle har like rettigheter, nødvendigvis er likestilt.
+
+Wollstonecraft regnes ofte som likhetsfeminist, fordi hun bygger på den felles fornuften. Samtidig mente hun at kvinner har visse egne plikter, nemlig at det er kvinners borgerplikt å bli mødre og oppdra barn.
+
+Det andre skillet er mellom klassisk og egalitær liberalfeminisme. Klassisk liberalfeminisme, som Wollstonecraft står for, mener at staten ikke skal ha lover som forskjellsbehandler kvinner og menn. Et eksempel på en slik lov er en som gir mannen rett til å begrense konas yrkesdeltakelse. Utover dette skal staten i liten grad blande seg inn i hvordan folk lever.
+
+Egalitær liberalfeminisme, som Susan Moller Okin står for, mener at det ikke er nok. Skjevhetene mellom kjønnene skyldes ikke bare frie valg på et rettferdig marked, men også tradisjoner og institusjoner som gir menn makt. Derfor bør staten aktivt motvirke herredømmeforhold mellom kjønnene som kommer av tradisjonelle forestillinger om kjønn og arbeidsdeling. Okin ønsket seg et samfunn der kjønn ikke lenger avgjør hvilke roller man får.
+
+Kort oppsummert: Likhetsfeminismen vil gi kvinner de samme rettighetene som menn, mens forskjellsfeminismen vil verdsette særegne kvinnelige bidrag. Klassisk liberalfeminisme krever at staten slutter å forskjellsbehandle, mens egalitær liberalfeminisme krever at staten griper aktivt inn.
+
+# Taylor: politisk atomisme og forskjellspolitikk
+
+I dette kapitlet ser vi på Charles Taylors kritikk av liberalismen og hans forsvar for forskjellspolitikk.
+
+En sentral liberal tanke er at staten skal være verdinøytral. Den skal ikke blande seg inn i hvilke mål vi har eller hvordan vi lever, så lenge vi ikke krenker andres rettigheter. Hva som er et godt liv, er en privatsak. Dette passer godt for samfunn med mange kulturer og livssyn. Men er det galt at norske myndigheter tar verdivalg, for eksempel innen kultur, idrett, språk, medier og barnehager?
+
+Den dydsetiske tradisjonen fra Platon og Aristoteles har et annet ideal. Mennesket er av natur et politisk dyr, et samfunnsvesen. Et godt menneskeliv handler om å utvikle evner som fornuft, selvbestemmelse og moral, og det kan bare skje i et politisk fellesskap. Derfor har staten plikt til å legge til rette for dette, og borgerne har plikter overfor fellesskapet. Staten kan da ikke være nøytral om hva som er et godt liv.
+
+Taylor kritiserer det han kaller politisk atomisme. Atomismen forbindes særlig med John Locke, som kalles liberalismens far. Den består av en kjede av påstander. Først at det gode kan oppnås av individer alene. Deretter at vi bare lever i samfunn for å dekke egne behov mer effektivt. Så at staten er en kontrakt mellom individer som vil ivareta egne interesser. Videre at individuelle rettigheter derfor går foran alt annet. Og til slutt at vi ikke har plikter overfor fellesskapet, bare overfor andre enkeltpersoner.
+
+Taylor mener at den første påstanden er feil, og da faller resten. Mennesket er ingen øy. Identiteten vår, språket vårt, verdiene våre og evnen til å orientere oss moralsk er avhengige av fellesskap. For å kunne ta selvstendige valg må vi kjenne til andre måter å leve på. Det krever et samfunn med mangfold og offentlig diskusjon. Derfor gjør en stat som prøver å være verdinøytral, oss mindre frie, ikke mer.
+
+Ut fra dette forsvarer Taylor forskjellspolitikk. Det er forskjellsbehandling som har som mål å bevare en kultur. Det står i motsetning til likhetspolitikk, der staten behandler alle likt og er nøytral overfor kulturelle forskjeller. Taylor mener at kulturelle særtrekk som språk, dialekt, religion og levemåte er en viktig del av identiteten vår. Kulturelt mangfold er et gode for hele samfunnet, og staten har plikt til å sikre at minoritetskulturer overlever, så lenge det ikke bryter grunnleggende individuelle rettigheter.
+
+To norske eksempler er kravene om nynorsk i offentlig forvaltning og reindriftsloven, som skal legge til rette for en bærekraftig reindrift med basis i samisk kultur, tradisjon og sedvane. Om nynorsk har det blitt sagt at den aktive politikken også stiller krav til flertallet som bruker bokmål.
+
+Hvordan kan forskjellspolitikken problematiseres? For det første bryter den med prinsippet om at alle skal behandles likt. Flertallet må bære byrder for å bevare en kultur de ikke selv tilhører. For det andre kan man spørre hvem som skal avgjøre hvilke kulturer som skal bevares. En stat som tar slike valg, kan bli paternalistisk og gjøre det vanskeligere for enkeltpersoner å velge bort sin egen kultur. For det tredje kan det oppstå spenninger mellom vern av en kultur og individets rettigheter. Taylor tar forbehold om dette, men det er ikke opplagt hvor grensen går.
+
+Kort oppsummert: Taylor mener at mennesket er et samfunnsvesen, at en nøytral stat gjør oss mindre frie, og at staten bør bevare kulturer gjennom forskjellspolitikk.
+
+# Nussbaums kapabilitetstilnærming
+
+I dette kapitlet ser vi på Martha Nussbaums kapabilitetstilnærming og hva den betyr for statens plikter.
+
+Nussbaum er, sammen med Taylor, en dydsetisk tenker i vår tid. Ordet kapabilitet betyr å være i stand til noe. Kapabiliteter er de faktiske mulighetene et menneske har til å utøve typisk menneskelige funksjoner. Poenget er ikke hva vi har av ressurser, men hva vi faktisk er i stand til å gjøre.
+
+Ifølge Nussbaum innebærer et fullverdig menneskeliv å fungere godt i tråd med vår natur som fornuftige og politiske dyr. Utviklingen av dyder er sentral. Et godt liv er altså ikke det samme som å få oppfylt ønskene sine eller å være lykkelig.
+
+Her ligger Nussbaums problem med utilitarismen. Utilitarismen måler livskvalitet i lykke eller oppfylte preferanser. Nussbaum spør i stedet hva folk faktisk kan være og gjøre. En person kan si seg fornøyd og likevel mangle reelle muligheter, for eksempel til utdanning. Og to personer med like mye penger kan ha helt ulike muligheter hvis den ene har en funksjonsnedsettelse. Et mål på lykke eller ressurser fanger ikke opp dette.
+
+Nussbaum lister opp ti sentrale funksjoner. De er liv, fysisk helse, kroppslig integritet, sansning, fantasi og fornuft, følelser, praktisk fornuft, tilknytning til andre, forhold til andre arter, lek, og kontroll over egne omgivelser. De to første handler om å kunne leve et normalt langt liv med god helse. Det siste handler blant annet om politisk deltakelse og om å kunne forsørge seg selv.
+
+Hva betyr dette for staten? Statens oppgave er å legge til rette for at borgerne utvikler kapabiliteter. De sosiale og politiske rettighetene vi har, bunner i statens plikt til å sikre kapabilitetene våre. Dette er en positiv forståelse av frihet. Frihet er ikke bare fravær av hindre. For å være fri må man faktisk være i stand til å gjøre det man vil. Utdanning, helsetjenester og vern mot fattigdom blir dermed plikter for staten.
+
+Forelesningene reiser to spørsmål ved listen. Er den kulturbetinget, slik at den gjenspeiler bestemte kulturers syn på det gode liv? Og er den paternalistisk, slik at staten kommer til å bestemme hva som er godt for folk?
+
+Kort oppsummert: Nussbaum mener at livskvalitet handler om hva vi faktisk er i stand til å gjøre, og at staten har plikt til å sikre slike kapabiliteter.
+
+# Demokrati og ekspertstyre
+
+I dette kapitlet ser vi på spørsmålet om hvem som bør bestemme, og på argumenter for og mot demokrati og ekspertstyre.
+
+Hvorfor lar vi ikke ingeniører bestemme hvilke veier som skal bygges, eller fysikere bestemme hvordan vi skal produsere kraft? Dette er spørsmålet om demokrati og ekspertstyre.
+
+Det finnes flere former for demokrati. I direkte demokrati, som i antikkens Athen, deltar borgerne selv i beslutningene. I indirekte valgdemokrati velger borgerne representanter, og beslutningene summerer opp folks preferanser. Dette kalles også aggregativt demokrati. I diskusjonsdemokrati, eller deliberativt demokrati, er beslutninger bare legitime hvis de berørte har kunnet delta i en argumenterende diskusjon om saken. Viktige demokratiske rettigheter er stemmerett, ytringsfrihet og organisasjonsfrihet.
+
+Ekspertstyre kalles også teknokrati eller epistokrati. Det kan være et alternativ til demokrati, for eksempel ved at bare borgere med et visst kunnskapsnivå får stemme, ved at stemmer vektes, eller ved at eksperter får vetorett. Men ekspertstyre finnes også innenfor demokratiet, for eksempel i domstolene, i direktoratene og i en uavhengig sentralbank.
+
+Jason Brennan har to argumenter mot valgdemokrati. Det første er epistemisk, altså knyttet til kunnskap. Han mener at vi blir dårligere til å vurdere fornuftig jo mer engasjerte vi er, og at de som er minst i stand til å ta gode beslutninger, er de som oftest stemmer. Derfor bør alle ta en kunnskapstest, og resultatet bør påvirke hvor mye stemmen teller.
+
+Det andre argumentet er prinsipielt. Å stemme er å utøve makt over medborgerne, slik en jury utøver makt over en tiltalt. Det ville vært urett å bli dømt av en uvitende og urimelig jury. Derfor er det også urett å la uvitende og urimelige velgere bestemme over andre.
+
+Jørgen Randers mener at valgdemokratiet ikke har klart å håndtere store globale problemer som klima- og naturkrisen. Derfor bør demokratiet begrenses i slike saker og suppleres eller erstattes av ekspertstyre.
+
+Mot ekspertstyre finnes det to typer innvendinger. Den første typen er epistemisk. Gir ekspertstyre faktisk bedre politikk? Hvem skal avgjøre hvem som er eksperter, når det ikke finnes noen etablert standard? Og eksperter kan ha for stor selvtillit og egne tankefeil. Den andre typen er demokratisk. For mye makt til eksperter bryter med idealet om politisk likhet og selvbestemmelse. Mange vil føle seg fremmedgjort. Og ekspertstyre kan føre til avpolitisering, der vi glemmer at mange politiske spørsmål handler om verdier, ikke bare fakta.
+
+Demokratiet kan begrunnes på to måter. Den ene er at demokratiet har verdi i seg selv. Statens makt er bare legitim hvis den kommer fra folket. Ingen er født til å herske over andre. Og demokratiet henger sammen med frihet som ikke-dominans, fordi den som ikke har del i makten, er underlagt andres vilkårlige vilje.
+
+Den andre måten er instrumentell. Demokratiet gir politisk stabilitet, og det gir bedre beslutninger. Dette er Hélène Landemores epistemiske begrunnelse. Hun viser til Condorcets juryteorem. Det sier at hvis hver person i en gruppe har mer enn femti prosent sjanse for å ha rett, øker sjansen for at flertallet har rett jo større gruppen er. En stor gruppe kan derfor gjøre det bedre enn en liten ekspertgruppe, selv om hver ekspert er flinkere enn hver vanlig velger. I tillegg gir en åpen diskusjon med mange deltakere flere gode argumenter. Landemore viser også til vellykkede forsøk, blant annet et fransk borgerkonvent i totusen og nitten.
+
+Kort oppsummert: Brennan og Randers mener valgdemokratiet bør begrenses. Mot ekspertstyre står både kunnskapsbaserte og demokratiske innvendinger. Demokratiet kan forsvares både fordi det har verdi i seg selv, og fordi det gir gode beslutninger.
+
+# Oppsummering
+
+I dette siste kapitlet samler vi trådene fra leksjonen.
+
+Politisk filosofi handler om rettmessig bruk av politisk makt. Ikke alt som er umoralsk, bør være forbudt, og lover kan både begrense og øke friheten vår.
+
+Negativ frihet er frihet fra noe, enten fra innblanding eller fra dominans. Positiv frihet er de konkrete mulighetene til å styre sitt eget liv.
+
+Mills skadeprinsipp sier at makt mot kompetente og velinformerte voksne bare er tillatt for å hindre skade på andre. Det er forenlig med myk, men ikke med hard paternalisme. Mill forsvarer ytringsfrihet fordi den gir kunnskap og velferd.
+
+Interessebaserte teorier begrunner rettigheter i nytten de gir. Statusbaserte teorier begrunner dem i respekten mennesker har krav på. Kamm og Nagel forsvarer ytringsfrihet på denne måten.
+
+Wollstonecraft og Kant ser frihet som ikke-dominans. Det krever en demokratisk rettsstat og omfordeling som hindrer fattigdom.
+
+Likhetsfeminismen vil gi kvinner like rettigheter, mens forskjellsfeminismen vil verdsette særegne kvinnelige bidrag. Klassisk liberalfeminisme krever at staten ikke forskjellsbehandler, mens egalitær liberalfeminisme krever at staten griper aktivt inn.
+
+Taylor kritiserer politisk atomisme og forsvarer forskjellspolitikk. Nussbaum mener staten skal sikre borgernes kapabiliteter.
+
+Til slutt har vi sett at valgdemokratiet kritiseres av Brennan og Randers, at ekspertstyre møter både kunnskapsbaserte og demokratiske innvendinger, og at demokratiet kan forsvares både prinsipielt og instrumentelt.
+
+Takk for at du lyttet til leksjon ti, og lykke til med eksamen.

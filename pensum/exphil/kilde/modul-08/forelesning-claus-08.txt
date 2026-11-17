@@ -1,0 +1,302 @@
+--- side 1 ---
+Forelesning 8 EXPH0300
+Etikk I
+v/ Claus Halberg
+Førsteamanuensis
+Institutt for filosofi og religionsvitenskap
+claus.halberg@ntnu.no
+
+--- side 2 ---
+Plan for forelesningen
+• Avsluttende om menneskesyn: fri vilje og determinisme
+• Introduksjon til (normativ) etikk
+• Utilitarismen
+• Nytteprinsippet
+• Utilitarisme og fordeling av goder
+• Utilitarisme og (dyrs) moralske status
+• Noen innvendinger mot utilitarismen
+• (Hvis tid): Introduksjon til pliktetikken
+
+--- side 3 ---
+Problemet om fri vilje og determinisme
+• Når vi gir noen ros eller ris, belønning eller straff osv. for deres handlinger, synes vi å forutsette at de har moralsk
+ansvar for disse handlingene.
+• Å ha moralsk ansvar for en handling synes å forutsette at handlingen ble begått av fri vilje.
+• Men hva, nærmere bestemt, skal vi forstå med «fri vilje»?
+• Er fri vilje mulig i et deterministisk univers, der enhver hendelse er helt bestemt av forutgående årsaker, slik vi har grunn til å tro at vårt univers er for alle praktiske formål?
+• Hvis ikke, hva da?
+
+--- side 4 ---
+Libertarianisme og hard determinisme
+• Felles forståelse av fri vilje:
+Vi har handlet fritt hvis og bare hvis vi kunne ha handlet
+annerledes enn vi gjorde, når alt annet holdes likt.
+➢Uforenlig med universell determinisme, altså at enhver
+hendelse er helt forutbestemt av tidligere hendelser.
+• Libertarianisme: vi handler fritt i alle fall noen
+ganger, altså er universell determinisme ikke riktig.
+• Hard determinisme: universell determinisme er
+riktig, altså handler vi aldri fritt.
+
+--- side 5 ---
+Kompatibilisme
+• Å handle fritt er å uhindret få gjøre slik en ønsker,
+ev. å uhindret få gjøre slik en ønsker at en ønsker,
+ev. å ha et visst nivå av selvkontroll.
+• Mulighet til uhindret å få gjøre slik en ønsker, eller
+å ha selvkontroll, er forenlig (kompatibelt) med
+universell determinisme.
+• Altså er det mulig å handle fritt og ha moralsk
+ansvar selv om universell determinisme er riktig.
+
+--- side 6 ---
+Introduksjon
+til etikk
+
+--- side 7 ---
+Etikkens mange disipliner
+Metaetikk
+- Etiske grunnlagsproblemer, slik som: Finnes det objektivt riktige vs. gale svar på moralske spørsmål?
+Normativ etikk
+- Generelle prinsipper for riktig vs. gal handling, god vs. dårlig personlig karakter, godt vs. dårlig liv
+Anvendt etikk
+- Spørsmål om riktig vs. gal handling på bestemte områder (f.eks. innen medisin & helse, forskning...)
+
+--- side 8 ---
+To hovedtyper teorier innen normativ etikk
+• Handlingsorienterte teorier: teorier som
+forsøker å gi generelle svar på hva det er som
+gjør visse handlinger moralsk riktige eller gale.
+➢Utilitarisme
+➢Pliktetikk
+• Aktør/person-orienterte teorier: teorier som
+forsøker å gi generelle svar på hva det er som
+kjennetegner en moralsk god person.
+➢Dydsetikk
+
+--- side 9 ---
+Omfatter en særskilt type hensyn å ta ved beslutning
+om/evaluering av en gitt handle- eller levemåte, f.eks.:
+Moral
+✓Andre menneskers (eller andre dyrs) velferd
+✓Andre menneskers (eller andre dyrs) verdighet
+✓Egen integritet («kan jeg være bekjent av dette?»)
+✓Beslutningsprosedyrens upartiskhet
+✓Relasjonelle bånd (familie, venner, kolleger...)
+➢Kan i noen situasjoner være i konflikt med andre typer
+hensyn (jfr. egen vinning, lydighet mot Gud, etc.)...
+...eller med hverandre (jfr. upartiskhet vs. lojalitet)
+
+--- side 10 ---
+
+
+--- side 11 ---
+Jeremy Bentham (1748-1832) Utilitarisme
+John Stuart Mill (1806-1873) Peter Singer (f. 1946)
+
+--- side 12 ---
+Den klassiske utilitarismens
+nytteprinsipp, i et nøtteskall
+Vi bør alltid velge den handlingen som,
+sammenlignet med alternativene, gir den
+største totalsummen av gode konsekvenser.
+
+--- side 13 ---
+Den klassiske utilitarismens
+nytteprinsipp, presisert
+Vi bør gjøre det som, sammenlignet med
+alternativene, resulterer i den største
+nettosummen av lykke, når alle berørte parters
+lykke tas i betraktning på like fot.
+✓Konsekvensialisme
+✓Hedonisme
+✓Universalisme
+✓Egalitarianisme
+Jeremy Bentham
+(1748-1832)
+
+--- side 14 ---
+Å beregne hvordan en gitt handling vil slå ut på netto lykke
+• Parametere i Benthams nyttekalkyle
+• Nytelsens/smertens omfang (dvs., antall berørte
+parter)
+• Nytelsens/smertens intensitet
+• Nytelsens/smertens varighet
+• Nytelsens/smertens sannsynlighet
+Jeremy Bentham
+(1748-1832)
+
+--- side 15 ---
+Varianter av hedonisme innen
+utilitarismen
+«Hvis vi legger fordommene til side, har gleden over et enkelt spill akkurat den samme verdien som gleden vi kan få av
+vitenskap, musikk og poesi».
+(Bentham, sitert i Tenk!, s. 236)
+Jeremy Bentham
+(1748-1832)
+«Det er helt i overensstemmelse med nytteprinsippet å
+anerkjenne det faktum at enkelte former for glede er mer ønskverdige enn andre. (...) Det er bedre å være et utilfredsstilt menneske enn en tilfredsstilt gris, bedre å være en utilfredsstilt Sokrates enn en tilfredsstilt tåpe. Hvis tåpen eller
+grisen skulle være av en annen mening, skyldes det at de kun
+kan se saken fra sin egen side, mens den annen part i
+sammenligningen kan se saken fra begge sider».
+(Mill, «Utilitarisme», s. 42-44).
+➢M.a.o., det kan og bør (ifølge Mill) skilles mellom kvalitativt
+høyere og lavere former for nytelse ved beregning av en handlings utslag på lykkebalansen. John Stuart Mill
+(1806-1873)
+
+--- side 16 ---
+Utilitarisme angående
+usikre konsekvenser
+• Forventet nytte
+Den mulige nytten av en handling/tiltak
+ganget med sannsynligheten for at nytten
+vil resultere fra handlingen/tiltaket.
+M.a.o.: En konsekvens med lav eller
+usikker sannsynlighet kan veie tungt i
+nyttekalkylen dersom den har tilstrekkelig
+høy positiv eller negativ potensiell
+nytteverdi.
+
+--- side 17 ---
+Utilitarisme om fordeling av goder
+Hensyn til avtakende grensenytte
+Jo mer man allerede har av et gode,
+jo mindre ekstra glede vil man få av
+en ekstra enhet av det samme godet.
+vs.
+Hensyn til insentiver
+Jo mindre fordel hver enkelt har av å
+gjøre en ekstra innsats for å
+produsere et gode, jo mindre vil det
+totalt sett bli av dette godet.
+
+--- side 18 ---
+Begrepet om moralsk status
+Å ha moralsk status = å være noe eller
+noen som vi kan ha moralske forpliktelser
+overfor, for dets/deres egen skyld.
+Noen omstridte tilfeller:
+• Fostre
+• Personer i permanent vegetativ tilstand
+• Mennesker langt unna eller i en fjern framtid
+• Ikke-menneskelige dyr
+• Arter og økosystemer
+• Chatbots og andre kunstig intelligente maskiner
+
+--- side 19 ---
+Utilitarisme om dyrs moralske status
+- Det avgjørende for å tilkjennes moralsk
+status er evnen til glede og lidelse
+➢Jfr. Bentham: «Spørsmålet er ikke, ‘Kan de
+tenke?’ eller ‘Kan de snakke?’, men: ‘Kan
+de lide?’»
+- Dyr har evne til glede og lidelse.
+- Ergo har dyr moralsk status.
+Peter Singer
+(f. 1946)
+Å tilkjenne en nytelse eller smerte større
+betydning når den forekommer hos et
+menneske enn når den forekommer hos et
+ikke-menneskelig dyr er artssjåvinisme, som
+er moralsk på linje med rasisme (jfr. Singer).
+
+--- side 20 ---
+Noen innvendinger mot utilitarismen
+✓Utilitarismen anerkjenner ikke noe skille mellom det vi er
+forpliktet til og det vi kan roses for å gjøre men ikke
+klandres for å unnlate, noe som gjør at den krever for mye.
+✓Utilitarismen forklarer ikke på en tilfredsstillende måte
+enkeltpersoners moralske medansvar for konsekvenser
+avfødt av kollektive handlingsmønstre.
+✓Utilitarismens krav om nyttemaksimering resulterer i
+noen tilfeller i krenkelse av enkeltindividers rettigheter.
+
+--- side 21 ---
+Pliktetikk (deontologi)
+Immanuel Kant (1724-1804) Onora O’Neil (f. 1941) Christine M. Korsgaard
+(f. 1952)
+
+--- side 22 ---
+Pliktetikken i et nøtteskall
+✓Handlingsorientert teori
+Det overordnede spørsmålet er: hva er det som gjør
+en handling moralsk riktig eller gal?
+➢likhet med utilitarismen
+✓Ikke-konsekvensialistisk teori
+Det er ikke alltid det å gjøre godt (dvs., det som gir det
+beste utfallet, totalt sett) vil være det moralsk riktige.
+➢forskjell fra utilitarismen
+
+--- side 23 ---
+To sentrale prinsipper i kantiansk pliktetikk
+Universalitetsprinsippet
+Humanitetsprinsippet
+➢Egentlig to forskjellige formuleringer av ett og
+samme overordnede prinsipp, skiftvis kalt det
+kategoriske imperativet eller moralloven
+Immanuel Kant (1724-1804)
+
+--- side 24 ---
+Universalitetsprinsippet
+«Handle bare efter den maksime [dvs.
+handlingsregel] gjennom hvilken du samtidig
+kan ville at den skal bli en allmenn lov».
+Kant, «Grunnlegging av moralens metafysikk», s. 421/40.
+Immanuel Kant (1724-1804)
+
+--- side 25 ---
+Universalitetsprinsippet
+og den gylne regel
+Universalitetsprinsippet:
+Handle bare slik at du kan ville at
+regelen for handlingen din samtidig
+også skal gjelde for alle andre.
+Den gylne regel:
+Gjør slik mot andre som du vil at
+andre skal gjøre mot deg.
+Er dette to varianter av det samme
+prinsippet (bare med ulike
+formuleringer), eller er det to
+forskjellige prinsipper?
+
+--- side 26 ---
+Universalitetsprinsippet, anvendt på
+handlingsregelen Det er OK å lyve
+Å lyve er bare mulig i en verden der folk forventer at
+det som hovedregel snakkes sant, dvs. i en verden
+der det er regelen Du skal ikke lyve som gjelder.
+Altså er det ikke mulig å ville at regelen Det er OK å
+lyve skal bli en universell lov, fordi:
+- Det forutsetter at det samtidig skal være både
+tillatt og ikke tillatt å lyve  selvmotsigelse
+- Det er ikke mulig å ville (enn si tro på) en
+selvmotsigelse.
+
+--- side 27 ---
+Hvordan kunne man brukt
+universalitetsprinsippet til å
+begrunne at man ikke bør
+være en «speaker scum»*?
+* = person som spiller av lyd fra
+facetime, tiktok-scrolling, video
+etc. gjennom høyttaler i andres
+påhør på buss, tog, fly etc.
+
+--- side 28 ---
+«Morderen på døren»:
+Et problematisk tilfelle for universalitetsprinsippet
+• En uskyldig person på flukt fra en
+morder har søkt tilflukt i leiligheten din.
+Morderen ringer på døren din og spør
+deg om hvor personen befinner seg.
+• Tilsier universalitetsprinsippet at du i
+denne situasjonen plikter å fortelle
+morderen sannheten?
+
+--- side 29 ---
+Neste gang:
+- Etikk II: fortsettelse, pliktetikk;
+dydsetikk
+➢ Les:
+- Antonsen et al., Tenk!, kap. 17-18
+

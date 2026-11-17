@@ -1,4 +1,4 @@
-import type { LibraryItem, StudySet, Subject } from "./types";
+import type { DocumentMeta, Subject } from "./types";
 
 export type PracticeEvent = {
   subjectKey: string;
@@ -39,7 +39,7 @@ export type TopicStat = {
 };
 
 export type DocumentStat = {
-  document: LibraryItem;
+  document: DocumentMeta;
   topics: TopicStat[];
   answers: number;
   current: number | null;
@@ -52,6 +52,8 @@ export type SubjectStat = {
   current: number | null;
   /** Share right per week, oldest first, for the last weeks */
   weeks: { start: number; share: number | null; answers: number }[];
+  /** Correct answers per day, oldest first, for the last two weeks */
+  days: { start: number; correct: number; answers: number }[];
   confident: number;
   topicCount: number;
 };
@@ -81,6 +83,24 @@ function topicStat(
   };
 }
 
+/** Answers per calendar day; an answer counts as correct from a score of one half */
+function daily(events: PracticeEvent[], now: number, days = 14) {
+  const today = new Date(now);
+  today.setHours(0, 0, 0, 0);
+  return Array.from({ length: days }, (_, i) => {
+    const start = new Date(today);
+    start.setDate(today.getDate() - (days - 1 - i));
+    const end = new Date(start);
+    end.setDate(start.getDate() + 1);
+    const inDay = events.filter((e) => e.at >= start.getTime() && e.at < end.getTime());
+    return {
+      start: start.getTime(),
+      correct: inDay.filter((e) => e.score >= 0.5).length,
+      answers: inDay.length,
+    };
+  });
+}
+
 function weekly(events: PracticeEvent[], now: number, weeks = 8) {
   const start = now - weeks * 7 * DAY;
   return Array.from({ length: weeks }, (_, i) => {
@@ -93,8 +113,7 @@ function weekly(events: PracticeEvent[], now: number, weeks = 8) {
 /** Everything the progress page shows, per subject, document and topic */
 export function buildStats(
   subjects: Subject[],
-  documents: LibraryItem[],
-  studySets: Record<string, StudySet>,
+  documents: DocumentMeta[],
   events: PracticeEvent[],
   confidence: Confidence[],
   now: number,
@@ -109,16 +128,11 @@ export function buildStats(
   return subjects
     .map((subject) => {
       const docs = documents
-        .filter((d) => d.subjectId === subject.id && studySets[d.id])
+        .filter((d) => d.subjectId === subject.id && d.topics?.length)
         .sort((a, b) => a.title.localeCompare(b.title, "nb", { numeric: true }))
         .map((document) => {
-          const set = studySets[document.id];
-          const counts = new Map<string, number>();
-          for (const item of [...set.flashcards, ...set.quiz, ...set.recall]) {
-            const t = item.section.trim() || "Uten tema";
-            counts.set(t, (counts.get(t) ?? 0) + 1);
-          }
-          const topics = [...counts].map(([topic, items]) => {
+          // Topics and their question counts come with the document list
+          const topics = (document.topics ?? []).map(({ topic, items }) => {
             const key = `${document.id}\u0000${topic}`;
             return topicStat(topic, items, eventsOf.get(key) ?? [], confidenceOf.get(key) ?? null);
           });
@@ -138,6 +152,7 @@ export function buildStats(
         answers: subjectEvents.length,
         current: mean(subjectEvents.slice(0, RECENT * 5).map((e) => e.score)),
         weeks: weekly(subjectEvents, now),
+        days: daily(subjectEvents, now),
         confident: topics.filter((t) => t.confidence === 3).length,
         topicCount: topics.length,
       };

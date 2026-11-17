@@ -1,11 +1,12 @@
 import { api } from "../../convex/_generated/api";
 import { convex } from "./convex";
-import type { LibraryItem, StudySet, Subject } from "./types";
+import type { DocumentMeta, LibraryItem, StudySet, Subject } from "./types";
 
 /**
  * Content (subjects, documents, study sets, audiobooks) lives in Convex. Anyone
  * can read it; only the admin can change it, and Convex checks that on every write.
- * Reads are served from an in-memory copy loaded once per page load.
+ * Reads are served from an in-memory copy: a light list of documents loaded once
+ * per page load, and the text and study set of a document when it is opened.
  *
  * Progress (card reviews, recall scores, listening positions) follows the
  * signed-in Google account. Signed out, it stays in this browser's localStorage
@@ -18,11 +19,14 @@ export type ProgressMode = "account" | "browser";
 
 type Content = {
   subjects: Subject[];
-  documents: LibraryItem[];
+  documents: DocumentMeta[];
+  /** Study sets of the documents opened so far */
   studySets: Record<string, StudySet>;
+  /** Documents opened so far, with their text */
+  details: Record<string, LibraryItem>;
 };
 
-export const content: Content = { subjects: [], documents: [], studySets: {} };
+export const content: Content = { subjects: [], documents: [], studySets: {}, details: {} };
 
 let contentLoading: Promise<void> | null = null;
 
@@ -42,10 +46,44 @@ async function fetchContent(): Promise<void> {
   if (!convex) throw new Error("Convex er ikke satt opp");
   const loaded = await convex.query(api.content.load, {});
   content.subjects = loaded.subjects;
-  content.documents = loaded.documents as LibraryItem[];
-  content.studySets = Object.fromEntries(
-    (loaded.studySets as StudySet[]).map((s) => [s.documentId, s]),
-  );
+  // Audiobook timings come with the document when it is opened
+  content.documents = loaded.documents.map((d) => ({
+    ...d,
+    audiobook: d.audiobook ? { ...d.audiobook, chunks: [] } : undefined,
+  })) as DocumentMeta[];
+  // Text loaded earlier may be out of date, e.g. after publishing an audiobook
+  content.details = {};
+}
+
+const detailLoading = new Map<string, Promise<LibraryItem | null>>();
+
+/** The document with its text and study set, fetched the first time it is opened */
+export function loadDocument(id: string): Promise<LibraryItem | null> {
+  const cached = content.details[id];
+  if (cached) return Promise.resolve(cached);
+  let pending = detailLoading.get(id);
+  if (!pending) {
+    pending = fetchDocument(id).finally(() => detailLoading.delete(id));
+    detailLoading.set(id, pending);
+  }
+  return pending;
+}
+
+async function fetchDocument(id: string): Promise<LibraryItem | null> {
+  if (!convex) throw new Error("Convex er ikke satt opp");
+  const meta = content.documents.find((d) => d.id === id);
+  const detail = await convex.query(api.content.documentDetail, { key: id });
+  if (!meta || !detail) return null;
+  const item: LibraryItem = {
+    ...meta,
+    document: detail.document,
+    reading: detail.reading ?? undefined,
+    script: detail.script ?? undefined,
+    audiobook: meta.audiobook ? { ...meta.audiobook, chunks: detail.audioChunks ?? [] } : undefined,
+  };
+  content.details[id] = item;
+  if (detail.studySet) content.studySets[id] = detail.studySet as StudySet;
+  return item;
 }
 
 // Writes are sent in the background; failures are reported to listeners

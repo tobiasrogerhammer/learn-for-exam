@@ -1,0 +1,208 @@
+--- side 1 ---
+Vitenskap, teknologi og
+samfunn II
+
+--- side 2 ---
+Dagens plan
+• Fortsettelse teknologisyn
+• Teknologiens verdiladethet
+• Teknologioptimisme og teknologipessismisme
+• Sosiotekniske nettverk
+• Bør vi frykte teknologisk utvikling? Bør vi bremse den?
+• Hvem bør styre forskningen?
+• Den lineære modellen
+• Hvilket ansvar har teknologiarbeidere og teknologibedrifter?
+
+--- side 3 ---
+Fra forrige gang: Teknologisk instrumentalisme
+og teknologisk determinisme
+• Teknologisk instrumentalisme
+Vi identifiserer et
+problem
+Vi finner en teknologisk løsning
+som vi kan velge om vi vil ta i
+bruk.
+• Teknologisk determinisme
+Vi har en teknologi Teknologien endrer
+livsbetingelsene våre.
+Vi tvinges til å endre atferd for
+å tilpasse oss.
+
+--- side 4 ---
+Er teknologien verdiladet
+eller verdinøytral?
+
+--- side 5 ---
+Teknologisk determinisme
+
+teknologipessimisme
+Selv om det er teknologien som styrer
+samfunnsutviklingen, kan den godt
+styre oss i retning av effektivisering, og
+på sikt bedre levekår.
+
+--- side 6 ---
+Sosiotekniske nettverk
+Nettverket som oppstår mellom forskjellige økonomiske og sosiale aktører rundt en tjeneste.
+
+--- side 7 ---
+Sosiotekniske
+nettverk og
+determinisme
+• Sosiotekniske nettverk reduserer muligheten
+vår til å velge om man vil ta i bruk en bestemt
+teknologi.
+• Problemet som teknologien løser, kan
+være skapt av det sosiotekniske
+nettverket.
+• En teknologi som ikke er integrert i et
+nettverk, er vanskelig å bruke.
+
+--- side 8 ---
+Sosiotekniske nettverk kan gjøre
+politisk styring tungrodd og vanskelig
+• Eks. 1: Overgang til DAB-radio
+Hvorfor ble en enkel oppdatering av teknologi så
+konfliktfylt?
+• Eks. 2: Styring av trafikk fra privatbil til
+kollektivtransport
+Vanskeliggjøres av bomønster, arbeidsplasser,
+kjøpesentre, veier, skoler, fritidstilbud, offentlige
+tjenester osv.
+
+--- side 9 ---
+Et dystert syn på teknologi: The
+vulnerable world hypothesis
+• Hvor stor er sannsynligheten for at vi på et tidspunkt
+«trekker en teknologi opp av kunnskapens urne»
+som med sikkerhet vil bety sivilisasjonens
+undergang?
+• Nærliggende kandidater:
+• billige masseødeleggelsesvåpen
+• våpen som fungerer slik at det lønner seg å slå
+til først
+• feilberegninger med katastrofale konsekvenser
+(kunstig intelligens?)
+• Teknologi med bieffekter vi oppdager for sent.
+
+--- side 10 ---
+Hvor alvorlig bør vi ta truslene fra teknologi?
+
+--- side 11 ---
+Hvor autonome bør forskere
+være?
+
+--- side 12 ---
+Hvem bør styre
+forskningen?
+• Bør politikere bestemme hvilken forskning
+universitetene skal satse på?
+• Bør samfunnsnytte være styrende for forskningen?
+
+--- side 13 ---
+Den lineære modellen for
+forholdet mellom forskning og
+innovasjon
+• Vitenskapelig fremskritt fører til sosialt
+fremskritt. Fri forskning en nødvendig
+forutsetning for sosiale gevinster.
+• Kan brukes som et argument for å gi
+forskere gode betingelser og stor frihet
+
+--- side 14 ---
+Noen antakelser i den lineære
+modellen
+• Den «usynlige hånden»: Fri forskning gagner alle i samfunnet, akkurat som
+markedsliberalistiske prinsipper gjør det.
+• Vitenskap er i seg selv «verdifri». Forskere er ikke ansvarlige for misbruk av
+ideene deres.
+
+--- side 15 ---
+Mulige
+innvendinger
+mot den
+lineære
+modellen
+• Friest mulig grunnforskning fører ikke
+nødvendigvis til innovasjon
+• Ikke all teknologisk innovasjon er ønskelig
+• Det er ikke åpenbart at all grunnforskning er er
+en god investering.
+• Det kan være legitimt at myndighetene styrer
+retningen av forskning og innovasjon.
+• Forskning bør kunne forsvares ut fra andre
+verdier enn at den fører til innovasjon.
+
+--- side 16 ---
+Sammenheng mellom CUDOS-normene og
+den lineære modellen
+• Begge bygger på tanken om vitenskapen som autonom og
+verdifri.
+• Desinteresserthet og universalisme: Sannhet, og ikke politiske hensyn,
+skal være styrende for hvordan vi vurderer forskning.
+• Organisert skeptisisme: Det er forskerfellesskapet selv som setter
+standarden for god forskning.
+
+--- side 17 ---
+Hvilket ansvar har
+teknologiarbeidere og
+teknologibedrifter?
+
+--- side 18 ---
+Har private bedrifter et selvstendig
+moralsk ansvar (ut over å følge
+loven)?
+• Milton Friedman: “The business of business
+is business.” – Det eneste ansvaret en bedrift
+har er å maksimere profitten for sine
+investorer.
+• Eks: Du jobber med et stort prosjekt der din
+oppgave er å levere en løsning som
+minimaliserer de miljømessige
+konsekvensene. Sjefen din pålegger deg å
+endre løsningen slik at den blir billigere. Det
+gir en vesentlig dårligere løsning for miljøet,
+men gir en bedre inntjening i prosjektet.
+Hvilket moralsk ansvar har du og bedriften?
+
+--- side 19 ---
+Profesjonsidealer/dyder
+for teknologiarbeidere
+• Teknologisk entusiasme
+• Kjennetegnet av et mål om å utvikle og ta i bruk nye
+muligheter, og takle teknologiske utfordringer.
+• Effektivitet
+• I hvilken grad nås et mål?
+• Hvor stor er effekten i forhold til innsatsen?
+• Velferd
+• I hvilken grad bidrar teknologien til det gode for
+menneskeheten?
+
+--- side 20 ---
+Tre modeller
+for ingeniørers
+ansvar
+• Separatisme: Ingeniøren står for de tekniske løsningene,
+lovgivere og bedriftsledere legger de normative føringene.
+• Ingeniører er bare ansvarlige for utformingen av
+produkter.
+• Ulempe: Ingeniører er ofte i best posisjon til å se
+teknologiske utfordringer.
+• Teknokrati: Ingeniører tar politiske beslutninger. (Om for
+eksempel infrastuktur, samferdsel, offentlige bygg osv.)
+• Fordel: Ingeniører er ofte i best posisjon til å se
+teknologiske utfordringer.
+• Ulempe: Udemokratisk
+• Ulempe: Manglende kompetanse på noen
+områder
+• Ulempe: Paternalistisk
+• Varsling: Arbeidsfordeling, men med ansvar for å varsle om
+kritikkverdige forhold.
+
+--- side 21 ---
+Når det går galt, har
+varsler ofte blitt ignorert
+Før Challenger-ulykken i 1986 ble det varslet
+om svakhetene, men ytre forventninger og
+ønske om å følge tidsplanen trumfet risikoen.
+

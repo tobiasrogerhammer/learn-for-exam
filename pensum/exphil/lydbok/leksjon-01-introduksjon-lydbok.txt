@@ -1,0 +1,139 @@
+# Leksjon 1: Introduksjon til ex phil
+
+Velkommen til den første leksjonen i ex phil. Her får du en oversikt over hvordan emnet er bygget opp, hva ex phil skal gi deg, og hva kritisk tenkning er. Du får også høre om de sju temaene i emnet, og om hvorfor vi trenger argumentasjonsteori for å tenke klart.
+
+# Hvordan emnet er bygget opp
+
+I dette kapitlet ser vi på hvordan emnet henger sammen, og hvordan du best kan jobbe med det.
+
+Emnet er ex phil for naturvitenskap og teknologi ved NTNU. Det består av forelesninger, seminarer i faste smågrupper og en skriftlig skoleeksamen.
+
+Pensum har to deler. Fellespensum er læreboka Tenk, en lærebok til ex phil, som er felles for alle variantene av ex phil ved NTNU. I tillegg kommer et variantpensum med artikler og bokutdrag som bare gjelder denne varianten.
+
+Undervisningen er delt inn i moduler. Hver modul tar for seg ett tema og hører til et seminar. Forelesningene går gjennom hovedpoengene i pensum, og de er ment som støtte til din egen lesing. På seminarene jobber du med studiespørsmål, skriving, kommentarer og caser. En case er et konkret eksempel der du bruker filosofisk teori på et aktuelt spørsmål.
+
+De fleste modulene har tre typer øvingsstoff. Studiespørsmålene dekker alt du trenger å kunne fra pensum. Kan du svare godt på dem, er du godt forberedt til kortsvarsdelen av eksamen. Kortsvarsoppgavene har samme format som den delen av eksamen. Caseoppgavene er lengre, og langsvarsoppgaven på eksamen kan løses med det samme stoffet og den samme fremgangsmåten.
+
+Eksamen er en skoleeksamen på fire timer. Kortsvarsdelen har fire spørsmål fra ulike deler av pensum. Langsvarsdelen er en caseoppgave, og den teller to tredjedeler av karakteren. Kortsvarsoppgavene tester først og fremst om du forstår begreper og teorier. De tester i liten grad navn og årstall. Derfor lønner det seg å bruke tid på å forstå begrepene og kunne bruke dem.
+
+Foreleserne gir omtrent de samme rådene. Les pensum før seminarene. Følg forelesningene. Bruk studiespørsmålene til å teste deg selv. Og møt forberedt på seminarene.
+
+Kort oppsummert: Studiespørsmålene forbereder deg til kortsvarsdelen, og caseoppgavene forbereder deg til langsvarsdelen.
+
+# Hva er poenget med ex phil?
+
+I dette kapitlet ser vi på hvorfor nesten alle studenter må ta ex phil, og hva emnet skal gi.
+
+Læreboka beskriver tre overordnede formål.
+
+Det første formålet er å øve opp ferdigheter i kritisk tenkning. Det handler om å tenke klart, rasjonelt og selvstendig, slik at man kommer frem til en begrunnet beslutning om hva man bør tro eller gjøre. En viktig del av dette er å kunne skille gode argumenter fra dårlige.
+
+Det andre formålet er å gi en innføring i den vitenskapelige tenkemåten. Hvordan gir vitenskapen oss kunnskap? Og hva skiller ekte vitenskap fra pseudovitenskap?
+
+Det tredje formålet er å invitere til refleksjon over grunnleggende spørsmål om tilværelsen, eller om hvordan virkeligheten er skrudd sammen.
+
+Foreleserne utdyper det første formålet. Kritisk tenkning i praksis betyr å gjenkjenne gode og dårlige argumenter, skille vitenskap fra pseudovitenskap, oppdage språklig uklarhet og få øye på viktige moralske hensyn.
+
+Det første formålet er også grunnen til at emnet begynner med argumentasjonsteori. Argumentasjon er en ferdighet du trenger uansett hva du studerer, og den er et verktøy du bruker i alle de andre temaene.
+
+Kort sagt skal ex phil gjøre deg bedre til å tenke kritisk, gi deg innsikt i hvordan vitenskapen arbeider, og få deg til å reflektere over store spørsmål.
+
+# Hva er kritisk tenkning?
+
+I dette kapitlet ser vi nærmere på hva kritisk tenkning betyr, og hvilke deler begrepet består av.
+
+Læreboka definerer ferdigheter i kritisk tenkning som evnen til å tenke klart, systematisk, rasjonelt og selvstendig, slik at man kan komme frem til en velbegrunnet beslutning om hva man bør tro, hva man bør gjøre, eller hvordan man bør være.
+
+Å tenke klart betyr å vite hva man selv mener, og hva andre faktisk sier. Mye uenighet skyldes at folk snakker forbi hverandre. Å tenke systematisk betyr å gå metodisk til verks, for eksempel ved å finne hovedpåstanden i en tekst og grunnene som gis for den.
+
+Selvstendig tenkning knytter foreleseren Claus Halberg til filosofen Immanuel Kant. Kant beskrev opplysning som menneskets vei ut av en umyndighet det selv er skyld i. Umyndighet betyr her at man ikke klarer å bruke sin egen forstand uten at noen andre leder en. Ifølge Kant er denne umyndigheten selvforskyldt når problemet ikke er mangel på forstand, men mangel på mot til å bruke den. Opplysningens valgspråk blir derfor: Ha mot til å bruke din egen forstand! Poenget for oss er at kritisk tenkning krever både evne og mot. Det er ofte lettere å godta det autoriteter, venner eller flertallet mener.
+
+Å tenke rasjonelt betyr å la seg lede av gode grunner, og å være på vakt mot dårlige grunner, når man skal bestemme seg for hva man skal tro eller gjøre. Med andre ord må man kunne skille mellom saklig og usaklig argumentasjon.
+
+Claus oppsummerer sammenhengen i fire teser. For det første må man kunne tenke kritisk for å komme frem til en velbegrunnet oppfatning. For det andre innebærer kritisk tenkning evne og mot til å tenke selvstendig, klart, systematisk og rasjonelt om grunnene for og mot en oppfatning. For det tredje er det derfor særlig viktig å kunne analysere og vurdere argumentasjon. Og for det fjerde finnes de nyttigste redskapene til dette i argumentasjonsteorien, som er læren om hvordan argumentasjon er bygget opp, og hva som gjør den sterk eller svak.
+
+Kort oppsummert: Kritisk tenkning er å tenke klart, systematisk, rasjonelt og selvstendig, og det krever både ferdigheter og mot.
+
+# De sju temaene i ex phil
+
+I dette kapitlet får du en oversikt over de sju temaene emnet består av, og hvilke spørsmål hvert tema tar opp.
+
+Det første temaet er argumentasjonsteori. Her spør vi hva som gjør gode argumenter gode og dårlige argumenter dårlige, og hvordan vi analyserer og vurderer en argumentasjon.
+
+Det andre temaet er vitenskapelig tenkemåte. Her spør vi hvordan vitenskapen gir oss kunnskap, og hva som skiller vitenskap fra pseudovitenskap. Er det for eksempel prinsipielle forskjeller mellom evolusjonsteorien og teorien om intelligent design, eller mellom homøopati og skolemedisin? Temaet handler også om vitenskap og verdier. Hva betyr det at vitenskapen skal være objektiv? Kan den drives uavhengig av perspektiver og interesser? Og hvilken rolle spiller kjønn?
+
+Det tredje temaet er vitenskap, teknologi og samfunn. Har universitetene et samfunnsansvar utover å finne sannheten? Finnes det temaer vi bør la være å forske på? Hvor langt strekker ansvaret seg for dem som jobber i teknologibedrifter? Et sentralt spørsmål er også hvordan teknologien påvirker samfunnet. Foreleseren Mirela Fus-Holmedal beskriver tre mulige svar. Det ene er at teknologien styrer utviklingen. Det andre er at det er mennesker som tar valgene. Det tredje er en middelvei, der mennesker tar valgene, men der valgene er betinget av hva teknologien åpner for eller begrenser.
+
+Det fjerde temaet er menneskesyn. Er virkeligheten bare fysisk, eller finnes det også noe ikke-fysisk, som bevissthet? Kan sinnet forklares fullt ut av hjernen? Kan maskiner tenke? Og hvis alle hendelser er årsaksbestemt, betyr det at vi ikke har fri vilje?
+
+Det femte temaet er etikk, som er det systematiske studiet av hvordan vi bør handle og hvem vi bør være. Bør vi alltid velge det som gir best konsekvenser, eller har vi noen ganger plikt til å ta andre hensyn? Hva har verdi i seg selv? Og hvilke grupper har vi plikter overfor, for eksempel dyr, fostre og fremtidige generasjoner?
+
+Det sjette temaet er bærekraft. Hva betyr bærekraftig utvikling? Hvordan avveier vi hensyn til klima, natur og velferd? Hvem bør bære kostnadene ved klimabyrden? Og hvordan sikrer vi at også kommende generasjoner får dekket sine behov?
+
+Det sjuende temaet er politisk filosofi. Hvordan bør makt fordeles i samfunnet? Hvor langt kan myndighetene gripe inn i livene våre? Hva vil det si å være fri? Hvorfor har ytringsfriheten en spesiell stilling? Og bør folkestyret begrenses?
+
+Kort oppsummert dekker emnet argumentasjonsteori, vitenskapelig tenkemåte, vitenskap, teknologi og samfunn, menneskesyn, etikk, bærekraft og politisk filosofi.
+
+# Rasjonell tenkning er ikke et naturtalent
+
+I dette kapitlet ser vi på hvorfor det er vanskelig å tenke rasjonelt, og hvilke feller vi lett går i.
+
+Et gjennomgående poeng i forelesningene er at vi mennesker ikke er naturlig flinke til å tenke rasjonelt. Vi er psykologisk disponert for å gjøre feil. Rasjonell tenkning er derfor en ferdighet vi må lære og øve på.
+
+Den første fellen er bekreftelsestendens. Den betyr at vi oftere leter etter, og lettere husker, informasjon som bekrefter det vi allerede mener. Har du først fått for deg at bergensere er brautende og selvgode, legger du merke til hver høylytte bergenser du møter, og glemmer alle de stille.
+
+Den andre fellen er at vi lett lar oss overbevise av slående enkelteksempler og anekdoter. Et eksempel fra forelesningene er en som sier at fetteren investerte i kryptovaluta og tjente en million kroner, og at han derfor også bør investere. Et annet eksempel er en kommune som senket stemmerettsalderen til seksten år og fikk mer engasjert ungdom, og at hele landet derfor bør gjøre det samme. Men ett enkelt tilfelle sier lite om hva som gjelder generelt. Fetteren kan ha hatt flaks, og kommunen kan være spesiell.
+
+Den tredje fellen er at vi lett påvirkes av forsøk på å spille på følelsene våre, som frykt, sinne, forbitrelse eller sympati. En følelse kan være forståelig, men den er ikke i seg selv en grunn til å tro at noe er sant.
+
+Den fjerde fellen er logiske feil. Ta dette eksemplet: Alle grådige egoister vil avskaffe formueskatten. Per vil avskaffe formueskatten. Altså er Per en grådig egoist. Slutningen holder ikke, for det kan godt finnes andre enn grådige egoister som også vil avskaffe skatten. Et annet eksempel handler om Emma, som ikke har svart på en melding på sju timer. Å ikke svare er en vanlig reaksjon når man vil unngå noen, så man slutter at Emma prøver å unngå en. Her overser man alle de andre grunnene til at noen ikke svarer. Et tredje eksempel er en påstand om at det er mange flere deprimerte blant dem som bruker cannabis nesten daglig. At to ting henger sammen, viser ikke uten videre at det ene fører til det andre.
+
+Mirela oppsummerer hvorfor god argumentasjon er krevende. Det er vanskelig å skille gode argumenter fra dårlige. Det er vanskelig å holde seg saklig når noe står på spill. Og vi er alle utsatt for tankefeil.
+
+Kort oppsummert: Bekreftelsestendens, anekdoter, følelser og logiske feil gjør at rasjonell tenkning må læres.
+
+# To vanlige former for usaklighet
+
+I dette kapitlet ser vi på to typer usaklig argumentasjon som går igjen i debatter: stråmannsargumentasjon og personargumentasjon.
+
+Stråmannsargumentasjon er å argumentere mot en versjon av motpartens standpunkt som er mer kontroversiell eller urimelig enn det motparten faktisk mener. Da blir det lettere å angripe. I et eksempel fra forelesningen sier Nora at partiet hennes vil ha et Norge med stort rom for kulturelt mangfold og bedre beskyttelse mot diskriminering. Vera svarer at hennes parti, i motsetning til Noras, mener at også norsk kultur er verdt å bevare. Vera antyder dermed at Nora ikke vil bevare norsk kultur. Det har Nora aldri sagt. Vera angriper en stråmann.
+
+Personargumentasjon, som på latin kalles ad hominem, er å prøve å svekke troverdigheten til en person eller gruppe ved å beskrive dem med negative karakteristikker. Man flytter fokus fra saken til personen. Ordtaket sier at man tar mannen i stedet for ballen. I et annet eksempel fra forelesningen argumenterer Vera mot aktiv dødshjelp ut fra hensynet til menneskeverdet. Nora svarer at dette er som forventet fra en kristen politiker med kors rundt halsen og bordbønn i kantina, og at snakket om menneskeverd bare er kodeord for blind lydighet. Nora svarer ikke på argumentet. Hun angriper Veras person og tro.
+
+Kjetil Skjerve gir flere eksempler fra dagens debatt. Ett av dem er en som sier: Jeg er sjokkert over at du kan mene at vindkraft på land er en god idé, du kan åpenbart ikke ha satt deg inn i saken. Her erstattes argumenter med en påstand om at motparten er uvitende.
+
+Kort oppsummert: Stråmannen forvrenger hva motparten mener, mens personargumentet angriper personen i stedet for saken. Begge deler blir grundigere behandlet i neste leksjon.
+
+# Når og hvorfor vi trenger argumentasjon
+
+I dette kapitlet ser vi på når vi trenger argumentasjon, og hvilke verktøy argumentasjonsteorien gir oss.
+
+Vi trenger argumentasjon i alle tilfeller der det ikke er åpenbart hva vi bør tro eller gjøre. Da må vi veie grunner for og mot. Kjetil gir eksempler fra flere områder. I vitenskapen handler det ikke bare om å samle data. Det viktigste er slutningene vi trekker fra dataene. Man kan for eksempel ikke direkte observere at et næringsmiddel øker kreftfaren. Det må man slutte seg til. I prosjektering må man for eksempel argumentere for hvor et nytt kraftanlegg bør ligge. I saksbehandling må man ta stilling til om en student som har jukset, bør utestenges. Og i politikken diskuterer man for eksempel om det skal tillates mer oljeleting på norsk sokkel.
+
+Fordi vi så lett lar oss lede av tankefeil og usaklighet, trenger vi verktøy som hjelper oss å skille gode argumenter fra dårlige. Claus trekker frem tre slike verktøy.
+
+Det første er skillet mellom et arguments logiske og retoriske funksjon. Den logiske funksjonen er å støtte eller svekke en påstand. Den retoriske funksjonen er å overbevise et publikum. I ex phil er det den logiske funksjonen vi er opptatt av.
+
+Det andre er skillet mellom riktighet og relevans. Et argument er riktig hvis det det påstår, stemmer. Det er relevant i den grad det, hvis det er riktig, taler for eller mot påstanden det skal støtte. Claus kaller dette den aller viktigste distinksjonen i argumentasjonsteorien.
+
+Det tredje er normer for saklig debatt. Man skal begrunne standpunktene sine, og man skal etter beste evne sørge for at argumentene er riktige og relevante.
+
+Mirela deler argumentasjonsteorien i to hoveddeler. Argumentasjonsanalyse handler om å finne ut hvilken påstand det argumenteres for, hvilke argumenter som gis, og hvilken rolle hvert argument har. Argumentasjonsvurdering handler om å ta stilling til om argumentene er gode eller mindre gode.
+
+Kort oppsummert: Vi trenger argumentasjon når svaret ikke er åpenbart, og argumentasjonsteorien gir oss verktøyene for å skille gode grunner fra dårlige.
+
+# Oppsummering
+
+I dette siste kapitlet samler vi trådene fra leksjonen.
+
+Emnet er organisert i moduler med forelesninger og seminarer. Studiespørsmålene forbereder deg til kortsvarsdelen av eksamen, og caseoppgavene forbereder deg til langsvarsdelen.
+
+Ex phil har tre formål. Det skal øve opp kritisk tenkning, gi en innføring i vitenskapelig tenkemåte og invitere til refleksjon over grunnleggende spørsmål om tilværelsen.
+
+Kritisk tenkning er å tenke klart, systematisk, rasjonelt og selvstendig for å komme frem til velbegrunnede beslutninger om hva man bør tro, gjøre eller være. Kant minner oss om at selvstendig tenkning krever mot.
+
+Emnet har sju temaer: argumentasjonsteori, vitenskapelig tenkemåte, vitenskap, teknologi og samfunn, menneskesyn, etikk, bærekraft og politisk filosofi.
+
+Rasjonell tenkning er ikke et naturtalent. Vi påvirkes av bekreftelsestendens, anekdoter, appell til følelser og logiske feil. To vanlige former for usaklighet er stråmannsargumentasjon og personargumentasjon.
+
+Til slutt trenger vi argumentasjon når det ikke er åpenbart hva vi bør tro eller gjøre. Argumentasjonsteorien gir oss verktøyene: skillet mellom logisk og retorisk funksjon, skillet mellom riktighet og relevans, og normer for saklig debatt. Det er temaet for neste leksjon.

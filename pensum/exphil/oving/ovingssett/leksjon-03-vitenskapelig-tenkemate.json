@@ -1,0 +1,562 @@
+{
+  "summary": "Modulen handler om hva som kjennetegner vitenskapelig tenkemåte, og bygger på epistemologien, læren om kunnskap. Den forklarer hvorfor vitenskapen trenger metoder, hvordan hypotetisk-deduktiv metode er bygd opp, og hvorfor det er en logisk asymmetri mellom bekreftelse og avkreftelse. Videre behandles Poppers falsifikasjonisme som svar på demarkasjonsproblemet og induksjonsproblemet, og innvendingene mot den, særlig Quine-Duhem-tesen. Til slutt ser modulen på Sobers overraskelsesprinsipper og betydningen av grunnfrekvens når vi vurderer hvor godt en observasjon bekrefter en hypotese.",
+  "flashcards": [
+    {
+      "front": "Hva er epistemologi?",
+      "back": "Læren om kunnskap. Den spør hva kunnskap er, hvilke kilder til kunnskap som er pålitelige, og hvordan vi avgjør om oppfatningene våre er korrekte eller berettigede.",
+      "section": "Hva er vitenskapsfilosofi?"
+    },
+    {
+      "front": "Nevn fire overordnede epistemologiske spørsmål i vitenskapsfilosofien.",
+      "back": "1) Hvordan bør en vitenskapelig test foregå for å gi kunnskap? 2) Hvordan skiller vi vitenskap fra pseudovitenskap? 3) Når kan en hypotese regnes som bekreftet av observasjoner? 4) Hvordan utvikler vitenskapen seg, og nærmer den seg sannheten?",
+      "section": "Hva er vitenskapsfilosofi?"
+    },
+    {
+      "front": "Hva er de tre dimensjonene ved en vitenskapelig undersøkelse?",
+      "back": "1) Fenomenet vi vil vite noe om. 2) Data, observasjoner og evidens om fenomenet. 3) Teorier og modeller av fenomenet.",
+      "section": "Hva er vitenskapsfilosofi?"
+    },
+    {
+      "front": "Hvilke to grunner gis for at vitenskapsfilosofi er viktig?",
+      "back": "Vitenskap er viktig (store felles ressurser, grunnlag for politiske beslutninger), og vitenskap er vanskelig (tankefeil, bekreftelsestendens, forhold som ikke kan observeres direkte).",
+      "section": "Hva er vitenskapsfilosofi?"
+    },
+    {
+      "front": "Hva er bekreftelsestendens?",
+      "back": "Tendensen til å lete etter, tolke og huske informasjon som bekrefter det vi allerede tror, og overse eller bagatellisere informasjon som ikke passer.",
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "front": "Hvorfor trenger vitenskapen metoder? (to hovedgrunner)",
+      "back": "1) Vi er psykologisk disponert for tankefeil, særlig bekreftelsestendens. 2) Vitenskapen handler om forhold som ikke kan observeres direkte, som årsaksforhold, generelle lover og svært små, store eller fjerne ting. Metodene kompenserer for dette.",
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "front": "Hva er dobbel blinding, og hva skal det motvirke?",
+      "back": "Verken forsøkspersonene eller forskerne som måler vet hvem som har fått ekte behandling og hvem som har fått placebo. Det motvirker at forventninger og bekreftelsestendens påvirker resultatet.",
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "front": "Hva er feilen i å slutte fra korrelasjon til kausalitet?",
+      "back": "At to ting varierer sammen, betyr ikke at det ene forårsaker det andre. Iskremsalg og solbrillesalg øker samtidig, men begge skyldes trolig sol og varme.",
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "front": "Hva kjennetegner en god hypotese før den testes?",
+      "back": "Forklaringskraft, koherens (samsvar med etablert kunnskap), enkelhet (Ockhams barberkniv) og at den er bedre enn alternativene. Men den må likevel testes.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "front": "Hva er de fire stegene i hypotetisk-deduktiv metode?",
+      "back": "1) Formuler en hypotese h. 2) Utled en observerbar konsekvens e som bør inntreffe hvis h er sann. 3) Test om e inntreffer. 4) Vurder h: bekreftet (foreløpig) hvis e inntreffer, avkreftet hvis ikke.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "front": "Hva er forskjellen på oppdagelseskontekst og begrunnelseskontekst?",
+      "back": "Oppdagelseskontekst handler om hvordan en hypotese faktisk blir til. Begrunnelseskontekst handler om hvordan den vurderes og testes etter at den er formulert. HD-metoden gjelder begrunnelseskonteksten.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "front": "Hvorfor er det et problem at forskerne i kreftstudien undersøkte 200 variabler?",
+      "back": "Hypotesen om trafikkerte veier ble ikke formulert før testen. Med så mange variabler vil noen treff skyldes tilfeldigheter. Funnet er et forslag til hypotese, ikke en bekreftelse, og må testes på nye data.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "front": "Hvilket krav stilles til steg 3 (testen) i HD-metoden?",
+      "back": "Undersøkelsen skal være transparent og replikerbar: andre forskere må kunne se nøyaktig hva som ble gjort og få samme resultat om de gjentar testen.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "front": "Hva er asymmetrien mellom bekreftelse og avkreftelse?",
+      "back": "Ingen mengde bekreftende observasjoner kan bevise et universelt utsagn (bekreftelse er induktiv), mens én motstridende observasjon kan avkrefte det (avkreftelse er deduktiv, modus tollens).",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "front": "Hva er modus tollens?",
+      "back": "Den gyldige argumentformen: Hvis h, så e. Ikke e. Altså ikke h. Avkreftelse av hypoteser følger denne formen.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "front": "Hva er bekreftelse av konsekvensen?",
+      "back": "Den ugyldige formen: Hvis h, så e. e. Altså h. Den er ugyldig fordi e kan inntreffe selv om h er usann.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "front": "Hva er induksjonsproblemet?",
+      "back": "Problemet (knyttet til Hume) med å begrunne at det vi har observert mange ganger, vil fortsette. Det eneste svaret ser ut til å være induktivt, og da argumenterer vi i sirkel.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "front": "Hvordan presiserer Popper induksjonsproblemet?",
+      "back": "Problemet er ikke at induksjon ikke gir sikker kunnskap, men at vi uten en prinsipiell begrunnelse ikke kan skille gode induktive slutninger fra dårlige. Da blir bekreftelse bare et spørsmål om hva som virker rimelig for forskeren.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "front": "Hva er demarkasjonsproblemet?",
+      "back": "Spørsmålet om hvordan vi skiller ekte vitenskap fra pseudovitenskap, altså teorier og metoder som framstilles som vitenskapelige uten å være det.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hva er Poppers demarkasjonskriterium?",
+      "back": "Falsifiserbarhet. Vitenskapelige hypoteser må kunne falsifiseres, og vitenskapelig forskning må være innrettet mot å falsifisere, ikke verifisere, hypoteser.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hvilke tre kjennetegn har pseudovitenskap ifølge Popper?",
+      "back": "1) Hypoteser som ikke lar seg falsifisere. 2) Ensidig leting etter bekreftende data og overseing av motstridende data. 3) Beskyttelse av hypotesen med ad hoc-hypoteser.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hva er en ad hoc-hypotese?",
+      "back": "En tilleggshypotese som skal forklare et avvik mellom en teori og bestemte observasjoner, men som ikke kan testes uavhengig. Den øker forklaringsevnen, men reduserer evnen til å forutsi.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hvorfor er Adlers teori om mindreverdighetskompleks et eksempel på pseudovitenskap ifølge Popper?",
+      "back": "Den passer med alle tenkelige handlinger, både å dytte et barn i sjøen og å ofre livet for å redde det. Ingen observasjon kan avkrefte den, så den er ikke falsifiserbar.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hvilke teorier brukte Popper som eksempler på pseudovitenskap, og hva var mønstereksempelet på vitenskap?",
+      "back": "Pseudovitenskap: psykoanalyse, marxisme og astrologi. Mønstereksempel på vitenskap: Einsteins relativitetsteori, fordi den kom med dristige, testbare prediksjoner.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hva motiverer Poppers falsifikasjonisme?",
+      "back": "Den motvirker bekreftelsestendensen, passer med et bilde av vitenskap som kritisk aktivitet (kritisk rasjonalisme), og skal løse induksjonsproblemet fordi avkreftelse bare krever deduksjon.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hva betyr at en hypotese er korroborert hos Popper?",
+      "back": "At den har overlevd gjentatte forsøk på falsifikasjon og står igjen når konkurrentene er falsifisert. Men den er ikke bekreftet eller gjort mer sannsynlig, ikke engang litt.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "front": "Hva sier Quine-Duhem-tesen?",
+      "back": "Hypoteser testes aldri i isolasjon, men alltid sammen med hjelpehypoteser. Et uventet resultat kan skyldes at en hjelpehypotese er gal. Derfor kan man alltid få observasjonene til å passe med en hypotese ved å gi slipp på andre antakelser.",
+      "section": "Innvendinger mot falsifikasjonismen"
+    },
+    {
+      "front": "Hvorfor er Quine-Duhem-tesen et problem for Popper?",
+      "back": "Falsifikasjonismen forutsetter at én observasjon kan falsifisere én hypotese via modus tollens. Når flere hypoteser er i spill, viser en mislykket prediksjon bare at minst én av dem er gal, ikke hvilken.",
+      "section": "Innvendinger mot falsifikasjonismen"
+    },
+    {
+      "front": "Hva viser broeksempelet om Poppers teori?",
+      "back": "Det er åpenbart rasjonelt å bygge en bro med en grundig testet teori fremfor en ny, utestet teori. Men Popper kan ikke forklare dette, fordi ingen teori etter hans syn blir bekreftet av observasjoner.",
+      "section": "Innvendinger mot falsifikasjonismen"
+    },
+    {
+      "front": "Hva sier overraskelsesprinsippene (Sober)?",
+      "back": "En observasjon e bekrefter en hypotese h i den grad 1) e er forventet hvis h er sann, og 2) e ville vært overraskende hvis h var usann.",
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "front": "Hvordan skiller overraskelsesprinsippene reell støtte fra bekreftelsestendens?",
+      "back": "Gjennom det andre prinsippet: Det holder ikke at observasjonen passer med hypotesen, den må også være overraskende hvis hypotesen er usann.",
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "front": "Hvorfor gir Aishas bedring etter bergmynteekstrakt svak støtte til hypotesen?",
+      "back": "Bedringen er forventet om ekstraktet virker, men ikke overraskende om det ikke virker, siden forkjølelse vanligvis går over av seg selv i løpet av et par uker.",
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "front": "Hva er grunnfrekvens (base rate)?",
+      "back": "Hvor vanlig noe er i utgangspunktet, altså hvor sannsynlig hypotesen er før og uavhengig av observasjonen. Det er det tredje spørsmålet som må supplere overraskelsesprinsippene.",
+      "section": "Grunnfrekvens og bekreftelse"
+    },
+    {
+      "front": "Hva er moralen i Cato-eksempelet?",
+      "back": "Selv med en god test er sannsynligheten for sykdom ved positivt svar bare ca. 8,3 prosent når sykdommen er sjelden (0,3 prosent). Vi må ta hensyn til grunnfrekvensen når vi vurderer sannsynlighet.",
+      "section": "Grunnfrekvens og bekreftelse"
+    },
+    {
+      "front": "Hva er bayesianisme, og hvorfor utfordrer den Popper?",
+      "back": "Synet (etter Thomas Bayes) at vi kan beregne sannsynligheten for hypoteser, og at mer overraskende observasjoner gir mer støtte. Det utfordrer Popper fordi det gir en prinsipiell måte å si at observasjoner gjør hypoteser mer sannsynlige.",
+      "section": "Grunnfrekvens og bekreftelse"
+    },
+    {
+      "front": "Hvilken prediksjon testet Andersen i studien av salgsboden på markedet?",
+      "back": "Hvis viruset kom fra dyr på markedet, burde man i området der ville dyr ble solgt finne viruspositive prøver som også inneholdt genetiske spor fra dyr. Det fant de, blant annet fra mårhund.",
+      "section": "Anvendelse: Hvor kom koronaviruset fra?"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hva er epistemologi?",
+      "options": [
+        "Læren om hva som er moralsk riktig",
+        "Læren om hvordan samfunnet bør styres",
+        "Læren om kunnskap",
+        "Læren om gyldige argumentformer"
+      ],
+      "answer_index": 2,
+      "explanation": "Epistemologi er læren om kunnskap: hva kunnskap er, hvilke kilder som er pålitelige, og hvordan vi avgjør om oppfatninger er berettigede.",
+      "section": "Hva er vitenskapsfilosofi?"
+    },
+    {
+      "question": "Hvilket av disse er IKKE en av grunnene forelesningene gir for at vitenskapen trenger metoder?",
+      "options": [
+        "Vitenskapelige hypoteser må alltid være enkle",
+        "Vitenskapen handler ofte om årsaksforhold vi ikke kan se direkte",
+        "Vitenskapen handler om generelle lover vi bare ser enkelttilfeller av",
+        "Vi er disponert for bekreftelsestendens"
+      ],
+      "answer_index": 0,
+      "explanation": "Enkelhet er et kriterium for en god hypotese, men ikke en grunn til at vitenskapen trenger metoder. Grunnene er tankefeil og at vitenskapen handler om forhold som ikke kan observeres direkte.",
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "question": "Iskremsalget og solbrillesalget øker samtidig. Hva er den beste konklusjonen?",
+      "options": [
+        "Iskremkjøp fører til solbrillekjøp",
+        "Solbrillekjøp fører til iskremkjøp",
+        "Samvariasjonen beviser en årsakssammenheng, men vi vet ikke hvilken vei",
+        "Samvariasjonen skyldes trolig en felles årsak, som sol og varme"
+      ],
+      "answer_index": 3,
+      "explanation": "Korrelasjon er ikke det samme som kausalitet. Begge deler skyldes trolig en tredje faktor.",
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "question": "Hva er steg 2 i hypotetisk-deduktiv metode?",
+      "options": [
+        "Å samle inn så mye data som mulig",
+        "Å utlede en observerbar konsekvens som bør inntreffe hvis hypotesen er sann",
+        "Å sammenligne hypotesen med konkurrerende hypoteser",
+        "Å publisere resultatet slik at andre kan gjenta testen"
+      ],
+      "answer_index": 1,
+      "explanation": "Steg 2 er å utlede en prediksjon e fra hypotesen h: noe som må eller bør inntreffe dersom h er sann.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "question": "Forskere fant ingen effekt av et kosttilskudd på hodepine, men fant så en sammenheng i en undergruppe med høy fysisk aktivitet og konkluderte med at tilskuddet virker for denne gruppen. Hva er hovedproblemet sett fra HD-metoden?",
+      "options": [
+        "De brukte placebo i stedet for en kontrollgruppe uten behandling",
+        "De hadde for mange forsøkspersoner",
+        "De tok ikke avkreftelsen på alvor og formulerte en ny hypotese etter å ha sett dataene, uten ny test",
+        "De burde ha brukt induksjon i stedet for deduksjon"
+      ],
+      "answer_index": 2,
+      "explanation": "Prediksjonen slo ikke til, så hypotesen burde regnes som avkreftet. Den nye hypotesen ble laget ut fra de samme dataene og er ikke testet uavhengig.",
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "question": "Hvilken argumentform følger avkreftelse av en hypotese?",
+      "options": [
+        "Modus tollens: Hvis h, så e. Ikke e. Altså ikke h.",
+        "Modus ponens: Hvis h, så e. h. Altså e.",
+        "Bekreftelse av konsekvensen: Hvis h, så e. e. Altså h.",
+        "Disjunktiv syllogisme: h eller e. Ikke h. Altså e."
+      ],
+      "answer_index": 0,
+      "explanation": "Avkreftelse følger den deduktivt gyldige formen modus tollens.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "question": "Hvorfor kan ikke tusen observasjoner av hvite svaner bevise at alle svaner er hvite?",
+      "options": [
+        "Fordi observasjonene kan være feil",
+        "Fordi tusen er et for lite utvalg, men en million ville holdt",
+        "Fordi svaner kan skifte farge",
+        "Fordi slutningen fra et endelig antall tilfeller til et universelt utsagn ikke er deduktivt gyldig"
+      ],
+      "answer_index": 3,
+      "explanation": "Bekreftelse er induktiv. Ingen endelig mengde observasjoner gjør et universelt utsagn logisk nødvendig, uansett hvor mange de er.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "question": "Hva er kjernen i induksjonsproblemet?",
+      "options": [
+        "At induktive slutninger aldri gir sannsynlige konklusjoner",
+        "At vi ikke kan begrunne induksjon uten selv å bruke induksjon, og dermed argumenterer i sirkel",
+        "At deduktive argumenter er bedre enn induktive",
+        "At vi har for få observasjoner til å generalisere"
+      ],
+      "answer_index": 1,
+      "explanation": "Humes poeng er at begrunnelsen for induksjon selv blir induktiv, og det er sirkulært.",
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "question": "Hva er ifølge Popper kjennetegnet på vitenskap?",
+      "options": [
+        "At hypotesene er bekreftet av mange observasjoner",
+        "At hypotesene forklarer flest mulig fenomener",
+        "At hypotesene er falsifiserbare og forskningen er innrettet mot å falsifisere dem",
+        "At forskningen foregår ved universiteter og publiseres i tidsskrifter"
+      ],
+      "answer_index": 2,
+      "explanation": "Poppers demarkasjonskriterium er falsifiserbarhet, og forskningen skal prøve å falsifisere, ikke verifisere.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "question": "En homøopat sier at «effekten forsvinner når den blir testet». Hva er dette et eksempel på?",
+      "options": [
+        "En ad hoc-hypotese",
+        "En dristig prediksjon",
+        "En korroborert hypotese",
+        "Grunnfrekvens"
+      ],
+      "answer_index": 0,
+      "explanation": "Påstanden skal forklare bort et avvik og kan ikke testes uavhengig. Den er en ad hoc-hypotese som beskytter teorien mot falsifikasjon.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "question": "Hva betyr det at en hypotese er korroborert hos Popper?",
+      "options": [
+        "At den er bevist sann",
+        "At den er gjort mer sannsynlig av observasjonene",
+        "At den er falsifisert, men reddet med en hjelpehypotese",
+        "At den har overlevd gjentatte falsifikasjonsforsøk, uten at den dermed er bekreftet"
+      ],
+      "answer_index": 3,
+      "explanation": "Korroborasjon betyr at hypotesen har stått seg, men for Popper er den ikke bekreftet, ikke engang litt.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "question": "Hvordan ser falsifikasjonismen på vitenskapelig framskritt?",
+      "options": [
+        "Som gradvis opphopning av riktige hypoteser, som et byggverk",
+        "Som gradvis eliminering av gale hypoteser, som i evolusjonen",
+        "Som tilfeldige skifter uten retning",
+        "Som økende sannsynlighet for de beste teoriene"
+      ],
+      "answer_index": 1,
+      "explanation": "For Popper skjer framskritt ved at gale hypoteser elimineres, ikke ved at riktige akkumuleres.",
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "question": "Hva er hovedpoenget i Quine-Duhem-tesen?",
+      "options": [
+        "Hypoteser kan aldri testes",
+        "Bare deduktive argumenter gir kunnskap",
+        "Hypoteser testes alltid sammen med hjelpehypoteser, så et uventet resultat viser ikke hvilken som er gal",
+        "Vitenskapelige teorier er sosialt konstruerte"
+      ],
+      "answer_index": 2,
+      "explanation": "Fordi hypoteser testes i klaser, kan man alltid redde en hypotese ved å forkaste en annen antakelse.",
+      "section": "Innvendinger mot falsifikasjonismen"
+    },
+    {
+      "question": "Hvilken påstand fra Popper regnes som BREDT AKSEPTERT?",
+      "options": [
+        "En hypotese må formuleres slik at den kan testes og kan vise seg å være feil",
+        "Én observasjon er nok til å falsifisere en hypotese",
+        "En hypotese kan aldri bekreftes av observasjoner",
+        "Vitenskapelig framskritt handler bare om å eliminere gale hypoteser"
+      ],
+      "answer_index": 0,
+      "explanation": "Kravet om testbarhet er bredt akseptert. De tre andre påstandene er de kontroversielle delene av Poppers teori.",
+      "section": "Innvendinger mot falsifikasjonismen"
+    },
+    {
+      "question": "Ifølge overraskelsesprinsippene bekrefter en observasjon e en hypotese h i den grad ...",
+      "options": [
+        "e er overraskende hvis h er sann, og forventet hvis h er usann",
+        "e er i samsvar med det forskeren trodde fra før",
+        "e er observert mange ganger",
+        "e er forventet hvis h er sann, og overraskende hvis h er usann"
+      ],
+      "answer_index": 3,
+      "explanation": "Begge betingelsene må være oppfylt: forventet gitt h, overraskende gitt ikke-h.",
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "question": "Trine planter én basilikum i jord A og én i jord B. Etter en uke er planten i A femti prosent høyere. Hvor mye støtte gir dette hypotesen om at A gir raskere vekst?",
+      "options": [
+        "Sterk støtte, fordi forskjellen er stor",
+        "Svak støtte, fordi en slik forskjell mellom to enkeltplanter ikke er særlig overraskende selv om hypotesen er usann",
+        "Ingen støtte, fordi observasjonen ikke er forventet hvis hypotesen er sann",
+        "Avgjørende støtte, fordi begge plantene stod i samme vinduskarm"
+      ],
+      "answer_index": 1,
+      "explanation": "Observasjonen er forventet hvis hypotesen er sann, men med bare én plante i hver potte kan forskjellen lett skyldes andre faktorer.",
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "question": "Hvorfor gir «Flukiller»-studien sterk støtte til hypotesen om at midlet virker?",
+      "options": [
+        "Fordi midlet har et overbevisende navn",
+        "Fordi influensa sjelden går over av seg selv",
+        "Fordi det store utvalget og kontrollgruppen gjør resultatet svært overraskende hvis midlet ikke virker",
+        "Fordi studien var bekreftende og ikke falsifiserende"
+      ],
+      "answer_index": 2,
+      "explanation": "90 prosent friske mot 10 prosent i kontrollgruppen er forventet hvis midlet virker, og svært overraskende hvis det ikke gjør det.",
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "question": "Et alkometer gir feilutslag hos 5 prosent av edru sjåfører, og ca. 1 av 500 sjåfører har drukket. En tilfeldig sjåfør blåser rødt. Omtrent hvor sannsynlig er det at hun har drukket?",
+      "options": [
+        "Ca. 4 prosent",
+        "Ca. 50 prosent",
+        "Ca. 20 prosent",
+        "Ca. 95 prosent"
+      ],
+      "answer_index": 0,
+      "explanation": "Av 500 blåser ca. 25 edru rødt ved feil og 1 påvirket blåser rødt. Bare ca. 1 av 26 har drukket, altså rundt 4 prosent.",
+      "section": "Grunnfrekvens og bekreftelse"
+    },
+    {
+      "question": "Hvilket spørsmål legger grunnfrekvens til overraskelsesprinsippene?",
+      "options": [
+        "Hvor mange ganger er observasjonen gjentatt?",
+        "Er forskeren uavhengig?",
+        "Er hypotesen falsifiserbar?",
+        "Hvor sannsynlig er det i utgangspunktet at hypotesen er sann?"
+      ],
+      "answer_index": 3,
+      "explanation": "Grunnfrekvens handler om hvor sannsynlig hypotesen er fra før, uavhengig av observasjonen.",
+      "section": "Grunnfrekvens og bekreftelse"
+    },
+    {
+      "question": "Hvilken del av Andersens resonnement viser tydeligst en svakhet ved Poppers falsifikasjonisme?",
+      "options": [
+        "At han endret mening da observasjonene talte imot lablekkasje",
+        "At han mener observasjonene gjør våtmarkedshypotesen mer sannsynlig",
+        "At han gjorde en test som kunne slått feil",
+        "At han formulerte en prediksjon før han undersøkte salgsboden"
+      ],
+      "answer_index": 1,
+      "explanation": "Popper avviser at observasjoner kan gjøre en hypotese mer sannsynlig. At Andersen og andre forskere resonnerer slik, viser at falsifikasjonismen ikke fanger hvordan bekreftelse brukes i praksis. De tre andre punktene passer godt med Popper.",
+      "section": "Anvendelse: Hvor kom koronaviruset fra?"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Hva er epistemologi, og hvilke overordnede epistemologiske spørsmål er sentrale for vitenskapsfilosofien?",
+      "key_points": [
+        "Epistemologi er læren om kunnskap",
+        "Spør hva kunnskap er, hvilke kilder som er pålitelige og hvordan oppfatninger kan berettiges",
+        "Hvordan bør en vitenskapelig test foregå for å gi kunnskap?",
+        "Hvordan skiller vi vitenskap fra pseudovitenskap (demarkasjonsproblemet)?",
+        "Når er en hypotese bekreftet av observasjoner, og hvordan utvikler vitenskapen seg?"
+      ],
+      "section": "Hva er vitenskapsfilosofi?"
+    },
+    {
+      "prompt": "Hvorfor trenger vitenskapen metoder?",
+      "key_points": [
+        "Vi er psykologisk disponert for tankefeil, særlig bekreftelsestendens",
+        "Vitenskap handler om forhold som ikke kan observeres direkte: årsaksforhold, generelle lover, svært små, store, fjerne eller fortidige ting",
+        "Korrelasjon er ikke kausalitet",
+        "Metoder (for eksempel dobbel blinding, kontrollgrupper) kompenserer for begrensningene våre"
+      ],
+      "section": "Hvorfor trenger vitenskapen metoder?"
+    },
+    {
+      "prompt": "Hva er hypotetisk-deduktiv metode, og hva er stegene i skjemaet? Bruk gjerne et eksempel.",
+      "key_points": [
+        "Et grunnskjema for vitenskapelig testing",
+        "1) Formuler hypotese h, helst med forklaringskraft, koherens og enkelhet",
+        "2) Utled en observerbar konsekvens e",
+        "3) Test om e inntreffer, transparent og replikerbart",
+        "4) Vurder: foreløpig bekreftet hvis e, avkreftet hvis ikke e",
+        "Eksempel: kaken og tannpirkeren, eller Semmelweis og håndvask"
+      ],
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "prompt": "Kortsvarsoppgave: Forskere fant ingen sammenheng mellom kosttilskudd og mindre hodepine, men fant en sammenheng i en undergruppe med høy fysisk aktivitet og konkluderte med at tilskuddet virker for denne gruppen. Hvordan avviker framgangsmåten fra HD-metoden?",
+      "key_points": [
+        "Prediksjonen slo ikke til, så hypotesen burde regnes som avkreftet",
+        "Forskerne lette i dataene etter en sammenheng i stedet for å godta avkreftelsen",
+        "Den nye hypotesen ble formulert etter å ha sett dataene (oppdagelseskontekst), ikke før testen",
+        "Den nye hypotesen er ikke testet med en ny, uavhengig test",
+        "Den kan være verdt å teste, men er ikke bekreftet av de samme dataene"
+      ],
+      "section": "Hypotetisk-deduktiv metode"
+    },
+    {
+      "prompt": "Det sies ofte at det er en asymmetri mellom bekreftelse og avkreftelse av hypoteser. Hva ligger i påstanden, og stemmer den?",
+      "key_points": [
+        "Bekreftelse er induktiv: ingen endelig mengde observasjoner kan bevise et universelt utsagn",
+        "Avkreftelse følger modus tollens og er deduktivt gyldig",
+        "Å slutte fra e til h er bekreftelse av konsekvensen, som er ugyldig",
+        "Logisk stemmer asymmetrien",
+        "I praksis svekkes den fordi hypoteser testes sammen med hjelpehypoteser (Quine-Duhem)"
+      ],
+      "section": "Asymmetrien mellom bekreftelse og avkreftelse"
+    },
+    {
+      "prompt": "Hva skiller ifølge Popper vitenskap fra pseudovitenskap? Gi eksempler, og drøft om kriteriet er for strengt.",
+      "key_points": [
+        "Demarkasjonskriteriet er falsifiserbarhet, og forskningen skal prøve å falsifisere",
+        "Pseudovitenskap: ufalsifiserbare hypoteser, ensidig leting etter bekreftelse, ad hoc-hypoteser",
+        "Eksempler: psykoanalyse, marxisme, astrologi, Adlers teori, Freuds drømmeteori, homøopati",
+        "Mønstereksempel på vitenskap: Einsteins relativitetsteori med dristige prediksjoner",
+        "For strengt? Kravet om testbarhet er bredt akseptert, men å forkaste ved første motstridende observasjon ville utelukke anerkjent vitenskap (for eksempel mørk materie som tilleggshypotese)"
+      ],
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "prompt": "Hva motiverer Poppers falsifikasjonisme, og hva går den ut på?",
+      "key_points": [
+        "Motivert av induksjonsproblemet: induksjon kan ikke begrunnes uten sirkel",
+        "Vitenskapen skal bare forsøke å avkrefte, og avkreftelse krever bare deduksjon (modus tollens)",
+        "Motvirker bekreftelsestendens og passer med vitenskap som kritisk aktivitet (kritisk rasjonalisme)",
+        "Framskritt er eliminering av gale hypoteser",
+        "Hypoteser som overlever er korroborert, men ikke bekreftet"
+      ],
+      "section": "Demarkasjonsproblemet og Poppers falsifikasjonisme"
+    },
+    {
+      "prompt": "Hva går Quine-Duhem-tesen ut på, og hvorfor er den en utfordring for Popper? Finnes det andre gode svar?",
+      "key_points": [
+        "Hypoteser testes aldri i isolasjon, men sammen med hjelpehypoteser",
+        "Eksempel: dataspillstudien bygger på antakelser om empatikretser, måling og utstyr",
+        "Et uventet resultat viser bare at minst én antakelse er gal, ikke hvilken",
+        "Popper forutsetter at én observasjon kan falsifisere én hypotese",
+        "Uklart skille mellom rimelig justering og ad hoc-hypotese",
+        "Alternativ: se bekreftelse som gradert, med overraskelsesprinsippene og grunnfrekvens"
+      ],
+      "section": "Innvendinger mot falsifikasjonismen"
+    },
+    {
+      "prompt": "Overraskelsesprinsippet: Hva avgjør i hvilken grad en observasjon bekrefter en hypotese?",
+      "key_points": [
+        "Observasjonen må være forventet hvis hypotesen er sann",
+        "Observasjonen må være overraskende hvis hypotesen er usann",
+        "Det andre kravet skiller reell støtte fra bekreftelsestendens",
+        "Bekreftelse kommer i grader og avhenger av bakgrunnskunnskap og alternative hypoteser",
+        "Grunnfrekvens: hvor sannsynlig hypotesen er i utgangspunktet"
+      ],
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "prompt": "Kortsvarsoppgave: Trine planter én basilikum i jord A og én i jord B. Etter en uke er planten i A femti prosent høyere. Vurder støtten hypotesen får i lys av Sobers overraskelsesprinsipp.",
+      "key_points": [
+        "Observasjonen er forventet hvis A gir raskere vekst",
+        "Den er lite overraskende om hypotesen er usann: bare én plante i hver potte",
+        "Andre forklaringer: ulike frø, lys, vanning og tilfeldig variasjon",
+        "Støtten er derfor svak",
+        "En bedre test: mange planter, like forhold, gjentatte forsøk"
+      ],
+      "section": "Overraskelsesprinsippene"
+    },
+    {
+      "prompt": "Forklar hvorfor grunnfrekvens er viktig når vi vurderer en positiv test, med utgangspunkt i alkometer- eller Cato-eksempelet.",
+      "key_points": [
+        "Grunnfrekvens er hvor vanlig noe er i utgangspunktet",
+        "Når noe er sjeldent, gir selv en god test mange falske positive",
+        "Alkometer: ca. 25 falske og 1 ekte rødt utslag per 500, altså ca. 4 prosent",
+        "Cato: 270 korrekte mot 2991 falske positive per 100 000, altså ca. 8,3 prosent",
+        "Bayesianisme bygger på dette og utfordrer Popper"
+      ],
+      "section": "Grunnfrekvens og bekreftelse"
+    },
+    {
+      "prompt": "Case: Vis hvordan Kristian Andersens argumentasjon for våtmarkedshypotesen passer inn i HD-skjemaet, vurder støtten med overraskelsesprinsippene og grunnfrekvens, og drøft om framgangsmåten er forenlig med Popper.",
+      "key_points": [
+        "HD-skjema: hypotese om smitte fra dyr på markedet, prediksjon om virus med genetiske dyrespor i salgsboden, test og funn",
+        "Overraskelse: observasjonene (for eksempel to grener på slektstreet, smitteklynger rundt markedet) er forventet ved våtmarked og lite forventet ved lablekkasje",
+        "Grunnfrekvens: hvor sannsynlig hver hypotese er i utgangspunktet påvirker konklusjonen",
+        "Popper-vennlig: Andersen endret mening og gjorde tester som kunne slått feil",
+        "Popper-kritisk: Andersen behandler observasjoner som bekreftende, og testene bygger på hjelpehypoteser (Quine-Duhem)"
+      ],
+      "section": "Anvendelse: Hvor kom koronaviruset fra?"
+    }
+  ]
+}

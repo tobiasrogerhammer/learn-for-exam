@@ -1,0 +1,321 @@
+--- side 1 ---
+Kunnskap for en bedre verden
+EXPH0300: Examen philosophicum for
+naturvitenskap og teknologi
+Forelesning 5
+Mirela Fus-Holmedal
+mirela.fus-holmedal@ntnu.no
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+
+--- side 2 ---
+Agenda
+1. Avsluttende om
+overraskelsesprinsippene
+2. Vitenskap, teknologi og samfunn (i)
+2.a Er vitenskap verdifri? (kap. 8)
+2.b Teknologi, menneske, samfunn
+(del 1) (kap. 13)
+1515 1395
+2
+
+--- side 3 ---
+
+
+--- side 4 ---
+1. Avsluttende om overraskelsesprinsippene
+
+--- side 5 ---
+5
+Base rate/grunnsannsynlighet
+• En observasjon e bekrefter hypotesen h, i den grad
+1. Resultat 1 e er forventet dersom h er sann
+2. Resultat 2 e er overraskende dersom h er usann
+3. Hvor overraskende (sannsynlig) er det at h er korrekt, uavhengig av e?
+Altså: Hvor sannsynlig er det at vi er invadert at romvesener hvis vi ser bort
+fra observasjonen?
+Å snakke om hvor sannsynlig det er at vi er invadert at romvesener i
+utgangspunktet, tilsvarer å snakke om hvor godt bekreftet hypotesen at vi er
+invadert at romvesener er. Men ifølge Poppers falsifikasjonisme er ikke
+hypoteser bekreftet.
+
+--- side 6 ---
+6
+
+--- side 7 ---
+Bayes’ teorem i sannsynlighetskalkylen
+• Overraskelsesprinsippene kan representeres matematisk
+– Hvor sikker du er på en påstand kan angis som en sannsynlighet (0–1),
+der 1 = riktig og 0 = feil
+• Bayes’ teorem:
+– Gir oss matematiske regler for hvordan hypotesene styrkes eller
+svekkes av evidens
+7
+
+--- side 8 ---
+Vitenskapelig bakgrunnskunnskap og base
+rate-sannsynligheten
+• Å avgjøre i hvilken grad en observasjon bekrefter eller avkrefter en
+hypotese, avhenger av:
+– hva man ellers vet,
+– hvilke alternative hypoteser man kjenner,
+– og hvor godt disse er bekreftet eller ikke
+• Disse forholdene kan variere og endre seg
+– Dersom enkeltstudier skulle gi et annet resultat, bør de møtes
+med en skepsis som reflekterer vitenskapelig bakgrunnskunnskap
+og base rate-sannsynligheten
+8
+
+--- side 9 ---
+Spørsmål?
+9
+
+--- side 10 ---
+2.a Er vitenskap verdifri?
+
+--- side 11 ---
+
+
+--- side 12 ---
+Vitenskapens normer: Hvordan unngår vi at
+verdier påvirker på en uheldig måte?
+• Epistemologiske normer
+– Normer vi bør følge for at vitenskapelige undersøkelser
+faktisk skal føre til kunnskap om verden (f.eks. HD-
+metoden, unngå bias, presisjon og nøyaktighet)
+• Sosiale normer
+– Verdier og normer som styrer hvordan vitenskapelige
+samfunn fungerer, for at kunnskapsproduksjonen skal være
+mulig (f.eks. KUDOS-normer)
+12
+
+--- side 13 ---
+KUDOS-normene
+K: Kommunisme: Vitenskapelige resultater er noe vi eier i fellesskap
+(Kunnskapen er offentlig)
+U: Universalisme: Vitenskapelige påstander må vurderes etter
+universelle, upersonlige kriterier
+D: Desinteresse: Forskere må ikke la deres personlige interesser ha
+innflytelse på resultatet av undersøkelsen (Nøytralitet)
+OS: Organisert skeptisisme: Alle hypoteser og teorier må utsettes for
+diskusjon, evaluering og kritikk
+Robert K. Merton
+(1910-2003)
+• Overholdelse av disse normene skjermer vitenskapen mot forsøk på
+påvirkning utenfra (stat, kirke, næringsliv, militært forsvar etc.)
+• Suksessoppskriften som har kjennetegnet vitenskapen de seneste 500 årene.
+13
+
+--- side 14 ---
+14
+
+--- side 15 ---
+15
+
+--- side 16 ---
+16
+
+--- side 17 ---
+17
+
+--- side 18 ---
+
+
+--- side 19 ---
+19
+Hvordan påvirker verdier vitenskapelig arbeid?
+• Verdier styrer forskningsspørsmål
+– Hvilke forskningsspørsmål den enkelte forsker er
+opptatt av (f.eks. (ned)prioritering av forskning på
+«kvinnesykdommer» innen helsefagene)
+• Verdier styrer forskningsinstitusjoner
+– Hvordan institusjonene er organisert har betydning for
+hva forskningen fokuserer på – og dermed på
+kunnskapsproduksjonen
+– Kun en liten homogen gruppe av befolkningen har
+tradisjonelt vært forskere
+• Verdier påvirker forskningsresultater
+– Både hvordan vi tolker og sorterer data og kategoriene
+og begrepene vi bruker kan påvirke datamaterialet mer
+direkte (Jfr. omdefinering av depresjon, rusavhengighet,
+etc. til «hjernesykdommer»)
+Bør vi lete etter
+biologiske eller
+samfunnsmessige
+årsaker til
+kjønnsforskjeller?
+Hvordan deler vi
+inn virkeligheten i
+kategorier
+(planeter, biologiske
+grupper)?
+
+--- side 20 ---
+
+
+--- side 21 ---
+Situert kunnskap og standpunktepistemologi
+• Feministiske vitenskapskritiker:
+– Sandra Harding, Donna Haraway og Helen
+Longino legger vekt på forskerens sosiale posisjon
+– Hvilke data en forsker legger merke til og vektlegger
+avhenger av verdier, interesser og egenskaper forskeren
+har i kraft av sin sosiale situasjon, kulturelle tilhørighet o.l.
+– Kunnskap er situert: Hva vi vet er også en funksjon av
+sosiale posisjoner og erfaringer blant aktørene som har
+kunnskapen (Haraway, 1988)
+• To mulige (og motsatte) konsekvenser:
+1. 2. Kunnskap er aldri objektiv, alltid relativ til ståsted.
+Visse ståsteder («standpunkter») kan gi bedre tilgang
+til korrekte beskrivelser av virkeligheten enn andre.
+21
+
+--- side 22 ---
+Må vi endre forståelsen av objektivitet?
+Sandra Harding og standpunktteori
+• En vitenskaps objektivitet handler ikke om at den
+«stemmer overens med virkeligheten» eller at
+«forskersamfunnet ikke har vært i stand til å
+tilbakevise den».
+• Standpunktepistemologi: Synet at ens sosiale
+posisjon påvirker hvilke aspekter av virkeligheten en har
+tilgang til, og at særlig marginaliserte grupper kan ha
+epistemologiske fordeler når det gjelder bestemte
+forhold.
+– Utfordrer idealet om objektiv forskning
+• I noen tilfeller kan bestrebelse på å være
+«upartisk» være til hinder for objektivitet!
+22
+
+--- side 23 ---
+Standpunktepistemologi
+• Undertrykte ser verden klarere, bedre – ‘slik den er’
+– Jfr. kvinner i et mannsdominert samfunn, arbeidere i et kapitalistisk samfunn,
+melaninrike i et rasistisk samfunn, funksjonsvarierte i et ableistisk samfunn...
+– Ser verden både fra dominant og marginalisert perspektiv
+– ‘Fremmede’ på samfunnsarenaer ser andre ting enn de ‘innfødte’
+• Bidrar til mer utfyllende virkelighetsbeskrivelse (både natur- og
+samfunnsvitenskaper)
+• Bevisst partiskhet åpner for nye perspektiv og bekjemper ubevisst bias
+Sandra Harding
+Marx: I en maktrelasjon er det de undertrykte som ser relasjonen slik
+den er (f.eks: En arbeider ser maktrelasjonen bedre enn en kapitalist. Vi
+må derfor undersøke virkeligheten fra proletarens ståsted).
+23
+
+--- side 24 ---
+24
+Longino: Kollektive prosedyrer
+• Upartiskhet i vitenskapelig arbeid er en myte
+• Alternativ til ‘individuelle’ KUDOS-normer (som er atskilt fra det politiske)
+-> vitenskapelig upartiskhet og kunnskap som et kollektivt prosjekt
+• Vitenskapssamfunnet må sørge for:
+1. 2. 3. 4. Arenaer for kritikk som gir rom for vitenskapelig dissens
+Sikre at dissens diskuteres aktivt
+Allment anerkjente standarder som tillater evaluering av dissens
+Ulike kunnskapssamfunn tilskrives lik autoritet
+Helen Longino
+• Kritikk: Problematiserer ikke hva slags dissens som ikke bør tas i
+betraktning
+– Gir rom for pseudovitenskapelig «alternative fakta»?
+
+--- side 25 ---
+
+
+--- side 26 ---
+Robert K. Merton
+(1910-2003)
+26 Helen Longino
+
+--- side 27 ---
+Spørsmål?
+27
+
+--- side 28 ---
+2.b Teknologi, menneske, samfunn
+
+--- side 29 ---
+Betydningen av teknologi: hverdagsperspektiv
+• Det er få, eller kanskje ingen (?), deler av livene
+våre som ikke er påvirket av teknologi. Eksempler:
+➢ Smartphones → forhold til venner og selvbildet vårt
+➢ Konstant underholdning
+➢ Nye transportmuligheter
+➢ Digitalt «nærvær»
+➢ Automatisert arbeid
+Technê: ifølge gresk
+tenkning er dette en
+særlig kunnskapsform.
+Tekno-logi:
+❖«kunnskap om
+produksjon…»
+❖i dagligtale:
+teknologiske ting eller
+typer av teknologi.
+• Viktig å utvikle teknologibevissthet:
+– Kunnskap om hvordan teknologi påvirker oss
+som enkeltindivider og samfunnets strukturer
+29
+
+--- side 30 ---
+Hvorfor trenger vi å forstå hva teknologi er?
+Teknologiens tosidighet:
+➢ muliggjør at vi kan leve bedre
+eller enklere liv
+➢ kan ha negative konsekvenser,
+f.eks. forurensing, ekkokamre,
+konformitetspress.
+Så: hvordan bør vi innrette samfunnet eller leve med teknologi?
+30
+
+--- side 31 ---
+Samfunn og teknologi: hvem bestemmer?
+Spørsmål:
+❖ er det samfunnet som utvikler nye teknologier til å løse
+problemer?
+❖ eller er det de nye teknologiene som bestemmer hva vi velger
+å gjøre og å fokusere på?
+31
+
+--- side 32 ---
+
+
+--- side 33 ---
+Styrer vi teknologien eller styrer teknologien oss?
+• Teknologisk instrumentalisme
+Vi identifiserer et
+problem
+Vi finner en teknologisk
+løsning som vi kan velge om
+vi vil ta i bruk
+Verdinøytral: Teknologi er rene hjelpemidler, det er vår bruk av teknologi som
+forårsaker de negative og positive konsekvensene.
+• Teknologisk determinisme
+Vi har en teknologi Teknologien endrer
+livsbetingelsene våre
+Vi tvinges til å endre atferd
+for å tilpasse oss
+Verdiladet: Teknologi endrer måten vi gjør ting–visse ting blir lettere, vanskeligere
+eller rett og slett mulige å gjøre. Kan være dystopisk eller optimistisk.
+
+--- side 34 ---
+Spørsmål?
+34
+
+--- side 35 ---
+35
+Neste gang
+• Vitenskap, teknologi og samfunn
+• Pensum:
+– Tenk! Del 2
+• Kap. 8
+– Tenk! Del 3
+• Kap. 13
+– Briggle & Mitcham
+• Kap. 3 og 9
+– van de Pol & Royakkers
+
+--- side 36 ---
+Takk for i dag!
+Kunnskap for en bedre verden
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+

@@ -1,0 +1,540 @@
+--- side 1 ---
+Institutt for filosofi og religionsvitenskap
+Eksamensoppgave i EXPH0300/EXPH0350 - Examen philosophicum for
+naturvitenskap og teknologi høst 2025
+Velg én av oppgavene, enten eller:
+ENTEN
+Bakgrunn
+Er det en risiko ved utstrakt bruk av språkmodeller (LLM-er) i utdanning? I en kronikk i
+avisen Klassekampen kommer vitenskapsjournalist Bjørn Vassnes med et varsko om farene
+ved at kunstig intelligens har fått en stor rolle i skoleelever og studenters hverdag. (Vassnes,
+2025) Vassnes viser blant annet til forskning ved MITs Media Lab, som kan tas til inntekt for
+at språkmodeller brukes til å avlaste kognitivt arbeid til språkmodeller, slik at brukerne får en
+mer overflatisk prosessering av stoffet man jobber med. En bekymring er derfor at
+språkmodeller kan føre til at man i mindre grad trener kognitive egenskaper som
+arbeidsminne og kreativitet.
+Det er nærliggende å lese Vassnes’ kronikk som en argumentasjon for et implisitt standpunkt
+om at vi i mye større grad enn i dag bør begrense bruk av store språkmodeller i norsk
+utdanningssektor.
+Oppgave
+a. Les utdraget under fra kronikken “Den nye thalidomidskandalen?” (Vassnes, 2025).
+Analyser argumentasjonen i teksten etter fremgangsmåten beskrevet i Tenk! del 1, kapittel 2.
+La analysen ta utgangspunkt i standpunktet “Bruk av store språkmodeller i norsk
+utdanningssektor bør begrenses i mye større grad enn i dag”. Sett argumentene inn i et
+argumentasjonsdiagram. Forklar kort de valgene du har gjort i utformingen av diagrammet.
+Gi en vurdering av argumentasjonen i henhold til metoden beskrevet i Tenk! kap. 3.
+Vurderingen skal gis en konkret begrunnelse.
+b. Ta utgangspunkt i Tenk! kapittel 12 og kapittel 13, og diskuter om vi bør frykte den
+teknologiske påvirkningen av utstrakt bruk av språkmodeller. Trekk for eksempel inn Platons
+bekymringer overfor skrivekunsten og/eller funksjonalismens tanke om utvidede sinn.
+Gjør grundig rede for teorier og begreper du bruker fra pensum. Både a og b må besvares.
+Utdrag under fra kronikken “Den nye thalidomidskandalen?”
+Tenk deg en verden der nye, kraftige medisiner ble dyttet på oss og tatt i bruk uten at det var
+tid til å studere effektene, mens kritiske spørsmål bare ble avfeid med kommentarer som
+«dette er uansett framtida, så det er bare å si ja takk»? Dette skjer faktisk i dag, i stor stil. Ikke
+på medisinfronten, riktignok. Her lærte man av skandalen med thalidomid som forårsaket
+tusenvis av fosterskader på slutten av 1950-tallet. Nei, det gjelder et annet felt, som raskt
+kommer til å snu opp-ned på verden og som vil endre oss på måter vi knapt kan forestille oss.
+
+--- side 2 ---
+Vi ser allerede at kunstig intelligens er i ferd med å overta skoleelevers og studenters
+hverdag. Dette skjer nærmest uten motforestillinger og uten at noen synes å stille det
+avgjørende spørsmålet: Hvordan påvirker bruken av kunstig intelligens [...] de kognitive
+evnene til skoleelever og studenter? Det har ikke manglet på mer intuitive rapporter om
+negative effekter – at hjelpemidlene gjør elever og studenter dummere, for å si det folkelig.
+Nå begynner også vitenskapelige undersøkelser å legges fram, og bildet derfra er faktisk enda
+mer skremmende.
+Et eksempel er en test som nylig ble gjort på MITs Media Lab [...] I denne testen ble
+hjerneskanning kombinert med intervjuer og testoppgaver for å måle hvordan studenter
+responderte på oppgaver [...] med og uten hjelp fra ChatGPT. Målet var å belyse hvordan
+bruken av ulike hjelpemidler, ikke minst KI, influerte på studentenes kognitive prestasjoner.
+De delte studentene inn i tre grupper: En gruppe fikk bruke ChatGPT fra starten av, mens en
+annen gruppe måtte klare seg med sitt eget hode. En tredje gruppe fikk bruke «gammeldags»
+søkermotor. Under oppgaven ble hjerneaktiviteten målt med EEG, og besvarelsene deres ble
+både analysert med verktøyer som NLP (Natural Language Processing) og mer tradisjonelle
+metoder.
+Det var altså snakk om måling av ulike effekter, som på hver sine måter illustrerer effekten
+bruk av kunstig intelligens har på hjerneaktivitet. For å ta de direkte, synlige effektene først:
+EEG-analysene viste at de ulike metodene å jobbe på (med og uten KI og søkemotor) ga seg
+utslag i svært ulike mønstre i den «nevrale konnektiviteten»: hvordan hjernens nettverk blir
+aktivert og koblet sammen, en sentral prosess for læring. Jo mer støtte hjernen fikk fra
+hjelpemidler, desto mindre ble konnektiviteten. Det vil si at bruken av hjelpemidler reduserte
+hjerneaktiviteten, spesielt hvordan ulike hjernenettverk trenes opp gjennom samarbeid. Aller
+minst hjerneaktivitet var det hos de studentene som brukte ChatGPT. De som kun hadde sin
+egen hjerne til rådighet, hadde størst aktivitet i hjernecellene.
+At ulikhetene i hjerneaktivitet (som EEG-analysene viste) ga seg utslag i forskjeller i læring,
+ble bekreftet av de mer tradisjonelle testene og av intervjuene etterpå: De som i
+utgangspunktet måtte klare seg med bare hjernen, husket bedre hva de hadde gjort og hadde
+en mindre overfladisk forståelse av temaene. Det så ut som de som brukte KI ikke engasjerte
+seg like dypt i temaene eller forholdt seg kritisk nok til hva ChatGPT kom opp med. Dermed
+ble læringen heller ikke så dyp. De som hadde tilgang til hjelp fra en enklere søkemotor
+havnet et sted midt imellom.
+I analysen av studien skriver forskerne at det som skjer når man i for stor grad overlater
+arbeidet til KI, er en «akkumulering av kognitivt underskudd, en tilstand der gjentatt
+avhengighet av eksterne systemer som LLM-er kommer i stedet for de mer arbeidskrevende
+kognitive prosessene som trengs for uavhengig tenkning». [...]
+[...] I Norge blir det bare mer og mer tydelig at vi mangler kompetanse på helt sentrale
+områder som psykologi og hjerneforskning. Vi mangler derfor en grunnleggende forståelse
+for hvordan skal forholde oss til den nye teknologien. Dette gjaldt for så vidt også da de
+første digitale hjelpemidlene ble tatt i bruk i skolen og ellers sluppet løs på barn og unge: Det
+fantes ingen motforestillinger, ingen faglige motstemmer mot det som skjedde. Dette var
+nemlig ikke et tema man hadde bygget opp noen psykologisk/hjernefaglig kompetanse for. I
+stedet ble medieviterne brukt som «eksperter», selv om de ikke hadde noen ekspertise på
+hvordan de nye skjerm- og digitale mediene virker på barn og unges kognitive utvikling.
+
+--- side 3 ---
+I dag, med den nye KI- revolusjonen, blir denne mangelen på kritisk kompetanse på nytt
+tydelig. De eneste ekspertene myndigheter og medier bruker, er folk med ren teknisk
+kompetanse som jobber med å selge denne teknologien. Fordi det rett og slett ikke finnes
+andre eksperter? Det er uansett som å overlate legemiddelbruken til medisinselgerne og tenke
+at man får ta problemene etter hvert.
+Da kan skaden allerede være uopprettelig. Thalidomid var noe ikke altfor mange tok i bruk,
+og skadevirkningene ble raskt synlige. Med skadevirkningene av KI er det annerledes: Slik
+det er nå, ser det ut til at samtlige skoleelever og studenter [...] vil ta dette i bruk. En økende
+kognitiv svekkelse vil antakelig bli kamuflert av at man gradvis senker kravene til ytelse, og
+starter en nedadgående spiral. Det er som om man har bestemt at menneskelig intelligens ikke
+lenger er så viktig.
+Vassnes, B. (2025, 21. august). “Den nye thalidomidskandalen?”
+Klassekampen. https://klassekampen.no/artikkel/2025-08-21/den-nye-thalidomidskandalen
+(Vedlegg 1_)
+Forslag til videre lesning
+Forskningen forklart på norsk: Blir vi egentlig dummere av ChatGPT? MIT-studien forklarer
+Forskerne forklarer studien selv (inkl. lenke til studien): Overview ‹ Your Brain on ChatGPT
+— MIT Media Lab
+Om thalidomid-skandalen: Thalidomidgåten løst
+Øvrige kilder
+Chen, John, Xi Lu, Yuzhou Du, et al. 2024. “Learning Agent-Based Modeling with LLM
+Companions: Experiences of Novices and Experts Using ChatGPT & NetLogo Chat.”
+Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems (New
+York, NY, USA), CHI ’24, 1–18. https://doi.org/10.1145/3613904.3642377.
+Soll, Marcus, and Louis Kobras. 2025. “Do Large Language Models Require Prior
+Knowledge for Learning? A Preliminary Study.” 2025 IEEE Global Engineering Education
+Conference (EDUCON), April, 1–5.
+https://doi.org/10.1109/EDUCON62633.2025.11016655.
+Zamfirescu-Pereira, J.D., Richmond Y. Wong, Bjoern Hartmann, and Qian Yang. 2023.
+“Why Johnny Can’t Prompt: How Non-AI Experts Try (and Fail) to Design LLM Prompts.”
+Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems (New
+York, NY, USA), CHI ’23, April 19, 1–21. https://doi.org/10.1145/3544548.3581388.
+
+--- side 4 ---
+ELLER
+Oppgave
+Bakgrunn
+I boken The Descent of Man, and Selection in Relation to Sex hevdet Darwin, på grunnlag av
+sine observasjoner, at det typiske mønsteret i dyrs reproduktive atferd er at hannene er
+«fyrige» og promiskuøse, og kjemper seg imellom om de mer tilbakeholdne og kresne
+hunnenes gunst. I 1948 gjorde genetikeren Angus John Bateman noen eksperimenter med
+bananfluer der han testet en mulig forklaring på Darwins observasjon. Hypotesen hans, som
+han mente ble bekreftet av eksperimentene, var at hannens reproduktive suksess – dvs., hvor
+mange levedyktige avkom han etterlater seg i neste generasjon – øker med hver nye hunn han
+parrer seg med, mens hunnens reproduktive suksess ikke økes av multiple parringer. Denne
+forskjellen, mente Bateman, fører til det Darwin kalte seksuell seleksjon, dvs., evolusjon av
+de egenskapene som hjelper et individ med å skaffe seg en parringspartner og produsere
+levedyktige avkom. Batemans arbeid har vært en hjørnestein i studiet av seksuell seleksjon i
+årtier.
+Siden 1980-tallet har det blitt gjort en rekke funn som synes å stride mot Batemans teori.
+Bl.a. melder apeforskeren Sarah Blaffer Hrdy at hunner som har multiple parringspartnere har
+vært regelen snarere enn unntaket i hennes feltstudier av langurer. Slike observasjoner,
+forteller hun, ga innledningsvis lite mening i hennes «Harvard-utdannede øyne» (Hrdy 1986:
+126), sterkt preget av posisjonen som Batemans teori den gang hadde. I 2012 forsøkte
+evolusjonsbiologien Patricia Gowaty sammen med sitt team å replisere Batemans studie med
+bananfluer, men med negativt resultat. Ifølge Gowaty rystes det hun kaller «Bateman-
+paradigmet» innen studiet av seksuell seleksjon nå i sine grunnvoller.
+Oppgave
+a) Les beskrivelsen av Batemans studie fra 1948 i artikkelen på Science Daily, og analyser
+funnene hans ut fra HD-skjemaet og overraskelsesprinsippene.
+b) Gowaty antyder at tilbakevisningen av Batemans konklusjoner innebærer et
+paradigmeskifte i studiet av seksuell seleksjon. Diskuter hvor rimelig denne påstanden er
+basert på informasjonen i bakgrunnsmaterialet, og sett i lys av kap. 9 i Tenk!.
+Gjør grundig rede for teorier og begreper du bruker fra pensum. Både a og b må besvares.
+Utgangstekst
+University of California - Los Angeles. (2012, June 26). Biologists reveal potential 'fatal
+flaw' in iconic sexual selection study. ScienceDaily. Lest 16. oktober 2025 på
+www.sciencedaily.com/releases/2012/06/120626092714.htm (Vedlegg 2)
+Kilder
+Massey, Lily (2024) The Myth of the Coy Female. The Oxford Scientist. Lest 16. oktober
+2025 på https://oxsci.org/the-myth-of-the-coy-female/#google_vignette
+Hrdy, Sarah Blaffer (1986) The Myth of the Coy Female. I: Ruth Bleier (red.) Feminist
+Approaches to Science (New York: Pergamon Press), s. 119-146.
+
+--- side 5 ---
+Eksamensoppgave i EXPH0300/EXPH0350 - Examen philosophicum for
+naturvitenskap og teknologi sommer 2025
+Bakgrunn
+I artikkelen «Confronting risks of mirror life» (Adamala et al., 2024), tar et internasjonalt
+forskerteam opp mulige risikoer knyttet til utvikling og bruk av såkalt speilvendt liv —
+organismer med motsatt kiralitet enn alt naturlig liv på jorden. Utviklingen av syntetiske
+speilvendte livsformer åpner for både medisinske og teknologiske muligheter, men også for
+alvorlig risiko for jordens liv. Forfatterne oppfordrer til å stanse all forskning på speilvendte
+organismer, så lenge vi ikke er sikre på at teknologien er trygg.
+Artikkelen har utløst en debatt om hvor stor risiko denne formen for bioteknologi kan utgjøre,
+samt om hvor strengt forskningen på speilvendt liv bør reguleres. Noen forskere fremhever
+muligheten for trygge, isolerte biologiske systemer, mens andre advarer mot uforutsette
+konsekvenser hvis slike organismer skulle slippe ut i naturen.
+Oppgave
+a. b. Les det oversatte tekstutdraget under fra artikkelen «Confronting risks of mirror life».
+Velg ut to standpunktargumenter fra utdraget. Standpunktargumentene kan være
+uavhengige eller sammensatte. Analyser argumentene, samt andre argumenter som er
+knyttet til argumentene du har valgt, etter fremgangsmåten beskrevet i Tenk! del 1,
+kapittel 2. La analysen ta utgangspunkt i følgende standpunkt: «Forskere bør ikke
+utvikle speilbakterier og andre speilorganismer.» Sett argumentene inn i et
+argumentasjonsdiagram. Gi en kort begrunnelse av valgene du har tatt i analysen.
+Vurder i hvilken grad argumentene er riktige og relevante for standpunktet, etter
+fremgangsmåten i Tenk! del 1, kap. 3.
+Bør forskere selv kunne bestemme hva de skal forske på, eller bør myndighetene
+kunne begrense forskernes frihet? Diskuter spørsmålet med utgangspunkt i teorier fra
+pensum om vitenskap og verdier, og vitenskap og samfunn. Knytt diskusjonen til
+eksempelet fra oppgave a. Du kan trekke inn tilleggsperspektiver fra andre deler av
+pensum hvis du finner det relevant.
+Relevant pensum
+- Tenk! kap. 2 og 3
+- Tenk! kap. 8
+- Ethics and Science kap. 3 og 9
+
+--- side 6 ---
+Vedlegg
+- Adamala et al. «Confronting risks of mirror life»
+Oversatt tekstutdrag fra artikkelen «Confronting risks of mirror life»
+«Vår analyse tilsier at speilbakterier sannsynligvis ville unnslippe mange immunmekanismer
+som er avhengige av kirale molekyler, og potensielt forårsake dødelige infeksjoner hos
+mennesker, dyr og planter. De vil trolig også unngå å bli angrepet av naturlig kirale
+bakteriofager og andre naturlige predatorer, noe som kan legge til rette for spredning i
+miljøet. Vi kan ikke utelukke et scenario der en speilbakterie fungerer som en invaderende art
+på tvers av mange økosystemer og forårsaker omfattende dødelige infeksjoner i en betydelig
+andel av plante- og dyrearter, inkludert mennesker. Selv en speilbakterie med et snevrere
+vertsregister og evne til å invadere kun et begrenset antall økosystemer, kunne fortsatt
+forårsake enestående og irreversible skader.
+Selv om vi i utgangspunktet var skeptiske til at speilbakterier kunne utgjøre store risikoer, har
+vi blitt dypt bekymret. Vi var usikre på hvorvidt det faktisk var mulig å syntetisere
+speilbakterier, men har konkludert med at teknologisk utvikling trolig vil gjøre dette mulig.
+Vi var også usikre på konsekvensene av speilbakterielle infeksjoner hos mennesker og dyr,
+men en grundig gjennomgang av eksisterende studier har fått oss til å konkludere med at
+infeksjonene kunne bli alvorlige. I motsetning til tidligere diskusjoner om speilliv, innså vi
+også at generalistiske heterotrofe speilbakterier kunne finne et bredt utvalg næringsstoffer i
+dyreverter og i miljøet, og dermed ikke automatisk ville være biologisk innestengt.
+Vi oppfordrer til grundig vurdering av våre funn og til videre forskning for å bedre forstå
+disse risikoene. Imidlertid, i fravær av overbevisende bevis som gir trygghet, er vårt syn at
+speilbakterier og andre speilorganismer ikke bør skapes. Vi mener dette kan sikres med
+minimal innvirkning på nyttig forskning, og vi oppfordrer til bred involvering for å finne en
+vei videre.
+[...]
+Vår analyse tilsier at speilbakterier i stor grad kan unngå mange immunforsvarsmekanismer
+hos mennesker, dyr og planter. Kirale interaksjoner, som er sentrale for immunaktivering og -
+gjenkjenning i flercellede organismer, vil bli svekket i møte med speilbakterier. Dette kan
+føre til svekket immunrespons, nedsatt respons fra det medfødte immunsystemet og (hos
+virveldyr) begrenset aktivering av det adaptive immunsystemet. For eksempel viser
+eksperimenter at speilproteiner motstår spalting til peptider for antigenpresentasjon og ikke
+pålitelig utløser viktige adaptive immunresponser, som produksjon av antistoffer. Vi er derfor
+bekymret for at funksjonen til mange virveldyrenes immunsystemer mot speilbakterier vil
+være sterkt svekket. Immunsystemene hos virvelløse dyr og planter er mindre godt studert,
+men ser ut til å ha tilsvarende begrensninger.» (Adamala, K. P. 2024)
+Litteratur
+
+--- side 7 ---
+Adamala, K. P. et al. (2024, 20. desember). Confronting risks of mirror life. Science, 386
+(6728), 1351–1353. https://doi.org/10.1126/science.ads9158 (pubmed.ncbi.nlm.nih.gov)
+Eksamensoppgave i EXPH0300/EXPH0350 - Examen philosophicum for
+naturvitenskap og teknologi vår 2025
+Velg én av oppgavene, enten eller:
+ENTEN
+Bakgrunn
+Autonome våpensystemer bruker kunstig intelligens for å ta beslutninger uten menneskelig
+innblanding. I en kommentar i Dagens Næringsliv sist sommer (Strandhagen, 2024)
+argumenterte avisens egen kommentator Sverre Strandhagen for at Norge bør satse mer på
+denne teknologien for å følge med i den raske utviklingen, spesielt med tanke på USAs
+investeringer i autonome kampfly og skip. Strandhagen advarer mot at Norge risikerer å bli
+hengende etter i forsvarsteknologi.
+Raymond Johansen, leder for Norsk Folkehjelp, er derimot kritisk til utviklingen av
+autonome våpen. Han advarer mot de etiske og sikkerhetspolitiske konsekvensene, og mener
+at manglende menneskelig kontroll kan føre til ansvarspulverisering og ukontrollert
+maktbruk. Johansen understreker at det er viktig å etablere internasjonale regler før
+teknologien utvikler seg videre.
+Debatten reiser spørsmålet om Norge bør omfavne den teknologiske utviklingen eller være
+mer forsiktige med bruken av autonome våpensystemer.
+Oppgave
+a. b. Les Raymond Johansens debattinnlegg «Naivt om farene ved autonome våpen». Velg
+ut to standpunktargumenter i debattinnlegget fra innlegget. Standpunktargumentene
+kan være uavhengige eller sammensatte. Analyser argumentene, samt andre
+argumenter som er knyttet til argumentene du har valgt etter fremgangsmåten
+beskrevet i Tenk! del 1, kapittel 2. La analysen ta utgangspunkt i følgende standpunkt:
+«Norge bør ikke satse mer på opprustning av autonome våpen.» Sett argumentene inn
+i et argumentasjonsdiagram. Gi en kort begrunnelse av valgene du har tatt i analysen.
+Vurder i hvilken grad argumentene er riktige og relevante for standpunktet, etter
+fremgangsmåten i Tenk! del 1, kap. 3.
+Formuler en problemstilling i forlengelsen av Johansens debattinnlegg, og bruk
+pensum om teknologi, føre var-prinsippet, etikk og vitenskap og/eller ingeniøretikk til
+å diskutere problemstillingen. Du kan trekke inn tilleggsperspektiver fra andre deler
+av pensum der det er relevant. Gjør grundig rede for teoriene og begrepene du bruker
+fra pensum.
+
+--- side 8 ---
+Både a og b skal besvares.
+Relevant pensum
+• Tenk! del 1, kapittel 2 og 3.
+• Tenk! del 3, kapittel 13.
+• The Responsibilities of Engineers
+• Føre var-prinsippet
+• Ethics and Science
+Analysetekst
+Johansen, R. (2024, 26. juni). Naivt om farene med autonome våpen. Dagens
+Næringsliv. https://www.dn.no/innlegg/forsvar/vapen/raymond-johansen/naivt-om-farene-
+med-autonome-vapen/2-1-1667376 (Vedlegg/Attachment 1)
+Relevant tilleggslitteratur
+Strandhagen, S. (2024, 12. Juni). Forsvaret satser ikke radialt nok. Dagens Næringsliv,
+Kommentar. https://www.dn.no/kommentar/forsvaret/krigen-i-ukraina/usa/forsvaret-satser-
+ikke-radikalt-nok/2-1-1659827 (Vedlegg/Attachment 2)
+Utdyping av krav til vurdering av argumentasjonen
+• Vurderingen bør ta for seg hvert enkelt argument, og si noe om henholdsvis riktighet
+og relevans. Hvis du finner eksempler på usaklig argumentasjon, kan det også
+kommenteres.
+• Vurderingen skal utelukkende handle om argumentasjonens logiske funksjon.
+• Begrunn påstandene om at et argument er riktig/uriktig og relevant/mindre relevant.
+Bruk teori fra pensum om vurdering av riktighet og relevans. Pek gjerne på
+innvendinger som svekker hvert arguments relevans.
+• Gi en samlet vurdering av argumentasjonen du har analysert. Den bør si noe om i
+hvilken grad argumentasjonen lykkes i å styrke standpunktet.
+ELLER
+Bakgrunn
+I et intervju på Gemini.no sier Indra de Soysa, professor ved Institutt for sosiologi og
+statsvitenskap ved NTNU, at land med stor økonomisk ulikhet og autoritært styresett ofte har
+lavere klimautslipp enn demokratiske land som fordeler makt og rikdom mer likt blant
+innbyggerne (Brandslet, 2025). Sammenhengen mellom økte klimautslipp og hvordan
+økonomisk velstand er fordelt, kan forklares med at demokratiske land vanligvis har mer
+rikdom, mener han. Dette fører til høyere forbruk av varer og tjenester som skaper utslipp. De
+
+--- side 9 ---
+Soysa konkluderer med at «[å] gi en jevnere fordeling av inntektene både innenfor og mellom
+land, vil forverre klimaet, i hvert fall med dagens teknologiske muligheter» (Branslet, 2025).
+Oppgave
+Anta at de Soysa har rett i det han hevder om sammenhengen mellom klimautslipp, ulikhet og
+demokrati. Pek på et mulig dilemma som følger av de Soysas funn, og bruk pensum om
+bærekraft, klima etikk og/eller politikk til å diskutere hvordan dilemmaet best kan besvares.
+Det er anledning til å trekke inn tilleggsperspektiver fra andre deler av pensum dersom du
+finner dem relevante. Gjør grundig rede for teoriene og begrepene du bruker fra pensum.
+Relevant pensum
+• Carson og Skauge: Bærekraftige virksomheter
+• Lavik og Pedersen: Rettferdig fordeling av klimabyrden
+• Tenk! del 4 og del 5
+Litteratur
+Brandslet, S. (2025, 13. mars). Urettferdig fordeling av godene er best for klimaet.
+Gemini.no. https://gemini.no/2025/03/beklager-men-urettferdig-fordeling-er-best-for-
+klimaet/ (Vedlegg/Attachment 3)
+Eksamensoppgave i EXPH0300 - Examen philosophicum for naturvitenskap og
+teknologi høst 2024
+ENTEN
+Bakgrunn
+I Paris-avtalen forpliktet Norge seg til å kutte minst 55 % av klimautslippene innen 2030,
+sammenlignet med nivået i 1990. Forpliktelsen har senere blitt lovfestet i klimaloven § 3.
+Klimamålet tar utgangspunkt i det nasjonale klimagassregnskapet, som blir utarbeidet av
+Miljødirektoratet, Statistisk sentralbyrå og Norsk institutt for bioøkonomi i samarbeid. I
+kommentaren “Mer falsk matematikk” (Vassnes, 2024) kritiserer Bjørn Vassnes bruken av
+det nasjonale klimaregnskapet som målestokk for norsk klima- og miljøpolitikk.
+Oppgave
+a. Bruk framgangsmåten som presenteres i Tenk! del 1, kap. 2, og analyser
+argumentasjonen i debattinnlegget “Mer falsk matematikk” (Vassnes, 2024). Fremstill
+analysen i form av et argumentasjonsdiagram, og gi en kort forklaring av valgene du
+
+--- side 10 ---
+b. har tatt i utformingen av analysen. Vurder om argumentene støtter standpunktet i
+argumentasjonen, i henhold til fremgangsmåten i Tenk! del 1, kap. 3.
+Diskuter om Norge bør bruke det nasjonale klimaregnskapet som målestokk for norsk
+klimapolitikk. La diskusjonen ta utgangspunkt i teorier fra pensum om bærekraft, og
+gjør grundig rede for teoriene du bruker. Trekk gjerne også inn perspektiver fra andre
+deler av pensum, der det er relevant.
+Både a og b må besvares.
+Relevant pensum
+● Tenk! Del 1
+● Bærekraftige virksomheter
+● Føre var-prinsippet
+● Rettferdig fordeling av klimabyrden
+Kilde
+Vassnes, B. (2024, 13. juni). Mer falsk matematikk. Klassekampen.
+https://klassekampen.no/artikkel/2024-06-13/mer-falsk-matematikk (Vedlegg 1)
+ELLER
+Bakgrunn
+I oktober i år publiserte en gruppe forskere en artikkel i tidsskriftet Nature hvor det kommer
+frem at de for første gang har kartlagt alle nevronene, samt alle forbindelsene mellom dem, i
+hjernen til en bananflue. Forskerne mener også at metoden de har brukt kan gjøre det mulig å
+gi en like fullstendig kartlegging av større hjerner, slik som musehjerner, og, om noen tiår,
+menneskehjerner.
+Oppgave
+
+--- side 11 ---
+Ta utgangspunkt i at teknologien forskerne har brukt, om noen tiår gjør det mulig å kartlegge
+en hel menneskehjerne og simulere den digitalt. Bruk teorier fra pensum om menneskesyn til
+å diskutere og ta begrunnet stilling til om en slik simulasjon vil ha tanker, følelser eller
+bevissthet.
+Relevant pensum
+Tenk! del 3, kap. 12.
+Anbefalt tilleggstekst
+Scitechdaily. (2024, 2. oktober). Inside the Fruit Fly’s Brain: A Stunning Journey Through
+139,255 Neurons.
+https://scitechdaily.com/inside-the-fruit-flys-brain-a-stunning-journey-through-139255-
+neurons/ (Vedlegg 2)
+Eksamensoppgave i EXPH0350 Examen philosophicum for naturvitenskap og teknologi
+sommer 2024
+Bakgrunn
+1. juni 2023 presenterte Genteknologiutvalget den offentlige utredningen “Genteknologi i en
+bærekraftig fremtid” (NOU 2023: 18). Utredningen er et offentlig dokument som kommer
+med anbefalinger om hvordan genteknologi bør lovreguleres i Norge i fremtiden.
+Genteknologiutvalget er splittet i synet på bruken av genteknologi og genmodifiserte
+organismer (GMO). Flertallet ønsker en betydelig oppmykning av genteknologiloven. I
+debattinnlegget “Uetisk å la være å satse på genteknologi” (Alsheikh et al., 2023)
+argumenterer utvalgets flertall for synet sitt.
+Oppgave
+a. b. Velg ut ett standpunktargument i debattinnlegget fra genteknologiutvalgets flertall.
+Standpunktargumentet kan være uavhengig eller sammensatt. Analyser argumentet,
+samt andre argumenter som er knyttet til argumentet du har valgt, ut fra prinsippene
+for argumentasjonsanalyse fra Tenk! del 1.
+Bruk teorier fra pensum til å diskutere om vi bør ha en streng eller mindre streng
+regulering av genteknologi i Norge. Gjør grundig rede for de filosofiske teoriene du
+bruker. I diskusjonen må du trekke inn og vurdere både hensyn som taler for og mot
+
+--- side 12 ---
+en streng regulering av genteknologi. forlengelsen av denne diskusjonen.
+Vurder argumentene du har analysert i
+Besvarelsen behøver ikke å ha atskilt a)-del og b)-del, men både pkt. a) og b) må være
+behandlet på en tilfredsstillende måte for at besvarelsen som helhet skal kunne regnes som
+bestått.
+Kilde
+Bratlie, S., Tøndel, C., Gamlund, E., Alsheikh, M., Wargelius, A., Holst-Jensen, A, Brautaset,
+T. (2023, 12. juni) Uetisk å la være å satse på genteknologi. Dagsavisen.
+https://www.dagsavisen.no/debatt/2023/06/12/uetisk-a-la-vaere-a-satse-pa-
+genteknologi/ (Vedlegg 1)
+Utdyping av krav til analyse og vurdering av argumentasjonen:
+Analyse
+• Finn standpunktargumentet du ønsker å analysere. Begrunn at argumentet er et
+standpunktargument.
+• Ta stilling til om argumentet er sammensatt eller uavhengig. Begrunn synspunktet
+ditt.
+• Finn de mest sentrale indirekte argumentene. Begrunn at dette er indirekte
+argumenter, og ta stilling til om de er sammensatte eller uavhengige.
+• Ta stilling til om det er noen viktige implisitte argumenter i argumentasjonen.
+• Ta stilling til om det finnes noen motargumenter i argumentasjonen. Avgjør om de
+handler om riktighet eller relevans.
+• Sett alle argumentene inn i et argumentdiagram, etter mønster fra Tenk!.
+Vurdering
+• Vurderingen bør ta for seg hvert enkelt argument, og si noe om henholdsvis riktighet
+og relevans. Hvis du finner eksempler på usaklig argumentasjon, bør det også
+kommenteres.
+• Vurderingen skal utelukkende handle om argumentasjonens logiske funksjon.
+• Begrunn påstandene om at et argument er riktig/uriktig og relevant/mindre relevant.
+Bruk teori fra pensum om vurdering av riktighet og relevans. Pek gjerne på
+innvendinger som svekker hvert arguments relevans.
+• Gi en samlet vurdering av argumentasjonen. Den bør si noe om i hvilken grad
+argumentasjonen lykkes i å styrke standpunktet.
+
+--- side 13 ---
+Eksamensoppgave i EXPH0300 Examen philosophicum for naturvitenskap og teknologi
+vår 2024
+Velg én av oppgavene.
+ENTEN
+Bakgrunn
+Myranda Murray er stipendiat i biologi ved NTNU, og medlem av klimaorganisasjonen
+Scientist Rebellion. I 2023 kom hun med den følgende uttalelsen til tidsskriftet Forskerforum:
+«Det er ei hardnakka norm at forskarrolla er nøytral, og at dersom ein skal gje uttrykk for eit
+verdistandpunkt, så må det skje på privaten. Ein del av målet vårt er å utfordre desse
+normene. [...] Vi har trudd at dersom vi berre legg fram våre forskingsbaserte åtvaringar, så
+vil folk handle. Men det har ikkje fungert. Så no treng vi å få akademia til å oppføre seg på
+ein måte som samsvarar med krisesituasjonen vi er i». (Gjengedal, 2023a)
+Andre forskere er tilsynelatende uenige i Murrays syn på hvorvidt det er mulig å kombinere
+rollen som forsker og aktivist. Et eksempel er klimaforsker og professor i statsvitenskap ved
+Universitetet i Oslo, Elin Lerum Boasson:
+«Eg er heilt samd i at ein ikkje skal vere naiv positivist når det gjeld kva ein kan oppnå med
+kunnskap, men det er demokratisk valde organ som må finne dei beste løysingane, det er
+ikkje vår rolle. I akademia kan du styre forskingsfront og kunnskapsutvikling og påverke
+korleis kunnskapen blir tolka av dei som bestemmer. Vi må ikkje forveksle det med ein rett
+til å bestemme.» (Gjengedal, 2023b)
+Oppgave
+Bruk begreper og teorier fra pensum i vitenskapsfilosofi og/eller ingeniøretikk, og skriv en
+argumenterende tekst hvor du tar begrunnet stilling til følgende påstand: «Det er ikke mulig å
+kombinere rollen som forsker og aktivist». Som en del av argumentasjonen bør du klargjøre
+hva du legger i denne påstanden. Gjør grundig rede for de filosofiske teoriene og begrepene
+du bruker. Hvis du ønsker det, kan du også trekke inn tilleggsperspektiver fra andre deler av
+pensum enn de ovennevnte.
+Relevant pensum
+Tenk! kapittel 8 og 9.
+Ethics and Science – an introduction kapittel 9 Science and Politics I
+Ethics, Technology and Engineering:, kapittel 1 The Responsibility of Engineers
+Kilder til bakgrunnstekst
+
+--- side 14 ---
+Gjengedal, K. (2023, 23. februar). Scientist Rebellion utfordrar ideen om den nøytrale
+forskaren. Forskerforum.
+https://www.forskerforum.no/scientist-rebellion-utfordrar-ideen-om-den-noytrale-
+forskaren/ (Vedlegg/Attachment 1)
+Gjengedal, K. (2023, 16. mars). Klimaforskarar: – Ikkje aktuelt å bli med i Scientist
+Rebellion. Forskerforum.
+https://www.forskerforum.no/klimaforskarar-ikkje-aktuelt-a-bli-med-i-scientist-
+rebellion/ (Vedlegg/Attachment 2)
+ELLER
+Bakgunn
+I avisartikkelen «Har ropt varsko i 50 år» (Henmo, 2022) intervjues forskeren Jørgen Randers
+om klimakrisen og demokrati. Her følger et utdrag fra intervjuet:
+«Opinionen i befolkningen er akkurat like kortsiktig som den var for 50 år siden. I 1970
+tenkte vi at hvis folk ble dobbelt så rike, så ville det muligens vært en vilje til å løse de
+ordentlige problemene i verden. På den gammeldagse måten, ved at de rike betaler for å
+hjelpe de fattige. I dag er vi fire ganger rikere enn vi var da, og det er fortsatt bare rundt tre,
+fire prosent av befolkningen som støtter disse ideene.
+For det er ikke vanskelig å løse miljøproblemene, mener han. Men det er ikke lønnsomt på
+kort sikt.
+– Det som må gjøres, er ikke lønnsomt fra et investorperspektiv. Derfor kan ikke markedene
+løse dette.
+Randers vil ha høyere skatter, mer regulering, forbud og subsidier fra staten. Men dette er det
+vanskelig å få politisk flertall for.
+– Det er derfor jeg nå er tilhenger av en autoritær stat. Mitt konkrete forslag i Norge er at
+Stortinget bør velge et overhus, som har vetorett på alle ting som endrer utslippene i Norge.
+Akkurat som Høyesterett er satt på plass for å passe på konstitusjonen, bør vi lage en
+konstitusjon for framtida, altså paragraf 113 i Grunnloven, bare litt mer utdypende, sier han.»
+Jørgen Randers hevder altså at en autoritær stat er nødvendig for å løse problemene som
+oppstår av befolkningsvekst og menneskeskapte klimaendringer. Det vil bety at demokratiet
+og borgernes frihet må begrenses til fordel for et styre basert på faglig ekspertkunnskap.
+Oppgave
+
+--- side 15 ---
+Ta utgangspunkt i det følgende standpunktet: «Vi bør begrense demokratiet i miljø- og
+klimaspørsmål.»
+a)
+Identifiser et standpunktargument i utdraget fra intervjuet med Randers.
+Standpunktargumentet kan være uavhengig eller sammensatt. Analyser argumentet, samt
+andre argumenter som er knyttet til argumentet du har valgt, ut fra prinsippene for
+argumentasjonsanalyse fra Tenk! del 1.
+b)
+Bruk teorier om frihet og demokrati som fremstilles i Tenk!, del 5, og diskuter Randers’
+forsvar for en autoritær stat ut fra disse teoriene. Vurder standpunktargumentet du har
+analysert i forlengelsen av denne diskusjonen.
+Besvarelsen behøver ikke å ha en distinkt a)-del og en b)-del, men både pkt. a) og b) må være
+behandlet på en tilfredsstillende måte for at besvarelsen som helhet skal kunne regnes som
+bestått.
+Relevant pensum
+Tenk! del 1.
+Tenk! del 5.
+Kilde til bakgrunnstekst
+Henmo, J. (2022, 11. juni). Har ropt varsko i 50 år. Klassekampen.
+https://klassekampen.no/artikkel/2022-06-11/har-ropt-varsko-i-50-
+ar/M2cL (Vedlegg/Attachment 3)
+Nærmere utdyping av krav til analyse og vurdering av argumentasjonen:
+Analyse
+• Finn standpunktargumentet du ønsker å analysere. Begrunn at argumentet er et
+standpunktargument.
+
+--- side 16 ---
+• Ta stilling til om argumentet er sammensatt eller uavhengig. Begrunn synspunktet
+ditt.
+• Finn de mest sentrale indirekte argumentene. Begrunn at dette er indirekte
+argumenter, og ta stilling til om de er sammensatte eller uavhengige.
+• Ta stilling til om det er noen viktige implisitte argumenter i argumentasjonen.
+• Ta stilling til om det finnes noen motargumenter i argumentasjonen. Avgjør om de
+handler om riktighet eller relevans.
+• Sett alle argumentene inn i et argumentdiagram, etter mønster fra Tenk!.
+Vurdering
+• Vurderingen bør ta for seg hvert enkelt argument, og si noe om henholdsvis riktighet
+og relevans. Hvis du finner eksempler på usaklig argumentasjon, bør det også
+kommenteres.
+• Vurderingen skal utelukkende handle om argumentasjonens logiske funksjon.
+• Begrunn påstandene om at et argument er riktig/uriktig og relevant/mindre relevant.
+Bruk teori fra pensum om vurdering av riktighet og relevans. Pek gjerne på
+innvendinger som svekker hvert arguments relevans.
+• Gi en samlet vurdering av argumentasjonen. Den bør si noe om i hvilken grad
+argumentasjonen lykkes i å styrke standpunktet.
+

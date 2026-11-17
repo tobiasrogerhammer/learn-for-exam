@@ -1,0 +1,1188 @@
+--- side 1 ---
+van de Poel, I. & Royakkers, L. (2011). The Responsibilities of Engineers. I I. van de
+Poel & L. Royakkers, Ethics, Technology and Engineering – An Introduction (s.
+6-30). Malden, MA & Oxford: Wiley-Blackwell
+Utdraget er klarert i henhold til Kopinoravtalen for dette semesteret: HØST 2026
+Dette materialet er vernet etter åndsverkloven og er helt eller
+delvis fremstilt etter avtale med Kopinor. Materialet kan benyttes
+av studenter som deltar i det aktuelle emnet, for egne studier, i et-
+hvert format og på enhver plattform. Uten uttrykkelig samtykke er
+annen eksemplarfremstilling og tilgjengeliggjøring bare tillatt når
+det er hjemlet i lov (kopiering til privat bruk, sitat o.l.) eller avtale
+med Kopinor (www.kopinor.no).
+This material is protected by copyright law and is wholly or partly
+produced by agreement with Kopinor. The material can be used
+by students who participate in the relevant course, for their own
+studies, in any format and on any platform. Without expressed
+consent, other copying and making available is only permitted
+when authorized by law (copying for private use, quotation, etc.)
+or agreement with Kopinor (www.kopinor.no).
+Digitalt framstilt av:
+NTNU Universitetsbiblioteket
+
+--- side 2 ---
+1
+The Responsibilities
+of Engineers
+Having read this chapter and completed its associated questions, readers should be
+able to:
+● Describe passive responsibility, and distinguish it from active responsibility;
+● Describe the four conditions of blameworthiness and apply these to concrete cases;
+● Describe the professional ideals: technological enthusiasm, effectiveness and effi-
+ciency, and human welfare;
+● Debate the role of the professional ideals of engineering for professional responsi-
+bility;
+● Show an awareness that professional responsibility can sometimes conflict with the
+responsibility as employee and how to deal with this;
+● Discuss the impact of social context of technological development for the respon-
+sibility of engineers.
+Contents
+1.1 Introduction 7 1.2 Responsibility 9 1.3 Passive Responsibility 10 1.4 Active Responsibility and the Ideals of Engineers 13 1.4.1 Technological enthusiasm 14
+1.4.2 Effectiveness and efficiency 16 1.4.3 Human welfare 18
+1.5 Engineers versus Managers 21
+1.5.1 Separatism 21
+1.5.2 Technocracy 22
+1.5.3 Whistle-blowing 23
+1.6 The Social Context of
+Technological Development 25
+1.7 Chapter Summary 28
+Study Questions 29
+Discussion Questions 30
+Ethics, Technology, and Engineering: An Introduction, First Edition.
+Ibo van de Poel and Lambèr Royakkers.
+© 2011 Ibo van de Poel and Lambèr Royakkers. Published 2011 by Blackwell Publishing Ltd.
+
+--- side 3 ---
+The Responsibilities of Engineers 7
+1.1 Introduction
+Case Challenger
+The 25th launching of the space shut-
+tle was to be something special. It was
+the first time that a civilian, the teacher
+Christa McAuliffe, or as President
+Ronald Reagan put it: “one of
+America’s finest” would go into space.
+There was, therefore, more media
+attention than usual at cold Cape
+Canaveral (Florida, United States).
+When, on the morning of January
+28, 1986, the mission controllers’
+countdown began it was almost four
+degrees Celsius below freezing point
+(or about 25 degrees Fahrenheit).
+After 73 seconds the Challenger space
+shuttle exploded 11 kilometers above
+the Atlantic Ocean. All seven astro-
+nauts were killed. At the time it was
+the biggest disaster ever in the history
+of American space travel.
+After the accident an investigation
+committee was set up to establish Figure 1.1 Challenger Space Shuttle. Photo:
+the exact cause of the explosion. The
+© Bob Pearson / AFP / Getty Images.
+committee concluded that the explo-
+sion leading to the loss of the 1.2 billion dollar spaceship was attributable to the
+failure of the rubber sealing ring (the O-ring). As the component was unable to
+function properly at low temperatures fuel had started to leak from the booster
+rocket. The fuel then caught fire, causing the Challenger to explode.
+Morton Thiokol, a NASA supplier, was the company responsible for the
+construction of the rocket boosters designed to propel the Shuttle into space.
+In January 1985 Roger Boisjoly, an engineer at the Morton Thiokol company,
+had aired his doubts about the reliability of the O-rings. In July 1985 he had
+sent a confidential memo to the Morton Thiokol management board. In that
+memo he had expressed his concerns about the effectiveness of the O-rings at
+low temperatures: “I am really afraid that if we do not take immediate steps we
+will place both the flight and the launching pad in serious danger. The conse-
+quences would be catastrophic and human lives would be put at risk.” The
+memo instantly led to a project group being set up in order to investigate the
+problem. However, the project group received from the management insuffi-
+cient material and funding to carry out its work properly. Even after one of the
+project group managers had sent a memo headed “Help!” and ending with the
+
+--- side 4 ---
+8 The Responsibilities of Engineers
+words: “This is a red flag!” to Morton Thiokol’s vice-chairman nothing con-
+crete was actually undertaken.
+On the day of the fatal flight the launching was delayed five times, partly for
+weather-related reasons. The night preceding the launching was very cold; it
+froze 10 degrees Celsius (or 14 degrees Fahrenheit). NASA engineers confessed
+to remembering having heard that it would not be safe to launch at very low
+temperatures. They therefore decided to have a telephone conference on the
+eve of the launching between NASA and Morton Thiokol representatives,
+Boisjoly also participated. The Morton Thiokol Company underlined the risk of
+the O-rings eroding at low temperatures. They had never been tested in sub-
+zero conditions. The engineers recommended that if the temperature fell below
+11 degrees Celsius (or 52 degrees Fahrenheit) then the launch should not go
+ahead. The weather forecast indicated that the temperature would not rise above
+freezing point on the morning of the launch. That was the main reason why
+Morton Thiokol initially recommended that the launch should not be allowed
+to go ahead.
+The people at NASA claimed that the data did not provide sufficient grounds
+for them to declare the launching, which was extremely important to NASA,
+unsafe. What was rather curious was the fact that the burden of proof was placed
+with those who were opposed to the launching; they were requested to prove
+that the flight would be unsafe. The official NASA policy, though, was that it
+had to be proved that it would be safe to make the flight.
+A brief consultation session was convened so that the data could once again
+be examined. While the connection was broken for five minutes the General
+Manager of Thiokol commented that a “management decision” had to be made.
+Later on several employees actually stated that shortly after the launching NASA
+would make a decision regarding a possible contract extension with the com-
+pany. It was at least the case that Boisjoly felt that people were no longer listen-
+ing to his arguments. For Morton Thiokol it was too much of a political and
+financial risk to postpone the launch. After discussing matters amongst them-
+selves the four managers present, the engineers excluded, put it to the vote.
+They were reconnected and Thiokol, ignoring the advice of Boisjoly, announced
+to NASA its positive recommendations concerning the launching of the
+Challenger. It was a decision that was immediately followed by NASA without
+any further questioning. As agreement had been reached, the whole problem
+surrounding the inadequate operating of the O-ring at low temperatures was
+not passed on to NASA’s higher management level. Several minutes after the
+launch someone of the mission control team concluded that there had: “obvi-
+ously been … a major malfunction.”
+A Presidential Commission determined that the whole disaster was due to
+inadequate communication at NASA. At the same time, they argued for a
+change in system and ethos that would ensure transparency and encourage
+whistle blowing. As a consequence, the entire space program was stopped for
+two years so that the safety of the Shuttle could be improved. Morton Thiokol
+did not lose its contract with NASA but helped, instead, to work on finding a
+
+--- side 5 ---
+The Responsibilities of Engineers 9
+solution to the O-ring problem. Engineers were given more of a say in matters.
+In the future, they will have the power to halt a flight if they had their doubts.
+Source: Based on Wirtz (2007, p. 32), Vaughan (1996), and the BBC documentary Challenger: Go
+for Launch of Blast!Films.
+In this case we see how the Challenger disaster was caused by technical error and
+inadequate communication. For the designers of the O-rings, the engineers at Morton
+Thiokol, the disaster did not have legal implications. Does that mean that the case is
+thus closed or do they bear some kind of responsibility? If so, what then is their
+responsibility? This chapter first investigates what exactly responsibility is (Section
+1.2), distinguishing between passive responsibility for things that happened in the
+past (Section 1.3) and active responsibility for things not yet attained (Section 1.4).
+The final two sections discuss the position of engineers vis-à-vis managers, which was
+obviously important in the Challenger case, the wider context of technological devel-
+opment, and examine the consequences for the responsibility of engineers of this
+wider context.
+1.2 Responsibility
+Whenever something goes wrong or there is a disaster like that of the Challenger then
+the question who is responsible for it often quickly arises. Here responsibility means
+in the first place being held accountable for your actions and for the effects of your
+actions. The making of choices, the taking of decisions but also failing to act are all
+things that we regard as types of actions. Failing to save a child who is drowning is
+therefore also a type of action. There are different kinds of responsibility that can be
+distinguished. A common distinction is between active responsibility and passive
+responsibility. Active responsibility is responsibility before something has happened. It
+refers to a duty or task to care for certain state-of-affairs or persons. Passive responsi-
+bility is applicable after something (undesirable) has happened.
+Responsibility (both active and passive) is often linked to the role that you have in
+a particular situation. In the case described here Boisjoly fulfilled the role of engineer
+and not that of, for example, family member. You often have to fulfill a number of
+roles simultaneously such as those of friend, parent, citizen, employee, engineer,
+expert, and colleague. In a role you have a relationship with others, for instance, as an
+employee you have a relationship with your employer, as an expert you have a rela-
+tionship with your customers and as a colleague you have relationships with other
+colleagues. Each role brings with it certain responsibilities. A parent, for example, is
+expected to care for his child. In the role of employee it is expected that you will
+execute your job properly, as laid down in collaboration with your employer; in the
+role of expert it will be presumed that you furnish your customer with information
+that is true and relevant and in the role of colleague you will be expected to behave in
+a collegial fashion with others in the same work situation. An engineer is expected to
+
+--- side 6 ---
+Role responsibility The responsibility
+that is based on the role one has or plays
+in a certain situation.
+10 The Responsibilities of Engineers
+carry out his work in a competent way. Roles and their accompanying responsibilities
+can be formally laid down, for instance legally, in a contract or in professional or cor-
+porate codes of conduct (see Chapter 2). In addition, there are more informal roles
+and responsibilities, like the obligations one has within a family or towards friends.
+Here, too, agreements are often made and rules are assumed but they are not usually
+put down in writing. We will call the responsibility that is based on a role you play in
+a certain context role responsibility.
+Since a person often has different roles in life
+he/she has various role responsibilities. One role
+may have responsibilities that conflict with the
+responsibilities that accompany another role.
+Boisjoly for example in the Challenger case both
+had a role as an employee and as an engineer. As an employee he was expected to be
+loyal to his company and to listen to his superiors, who eventually decided to give
+positive advice about the launch. As an engineer he was expected to give technically
+sound advice taking into account the possible risks to the astronauts and, in his view,
+this implied a negative advice with respect to the launch.
+Although roles define responsibilities, moral
+Moral responsibility Responsibility
+that is based on moral obligations,
+moral norms or moral duties.
+responsibility is not confined to the roles one plays
+in a situation. Rather it is based on the obligations,
+norms, and duties that arise from moral considera-
+Professional responsibility The
+responsibility that is based on one’s role
+as professional in as far it stays within
+the limits of what is morally allowed.
+tions. In Chapter 3, we will discuss in more detail
+what we mean with terms like morality and ethics,
+and what different kinds of ethical theories can be
+distinguished. Moral responsibility can extend
+beyond roles. In the Challenger case, it was part of
+Boisjoly’s moral responsibility to care for the con-
+sequences of his advice for the astronauts and for others. Moral responsibility can,
+however, also limit role responsibilities because with some roles immoral responsibili-
+ties may be associated. (Think of the role of Mafioso.) In this and the next chapter we
+are mainly interested in the professional responsibility of engineers. Professional
+responsibility is the responsibility that is based on your role as a professional engineer
+in as far it stays within the limits of what is morally allowed. Professional responsibili-
+ties are not just passive but they also contain an active component. We will examine
+the content of the professional responsibility of engineers in more detail in Section
+1.4, but first we turn to a more detailed description of passive responsibility.
+Passive responsibility Backward-
+looking responsibility, relevant after
+something undesirable occurred; specific
+forms are accountability,
+blameworthiness, and liability.
+1.3 Passive Responsibility
+Typical for passive responsibility is that the per-
+son who is held responsible must be able to provide
+an account why he/she followed a particular course
+of action and why he/she made certain decisions.
+In particular, the person is held to justify his/her
+actions towards those who are in a position to
+
+--- side 7 ---
+The Responsibilities of Engineers 11
+demand that the individual in question accounts for his/her actions. In the case of the Challenger, NASA had to be able to render account for its actions to the families of the victims, to society, and Accountability Backward-lookin
+responsibility in the sense of being
+g
+held
+to account for, or justify one’s actio
+ns
+towards others.
+to the sitting judge. We will call this type of passive
+responsibility accountability .
+Passive responsibility often involves not just accountability but also blameworthiness. Blame- worthiness means that it is proper to blame some- one for his/her actions or the consequences of those actions. You are not always blameworthy for the consequences of your actions or for your actions Blameworthiness Backward-look
+ing
+responsibility in the sense of being
+a
+proper target of blame for one’s act
+ions
+or the consequences of one’s action
+s. In
+order for someone to be blamewort
+hy,
+usually the following conditions ne
+ed to
+apply: wrong-doing, causal contrib
+ution,
+foreseeability, and freedom.
+themselves. Usually, four conditions need to apply:
+wrong-doing, causal contribution, foreseeability,
+and freedom. The extent to which you can be blamed is determined by the degree to
+which these conditions are fulfilled. The four conditions will be illustrated on the basis
+of the Challenger disaster.
+Wrong-doing
+Whenever one blames a person or institution one usually maintains that in carrying
+out a certain action the individual or the institution in question has violated a norm
+or did something wrong. This can be a norm that is laid down in the law or that is
+common in the organization. In the Challenger case, for example, NASA violated the
+norm that a flight had to be proven to be safe. Instead the burden of proof was
+reversed in this case. In this book, we are not just interested in legal and organiza-
+tional norms, but in moral ones. We will therefore investigate different kind of ethical
+frameworks that can be applied in judging the moral rightness or wrongness of actions
+and their consequences. This includes ethical frameworks such as your own conscience
+and moral beliefs but also codes of conduct (Chapter 2) and ethical theories (Chapter 3).
+Together these frameworks form a means of thinking about how one can arrive at
+what is good, and how one can act in the right way.
+Causal contribution
+A second criterion is that the person who is held responsible must have made a causal
+contribution to the consequences for which he or she is held responsible. Two things
+are to be kept in mind when judging whether someone made a causal contribution to
+a certain consequence. First, not only an action, but also a failure to act may often be
+considered a causal contribution, like in the case of the Challenger the failure to stop
+the launch. Second, a causal contribution is usually not a sufficient condition for the
+occurrence of the consequence under consideration. Often, a range of causal contri-
+butions will have to be present for the consequence to occur. A causal contribution
+will often be a necessary ingredient in the actual chain of events that led to the conse-
+quence, that is, without the causal contribution the consequence would not have
+occurred.
+Both the NASA project team and the Morton Thiokol management team made a
+causal contribution to the disaster because both could have averted the disaster by
+
+--- side 8 ---
+12 The Responsibilities of Engineers
+postponing the launch. In fact, before the Challenger could be launched, both teams
+needed to make a positive decision. The engineer, Boisjoly, maintained that he no
+longer had the chance to take action. Internally he had done everything in his power
+to prevent the consequences but he did not have enough influence. In retrospect he
+could possibly have gone public by informing the press. He should also possibly have
+intervened earlier on in the process – before the telephone conference – to ensure that
+the O-ring problem had been tackled more successfully.
+Foreseeability
+A person who is held responsible for something must have been able to know the
+consequences of his or her actions. The consequences are the harm actually arising
+from transgressing a norm. People cannot be held responsible if it is totally unreason-
+able to expect that they could possibly have been aware of the consequences. What we
+do expect is that people do everything that is reasonably possible to become acquainted
+with the possible consequences.
+In the Challenger case engineer Boisjoly, the Morton Thiokol management team
+and the NASA representatives (the project team) could all have expected the Challenger
+disaster because all three were aware of the risks of erosion when the O-rings are
+exposed to low temperatures, a factor which thus meant that safe launching could not
+be guaranteed under such conditions. Though there was no conclusive scientific evi-
+dence that the launching was unsafe, all parties were certainly aware of the danger of
+a possible disaster, which means that the condition of foreseeability was fulfilled.
+Freedom of action
+Finally, the one who is held responsible must have had freedom of action, that is, he
+or she must not have acted under compulsion. Individuals are either not responsible
+or are responsible to a lesser degree if they are, for instance, coerced to take certain
+decisions. The question is, however, what exactly counts as coercion. A person can,
+for example, be “forced” or manipulated to work on the development of a particular
+technology under the threat that if he does not cooperate he will sacrifice his chances
+of promotion. In this case, this person is strictly speaking not coerced to work on the
+development of the particular technology, he can still act differently. Therefore the
+person remains responsible for his actions. However, since he is also not entirely free
+we could say that his responsibility is somewhat smaller than in the case where he had
+freely chosen to be involved in the development of this technology.
+The NASA project team was under pressure. The launch had already been post-
+poned several times, which meant that the time available for other space missions was
+becoming very limited. There was also the pressure of the eager public, largely because
+of the presence of McAuliffe. Morton Thiokol might also have felt the pressure of
+NASA because negative recommendations could well have prevented further coop-
+eration with NASA and that would have had its financial consequences. The possi-
+bilities open to the engineer Boisjoly were limited. The only thing he could have
+possibly done to prevent the disaster was inform the press but that would have had
+negative consequences (e.g., dismissal) for him and his family. In all three cases, the
+pressure was probably not strong enough to say that NASA, Morton Thiokol, or
+Boisjoly lacked freedom of action; they could have done other things than they actually
+
+--- side 9 ---
+The Responsibilities of Engineers 13
+did, they were not compelled to act as they did. Nevertheless, especially in the case of
+Boisjoly you could argue that the negative personal consequences he could expect
+diminished his responsibility.
+1.4 Active Responsibility and the Ideals of Engineers
+We considered above questions of responsibility when something has gone wrong.
+Responsibility is also something that comes into play beforehand, if nothing has yet
+gone wrong or if there is the chance to realize
+something good. We will refer to this as active responsibility. If someone is actively responsible for something he/she is expected to act in such a way that undesired consequences are avoided as much as possible and so that positive consequences
+are realized. Active responsibility is not primarily
+about blame but requires a certain positive attitude or character trait of dealing with
+matters. Philosophers call such positive attitudes or character traits virtues (see Chapter 3).
+Active responsibility, moreover, is not only about preventing the negative effects of
+technology as about realizing certain positive effects.
+Active responsibility Responsibility
+before something has happened
+referring to a duty or task to care for
+certain state-of-affairs or persons.
+Active Responsibility
+Mark Bovens mentions the following features of active responsibility:
+● Adequate perception of threatened violations of norms;
+● Consideration of the consequences;
+● Autonomy, i.e. the ability to make one’s own independent moral decisions;
+● Displaying conduct that is based on a verifiable and consistent code; and
+● Taking role obligations seriously. (Bovens, 1998)
+One way in which the active responsibility of engi- neers can be understood is by looking at the ideals of engineers. Ideals, as we will understand the notion here, have two specific characteristics. First ideals are ideas or strivings which are particularly
+motivating and inspiring for the person having
+them. Second, it is typical for ideals that they aim at achieving an optimum or maxi-
+mum. Often, therefore, ideals cannot be entirely achieved but are strived for. In the
+course of practicing their profession engineers can be driven by several ideals. Those
+can be personal ideals such as the desire to earn a lot of money or to satisfy a certain
+degree of curiosity but they can also be social or moral ideals, such as wanting to
+implement technological ends to improve the world. Those are also the types of ideals
+Ideals Ideas or strivings which are
+particularly motivating and inspiring fo
+r
+the person having them, and which ai
+mat achieving an optimum or maximum.
+
+--- side 10 ---
+Professional ideals Ideals that are
+closely allied to a profession or can only
+be aspired to by carrying out the
+profession.
+14 The Responsibilities of Engineers
+that can spur people on to opt for an engineering
+field of study and career. Some of these ideals are
+directly linked to professional practice because they
+are closely allied to the engineering profession or
+can only be aspired to by carrying out the profes-
+sion of engineer. We call such ideals professional
+ideals. As professional ideals, these ideals are part of professional responsibility in as far
+they stay within the limits of what is morally allowed. Below, we shall therefore discuss
+three different professional ideals of engineers and we shall establish whether these
+ideals are also morally commendable.
+Technological enthusiasm The ideal
+of wanting to develop new technological
+possibilities and taking up technological
+challenges.
+1.4.1 Technological enthusiasm
+Technological enthusiasm pertains to the ideal of
+wanting to develop new technological possibilities
+and take up technological challenges. This is an ideal
+that motivates many engineers. It is fitting that
+Samuel Florman refers to this as “the existential
+pleasures of engineering” (Florman, 1976). One
+good example of technological enthusiasm is the development of Google Earth, a pro-
+gram with which, via the Internet, it is possible to zoom in on the earth’s surface. It is a
+beautiful concept but it gives rise to all kinds of moral questions, for instance in the area
+of privacy (you can study the opposite neighbor’s garden in great detail) and in the
+field of security (terrorists could use it to plan attacks). In a recent documentary on the
+subject of Google Earth one of the program developers admitted that these are impor-
+tant questions.1 Nevertheless, when developing the program these were matters that
+the developers had failed to consider because they were so driven by the challenge of
+making it technologically possible for everyone to be able to study the earth from
+behind his or her PC.
+Technological enthusiasm in itself is not morally improper; it is in fact positive for
+engineers to be intrinsically motivated as far as their work is concerned. The inherent
+danger of technological enthusiasm lies in the possible negative effects of technology
+and the relevant social constraints being easily overlooked. This has been exemplified
+by the Google Earth example. It is exemplified to an extreme extent by the example
+of Wernher von Braun (see box).
+Wernher von Braun (1912–77)
+Wernher von Braun is famous for being the creator of the space program that
+made it possible to put the first person on the moon on July 20, 1969. A couple
+of days before, on July 16, the Apollo 11 spaceship used by the astronauts to
+travel from the earth had been launched with the help of a Saturn V rocket and
+Von Braun had been the main designer of that rocket. Sam Phillips, the direc-
+tor of the American Apollo program, was reported to have said that without
+
+--- side 11 ---
+The Responsibilities of Engineers 15
+Von Braun the Americans
+would never have been able to
+reach the moon as soon as they
+did. Later, after having spoken
+to colleagues, he reviewed his
+comment by claiming that with-
+out Von Braun the Americans
+would never have landed on
+the moon full stop.
+Von Braun grew up in
+Germany. From an early age
+he was fascinated by rocket
+technology. According to one
+anecdote Von Braun was not
+particularly brilliant in phys-
+ics and mathematics until he
+read a book entitled Die Rakete
+zu den Planetenraümen by
+Hermannn Oberth and real-
+ized that those were the sub-
+jects he would have to get to F
+igure 1.2 Wernher von Braun. Photo: NASA
+grips with if he was later going
+A
+rchives.to be able to construct rock-
+ets. In the 1930s Von Braun was involved in developing rockets for the German
+army. In 1937 he joined Hitler’s National Socialist Party and in 1940 he became
+a member of the SS. Later he explained that he had been forced to join that
+party and that he had never participated in any political activities, a matter that
+is historically disputed. What is in any case striking is the argument that he in
+retrospect gave for joining the National Socialist Party which was this: “My
+refusal to join the party would have meant that I would have had to abandon
+the work of my life. Therefore, I decided to join” (Piszkiewicz (1995, p. 43).
+His life’s work was, of course, rocket technology and a devotion to that cause
+was a constant feature of Von Braun’s life.
+During World War II Von Braun played a major role in the development of
+the V2 rocket, which was deployed from 1944 onwards to bomb, amongst
+other targets, the city of London. Incidentally more were killed during the
+V2-rocket’s development and production – an estimated 10 000 people – than
+during the actual bombings (Neufeld, 1995, p. 264). The Germans had
+deployed prisoners from the Mittelbau-Dora concentration camp to help in the
+production of the V2 rockets. Von Braun was probably aware of those people’s
+abominable working conditions.
+There is, therefore, much to indicate that Von Braun’s main reason for want-
+ing to join the SS was carefully calculated: in that way he would be able to
+continue his important work in the field of rocket technology. In 1943 he was
+
+--- side 12 ---
+16 The Responsibilities of Engineers
+arrested by the Nazis and later released. It was claimed that he had allegedly
+sabotaged the V2 program. One of the pieces of evidence used against him was
+that he had apparently said that after the war the V2 technology should be fur-
+ther developed in the interests of space travel – and that is indeed what ulti-
+mately happened when he later started to work for the Americans. When, in
+1945, Von Braun realized that the Germans were going to lose the war he
+arranged for his team to be handed over to the Americans.
+In the United States Von Braun originally worked on the development of
+rockets for military purposes but later he fulfilled a key role in the space travel
+program, a program that was ultimately to culminate in man’s first steps on the
+moon. Von Braun’s big dream did therefore ultimately come true.
+Source: Based on Stuhlinger and Ordway (1994), Neufeld (1995), and Piszkiewicz (1995).
+Effectiveness The extent to which an
+established goal is achieved.
+Efficiency The ratio between the goal
+achieved and the effort required.
+1.4.2 Effectiveness and efficiency
+Engineers tend to strive for effectiveness and effi-
+ciency. Effectiveness can be defined as the extent
+to which an established goal is achieved; efficiency
+as the ratio between the goal achieved and the
+effort required. The drive to strive towards effec-
+tiveness and efficiency is an attractive ideal for engi-
+neers because it is – apparently – so neutral and
+objective. It does not seem to involve any political or moral choices, which is some-
+thing that many engineers experience as subjective and therefore wish to avoid.
+Efficiency is also something that in contrast, for example, to human welfare can be
+defined by engineers and is also often quantifiable. Engineers are, for example, able to
+define the efficiency of the energy production in an electrical power station and they
+can also measure and compare that efficiency. An example of an engineer who saw
+efficiency as an ideal was Frederick W. Taylor (see box).
+Frederick W. Taylor (1856–1915)
+Frederick Taylor was an American mechanical engineer. He became known as
+the founder of the efficiency movement and was specifically renowned for develop-
+ing scientific management also known as Taylorism.
+Out of all his research Taylor became best known for his time-and- motion
+studies. There he endeavored to scientifically establish which actions –
+movements – workers were required to carry out during the production process
+and how much time that took. He divided the relevant actions into separate
+movements, eliminated all that was superfluous and endeavored, with the aid of
+a stopwatch, to establish precisely how long the necessary movements took. His
+
+--- side 13 ---
+The Responsibilities of Engineers 17
+aim was to make the whole produc-
+tion process as efficient as possible on
+the basis of such insight. Taylorism is
+often seen as an attempt to squeeze
+as much as possible out of workers
+and in practice that was often what it
+amounted to but that had probably
+not been Taylor’s primary goal. He
+believed that it was possible to deter-
+mine, in a scientific fashion, just what
+would be the best way of carrying
+out production processes by organ-
+izing such processes in such a way
+that optimal use could be made of
+the opportunities provided by work-
+ers without having to demand too
+much of them. He maintained that
+his approach would put an end to the
+on-going conflict between the trade
+unions and the managerial echelons,
+thus making trade unions redundant.
+He was also critical of management
+which he found unscientific and inef-
+Figure 1.3 Frederick Taylor. Photo:
+Bettmann Archive/Corbis.
+ficient. To his mind having the insight
+of engineers and their approach to things would culminate in a better and more
+efficient form of management.
+In 1911 Taylor published his The Principles of Scientific Management in which
+he explained the four principles of scientific management:
+● Replace the present rules of thumb for working methods with methods
+based on a scientific study of the work process.
+● Select, train and develop every worker in a scientific fashion instead of allow-
+ing workers to do that themselves.
+● Really work together with the workers so that the work can be completed
+according to the developed scientific principles.
+● Work and responsibility are virtually equally divided between management
+and workers. The management does the work for which it is best equipped:
+applying scientific management principles to plan the work; and the workers
+actually perform the tasks.
+Though Taylor was a prominent engineer – for a time he was, for instance,
+president of the influential American Society of Mechanical Engineers (ASME) –
+he only had a limited degree of success when it came to the matter of conveying
+his ideas to people. They were not embraced by all engineers but, thanks to a
+
+--- side 14 ---
+18 The Responsibilities of Engineers
+number of followers, they were ultimately very influential. They fitted in well
+with the mood of the age. In the United States the first two decades of the
+twentieth century were known as the “Progressive Era.” It was a time when
+engineers clearly manifested themselves as a professional group capable of
+promoting the interests of industry and society. It was frequently implied that
+the engineering approach to social problems was somehow superior. Taylor’s
+endeavors to achieve a form of management that was efficient and scientific
+fitted perfectly into that picture.
+Source: Based on Taylor (1911), Layton (1971), and Nelson (1980).
+Though many engineers would probably not have taken things as far as Taylor did, his
+attempt to efficiently design the whole production process – and ultimately society as
+a whole – constituted a typical engineering approach to matters. Efficiency is an ideal
+that endows engineers with authority because it is something that – at least at first
+sight – one can hardly oppose and that can seemingly be measured objectively. The
+aspiration among engineers to achieve authority played an important part in Taylor’s
+time. In the United States the efficiency movement became an answer to the rise of
+large capitalistic companies where managers ruled and engineers were mere subordi-
+nate implementers. It constituted an effort to improve the position of the engineer in
+relation to the manager. What Taylor was really arguing was that engineers were the
+only really capable managers.
+From a moral point of view, however, effectiveness and efficiency are not always
+worth pursuing. That is because effectiveness and efficiency suppose an external goal in
+relation to which they are measured. That external goal can be to consume a minimum
+amount of non-renewable natural resources to generate energy, but also war or even
+genocide. It was no coincidence that Nazi engineers like Eichmann were proud of the
+efficient way in which they were able to contribute to the so-called “resolving of the
+Jewish question” in Europe which was to lead to the murdering of six million Jews and
+other groups that were considered inferior by the Nazis like Gypsies and mental patients
+(Arendt, 1965). The matter of whether effectiveness or efficiency is morally worth pur-
+suing therefore depends very much on the ends for which they are employed. So,
+although some engineers have maintained the opposite, the measurement of the effec-
+tiveness and efficiency of a technology is value-laden. It proposes a certain goal for
+which the technology is to be employed and that goal can be value-laden. Moreover, to
+measure efficiency one need to calculate the ratio between the output (the external
+goal) and the input, and also the choice of the input may be value-laden. A technology
+may for example be efficient in terms of costs but not in terms of energy consumption.
+1.4.3 Human welfare
+A third ideal of engineers is that of contributing to or augmenting human welfare.
+The professional code of the American Society of Mechanical Engineering (ASME)
+and of the American Society of Civil Engineers (ASCE) states that “engineers shall use
+
+--- side 15 ---
+The Responsibilities of Engineers 19
+their knowledge and skill for the enhancement of human welfare.” This also includes
+values such as health, the environment, and sustainability. According to many profes-
+sional codes that also means that: “Engineers shall hold paramount the safety, health
+and welfare of the public” (as, for example, stated by the code of the National Society
+of Professional Engineers, see Chapter 2). It is worth noting that the relevant values
+will differ somewhat depending on the particular engineering specialization. In the
+case of software engineers, for instance, values such as the environment and health will
+be less relevant whilst matters such as the privacy and reliability of systems will be
+more important. One of the most important values that falls under the pursuit of
+human welfare among engineers is safety. One of the engineers who was a great pro-
+ponent of safety was the Dutch civil engineer Johan van Veen.
+Johan van Veen (1893–1959)
+Figure 1.4 Netherlands. Viewed from a US Army helicopter, a Zuid Beveland town
+gives a hint of the tremendous damage wrought by the 1953 flood to Dutch islands.
+Photo: Agency for International Development/National Archives, Washington (ARC
+Identifier 541705).
+Johan van Veen is known as the father of the Delta Works, a massive plan devised
+to protect the coasts of the South-western part of the Netherlands which mate-
+rialized after the flood disaster of 1953. During the disaster 1835 people died
+and more than 72 000 were forced to evacuate their homes.
+
+--- side 16 ---
+20 The Responsibilities of Engineers
+Before the disaster occurred there were indications that the dykes were not up to
+standard. In 1934 it was discovered that a number of dykes were probably too low.
+In 1939 Wemelsfelder, a Public Works Agency employee working for the Research
+Service for the Estuaries, Lower River Reaches and Coasts sector, was able to sup-
+port that assumption with a series of models. Even before the big disaster of 1953
+Johan van Veen had emphasized the need to close off certain estuaries.
+Van Veen studied civil engineering in Delft before then going on, in 1929, to
+work for the Research Service which he was later to head. On the basis of his
+interest in the history of hydraulic engineering and his activities with the Public
+Works Agency, he gradually became convinced that the danger posed by storm-
+driven flooding had been vastly underestimated and that the dykes were indeed
+too low. Van Veen was quite adamant about his beliefs which soon earned him
+the nickname, within the service, of “the new Cassandra” after the Trojan priest-
+ess who had perpetually predicted the fall of Troy. He even adopted the pseu-
+donym Cassandra in the epilogue to the fourth edition of his book Dredge,
+Drain, Reclaim that was published in 1955. According to Van Veen, Cassandra
+had been warning people about the too low state of the dykes since 1937. In the
+fifth edition of his book, which appeared in 1962, Van Veen revealed that he was
+in fact Cassandra. Van Veen’s reporting of the lowness of the dykes was not
+something that was welcomed. In fact it was deliberately kept secret to the pub-
+lic. It is even said that Van Veen was sworn to silence on the matter.
+In 1939 Van Veen became secretary of the newly created Storm Flood
+Committee. In that capacity he was given the space to elaborate several of his
+plans for the further defense of the Netherlands. In public debates he consist-
+ently based his arguments for those plans on the need to combat silting up and
+the formation of salt-water basins. Undoubtedly that was because even then he
+was unable to publicly air his views about safety.
+Even though pre-1953 there was growing doubt within the Public Works
+Agency as to the ability of the existing dykes to be able to withstand a storm-driven
+flood that was not a matter that became publicly known. It was not only the Public
+Works Agency and the relevant minister that kept quiet about the possibility of a
+flood disaster. At that time the press was not keen to publish such doom and
+gloom stories either. As there was little or no publicity about the inadequacy of the
+dykes the inhabitants of Zeeland were thus totally surprised by the disaster. There
+are no indications that in the period leading up to 1953 steps were taken to improve
+the storm warning systems and the aid networks. If that had happened then
+undoubtedly considerably fewer people would have lost their lives.
+Source: Based on ten Horn-van Nispen (2002), Van der Ham (2003), and De Boer (1994).
+From a moral point of view the professional ideal of human welfare is hardly contest-
+able. One could maybe wonder whether serving human welfare is a moral obligation
+for engineers, but if they choose to do so this seems certainly laudable. Therefore
+from a moral angle, this ideal has another status than the other two ideals discussed
+
+--- side 17 ---
+The Responsibilities of Engineers 21
+above. As we have seen technological enthusiasm and effectiveness and efficiency are
+ideals that are not necessarily morally commendable, although they are also not always
+morally reprehensible; in both cases much depends on the goals for which technology
+is used and the side-effects so created. Both ideals, moreover, carry the danger of
+forgetting about the moral dimension of technology. On the other hand, the ideal of
+human welfare confirms that the professional practice of engineers is not something
+that is morally neutral and that engineers do more than merely develop neutral means
+for the goals of others.
+1.5 Engineers versus Managers
+Engineers are often salaried employees and they are usually hierarchically below man-
+agers. Just as with other professionals this can lead to situations of conflict because they
+have, on the one hand, a responsibility to the company in which they work and, on the
+other hand, a professional responsibility as engineers, including – as we have seen – a
+responsibility for human welfare. We will discuss below three models of dealing with
+this tension and the potential conflict between engineers and managers: separatism,
+technocracy, and whistle-blowing. These three models are positions that engineers can
+adopt versus managers in specific situations, but they also reflect more general social
+frameworks for dealing with the potential tension between engineers and managers.
+1.5.1 Separatism
+Several months after the Challenger disaster Boisjoly, the engineer, said the following:
+“I must emphasize, I had my say, and I never [would] take [away] any management
+right to take the input of an engineer and then make a decision based upon that
+input … I have worked at a lot of companies … and I truly believe that … there was
+no point in me doing anything further [other] than [what] I had already attempted
+to do” Goldberg (1987, p. 156). It is a view that
+fits into what might be termed separatism: “the
+notion that scientists and engineers should apply
+the technical inputs, but appropriate management
+and political organs should make the value deci-
+Separatism The notion that scientists
+and engineers should apply the technical
+inputs, but appropriate management and
+political organs should make the value
+decisions.
+sions” (Goldberg, 1987, p. 156). Separatism is well
+illustrated by the tripartite model.
+In the tripartite model three separate segments
+are distinguished (Figure 1.5). The first segment
+contains politicians, policy makers, and managers
+who establish the objectives for engineering projects
+and products and make available resources without
+intervening in engineering matters. They also stake
+Tripartite model A model that
+maintains that engineers can only be held
+responsible for the design of products
+and not for wider social consequences or
+concerns. In the tripartite model three
+separate segments are distinguished: the
+segment of politicians; the segment of
+engineers; and the segment of users.out the ultimate boundaries of the engineering
+projects. The second segment relates to the engi-
+neers who take care of the designing, developing, creating, and executing of those
+projects or products. The final segment, the users, includes those who make use of the
+
+--- side 18 ---
+22 The Responsibilities of Engineers
+Politicians
+Principals Designing engineers Users
+Managers
+(anticipated) customers
+Figure 1.5 The tripartite model.
+“Hired gun” Someone who is willing
+to carry out any task or assignment from
+his employer without moral scruples.
+various technologies. According to this model engineers can only be held responsible
+for the technical creation of products.
+The tripartite model (see, for example, Van de Poel (2001); originally based on Boers
+(1981)) is based on the assumption that the responsibility of engineers is confined to the
+engineering choices that they make. The formulation of the design assignment, the way
+in which the technology is used and the consequences of all of that are not thus consid-
+ered to be part of the responsibility of engineers. According to this view the responsibil-
+ity of engineers limits itself to the professional responsibility that they have to their
+employer, customer, and colleagues, excluding the general public. The case of Werner
+von Braun illustrates this well. Von Braun was reconciled to the subordinate role of
+engineers but perpetually sought ways of pursuing his technological ideals and, in doing
+so, displayed a degree of indifference to the social consequences of the application of his
+work and to the immoral intentions of those who had commissioned the task. His creed
+must have been: “In times of war, a man has to stand up for his country, as a combat
+soldier as a scientist or as an engineer, regardless of whether or not he agrees with the
+policy his government is pursuing” (Stuhlinger and Ordway, 1994, p. xiii). It is a role
+that might alternatively be described as being that of
+a “hired gun.” The dangerous side of this role can
+perhaps best be summed up in the words of the song
+text of the American satirist Tom Lehrer2:
+Once the rockets go up
+Who cares where they come down
+“that’s not my department,”
+said Wernher von Braun.
+Technocracy Government by experts.
+1.5.2 Technocracy
+An alternative for the engineer as a “hired gun” is offered by Frederick Taylor. He
+proposed that engineers should take over the role of managers in the governance of
+companies and that of politicians in the governance
+of society. This proposal would lead to the establish-
+ment of a technocracy, that is, government by
+experts. Accordingly, the role of engineers would be
+e basis of technological insight, do what they consider that of technocrats who, on th
+best for a company or for society. The role of technocrats is problematic for a number
+of reasons. First, it is not exactly clear what unique expertise engineers possess that
+permit them to legitimately lay claim to the role of technocrats. As we have seen, con-
+cealed behind the use of apparently neutral terms like efficiency there is a whole world
+
+--- side 19 ---
+The Responsibilities of Engineers 23
+of values and conflicting interests. Admittedly engineers do have specific technological
+knowledge and they do know about, for example, the risks that may be involved in a
+technology. When it comes to the underlying goals that should be pursued through
+technology or the acceptable levels of risk they are not any more knowledgeable than
+others (the technocratic fallacy, see Chapter 4). A second objection to technocracy is
+that it is undemocratic and paternalistic. We speak
+of paternalism when a certain group of individuals,
+in this case engineers, make (moral) decisions for
+others on the assumption that they know better
+what is good for them than those others themselves.
+In that way paternalism denies that people have the
+right to shape their own lives. That clashes with the people’s moral autonomy – the
+ability of people to decide for themselves what is good and right. Moral autonomy is
+often considered an important moral value.
+Paternalism The making of (moral)
+decisions for others on the assumption
+that one knows better what is good for
+them than those others themselves.
+1.5.3 Whistle-blowing
+Case Inez Austin
+Inez Austin was one of the few female engineers at the company Westinghouse
+Hanford, when in 1989 she became senior process engineer for that company
+at the Hanford Nuclear Site, a former plutonium production facility in the state
+of Washington in the United States. In June 1990, she refused for safety reasons
+to approve a plan to pump radioactive waste from an old underground single-
+shell tank to a double-shell tank. Her refusal let to several retaliatory actions by
+her employer. In 1990 she received the lowest employee ratings in all her 11
+years at the company. Doubts were raised about the state of her mental health
+and she was advised to see a psychiatrist. In 1992, Austin received the Scientific
+Freedom and Responsibility Award from the American Association for the
+Advancement of Science (AAAS) “for her courageous and persistent efforts
+to prevent potential safety hazards involving nuclear waste contamination.
+Ms. Austin’s stand in the face of harassment and intimidation reflects the para-
+mount professional duty of engineers – to protect the public’s health and
+safety – and has served as an inspiration to her co-workers.” Nevertheless, after
+a second whistle blowing incident, relating to the safety and legality of untrained
+workers, her job was terminated in 1996.
+Source: Based on http://www.onlineethics.org/CMS/profpractice/exempindex/austinindex.aspx
+(Accessed September 22, 2009).
+A third role model is offered by Van Veen. Just like Boisjoly he accepted, to an impor-
+tant extent, his subordinate role as engineer but he did endeavor to find channels,
+internally and externally, to air his grievances on safety. Though he never went public
+
+--- side 20 ---
+Whistle-blowing The disclosure of
+certain abuses in a company by an
+employee in which he or she is
+employed, without the consent of his/
+her superiors, and in order to remedy
+these abuses and/or to warn the public
+about these abuses.
+24 The Responsibilities of Engineers
+as such his role verges on that of whistle-blower as
+he/she reported internal wrongs exter nally in order
+to warn society. An example of a whistle-blower is
+given in the boxed case on Inez Austin. The term
+whistle-blowing is used if an employee discloses
+certain abuses in a company in which he/she is
+employed without the consent of his/her superiors
+and in order to remedy these abuses and/or to warn
+the public about these abuses (cf. Martin and
+Schinzinger, 1996, p. 247). Abuses do not only include the endangerment of public
+health, safety, or the environment but also indictable offences, violation of the law and
+of legislation, deception of the public or the government, corruption, fraud, destroy-
+ing or manipulating information, and abuse of power, including sexual harassment
+and discrimination. As the box shows whistle-blowing may well lead to conflicts with
+the employer. In fact, whistle blowers often pay a huge price possibly involving not
+only losing their job but also the very difficult task of getting hired again, and even
+the loss of friends and family.3
+Guidelines for Whistle-Blowing
+Business ethicist Richard De George has proposed the following guidelines, for
+when whistle-blowing is morally required:
+1 The organization to which the would-be whistleblower belongs will, through
+its product or policy, do serious and considerable harm to the public (whether
+to users of its product, to innocent bystanders, or to the public at large).
+2 The would-be whistleblower has identified that threat of harm, reported it
+to her immediate superior, making clear both the threat itself and the objec-
+tion to it, and concluded that the superior will do nothing effective.
+3 The would-be whistleblower has exhausted other internal procedures within
+the organization (for example, by going up the organizational ladder as far
+as allowed) – or at least made use of as many internal procedures as the dan-
+ger to others and her own safety make reasonable.
+4 The would-be whistleblower has (or has accessible) evidence that would
+convince a reasonable, impartial observer that her view of the threat is
+correct.
+5 The would-be whistleblower has good reason to believe that revealing the
+threat will (probably) prevent the harm at reasonable cost (all things consid-
+ered). (De George, 1990)
+Whistle-blowers are often seen as people who are morally to be commended. It does
+not, however, seem desirable to let the professional ethics of engineers – or people of
+any other profession – be exclusively dependent on such practices. Although whistle-
+blowing may sometimes be unavoidable, as a general social framework for dealing
+
+--- side 21 ---
+The Responsibilities of Engineers 25
+with the potential tension between engineers and managers, it is unsatisfactory. In the
+first place whistle-blowing usually forces people to make big sacrifices and one may
+question whether it is legitimate to expect the average professional to make such sac-
+rifices. In the second place the effectiveness of whistle-blowing is often limited because
+as soon as the whistle is blown the communication between managers and profession-
+als has inevitably been disrupted. It would be much more effective if at an earlier stage
+the concerns of the professionals were to be addressed but in a more constructive way.
+This demands a role model in which the engineer as professional is not necessarily
+opposed to the manager. It means that engineers have to be able to recognize moral
+questions in their professional practice and discuss them in a constructive way with
+other parties.
+1.6 The Social Context of Technological Development
+Engineers are not the only ones who are responsible for the development and conse-
+quences of technology. Apart from managers and engineers there are other actors that
+influence the direction taken by technological devel-
+opment and the relevant social consequences. We use the term actor here for any person or group that can make a decision how to act and that can act on that Actor Any person or group that ca
+n
+make a decision how to act and that
+can act on that decision.
+decision. A company is an actor because it usually has
+a board of directors that can make decisions on behalf of that company and is able to
+effectuate those decisions. A mob on the other hand is usually not an actor. A variety
+of actors can be distinguished that usually play a role in technological development:
+● Developers and producers of technology. This
+includes engineering companies, industrial labo-
+ratories, consulting firms, universities and research
+centers, all of which usually employ scientists and
+engineers.
+● Users who use the technology and formulate cer-
+tain wishes or requirements for the functioning of
+the technology. The users of technologies are a
+very diverse group, including both companies
+and citizens (consumers).
+● Regulators such as the government, who formu-
+late rules or regulations that engineering products
+have to meet such as rulings concerning health and
+safety, but also rulings linked to relations between
+competitors. Regulators can also stimulate certain
+technological advances by means of subsidies.
+Also other actors may be involved in technological development including, for
+example, professional associations, educational institutes, interest groups and trade
+unions (see Figure 1.6). All these actors have certain interests, – things they strive for
+Users People who use a technology
+and who may formulate certain wishes
+or requirements for the functioning of
+a technology.
+Regulators Organizations who
+formulate rules or regulations that
+engineering products have to meet
+such as rulings concerning health
+and safety, but also rulings linked to
+relations between competitors.
+Interests Things actors strive for
+because they are beneficial or
+advantageous for them.
+
+--- side 22 ---
+26 The Responsibilities of Engineers
+Figure 1.6 Technological development map of actors.
+Stakeholders Actors that have an
+interest (“a stake”) in the development
+of a technology.
+because they are beneficial or advantageous for them. The interests of the various
+actors will often conflict, so that there is no agreement on the desirable direction of
+technological development.
+In addition to actors that influence the direction of technological development we
+distinguish stakeholders. Stakeholders are actors
+that have an interest (“a stake”) in the development
+of a technology, but who cannot necessarily influ-
+ence the direction of technological development. An
+example is people living in the vicinity of a planned
+construction site for a nuclear plant. Obviously these
+people have an interest in what type of reactor is built and how safe it is but they may
+not be able to influence the technology developed. Of course, such groups may organ-
+ize themselves and try to get a say in technological development and they may do so
+more or less successfully. Stakeholders are not only relevant because they may become
+actors that actually influence technological development, they are also important from
+a moral point of view. As we have seen, stakeholders are actors whose interests are at
+stake in technological development. It is often assumed that morality and ethics
+require that we do not just neglect the interest of those actors because they are power-
+less but that we should somehow take them into account.4
+Case The Invention of Teflon
+Roy Plunkett – a 28-year-old chemist at Du Pont – was requested in 1938 to
+develop a new, non-poisonous coolant for fridges. He therefore filled a metal
+tube with a little-used mixture and with tetrafluorethyleen that would perhaps
+possess cooling qualities. When he went to get the mixture out of the tube
+nothing came out but the tube was 60 grams heavier than normal. There there-
+fore had to be something in it. After having sawn open the tube it was discov-
+ered that a pale and fatty, wax-like, white powder was stuck to the side. Nobody
+
+--- side 23 ---
+The Responsibilities of Engineers 27
+knew what it was so they began to experiment with the substance which turned
+out to be completely unique. It was given the name Teflon, after ‘tef’ – the
+nickname given by chemists to tetrafluorethyleen – followed by ‘lon’ – a suffix
+that Du Pont frequently used for its new products.
+Du Pont devoted a great deal of time and money to discovering the exact
+characteristics of Teflon. It turned out to be complicated and expensive to
+produce Teflon. The first time that it was ever used was during World War II
+in order to reinforce the closing rings of the atom bomb. Teflon thus remained
+a state secret. It was not until 1946 that it was introduced to the general
+public.
+Teflon has nowadays a wide range of uses. It is maybe best known as coat-
+ing for non-stick frying pans. Although Teflon was long seen as a wonder
+material, it has recently come under some suspicion. In 2005, the Scientific
+Advisory Board of the Environmental Protection Agency (EPA) in the US
+found that perfluorooctanoic acid (PFOA), a chemical compound used to
+make Teflon, is “likely carcinogenic;” although EPA stresses (in 2010) on its
+website that it “has not made any definitive conclusions regarding potential
+risks, including cancer, at this time.”5 In 2005, scientists of US Food and
+Drug Administration (FDA) found small amounts of PFOA in Teflon cook-
+ware (Begley et al., 2005), while DuPont scientists did not detect PFOA in
+such pans (Powley et al., 2005). In 2006 Du Pont has committed itself to
+eliminating the release of PFOA to the environment (Eilperin, 2006).
+However, it still maintains that “evidence from 50 years of experience and
+extensive scientific studies supports the conclusion that PFOA does not cause
+adverse human health effects.”6
+Source: Based on Grauls (1993, pp. 123 ff).
+The possibility of steering technological development is not only restrained by the fact
+that a large number of actors are involved in the development of technology but also
+because technological development is an unpredictable process (see Teflon box). In
+the course of time, a variety of methods and approaches have been developed to deal
+with this unpredictable character of technology development. This is done by a disci-
+pline known as Technology Assessment (TA).
+Initially TA was directed at the early detection and
+early warning of possible negative effects of techno-
+logical development. Although such early detection
+and warning is important, it became increasingly
+clear that it is often not possible to predict the conse-
+quences of new technologies already in the early phases of technological development,
+as is also underscored by the Teflon example. On the other hand, it appeared that once
+the (negative) consequences materialize it has often become very difficult to change
+the direction of technological development because the technology has become deeply
+embedded in society and its design is more or less fixed. This problem is known as the
+Technology Assessment (TA)
+Systematic method for exploring future
+technology developments and assessing
+their potential societal consequences.
+
+--- side 24 ---
+Collingridge dilemma This dilemma
+refers to a double-bind problem to
+control the direction of technological
+development. On the one hand, it is
+often not possible to predict the
+consequences of new technologies
+already in the early phases of
+technological development. On the
+other hand, once the (negative)
+consequences materialize it often has
+become very difficult to change the
+direction of technological development.
+Constructive Technology Assessment
+(CTA) Approach to Technology
+Assessment (TA) in which TA-like
+efforts are carried out parallel to the
+process of technological development
+and are fed back to the development
+and design process.
+28 The Responsibilities of Engineers
+Collingridge dilemma, after David Collingridge
+who first described it (Collingridge, 1980). Various
+approaches have been developed to overcome the
+Collingridge dilemma, one of the best known is
+Constructive Technology Assessment (CTA). The
+idea behind CTA is that TA-like efforts are to be car-
+ried out parallel to the process of technological devel-
+opment and are fed back to the development and
+design process of technology (Schot, 1992; Schot
+and Rip, 1997). CTA aims at broadening the design
+process, both in terms of actors involved and in terms
+of interests, considerations and values taken into
+account in technological development. Among other
+things, this implies that stakeholders get a larger say
+in technological development.
+What are the implications of the social context of
+technological development for the responsibility of
+engineers? In one sense, it diminishes the responsi-
+bility of engineers because it makes clear that engi-
+neers are just one of the many actors involved in
+technology development and cannot alone determine technological development and
+its social consequences. In another sense, however, it extends the responsibility of
+engineers because they have to take into account a range of stakeholders and their
+interests. Engineers cannot just as technocrats decide in isolation what the right thing
+to do is, but they need to involve other stakeholders in technological development
+and to engage in discussions with them.
+1.7 Chapter Summary
+In this chapter we have discussed the responsibility of engineers. The notion of
+responsibility has different meanings. One sense of responsibility, accountability,
+implies the obligation to render an account of your actions and the consequences of
+these. If you are not able to give a satisfactory account you are blameworthy. Usually
+four conditions need to apply in order to be blameworthy: wrong-doing, causal con-
+tribution, foreseeability, and freedom. In addition to accountability and blamewor-
+thiness, responsibility has an active component relating to preventing harm and
+doing good.
+There are two main grounds of responsibility: the roles you play in society and
+moral considerations. Engineers have two main role responsibilities, one as engineers,
+the other as employees. As engineer you have a professional responsibility that is
+grounded in your role as engineer insofar as that role stays within the limits of what is
+morally allowed. Three professional ideals of engineers were examined as potential
+parts of the professional responsibility of engineers: technological enthusiasm, effec-
+tiveness and efficiency, and human welfare. The first two ideals are not always morally
+commendable and can in fact even become immoral when pursued in the light of
+
+--- side 25 ---
+The Responsibilities of Engineers 29
+immoral goals. The third ideal is morally laudable and, therefore, part of the profes-
+sional responsibility of engineers.
+Your professional responsibility as an engineer may sometimes conflict with your
+responsibility as an employee. We have discussed three models for dealing with this
+potential conflict: separatism, technocracy, and whistle-blowing. Separatism implies that
+the professional responsibility of engineers is confined to engineering matters and all
+decisions are made by managers and politicians. The disadvantage of this model is that
+engineers may end serving immoral goals and loose sight of the engineering ideal of
+public welfare. Technocracy means that engineers take over the decision power of man-
+agers and politicians. One disadvantage of this model is that engineers do not possess the
+expertise on which to decide for others what human welfare is or what is safe enough.
+Another disadvantage is that this model is paternalistic. Whistle-blowing means that you,
+as an engineer, speak out in public about certain abuses or dangerous situations in a com-
+pany. Although whistle-blowing may sometimes be required it is not a very attractive
+model for the relation between engineers and managers. Instead of any of the three mod-
+els, it might be better to work on a relation between engineers and managers that is more
+cooperative and mutually supportive, such as a model in which engineers think about
+broader issues than just engineering decisions but do not decide on these issues alone.
+The responsibility of engineers is further complicated by the social context of tech-
+nological development. Apart from engineers, a whole range of other actors is involved
+in technological development. This diminishes the responsibility of engineers as their
+causal contribution to technology and the foreseeability of consequences is dimin-
+ished. At the same time, it introduces additional responsibilities, because engineers
+also need to take into account other stakeholders and their interests in the develop-
+ment of new technologies.
+Study Questions
+1 What are the five features of active responsibility according to Bovens?
+2 What is the difference between passive and active responsibility?
+3 What criteria (conditions) are usually applied when deciding whether someone is passively
+responsible (blameworthy) for a certain action and its consequences?
+4 Suppose one person’s actions have led to the injury of another person. What additional
+criteria must be satisfied in order to imply that the first person is passively responsible for the
+injury?
+5 Do you consider Morton Thiokol responsible for the Challenger disaster? In answering this
+question, refer to the criteria for responsibility and use the information available.
+6 Consider the following situation: An engineer who has been involved in the design of a
+small airplane for business travel, type XYZ, finds out that he used the wrong software to
+calculate the required strength of the wing. He has used a standard software package but
+now realizes that his package was not fit for this specific type of airplane. The very same day
+he finds this out, a plane of type XYZ crashes and all four passengers die. The investigation
+shows that the plane has crashed due to an inadequate design of the wing.
+Do you consider this engineer responsible for the plane crash and the death of four peo-
+ple? (If you think there is not enough information to arrive at a judgment, indicate what
+information you would need to make a judgment and how this information would affect
+your judgment.)
+
+--- side 26 ---
+30 The Responsibilities of Engineers
+7 In general, nobody will want to deny that engineers have an active responsibility for tech-
+nologies they design and/or work with. In practice, however, many engineers find it prob-
+lematic to act on this responsibility. Describe three problems for the idea that engineers
+should take responsibility for technologies and give a concrete example of each problem
+from engineering practice.
+8 Explain what is meant by “separatism,” and explain why the tripartite model illustrates
+separatism so well.
+9 Why is it so difficult to steer technological development?
+10 Explain why the ideal “public welfare” in professional ethics is the most important one for
+engineers from a moral perspective.
+11 Look for an example of technological enthusiasm in your own field of study. Would you
+characterize this enthusiasm in this case as morally commendable, morally reprehensible,
+or just morally neutral? Argue your answer.
+Discussion Questions
+1 Do you consider Roger Boisjoly morally responsible for the Challenger disaster? And do
+you think his separatist argument is sound (see Section 1.5.1)?
+2 Can companies, as contrasted to people, be morally responsible? In what sense are compa-
+nies different from people and is this difference relevant for moral responsibility?
+3 Do you think that you can ever have a moral obligation to blow the whistle in spite of the
+very negative consequences for you, such as dismissal or not making the grade?
+4 Give an example in engineering practice, and explain what is meant by “moral responsibil-
+ity” in that example and how it extends beyond role responsibility.
+Notes
+1 “Google: Achter het scherm” (“Google: Behind the Screen”), Tegenlicht, broadcast on
+May 7, 2006.
+2 Text from the number “Wernher von Braun” by Tom Lehrer that featured in his album
+That was the year that was of 1965.
+3 For more details on the legal position of whistle blowers and intiatives to protect them, see
+Chapter 2.
+4 We will discuss the reasons for this assumption in more details in later chapters.
+5 http://www.epa.gov/oppt/pfoa/pubs/pfoarisk.html (accessed April 9, 2010).
+6 http://www2.dupont.com/Teflon/en_US/keyword/pfoa.html (accessed April 9, 2010).
+

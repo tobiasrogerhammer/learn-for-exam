@@ -1,0 +1,319 @@
+--- side 1 ---
+Ex.phil.
+Argumentasjonsanalyse,
+argumentasjonsvurdering
+Kjetil Skjerve
+
+--- side 2 ---
+Dagens plan
+• Argumentasjonsanalyse
+• Standpunkt
+• Sammensatte og usammensatte argumenter
+• Standpunktargumenter og indirekte argumenter
+• Argumentasjonsvurdering
+• Vurdering av relevans
+• Vurdering av riktighet
+• Om vurdering av ulike argumentasjonstyper
+
+--- side 3 ---
+Argument og
+standpunkt
+Standpunkt: Den påstanden vi argumenterer
+for eller mot
+Argument: Den eller de påstandene som
+settes frem for å styrke eller svekke
+standpunktet.
+
+--- side 4 ---
+Riktighet og relevans
+Et argument som er godt i logisk forstand, har to egenskaper:
+• Riktighet: Argumentet stemmer, er sant.
+• Relevans: Et argument er relevant i den grad – hvis det skulle være
+riktig– det taler for eller mot påstanden det rettes mot.
+
+--- side 5 ---
+Argumentasjonsanalyse
+• Før vi kan vurdere argumentasjonen i en tekst, må vi finne
+argumentstrukturen.
+• Argumentasjonsanalysen er det første steget i vurderingen av en
+argumentasjon.
+• Vi identifiserer
+• standpunktet det argumenteres for
+• argumentene
+• den innbyrdes strukturen i argumentasjonen
+
+--- side 6 ---
+Sammensatte og
+uavhengige
+argumenter
+• Sammensatte argumenter: Et sammensatt
+argument består av flere påstander.
+Sammensatte argumenter kjennetegnes ved
+at relevansen til den ene påstanden styrkes
+dersom den andre er riktig.
+• Markeres med piler som “smelter
+sammen”
+.
+• Uavhengige argumenter: To påstander utgjør
+argumenter som er uavhengige av hverandre,
+hvis det å benekte den ene påstanden, ikke
+påvirker relevansen til den andre påstanden.
+• Markeres med atskilte piler.
+
+--- side 7 ---
+Sammensatte argumenter
+
+--- side 8 ---
+Uavhengige argumenter
+Det bør bli tillatt å være i besittelse av
+narkotika.
+Bruk av narkotika
+skader ingen andre enn
+brukeren.
+Alkohol har langt flere
+skadelige helseeffekter
+enn mange typer
+narkotika.
+
+--- side 9 ---
+Sammensatte eller uavhengige argumenter?
+Norge bør ikke satse på elektrifisering av olje- og
+gassfelt.
+Elektrifisering av olje- og gassfelt
+vil gi høyere strømpriser for
+vanlige husholdninger.
+Strøm utgjør allerede en for høy
+del av norske
+husholdningers utgifter.
+
+--- side 10 ---
+Sammensatte eller uavhengige argumenter?
+Norge bør ikke satse på elektrifisering av olje- og
+gassfelt.
+Elektrifisering av olje- og gassfelt
+vil gi høyere strømpriser for
+vanlige husholdninger.
+Strømmen som går til
+elektrifisering av sokkelen kunne
+vært brukt mer effektivt i annen
+industri.
+
+--- side 11 ---
+Standpunktargumenter
+og indirekte argumenter
+• Standpunktargumeter: Argumenter
+som er ment å støtte eller svekke
+standpunktet direkte.
+• Indirekte argumenter: Argumenter
+som er ment å støtte eller svekke
+standpunktet indirekte, ved å støtte
+eller svekke andre argumenter
+direkte.
+
+--- side 12 ---
+Standpunktargument og indirekte argument
+Standpunkt (det du
+argumenterer for)
+Standpunktargument
+(argument som støtter at
+standpunktet er riktig)
+Indirekte argument (argument som
+støtter at påstanden det er knyttet
+til er riktig).
+
+--- side 13 ---
+Standpunktargument og indirekte argument
+VAR bør avskaffes i
+Eliteserien og
+Toppserien.
+Et stort flertall av
+medlemmene i
+supporterklubbene i de
+to seriene, er
+motstandere av VAR.
+Norsk Supporter-allianse hevder på sine
+nettsider at et stort flertall av medlemmene i
+supporterklubbene er motstandere av VAR.
+
+--- side 14 ---
+Analyser denne argumentasjonen
+Tollen på poteter vil kunne føre til en prisøkning på over 60 %.
+Landbruksøkonom ved Ruralis, Klaus Mittenzwei, har gjort denne
+beregningen. Potettollen må derfor fjernes så fort som mulig.
+Finn:
+1. standpunkt.
+2. standpunktargument.
+3. indirekte argument.
+
+--- side 15 ---
+Forskjellen mellom indirekte og sammensatte
+argumenter
+• Indirekte argumenter handler om hvorfor vi bør tro at et annet
+argument er riktig/sant.
+• Det er sant at [standpunktargument] fordi [det indirekte argumentet].
+• En påstand i et sammensatt argument handler om relevansen til
+andre påstander i argumentet.
+• For eksempel: [Standpunktargumentet] er relevant for [standpunktet] fordi
+[sammensatt argument].
+
+--- side 16 ---
+Er argumentene riktig eller galt plassert her?
+Styringsrenten kommer til å bli satt ned
+i løpet av våren.
+Sentralbanksjefen hevder
+at styringsrenten
+sannsynligvis blir satt ned i
+løpet av våren.
+Man kan vanligvis stole
+på det
+sentralbanksjefen sier.
+
+--- side 17 ---
+Har argumentet
+høy eller lav
+relevans?
+
+--- side 18 ---
+Har argumentet høy eller lav relevans?
+Vi bør forby sosiale
+medier for alle under
+16 år.
+Eierne av
+sosiale medier
+er først og
+fremst opptatt
+av profitt.
+
+--- side 19 ---
+Relevans kommer i grader
+• Et argument er relevant i den grad det utgjør en forskjell for hvor
+sterkt vi bør tro på standpunktet, gitt at argumentet er riktig.
+• For eksempel: I hvilken grad argumentet påvirker sannsynligheten for
+at standpunktet er riktig, gitt at argumentet er riktig.
+
+--- side 20 ---
+Lav, men tross alt noe relevans?
+Jeg bør kjøpe denne
+bilen.
+Hvis jeg kjøper bilen, får jeg
+med et fint setetrekk.
+
+--- side 21 ---
+Maksimal relevans
+• Når et argument er maksimalt relevant for et standpunkt, er det
+selvmotsigende å påstå at argumentet er riktig, og samtidig benekte
+standpunktet. Jeg bør resirkulere
+plast.
+Borettslaget ber meg resirkulere
+plast.
+Jeg bør gjøre alt
+borettslaget ber meg
+om.
+
+--- side 22 ---
+Hvor relevant er argumentet? Er vi tvunget til
+å akseptere konklusjonen?
+Norge bør ikke totalforby
+konverteringsterapi for
+voksne.
+Et totalforbud mot
+konverteringsterapi for voksne bryter
+med den europeiske
+menneskerettighetskonvensjonen.
+Norge bør ikke innføre
+forbud som bryter med
+denne konvensjonen.
+
+--- side 23 ---
+Maksimal relevante argumenter er relevante i
+kraft av sin logiske form
+Deduktivt argument tilnærmet
+formen modus ponens.
+Jeg bør resirkulere plast
+1. Hvis borettslaget ber meg
+resirkulere plast, så bør jeg
+resirkulere plast.
+2. Borettslaget ber meg resirkulere
+plast.
+Konklusjon: Jeg bør resirkulere plast.
+Borettslaget ber meg
+resirkulere plast, og
+jeg bør gjøre alt
+borettslaget ber meg
+om.
+1. Hvis p, så q. (∀a(R(b,a)→F(a)))
+2. p R(b,p)
+Konklusjon: q. F(p)
+
+--- side 24 ---
+Maksimal relevans i debatt
+• Maksimalt relevante argumenter er et grensetilfelle som vi nesten
+aldri finner i dagliglivets argumentasjon.
+• Det er nesten aldri slik at hvis vi aksepterer at et argument er sant, så
+må vi akseptere standpunktet.
+• Argumenter bidrar vanligvis i større eller mindre grad til å
+sannsynliggjøre et standpunkt.
+• Men begrepet om maksimal relevans er likevel verdifullt i vurderingen
+av argumenter med lavere relevans.
+
+--- side 25 ---
+Induktiv generalisering
+• Argument fra enkelttilfeller til en generell påstand
+• Eksempel:
+• Argument: Hver gang jeg har tatt buss nr. 3 til forelesning, har den kommet
+frem noen minutter for sent.
+• Standpunkt: Buss nr. 3 er vanligvis forsinket.
+• Vurdering av induktive generaliseringer:
+• Hvor stort er utvalget som omfattes av argumentet?
+• Hvor representativt er utvalget?
+
+--- side 26 ---
+Vurder
+relevansen av
+argumentet
+
+--- side 27 ---
+Induktive syllogismer
+• Slutning «motsatt vei» av induktive
+generaliseringer. Argument for at noe
+gjelder i et bestemt tilfelle, fra at det
+gjelder generelt.
+• For induktive generaliseringer er
+avhenger relevansen spesielt av hvor
+representativt tilfellet er for utvalget.
+
+--- side 28 ---
+Analogiargumenter
+• Argument fra enkelttilfeller til lignende
+enkelttilfeller.
+• Vurderingen av relevans handler om
+hvorvidt tilfellene som sammenlignes
+har relevante likheter og ulikheter.
+
+--- side 29 ---
+Abduksjon: Slutning
+til forklaring
+• Standpunktet gir en forklaring på
+det som nevnes i argumentet.
+• Vurdering av relevans:
+• Forklarer standpunktet
+observasjonen?
+• Er forklaringen forenlig med
+andre ting du tror?
+• Er forklaringen enkel?
+• Finnes det bedre forklaringer?
+
+--- side 30 ---
+Argumenters riktighet
+Argumenters
+riktighet
+Et argument er enten riktig eller uriktig, men vi kan ha ulik
+styrke i grunnen til å tro at et argument er riktig.
+Når vi skal ta stilling om et argument (sannsynligvis) er riktig,
+må vi bruke andre kilder, kombinert med vår egen kunnskap,
+eventuelt vurdere indirekte argumenter.
+Et argument med usikker riktighet kan være godt så lenge det
+har tilstrekkelig høy relevans.
+Eksempel: "Hvis NATO gir jagerfly til Ukraina, vil det
+føre til utbrudd av tredje verdenskrig."
+

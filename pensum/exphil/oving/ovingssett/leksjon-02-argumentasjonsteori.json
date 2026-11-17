@@ -1,0 +1,559 @@
+{
+  "summary": "Argumentasjonsteori er læren om hvordan argumentasjon er bygget opp og hva som gjør den sterk eller svak i logisk forstand. Leksjonen dekker formålene med offentlig debatt (Mill og Habermas), de tre debattnormene og klare brudd på dem, og skillet mellom argumenters logiske og retoriske funksjon. Sentralt står skillet mellom riktighet og relevans. I argumentasjonsanalysen lærer du å finne standpunkt, standpunktargumenter, indirekte, sammensatte, uavhengige og implisitte argumenter, og å skille deskriptiv fra normativ argumentasjon. I argumentasjonsvurderingen lærer du å vurdere riktighet og relevans, og å kjenne igjen deduktive slutningsformer og de fire hovedtypene induktive argumenter.",
+  "flashcards": [
+    {
+      "front": "Hva er et standpunkt?",
+      "back": "Hovedpåstanden det argumenteres for eller mot i en debatt eller tekst. Som regel en påstand det er uenighet om, eller som ikke er åpenbart riktig.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Hvilket formål med offentlig debatt knyttes til John Stuart Mill?",
+      "back": "At debatt fremmer kunnskap. Idealet er et samarbeid om læring, gode løsninger og sannhet.",
+      "section": "Argumentasjon og debatt"
+    },
+    {
+      "front": "Hvilket formål med offentlig debatt knyttes til Jürgen Habermas?",
+      "back": "At debatt gir demokratisk legitimitet. Debatten må være åpen for alle, sikte mot konsensus og bygge på rasjonelle og saklige argumenter.",
+      "section": "Argumentasjon og debatt"
+    },
+    {
+      "front": "Hva skiller akademisk debatt fra samfunnsdebatt?",
+      "back": "Akademisk debatt er argumentativ kritikk i tidsskrifter, konferanser og rapporter, med strengere krav til argumentasjon, evidens og begrunnelse. Samfunnsdebatten handler om saker som berører alle og foregår på mange arenaer.",
+      "section": "Argumentasjon og debatt"
+    },
+    {
+      "front": "Hva er de tre debattnormene?",
+      "back": "1) Begrunn oppfatningene dine. 2) Bidra med riktig informasjon. 3) Bidra med relevant informasjon.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "front": "Hvorfor skal man begrunne oppfatningene sine i en debatt?",
+      "back": "Påstander uten begrunnelse stanser diskusjonen. De er umulige å etterprøve, og det blir vanskelig for noen å endre mening.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "front": "Hva er forskjellen på løgn og bullshit?",
+      "back": "Løgn er et bevisst forsøk på å si noe man tror er usant. Bullshit (Frankfurt) er å si ting uten å bry seg om det er sant eller ikke.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "front": "Kan personargumentasjon noen gang være relevant?",
+      "back": "Ja, noen ganger. Den er ofte usaklig, men det kan være relevant å si noe om en person, for eksempel om vedkommende er ekspert på området.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "front": "Hvorfor kan et stråmannsargument aldri være relevant?",
+      "back": "Fordi det retter seg mot et annet standpunkt enn det motparten faktisk har. Det bryter både kravet om riktig og kravet om relevant informasjon.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "front": "Hva er forskjellen på argumenters logiske og retoriske funksjon?",
+      "back": "Logisk funksjon er å støtte eller svekke påstander, og krever riktige og relevante argumenter. Retorisk funksjon er å overbevise et publikum, og kan oppnås med stråmenn, personangrep og følelsesappell. Ex.phil. handler om den logiske.",
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "front": "Når er et argument relevant?",
+      "back": "I den grad det, hvis det er riktig, taler for eller mot påstanden det rettes mot.",
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "front": "Gi et eksempel på et argument som er riktig, men ikke relevant.",
+      "back": "«De fleste som dør av kreft i Norge, er kaffedrikkere» som argument for at kaffe øker kreftrisikoen. Det stemmer, men de fleste voksne drikker kaffe.",
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "front": "Hva er argumentasjonsanalyse?",
+      "back": "Å identifisere innholdet (standpunkt og argumenter) og strukturen (hvordan argumentene forholder seg til hverandre) i en argumentasjon.",
+      "section": "Argumentasjonsanalyse og argumentasjonsstruktur"
+    },
+    {
+      "front": "Hva menes med argumentasjonsstruktur?",
+      "back": "De innbyrdes relasjonene mellom påstandene i en argumentasjon: hva som støtter standpunktet direkte, hva som støtter andre argumenter, og hva som må tas sammen eller står alene. Kan tegnes i et argumentasjonsdiagram.",
+      "section": "Argumentasjonsanalyse og argumentasjonsstruktur"
+    },
+    {
+      "front": "Hva er forskjellen på standpunktargumenter og indirekte argumenter?",
+      "back": "Standpunktargumenter støtter eller svekker standpunktet direkte. Indirekte argumenter støtter eller svekker standpunktet ved å støtte eller svekke et annet argument direkte.",
+      "section": "Argumentasjonsanalyse og argumentasjonsstruktur"
+    },
+    {
+      "front": "Hva kjennetegner et sammensatt argument?",
+      "back": "To eller flere påstander som til sammen gir én grunn. Relevansen til den ene påstanden styrkes hvis den andre er riktig, og svekkes hvis den er gal. Tegnes med piler som løper sammen.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "front": "Når er argumenter uavhengige?",
+      "back": "Når det å benekte ett av dem ikke påvirker relevansen til de andre. Hvert gir sin egen grunn, og de tegnes med atskilte piler.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "front": "Hvordan skiller du et indirekte argument fra en del av et sammensatt argument?",
+      "back": "Et indirekte argument forklarer hvorfor et annet argument er riktig. En påstand i et sammensatt argument forklarer hvorfor en annen påstand er relevant.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "front": "Hva er et implisitt argument?",
+      "back": "En påstand som inngår i argumentasjonen, men som ikke blir uttalt. Ofte må den med for at en uttalt påstand skal bli relevant.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "front": "Implisitt påstand i: «Anne fikk lov til å se filmen. Da må jeg også få lov.»",
+      "back": "At jeg og Anne bør behandles likt, og at det ikke er noen relevant forskjell mellom oss, for eksempel i alder.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "front": "Hva er forskjellen på deskriptive og normative påstander?",
+      "back": "Deskriptive påstander beskriver hvordan noe er, var eller vil bli. Normative påstander sier hva som er godt eller dårlig, riktig eller galt, eller hva vi bør gjøre.",
+      "section": "Deskriptiv og normativ argumentasjon"
+    },
+    {
+      "front": "Hvorfor er det viktig å skille deskriptiv og normativ argumentasjon i en analyse?",
+      "back": "Et normativt standpunkt kan ikke støttes av deskriptive argumenter alene. Det trengs en normativ påstand, ofte implisitt. Skillet hjelper oss å finne slike påstander og viser hvor uenigheten ligger.",
+      "section": "Deskriptiv og normativ argumentasjon"
+    },
+    {
+      "front": "Hvilke to huskespørsmål bruker vi for relevans og riktighet?",
+      "back": "Relevans: «Hvis det er riktig, hva så?» Riktighet: «Å ja, stemmer det?»",
+      "section": "Vurdering av relevans og riktighet"
+    },
+    {
+      "front": "Hvorfor sier vi ikke at et argument har «høy riktighet»?",
+      "back": "Et argument er enten riktig eller uriktig. Men vi kan ha sterkere eller svakere grunn til å tro at det er riktig, altså vurdere hvor sannsynlig det er.",
+      "section": "Vurdering av relevans og riktighet"
+    },
+    {
+      "front": "Hva er forskjellen på en innvending mot relevans og en innvending mot riktighet?",
+      "back": "En innvending mot riktigheten sier at argumentet ikke stemmer. En innvending mot relevansen godtar at det kan stemme, men sier at det likevel gir liten grunn til å tro standpunktet.",
+      "section": "Vurdering av relevans og riktighet"
+    },
+    {
+      "front": "Hva betyr maksimal relevans?",
+      "back": "At standpunktet er garantert å være riktig hvis argumentet er riktig. Det er selvmotsigende å godta argumentet og benekte standpunktet. Slutningen er da deduktivt gyldig.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "front": "Hva er modus ponens?",
+      "back": "Hvis p, så q. p. Altså q. Eksempel: Hvis barometeret faller, blir det dårlig vær. Barometeret faller. Altså blir det dårlig vær.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "front": "Hva er modus tollens?",
+      "back": "Hvis p, så q. Ikke q. Altså ikke p. Eksempel: Hvis det har regnet, er gaten våt. Gaten er ikke våt. Altså har det ikke regnet.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "front": "Hva er hypotetisk og disjunktiv syllogisme?",
+      "back": "Hypotetisk: Hvis p, så q. Hvis q, så r. Altså: hvis p, så r. Disjunktiv: p eller q. Ikke p. Altså q.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "front": "Hva kjennetegner induktiv argumentasjon?",
+      "back": "Argumentet skal sannsynliggjøre standpunktet, ikke garantere det. Det er alltid mulig at standpunktet er galt selv om argumentet er riktig. Det er den vanligste argumentasjonsformen.",
+      "section": "Induktive argumenter"
+    },
+    {
+      "front": "Hvordan vurderer man relevansen til en induktiv generalisering?",
+      "back": "Ved å spørre hvor stort utvalget er, og hvor representativt det er.",
+      "section": "Induktive argumenter"
+    },
+    {
+      "front": "Hva er en induktiv syllogisme, og hvordan vurderes den?",
+      "back": "En slutning fra en generell påstand til et enkelttilfelle. Man spør hvor stort utvalget bak generaliseringen er, og hvor representativt enkelttilfellet er.",
+      "section": "Induktive argumenter"
+    },
+    {
+      "front": "Hvordan vurderer man et analogiargument?",
+      "back": "Ved å spørre om det er relevante likheter mellom tilfellene, og om det finnes relevante forskjeller.",
+      "section": "Induktive argumenter"
+    },
+    {
+      "front": "Hvilke spørsmål stiller man ved en slutning til beste forklaring?",
+      "back": "Forklarer standpunktet observasjonen? Passer det med annet du tror? Er forklaringen enkel? Finnes det bedre forklaringer?",
+      "section": "Induktive argumenter"
+    },
+    {
+      "front": "Hva er standpunkt, sammensatt argument og indirekte argument i skolemat-teksten?",
+      "back": "Standpunkt: gratis skolelunsj bør innføres for alle. Sammensatt: elever lærer mer med gratis skolemat + skolen har plikt til å legge til rette for effektiv læring. Indirekte: resultatene fra Nordreisa.",
+      "section": "Eksempel på analyse og vurdering"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hvilket formål med offentlig debatt knyttes til Habermas?",
+      "options": [
+        "Debatt fremmer kunnskap",
+        "Debatt er underholdning",
+        "Debatt avslører løgnere",
+        "Debatt gir demokratisk legitimitet"
+      ],
+      "answer_index": 3,
+      "explanation": "Habermas knyttes til at debatt gir demokratisk legitimitet, mens Mill knyttes til at debatt fremmer kunnskap.",
+      "section": "Argumentasjon og debatt"
+    },
+    {
+      "question": "En politiker kaster ut tall uten å bry seg om de stemmer, bare fordi de høres bra ut. Hva kalles dette?",
+      "options": [
+        "Løgn",
+        "Stråmannsargumentasjon",
+        "Bullshit",
+        "Personargumentasjon"
+      ],
+      "answer_index": 2,
+      "explanation": "Bullshit er å si ting uten hensyn til om det er sant. Løgn krever at man bevisst sier noe man tror er usant.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "question": "Jens vil legalisere privat bruk av cannabis. Anne svarer at «fri flyt av narkotika» er en dårlig idé. Hva gjør Anne?",
+      "options": [
+        "Hun gir et indirekte argument",
+        "Hun bruker stråmannsargumentasjon",
+        "Hun bruker personargumentasjon",
+        "Hun peker på et implisitt argument"
+      ],
+      "answer_index": 1,
+      "explanation": "Anne argumenterer mot et mer ekstremt standpunkt enn det Jens faktisk har.",
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "question": "Hva er argumenters retoriske funksjon?",
+      "options": [
+        "Å støtte eller svekke påstander",
+        "Å gjøre et standpunkt deduktivt gyldig",
+        "Å avdekke implisitte påstander",
+        "Å overbevise et publikum"
+      ],
+      "answer_index": 3,
+      "explanation": "Den retoriske funksjonen er å overbevise, og den kan fylles uten riktige og relevante argumenter.",
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "question": "Standpunkt: «Kaffedrikking øker risikoen for kreft.» Argument: «Koffein er kreftfremkallende.» Hvordan bør argumentet beskrives?",
+      "options": [
+        "Relevant, men ikke riktig",
+        "Riktig og relevant",
+        "Riktig, men ikke relevant",
+        "Verken riktig eller relevant"
+      ],
+      "answer_index": 0,
+      "explanation": "Hvis koffein hadde vært kreftfremkallende, ville det talt sterkt for standpunktet. Men påstanden stemmer ikke.",
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "question": "Hva er riktig om forholdet mellom riktighet og relevans?",
+      "options": [
+        "Et relevant argument må også være riktig",
+        "Et riktig argument er alltid relevant",
+        "De er uavhengige: et argument kan ha den ene egenskapen uten den andre",
+        "Relevans er bare viktig for deduktive argumenter"
+      ],
+      "answer_index": 2,
+      "explanation": "Et argument kan være riktig uten å være relevant, og relevant uten å være riktig.",
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "question": "«Tollen på poteter kan gi en prisøkning på over 60 %. En landbruksøkonom har gjort beregningen. Potettollen må derfor fjernes.» Hva er beregningen?",
+      "options": [
+        "Standpunktet",
+        "Et indirekte argument",
+        "Et standpunktargument",
+        "Et motargument"
+      ],
+      "answer_index": 1,
+      "explanation": "At økonomen har gjort beregningen støtter påstanden om prisøkning, ikke standpunktet direkte.",
+      "section": "Argumentasjonsanalyse og argumentasjonsstruktur"
+    },
+    {
+      "question": "Standpunkt: Norge bør ikke elektrifisere sokkelen. A1: Det gir høyere strømpriser for husholdningene. A2: Strøm utgjør allerede en for høy del av husholdningenes utgifter. Hvordan forholder A1 og A2 seg til hverandre?",
+      "options": [
+        "De er uavhengige argumenter",
+        "A2 er et indirekte argument for A1",
+        "A2 er et motargument til A1",
+        "De utgjør et sammensatt argument"
+      ],
+      "answer_index": 3,
+      "explanation": "A2 er bare relevant fordi prisene vil øke (A1). Relevansen til den ene avhenger av at den andre er riktig.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "question": "Hvilken test skiller sammensatte fra uavhengige argumenter?",
+      "options": [
+        "Om det å benekte den ene påstanden påvirker relevansen til den andre",
+        "Om argumentene er riktige",
+        "Om argumentene viser til forskning",
+        "Om standpunktet er normativt"
+      ],
+      "answer_index": 0,
+      "explanation": "Hvis det å benekte én påstand svekker relevansen til den andre, er de sammensatte. Hvis ikke, er de uavhengige.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "question": "«Vesken står ikke i gangen og ligger ikke i bilen. Altså er den på kontoret.» Hvilken implisitt påstand ligger i argumentet?",
+      "options": [
+        "Vesken er verdifull",
+        "Kontoret er låst",
+        "Vesken kan bare være i gangen, i bilen eller på kontoret",
+        "Jeg glemmer ofte vesken min"
+      ],
+      "answer_index": 2,
+      "explanation": "Uten påstanden om at det bare finnes tre muligheter, følger det ikke at vesken er på kontoret.",
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "question": "Hvilken påstand er normativ?",
+      "options": [
+        "Oljeprisen bør falle når produksjonen avtar",
+        "Charles Dickens er en god forfatter",
+        "Gjøvik ligger på vestsiden av Mjøsa",
+        "Kaffedrikking øker risikoen for kreft"
+      ],
+      "answer_index": 1,
+      "explanation": "Å kalle noen en god forfatter er en vurdering. «Oljeprisen bør falle» er en forutsigelse og dermed deskriptiv.",
+      "section": "Deskriptiv og normativ argumentasjon"
+    },
+    {
+      "question": "Hvorfor trenger et normativt standpunkt minst én normativ påstand i argumentasjonen?",
+      "options": [
+        "Fordi deskriptive påstander alltid er gale",
+        "Fordi normative påstander alltid er deduktive",
+        "Fordi normative påstander ikke kan være implisitte",
+        "Fordi fakta om hvordan noe er, ikke alene sier hva vi bør gjøre"
+      ],
+      "answer_index": 3,
+      "explanation": "For at fakta skal bli relevante for et bør-standpunkt, trengs det en normativ påstand som binder dem sammen, ofte implisitt.",
+      "section": "Deskriptiv og normativ argumentasjon"
+    },
+    {
+      "question": "Hva betyr det at relevans kommer i grader?",
+      "options": [
+        "At et argument kan gi svakere eller sterkere grunn til å tro påstanden, fra lav til maksimal",
+        "At et argument kan være mer eller mindre sant",
+        "At bare deduktive argumenter er relevante",
+        "At relevans avhenger av hvor mange som tror på argumentet"
+      ],
+      "answer_index": 0,
+      "explanation": "Relevans kommer i grader fra lav via middels og høy til maksimal. Riktighet er derimot enten eller.",
+      "section": "Vurdering av relevans og riktighet"
+    },
+    {
+      "question": "Standpunkt: Proffboksing bør forbys. Argument: Halvparten av proffboksere har hjerneskade. Hvilken innvending retter seg mot relevansen?",
+      "options": [
+        "«Tallet stemmer ikke, undersøkelsen var for liten.»",
+        "«Du sier det bare fordi du hater sport.»",
+        "«Selv om det stemmer, er det voksne som selv velger risikoen.»",
+        "«Kilden din er upålitelig.»"
+      ],
+      "answer_index": 2,
+      "explanation": "En relevansinnvending godtar at argumentet kan stemme, men sier at det ikke taler for standpunktet.",
+      "section": "Vurdering av relevans og riktighet"
+    },
+    {
+      "question": "Hvilket resonnement er deduktivt gyldig?",
+      "options": [
+        "Alt rent gull smelter ved 1064 °C. Klumpen smelter ved 1064 °C. Altså er den av rent gull.",
+        "Alt rent gull smelter ved 1064 °C. Klumpen er av rent gull. Altså smelter den ved 1064 °C.",
+        "De fleste røykere får sykdom. Cato røyker. Altså får Cato sykdom.",
+        "Bussen har vært sen hver gang. Altså er den alltid sen."
+      ],
+      "answer_index": 1,
+      "explanation": "Bare det andre resonnementet garanterer standpunktet. I det første kan klumpen være et annet stoff med samme smeltepunkt.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "question": "«Hvis det har regnet, er gaten våt. Gaten er ikke våt. Altså har det ikke regnet.» Hvilken slutningsform er dette?",
+      "options": [
+        "Modus ponens",
+        "Disjunktiv syllogisme",
+        "Induktiv generalisering",
+        "Modus tollens"
+      ],
+      "answer_index": 3,
+      "explanation": "Modus tollens: Hvis p, så q. Ikke q. Altså ikke p.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "question": "«Hvis månen er en ost, vinner jeg i lotto. Månen er en ost. Altså vinner jeg i lotto.» Hva er riktig?",
+      "options": [
+        "Slutningen er gyldig, men argumentene er gale",
+        "Slutningen er ugyldig",
+        "Argumentene er riktige, men irrelevante",
+        "Det er en induktiv slutning"
+      ],
+      "answer_index": 0,
+      "explanation": "Formen er modus ponens og gyldig, så relevansen er maksimal. Men premissene er gale, så standpunktet er ikke støttet.",
+      "section": "Deduktive argumenter"
+    },
+    {
+      "question": "«Facebook-kontoen min må være hacket, for passordet blir stadig avvist.» Hvilken type argument er dette?",
+      "options": [
+        "Induktiv generalisering",
+        "Analogiargument",
+        "Slutning til beste forklaring (abduksjon)",
+        "Modus ponens"
+      ],
+      "answer_index": 2,
+      "explanation": "Standpunktet skal forklare observasjonen. Relevansen vurderes ut fra om det finnes bedre forklaringer, som feil passord.",
+      "section": "Induktive argumenter"
+    },
+    {
+      "question": "Hva avgjør først og fremst relevansen til en induktiv generalisering?",
+      "options": [
+        "Om standpunktet er normativt",
+        "Om utvalget er stort og representativt",
+        "Om argumentet har formen modus ponens",
+        "Om det finnes relevante likheter mellom to tilfeller"
+      ],
+      "answer_index": 1,
+      "explanation": "Generaliseringer vurderes ut fra utvalgets størrelse og representativitet. Likheter mellom tilfeller gjelder analogier.",
+      "section": "Induktive argumenter"
+    },
+    {
+      "question": "I skolemat-teksten: Hva er rollen til resultatene fra Nordreisa?",
+      "options": [
+        "Standpunkt",
+        "Implisitt argument",
+        "Motargument",
+        "Indirekte argument"
+      ],
+      "answer_index": 3,
+      "explanation": "Nordreisa-resultatene støtter påstanden om at elever lærer mer med gratis skolemat, ikke standpunktet direkte.",
+      "section": "Eksempel på analyse og vurdering"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Hvilke formål med offentlig debatt nevner læreboka, og hvordan er de begrunnet?",
+      "key_points": [
+        "Debatt fremmer kunnskap (Mill): samarbeid om læring, gode løsninger og sannhet",
+        "Debatt gir demokratisk legitimitet (Habermas)",
+        "Legitimitet krever at debatten er åpen for alle",
+        "Den skal sikte mot konsensus",
+        "Den må bygge på rasjonelle og saklige argumenter"
+      ],
+      "section": "Argumentasjon og debatt"
+    },
+    {
+      "prompt": "Hvilke debattnormer nevner læreboka, hvordan er de begrunnet, og hva regnes som klare brudd? Bruk eksempler.",
+      "key_points": [
+        "Begrunn oppfatningene: påstander uten grunner stanser diskusjonen og kan ikke etterprøves",
+        "Riktig informasjon: forankrer debatten i kunnskap",
+        "Relevant informasjon: holder debatten til saken",
+        "Brudd: løgn og bullshit",
+        "Brudd: personargumentasjon og stråmannsargumentasjon",
+        "Egne eksempler"
+      ],
+      "section": "Debattnormer og brudd på dem"
+    },
+    {
+      "prompt": "Gjør kort rede for forskjellen mellom argumenters retoriske og logiske funksjon.",
+      "key_points": [
+        "Logisk funksjon: støtte eller svekke påstander",
+        "Krever at argumentet er riktig og relevant",
+        "Retorisk funksjon: overbevise et publikum",
+        "Kan fylles med stråmenn, personangrep og følelsesappell",
+        "Ex.phil. er opptatt av den logiske funksjonen"
+      ],
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "prompt": "Forklar forskjellen på et arguments riktighet og relevans. Bruk egne eksempler.",
+      "key_points": [
+        "Riktig: det argumentet påstår, stemmer",
+        "Relevant: i den grad det, hvis riktig, taler for eller mot påstanden",
+        "Et argument kan være riktig uten å være relevant",
+        "Et argument kan være relevant uten å være riktig",
+        "Relevans gjelder forholdet mellom argument og påstand",
+        "Egne eksempler på begge"
+      ],
+      "section": "Logisk funksjon, riktighet og relevans"
+    },
+    {
+      "prompt": "Forklar termen argumentasjonsstruktur, og skill mellom standpunktargumenter og indirekte argumenter.",
+      "key_points": [
+        "Strukturen er de innbyrdes relasjonene mellom påstandene",
+        "Kan fremstilles i et argumentasjonsdiagram",
+        "Standpunktargumenter støtter eller svekker standpunktet direkte",
+        "Indirekte argumenter støtter eller svekker et annet argument direkte",
+        "Analysen må komme før vurderingen"
+      ],
+      "section": "Argumentasjonsanalyse og argumentasjonsstruktur"
+    },
+    {
+      "prompt": "Noen argumenter er satt sammen av flere påstander. Forklar hva som er spesielt med sammensatte argumenter, og hvordan de skiller seg fra uavhengige og indirekte argumenter. Bruk eksempler.",
+      "key_points": [
+        "Påstandene gir til sammen én grunn",
+        "Relevansen til den ene styrkes hvis den andre er riktig",
+        "Uavhengige: å benekte ett påvirker ikke de andres relevans",
+        "Indirekte argument handler om riktighet, sammensatt påstand om relevans",
+        "Eksempel, for eksempel Sokrates eller elektrifisering av sokkelen"
+      ],
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "prompt": "Hva innebærer det at implisitte påstander inngår i et argument? Finn implisitte påstander i argumentene om vesken, kjernekraften og Anne og filmen.",
+      "key_points": [
+        "Implisitte påstander inngår, men blir ikke uttalt",
+        "De trengs ofte for at uttalte påstander skal bli relevante",
+        "Vesken: den kan bare være i gangen, bilen eller på kontoret",
+        "Kjernekraft: gode klimatiltak må virke raskere enn ti år",
+        "Anne: vi bør behandles likt, ingen relevant forskjell mellom oss"
+      ],
+      "section": "Sammensatte, uavhengige og implisitte argumenter"
+    },
+    {
+      "prompt": "Forklar hva som menes med normativ argumentasjon, og hvorfor det er viktig å skille mellom deskriptiv og normativ argumentasjon i en analyse.",
+      "key_points": [
+        "Normativ: argumentasjon for hva som bør gjøres eller er godt og dårlig",
+        "Deskriptiv: beskriver hvordan noe er, var eller vil bli",
+        "Man kan ikke bare se etter ordene «er» og «bør»",
+        "Et normativt standpunkt krever minst én normativ påstand, ofte implisitt",
+        "Påstandene vurderes på ulike måter, og skillet viser hvor uenigheten ligger"
+      ],
+      "section": "Deskriptiv og normativ argumentasjon"
+    },
+    {
+      "prompt": "Hva er forskjellen mellom en innvending mot et arguments relevans og en innvending mot dets riktighet? Lag egne eksempler.",
+      "key_points": [
+        "Riktighetsinnvending: argumentet stemmer ikke («Å ja, stemmer det?»)",
+        "Relevansinnvending: selv om det stemmer, taler det lite for standpunktet («Hvis det er riktig, hva så?»)",
+        "Relevans vurderes hypotetisk",
+        "Riktighet vurderes som sannsynlighet ut fra kunnskap, kilder og indirekte argumenter",
+        "Egne eksempler på begge typer"
+      ],
+      "section": "Vurdering av relevans og riktighet"
+    },
+    {
+      "prompt": "Hva kjennetegner deduktive argumenter? Lag egne eksempler der standpunktet er en deduktiv følge av argumentet.",
+      "key_points": [
+        "Umulig at standpunktet er galt hvis argumentet er riktig",
+        "Maksimal relevans i kraft av logisk form",
+        "Modus ponens og modus tollens",
+        "Hypotetisk og disjunktiv syllogisme",
+        "Gyldighet garanterer ikke at premissene er riktige",
+        "Egne eksempler"
+      ],
+      "section": "Deduktive argumenter"
+    },
+    {
+      "prompt": "Angi hovedtypene av induktive argumenter, gi eksempler, og forklar hvordan vi vurderer relevansen til hver type.",
+      "key_points": [
+        "Induktive argumenter sannsynliggjør, men garanterer ikke",
+        "Induktiv generalisering: utvalgets størrelse og representativitet",
+        "Induktiv syllogisme: grunnlaget for generaliseringen og om enkelttilfellet er representativt",
+        "Analogiargument: relevante likheter og forskjeller",
+        "Slutning til beste forklaring: forklarer, passer, enkel, bedre alternativer?"
+      ],
+      "section": "Induktive argumenter"
+    },
+    {
+      "prompt": "Analyser skolemat-teksten: identifiser standpunktet, et sammensatt argument og et indirekte argument. Forklar også hvilken type argument «Facebook-kontoen min må være hacket» er, og hvordan relevansen bør vurderes.",
+      "key_points": [
+        "Standpunkt: det bør innføres gratis skolelunsj for alle skolebarn",
+        "Sammensatt: bedre læring med skolemat + skolens plikt til å legge til rette for læring",
+        "Indirekte: Nordreisa-resultatene støtter påstanden om bedre læring",
+        "Facebook-eksemplet er en slutning til beste forklaring",
+        "Relevansen avhenger av om det finnes bedre forklaringer, som feil passord"
+      ],
+      "section": "Eksempel på analyse og vurdering"
+    }
+  ]
+}

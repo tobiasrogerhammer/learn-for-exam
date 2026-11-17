@@ -63,7 +63,7 @@ export function SubjectPicker({ open, subjects, docCounts, chosen, onSave, onClo
           </h2>
           <p className="mt-1 text-sm text-muted-foreground">
             {firstTime
-              ? "Velg emnene du vil ha i menyen. Du kan legge til eller fjerne emner senere nederst i menyen."
+              ? "Velg emnene du vil ha i menyen. Du kan legge til eller fjerne emner senere ved å trykke på «Mine emner» i menyen."
               : "Huk av emnene du vil ha i menyen. Fremgangen din i et emne blir lagret selv om du fjerner det."}
           </p>
         </div>

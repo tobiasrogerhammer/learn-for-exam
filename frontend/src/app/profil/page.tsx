@@ -1,291 +1,252 @@
 "use client";
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useRef, useState } from "react";
+import { useRouter } from "next/navigation";
 import { useAuthActions } from "@convex-dev/auth/react";
 import { useConvexAuth, useMutation, useQuery } from "convex/react";
-import { ArrowDownRight, ArrowUpRight, ChevronRight, LogIn } from "lucide-react";
+import { Camera, LogIn, LogOut, Monitor, Moon, Sun, Trash2, Undo2 } from "lucide-react";
 import { api } from "../../../convex/_generated/api";
+import type { Id } from "../../../convex/_generated/dataModel";
 import { PageHeader } from "@/components/page-header";
 import { Button } from "@/components/ui/button";
-import { content, loadContent } from "@/lib/storage";
-import {
-  buildStats,
-  CONFIDENCE_LEVELS,
-  percent,
-  summary,
-  type DocumentStat,
-  type SubjectStat,
-  type TopicStat,
-} from "@/lib/progress-stats";
+import { getTheme, setTheme, type Theme } from "@/lib/theme";
 
+const THEMES: { id: Theme; label: string; icon: typeof Sun }[] = [
+  { id: "light", label: "Lys", icon: Sun },
+  { id: "dark", label: "Mørk", icon: Moon },
+  { id: "system", label: "Som enheten", icon: Monitor },
+];
+
+const fieldClass =
+  "h-9 w-full rounded-md border border-border bg-background px-3 text-sm outline-none focus-visible:ring-2 focus-visible:ring-ring/40";
+
+const errorText = (err: unknown) =>
+  err instanceof Error ? err.message.replace(/^[\s\S]*Uncaught Error: /, "").split("\n")[0] : String(err);
+
+/** Your account: name, picture, light or dark mode, sign out and delete */
 export default function ProfilePage() {
+  const router = useRouter();
   const { isLoading, isAuthenticated } = useConvexAuth();
-  const { signIn } = useAuthActions();
+  const { signIn, signOut } = useAuthActions();
   const me = useQuery(api.users.me);
-  const events = useQuery(api.practice.myEvents);
-  const confidence = useQuery(api.practice.myConfidence);
-  const [loaded, setLoaded] = useState(false);
-  // Read the clock in the browser only, so the page can be prerendered
-  const [now, setNow] = useState(0);
+  const setName = useMutation(api.users.setName);
+  const uploadUrl = useMutation(api.users.generateAvatarUploadUrl);
+  const setAvatar = useMutation(api.users.setAvatar);
+  const deleteAccount = useMutation(api.users.deleteAccount);
 
+  const [name, setNameDraft] = useState<string | null>(null);
+  const [theme, setThemeState] = useState<Theme>("system");
+  const [busy, setBusy] = useState(false);
+  const [message, setMessage] = useState<{ ok: boolean; text: string } | null>(null);
+  const fileRef = useRef<HTMLInputElement>(null);
+
+  // The saved choice lives in this browser, so it is read after the page loads
   useEffect(() => {
-    void loadContent().then(() => {
-      setNow(Date.now());
-      setLoaded(true);
-    });
+    const timer = window.setTimeout(() => setThemeState(getTheme()));
+    return () => window.clearTimeout(timer);
   }, []);
 
-  const stats = useMemo(
-    () =>
-      loaded && events && confidence
-        ? buildStats(content.subjects, content.documents, content.studySets, events, confidence, now)
-        : null,
-    [loaded, events, confidence, now],
+  const run = async (fn: () => Promise<unknown>, done?: string) => {
+    setBusy(true);
+    setMessage(null);
+    try {
+      await fn();
+      if (done) setMessage({ ok: true, text: done });
+    } catch (err) {
+      setMessage({ ok: false, text: errorText(err) });
+    } finally {
+      setBusy(false);
+    }
+  };
+
+  const uploadPicture = (file: File) =>
+    run(async () => {
+      if (!file.type.startsWith("image/")) throw new Error("Velg en bildefil");
+      if (file.size > 2 * 1024 * 1024) throw new Error("Bildet må være under 2 MB");
+      const url = await uploadUrl();
+      const res = await fetch(url, { method: "POST", headers: { "Content-Type": file.type }, body: file });
+      if (!res.ok) throw new Error("Kunne ikke laste opp bildet");
+      const { storageId } = (await res.json()) as { storageId: Id<"_storage"> };
+      await setAvatar({ storageId });
+    }, "Profilbildet er oppdatert");
+
+  const nameValue = name ?? me?.name ?? "";
+
+  const appearance = (
+    <section className="rounded-md border border-border/70 bg-card/80 p-5 shadow-sm">
+      <h2 className="text-sm font-medium">Utseende</h2>
+      <p className="mt-0.5 text-xs text-muted-foreground">Gjelder denne nettleseren.</p>
+      <div className="mt-3 flex flex-wrap gap-2" role="group" aria-label="Utseende">
+        {THEMES.map(({ id, label, icon: Icon }) => (
+          <button
+            key={id}
+            type="button"
+            aria-pressed={theme === id}
+            onClick={() => {
+              setTheme(id);
+              setThemeState(id);
+            }}
+            className={`flex items-center gap-1.5 rounded-md border px-3 py-1.5 text-sm font-medium transition ${
+              theme === id
+                ? "border-primary bg-primary text-primary-foreground shadow-sm"
+                : "border-border/70 bg-card/80 text-muted-foreground hover:border-primary/40 hover:text-foreground"
+            }`}
+          >
+            <Icon className="size-4" />
+            {label}
+          </button>
+        ))}
+      </div>
+    </section>
   );
-  const totals = useMemo(() => (events && now ? summary(events, now) : null), [events, now]);
 
   return (
     <div className="min-h-screen">
-      <PageHeader title="Fremgang" />
-      <main className="mx-auto flex max-w-5xl flex-col gap-6 px-4 py-6 sm:px-6">
+      <PageHeader title="Profil" />
+      <main className="mx-auto flex max-w-2xl flex-col gap-5 px-4 py-6 sm:px-6">
         {isLoading ? null : !isAuthenticated ? (
           <section className="rounded-md border border-border/70 bg-card/80 p-6 text-center shadow-sm">
-            <p className="font-[family-name:var(--font-reading)] text-2xl">Følg med på fremgangen din</p>
+            <p className="font-[family-name:var(--font-reading)] text-2xl">Du er ikke logget inn</p>
             <p className="mx-auto mt-2 max-w-md text-sm text-muted-foreground">
-              Logg inn med Google, så lagres svarene dine fra flashcards, quiz og de andre
-              øvingene. Her ser du da hvordan du ligger an i hvert emne og tema, og du kan merke
-              hvilke temaer du føler deg trygg på.
+              Logg inn med Google for å lagre fremgangen din og endre profilen.
             </p>
             <Button type="button" className="mt-5" onClick={() => void signIn("google")}>
               <LogIn className="size-3.5" />
               Logg inn med Google
             </Button>
           </section>
+        ) : null}
+        {isLoading ? null : !isAuthenticated ? (
+          appearance
         ) : (
           <>
-            <section className="flex flex-wrap items-center gap-4">
-              {me?.image ? (
-                // Google profile pictures come from an outside host, so a plain img is simplest
-                // eslint-disable-next-line @next/next/no-img-element
-                <img src={me.image} alt="" className="size-14 rounded-full border border-border/70" />
-              ) : null}
-              <div>
-                <p className="font-[family-name:var(--font-reading)] text-2xl">{me?.name ?? "Profil"}</p>
-                <p className="text-sm text-muted-foreground">{me?.email}</p>
+            <section className="rounded-md border border-border/70 bg-card/80 p-5 shadow-sm">
+              <h2 className="text-sm font-medium">Profil</h2>
+              <div className="mt-4 flex flex-wrap items-center gap-4">
+                {me?.image ? (
+                  // Pictures come from Google or Convex storage, so a plain img is simplest
+                  // eslint-disable-next-line @next/next/no-img-element
+                  <img src={me.image} alt="" className="size-16 rounded-full border border-border/70 object-cover" />
+                ) : (
+                  <span className="flex size-16 items-center justify-center rounded-full bg-muted text-xl font-medium text-muted-foreground">
+                    {(me?.name ?? "?").slice(0, 1).toUpperCase()}
+                  </span>
+                )}
+                <div className="flex flex-wrap gap-2">
+                  <input
+                    ref={fileRef}
+                    type="file"
+                    accept="image/*"
+                    className="hidden"
+                    onChange={(e) => {
+                      const file = e.target.files?.[0];
+                      e.target.value = "";
+                      if (file) void uploadPicture(file);
+                    }}
+                  />
+                  <Button type="button" variant="outline" size="sm" disabled={busy} onClick={() => fileRef.current?.click()}>
+                    <Camera className="size-3.5" />
+                    Bytt bilde
+                  </Button>
+                  {me?.hasOwnImage ? (
+                    <Button
+                      type="button"
+                      variant="ghost"
+                      size="sm"
+                      disabled={busy}
+                      onClick={() => void run(() => setAvatar({ storageId: null }), "Bruker bildet fra Google igjen")}
+                    >
+                      <Undo2 className="size-3.5" />
+                      Bruk bildet fra Google
+                    </Button>
+                  ) : null}
+                </div>
               </div>
+
+              <form
+                className="mt-5"
+                onSubmit={(e) => {
+                  e.preventDefault();
+                  void run(async () => {
+                    await setName({ name: nameValue });
+                    setNameDraft(null);
+                  }, "Navnet er lagret");
+                }}
+              >
+                <label htmlFor="profil-navn" className="text-sm font-medium">
+                  Navn
+                </label>
+                <div className="mt-1.5 flex gap-2">
+                  <input
+                    id="profil-navn"
+                    value={nameValue}
+                    onChange={(e) => setNameDraft(e.target.value)}
+                    maxLength={60}
+                    placeholder={me?.googleName ?? "Navnet ditt"}
+                    className={fieldClass}
+                  />
+                  <Button type="submit" disabled={busy || name === null}>
+                    Lagre
+                  </Button>
+                </div>
+                <p className="mt-1.5 text-xs text-muted-foreground">
+                  Vises på ideene du foreslår. Tomt felt gir navnet fra Google. Innlogget som {me?.email}.
+                </p>
+              </form>
+              {message ? (
+                <p className={`mt-3 text-sm ${message.ok ? "text-primary" : "text-destructive"}`} role="status">
+                  {message.text}
+                </p>
+              ) : null}
             </section>
 
-            {totals ? <SummaryTiles totals={totals} stats={stats} /> : null}
+            {appearance}
 
-            {stats === null ? (
-              <p className="text-sm text-muted-foreground">Laster…</p>
-            ) : stats.length === 0 ? (
-              <p className="text-sm text-muted-foreground">Ingen emner med øvingsmateriale ennå.</p>
-            ) : (
-              stats.map((s) => <SubjectCard key={s.subject.id} stat={s} />)
-            )}
+            <section className="flex flex-wrap items-center justify-between gap-3 rounded-md border border-border/70 bg-card/80 p-5 shadow-sm">
+              <div>
+                <h2 className="text-sm font-medium">Logg ut</h2>
+                <p className="mt-0.5 text-xs text-muted-foreground">Fremgangen din ligger trygt på kontoen.</p>
+              </div>
+              <Button
+                type="button"
+                variant="outline"
+                onClick={() => {
+                  void signOut().then(() => router.push("/"));
+                }}
+              >
+                <LogOut className="size-3.5" />
+                Logg ut
+              </Button>
+            </section>
+
+            <section className="rounded-md border border-destructive/40 bg-destructive/5 p-5">
+              <h2 className="text-sm font-medium text-destructive">Slett konto</h2>
+              <p className="mt-1 text-sm text-muted-foreground">
+                Sletter kontoen og alt som er lagret på den: markeringer, notater, oppsummeringer, svar,
+                vurderinger, stemmer og ideene du har foreslått. Det kan ikke angres.
+              </p>
+              <Button
+                type="button"
+                variant="destructive"
+                className="mt-3"
+                disabled={busy}
+                onClick={() => {
+                  const answer = window.prompt('Skriv «slett» for å slette kontoen for godt.');
+                  if (answer?.trim().toLowerCase() !== "slett") return;
+                  void run(async () => {
+                    await deleteAccount();
+                    await signOut();
+                    router.push("/");
+                  });
+                }}
+              >
+                <Trash2 className="size-3.5" />
+                Slett kontoen min
+              </Button>
+            </section>
           </>
         )}
       </main>
     </div>
-  );
-}
-
-function SummaryTiles({
-  totals,
-  stats,
-}: {
-  totals: ReturnType<typeof summary>;
-  stats: SubjectStat[] | null;
-}) {
-  const confident = stats?.reduce((n, s) => n + s.confident, 0) ?? 0;
-  const topics = stats?.reduce((n, s) => n + s.topicCount, 0) ?? 0;
-  const tiles = [
-    { label: "Svar totalt", value: totals.answers.toLocaleString("nb-NO"), note: `${totals.lastWeekAnswers} siste 7 dager` },
-    {
-      label: "Riktig siste 7 dager",
-      value: percent(totals.thisWeek),
-      note:
-        totals.change === null
-          ? "Ingen svar uka før å sammenligne med"
-          : `${totals.change >= 0 ? "+" : "−"}${Math.abs(Math.round(totals.change * 100))} prosentpoeng fra uka før`,
-    },
-    { label: "Dager du har øvd", value: String(totals.activeDays), note: "siste 30 dager" },
-    { label: "Temaer du er trygg på", value: `${confident} av ${topics}`, note: "merket av deg selv" },
-  ];
-  return (
-    <section className="grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-      {tiles.map((t) => (
-        <div key={t.label} className="rounded-md border border-border/70 bg-card/80 p-4 shadow-sm">
-          <p className="text-xs font-medium uppercase tracking-[0.12em] text-muted-foreground">{t.label}</p>
-          <p className="mt-1 font-[family-name:var(--font-reading)] text-3xl tabular-nums">{t.value}</p>
-          <p className="mt-1 text-xs text-muted-foreground">{t.note}</p>
-        </div>
-      ))}
-    </section>
-  );
-}
-
-function SubjectCard({ stat }: { stat: SubjectStat }) {
-  return (
-    <section className="rounded-md border border-border/70 bg-card/80 p-5 shadow-sm">
-      <div className="flex flex-wrap items-start justify-between gap-4">
-        <div>
-          <h2 className="font-[family-name:var(--font-reading)] text-2xl leading-tight">{stat.subject.name}</h2>
-          <p className="mt-1 text-sm text-muted-foreground">
-            {stat.answers.toLocaleString("nb-NO")} svar · {percent(stat.current)} riktig nå ·{" "}
-            {stat.confident} av {stat.topicCount} temaer merket trygg
-          </p>
-        </div>
-        <WeeklyBars weeks={stat.weeks} />
-      </div>
-      <div className="mt-4 divide-y divide-border/60 border-t border-border/60">
-        {stat.documents.map((d) => (
-          <DocumentRow key={d.document.id} stat={d} />
-        ))}
-      </div>
-    </section>
-  );
-}
-
-/** Share right per week; one bar per week, empty weeks shown as a short gray tick */
-function WeeklyBars({ weeks }: { weeks: SubjectStat["weeks"] }) {
-  const [hover, setHover] = useState<number | null>(null);
-  const height = 56;
-  const shown = hover !== null ? weeks[hover] : null;
-  return (
-    <figure className="min-w-56">
-      <figcaption className="mb-1 flex justify-between text-xs text-muted-foreground">
-        <span>Riktig per uke, siste 8 uker</span>
-        <span className="tabular-nums text-foreground">
-          {shown
-            ? `${weekLabel(shown.start)}: ${shown.answers ? `${percent(shown.share)} av ${shown.answers}` : "ingen svar"}`
-            : ""}
-        </span>
-      </figcaption>
-      <div className="flex h-14 items-end gap-0.5 border-b border-border" role="img" aria-label={weeks.map((w) => `${weekLabel(w.start)} ${w.answers ? percent(w.share) : "ingen svar"}`).join(", ")}>
-        {weeks.map((w, i) => (
-          <div
-            key={w.start}
-            className="flex h-full flex-1 items-end"
-            onMouseEnter={() => setHover(i)}
-            onMouseLeave={() => setHover(null)}
-          >
-            {w.share === null ? (
-              <div className="h-0.5 w-full rounded-t-sm bg-muted-foreground/20" />
-            ) : (
-              <div
-                className={`w-full rounded-t-[4px] bg-primary transition-opacity ${hover !== null && hover !== i ? "opacity-50" : ""}`}
-                style={{ height: Math.max(2, w.share * height) }}
-              />
-            )}
-          </div>
-        ))}
-      </div>
-    </figure>
-  );
-}
-
-function weekLabel(start: number) {
-  return `uke fra ${new Date(start).toLocaleDateString("nb-NO", { day: "numeric", month: "short" })}`;
-}
-
-function DocumentRow({ stat }: { stat: DocumentStat }) {
-  const [open, setOpen] = useState(false);
-  const rated = stat.topics.filter((t) => t.confidence !== null).length;
-  return (
-    <div>
-      <button
-        type="button"
-        onClick={() => setOpen((v) => !v)}
-        aria-expanded={open}
-        className="flex w-full items-center gap-3 py-3 text-left hover:bg-muted/30"
-      >
-        <ChevronRight className={`size-4 shrink-0 text-muted-foreground transition-transform ${open ? "rotate-90" : ""}`} />
-        <span className="min-w-0 flex-1 truncate font-medium">{stat.document.title}</span>
-        <span className="hidden text-xs text-muted-foreground sm:inline">
-          {stat.topics.length} temaer · {rated} vurdert
-        </span>
-        <Meter share={stat.current} className="w-28" />
-        <span className="w-12 text-right text-sm tabular-nums">{percent(stat.current)}</span>
-      </button>
-      {open ? (
-        <ul className="mb-3 space-y-1 pl-7">
-          {stat.topics
-            .slice()
-            .sort((a, b) => (a.current ?? 2) - (b.current ?? 2))
-            .map((t) => (
-              <TopicRow key={t.topic} documentKey={stat.document.id} stat={t} />
-            ))}
-        </ul>
-      ) : null}
-    </div>
-  );
-}
-
-function Meter({ share, className = "" }: { share: number | null; className?: string }) {
-  return (
-    <div className={`h-1.5 overflow-hidden rounded-full bg-muted ${className}`} aria-hidden>
-      {share !== null ? (
-        <div className="h-full rounded-full bg-primary" style={{ width: `${Math.round(share * 100)}%` }} />
-      ) : null}
-    </div>
-  );
-}
-
-function TopicRow({ documentKey, stat }: { documentKey: string; stat: TopicStat }) {
-  const setConfidence = useMutation(api.practice.setConfidence);
-  const hint =
-    stat.current === null || stat.answers < 4
-      ? null
-      : stat.confidence === 3 && stat.current < 0.6
-        ? "Du føler deg trygg, men svarer riktig på under 60 %."
-        : stat.confidence === 1 && stat.current >= 0.85
-          ? "Du svarer riktig på det meste, så du kan trolig mer enn du tror."
-          : null;
-  return (
-    <li className="rounded-md px-2 py-2 hover:bg-muted/30">
-      <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
-        <span className="min-w-0 flex-1 text-sm">{stat.topic}</span>
-        <span className="text-xs text-muted-foreground tabular-nums">
-          {stat.answers ? `${stat.answers} svar` : "ikke øvd"}
-        </span>
-        {stat.change !== null && Math.abs(stat.change) >= 0.05 ? (
-          <span
-            className={`flex items-center text-xs tabular-nums ${stat.change > 0 ? "text-teal-700" : "text-rose-700"}`}
-            title="Endring fra de tidligere til de siste svarene dine"
-          >
-            {stat.change > 0 ? <ArrowUpRight className="size-3.5" /> : <ArrowDownRight className="size-3.5" />}
-            {Math.abs(Math.round(stat.change * 100))} pp
-          </span>
-        ) : null}
-        <Meter share={stat.current} className="w-20" />
-        <span className="w-10 text-right text-xs tabular-nums">{percent(stat.current)}</span>
-        <div className="flex overflow-hidden rounded-md border border-border/70" role="group" aria-label={`Hvor trygg er du på ${stat.topic}?`}>
-          {CONFIDENCE_LEVELS.map((c) => (
-            <button
-              key={c.level}
-              type="button"
-              aria-pressed={stat.confidence === c.level}
-              onClick={() =>
-                void setConfidence({
-                  documentKey,
-                  topic: stat.topic,
-                  level: stat.confidence === c.level ? null : c.level,
-                })
-              }
-              className={`border-l border-border/70 px-2 py-1 text-xs first:border-l-0 ${
-                stat.confidence === c.level
-                  ? "bg-foreground font-medium text-background"
-                  : "text-muted-foreground hover:bg-muted/70"
-              }`}
-            >
-              {c.label}
-            </button>
-          ))}
-        </div>
-      </div>
-      {hint ? <p className="mt-1 text-xs text-amber-700">{hint}</p> : null}
-    </li>
   );
 }

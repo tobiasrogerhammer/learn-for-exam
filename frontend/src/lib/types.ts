@@ -26,12 +26,18 @@ export type Subject = {
   name: string;
   createdAt: string;
   tools?: SubjectTool[];
+  /** The exam day, as YYYY-MM-DD */
+  examDate?: string;
 };
 
 /** How documents are grouped in the library */
 export type DocCategory = "leksjon" | "forelesning" | "oppgave" | "annet";
 
-export type LibraryItem = {
+/**
+ * What the list of documents holds for every document: enough for menus,
+ * overviews and progress, without the text itself.
+ */
+export type DocumentMeta = {
   id: string;
   /** Emne dokumentet hører til */
   subjectId?: string;
@@ -42,15 +48,24 @@ export type LibraryItem = {
   createdAt: string;
   sectionCount: number;
   charCount: number;
-  document: ExtractedDocument;
   /** Chosen at upload; baked into Piper synthesis */
   speakingRate?: number;
+  /** Chapters as Les shows them, worked out on the server */
+  chapterCount: number;
+  wordCount: number;
+  /** Topics in the study set and how many questions each has, or null without one */
+  topics?: { topic: string; items: number }[] | null;
+  /** Published audiobook anyone can play, made locally with Piper */
+  audiobook?: Audiobook;
+};
+
+/** A document with its text, loaded when it is opened */
+export type LibraryItem = DocumentMeta & {
+  document: ExtractedDocument;
   /** Cleaned-up text for Les, in Markdown with headings and tables */
   reading?: { markdown: string; files: string[]; updatedAt: string };
   /** Text written for listening; Lytt reads and shows it instead of the document */
   script?: AudiobookScript;
-  /** Published audiobook anyone can play, made locally with Piper */
-  audiobook?: Audiobook;
 };
 
 export type AudiobookScript = {

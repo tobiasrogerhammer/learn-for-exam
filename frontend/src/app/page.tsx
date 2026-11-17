@@ -10,7 +10,7 @@ import {
   PanelLeftOpen,
   Plus,
   Settings2,
-  SlidersHorizontal,
+  TrendingUp,
 } from "lucide-react";
 import { api } from "../../convex/_generated/api";
 import { EmptyState } from "@/components/flashcards-view";
@@ -19,6 +19,8 @@ import { ListenView } from "@/components/listen-view";
 import { AccountButton } from "@/components/account-button";
 import { StudyPanel } from "@/components/study-panel";
 import { SubjectOverview } from "@/components/subject-overview";
+import { ExamDate } from "@/components/exam-date";
+import { ProgressHome } from "@/components/progress-home";
 import { SubjectPicker } from "@/components/subject-picker";
 import { SubjectSidebar } from "@/components/subject-sidebar";
 import { UploadPanel } from "@/components/upload-panel";
@@ -33,12 +35,16 @@ import {
 } from "@/lib/library";
 import {
   loadContent,
+  loadDocument,
   loadProgress,
   onSaveError,
+  content,
+  readKey,
   reloadContent,
+  writeKey,
   type ProgressMode,
 } from "@/lib/storage";
-import { deleteStudySets, listStudySets } from "@/lib/study";
+import { deleteStudySets } from "@/lib/study";
 import { checkStudyHealth } from "@/lib/study-api";
 import {
   createSubject,
@@ -49,15 +55,19 @@ import {
   renameSubject,
   setActiveSubjectId,
   setChosenSubjects,
+  setExamDate,
 } from "@/lib/subjects";
 import { checkHealth } from "@/lib/tts-api";
 import type {
   ExtractedDocument,
+  DocumentMeta,
   LibraryItem,
   ListenPosition,
   StudySet,
   Subject,
 } from "@/lib/types";
+
+const WELCOMED_KEY = "learn-for-exam:welcomed:v1";
 
 export default function HomePage() {
   const { isLoading: authLoading, isAuthenticated } = useConvexAuth();
@@ -68,10 +78,15 @@ export default function HomePage() {
   const [chosen, setChosen] = useState<string[] | null>(null);
   const [pickerOpen, setPickerOpen] = useState(false);
   const [subjectId, setSubjectId] = useState<string | null>(null);
-  const [library, setLibrary] = useState<LibraryItem[]>([]);
+  const [library, setLibrary] = useState<DocumentMeta[]>([]);
   const [docCounts, setDocCounts] = useState<Record<string, number>>({});
-  const [studySets, setStudySets] = useState<StudySet[]>([]);
+  // The open document with its text, fetched when it is picked
+  const [opened, setOpened] = useState<{ id: string; item: LibraryItem | null } | null>(null);
+  const [openedVersion, setOpenedVersion] = useState(0);
   const [selectedId, setSelectedId] = useState<string | null>(null);
+  // Fremgang is the home page; new accounts land there with an introduction
+  const [home, setHome] = useState(false);
+  const [firstVisit, setFirstVisit] = useState(false);
   const [showUpload, setShowUpload] = useState(false);
   const [menuOpen, setMenuOpen] = useState(false);
   // On wide screens the sidebar can be put away to give the text more room
@@ -87,7 +102,8 @@ export default function HomePage() {
   const refreshSubject = useCallback((id: string | null) => {
     setLibrary(id ? listLibrary(id) : []);
     setDocCounts(countBySubject());
-    setStudySets(id ? listStudySets(id) : []);
+    // Study sets and audiobooks may have changed, so the open document is fetched again
+    setOpenedVersion((v) => v + 1);
     setPositions(getListenPositions());
   }, []);
 
@@ -115,6 +131,11 @@ export default function HomePage() {
         setChosen(picked);
         // New accounts pick their subjects first
         if (isAuthenticated && picked === null && all.length > 0) setPickerOpen(true);
+        if (isAuthenticated && !readKey<boolean>(WELCOMED_KEY, false)) {
+          writeKey(WELCOMED_KEY, true);
+          setHome(true);
+          setFirstVisit(true);
+        }
         setSubjectId(active?.id ?? null);
         refreshSubject(active?.id ?? null);
         setContentReady(true);
@@ -143,7 +164,27 @@ export default function HomePage() {
   const subject = visibleSubjects.find((s) => s.id === subjectId) ?? null;
   const selected = library.find((x) => x.id === selectedId) ?? null;
 
+  useEffect(() => {
+    if (!selectedId) return;
+    let cancelled = false;
+    loadDocument(selectedId)
+      .then((item) => {
+        if (!cancelled) setOpened({ id: selectedId, item });
+      })
+      .catch((err) => {
+        if (!cancelled) setLoadError(err instanceof Error ? err.message : String(err));
+      });
+    return () => {
+      cancelled = true;
+    };
+  }, [selectedId, openedVersion]);
+
+  // undefined while the text is on its way, null if it could not be found
+  const selectedItem = opened && opened.id === selectedId ? opened.item : undefined;
+  const selectedSet: StudySet | undefined = selectedId ? content.studySets[selectedId] : undefined;
+
   const switchSubject = (id: string) => {
+    setHome(false);
     setActiveSubjectId(id);
     setSubjectId(id);
     setSelectedId(null);
@@ -165,10 +206,15 @@ export default function HomePage() {
   const handleDeleteSubject = (id: string) => {
     deleteStudySets(deleteDocumentsInSubject(id));
     deleteSubject(id);
-    let rest = listSubjects();
-    if (rest.length === 0) rest = [createSubject("Generelt")];
+    const rest = listSubjects();
     setSubjects(rest);
-    switchSubject(rest[0].id);
+    // With no subjects left the page stays empty until a new one is made
+    if (rest[0]) switchSubject(rest[0].id);
+    else {
+      setSubjectId(null);
+      setSelectedId(null);
+      refreshSubject(null);
+    }
   };
 
   const handleAudiobookPublished = () => {
@@ -226,16 +272,34 @@ export default function HomePage() {
         >
           <Menu className="size-4 shrink-0 text-muted-foreground" />
           <span className="min-w-0 flex-1 truncate">
-            {selected?.title ?? subject?.name ?? "Emner og dokumenter"}
+            {home ? "Fremgang" : selected?.title ?? subject?.name ?? "Emner og dokumenter"}
           </span>
           <ChevronDown
             className={`size-4 shrink-0 text-muted-foreground transition-transform ${menuOpen ? "rotate-180" : ""}`}
           />
         </button>
         <div id="emne-meny" className={`mt-4 flex-col md:mt-8 md:flex md:flex-1 ${menuOpen ? "flex" : "hidden"}`}>
+          <button
+            type="button"
+            onClick={() => {
+              setHome(true);
+              setMenuOpen(false);
+              window.scrollTo({ top: 0 });
+            }}
+            aria-current={home ? "page" : undefined}
+            className={`mb-5 flex w-full items-center gap-2.5 rounded-md px-2 py-2 text-left text-sm font-medium transition ${
+              home ? "bg-muted text-foreground" : "text-muted-foreground hover:bg-muted/60 hover:text-foreground"
+            }`}
+          >
+            <span className="flex size-6 items-center justify-center rounded-md bg-primary/10 text-primary">
+              <TrendingUp className="size-3.5" />
+            </span>
+            Fremgang
+          </button>
           <SubjectSidebar
             subjects={visibleSubjects}
-            activeId={subjectId}
+            // On Fremgang no subject is open, so any subject takes you to it
+            activeId={home ? null : subjectId}
             docCounts={docCounts}
             documents={library}
             selectedDocId={selectedId}
@@ -243,6 +307,7 @@ export default function HomePage() {
             canEdit={isAdmin}
             onSelect={switchSubject}
             onSelectDocument={(id) => {
+              setHome(false);
               setSelectedId(id);
               setMenuOpen(false);
               window.scrollTo({ top: 0 });
@@ -254,19 +319,8 @@ export default function HomePage() {
               setSubjects(listSubjects());
             }}
             onDelete={handleDeleteSubject}
+            onEditSubjects={contentReady && subjects.length > 0 ? () => setPickerOpen(true) : undefined}
           />
-          {contentReady && subjects.length > 0 ? (
-            <div className="mt-6 border-t border-border/50 pt-3 md:mt-auto">
-              <button
-                type="button"
-                onClick={() => setPickerOpen(true)}
-                className="flex w-full items-center gap-2 rounded-md px-2 py-2 text-sm text-muted-foreground hover:bg-muted/70 hover:text-foreground"
-              >
-                <SlidersHorizontal className="size-4" />
-                Legg til eller fjern emner
-              </button>
-            </div>
-          ) : null}
         </div>
       </aside>
       {pickerOpen ? (
@@ -301,7 +355,7 @@ export default function HomePage() {
                 )}
               </Button>
               <h1 className="truncate font-[family-name:var(--font-reading)] text-xl leading-tight">
-                {subject?.name ?? ""}
+                {home ? "Fremgang" : subject?.name ?? ""}
               </h1>
             </div>
             <div className="flex flex-wrap items-center gap-2">
@@ -325,7 +379,7 @@ export default function HomePage() {
                 </button>
               </p>
             ) : null}
-            {contentReady && !isAuthenticated ? (
+            {contentReady && !isAuthenticated && !home ? (
               <p className="rounded-md border border-border/70 bg-card/70 px-4 py-3 text-sm text-muted-foreground">
                 Logg inn med Google for å lagre fremgangen din på tvers av enheter. Uten
                 innlogging huskes den bare i denne nettleseren.
@@ -334,7 +388,11 @@ export default function HomePage() {
             {contentReady && subjects.length === 0 && !isAdmin ? (
               <EmptyState text="Det er ikke lagt ut noe pensum ennå." />
             ) : null}
-            {selected && subject ? (
+            {home ? (
+              contentReady ? (
+                <ProgressHome firstVisit={firstVisit} />
+              ) : null
+            ) : selected && subject ? (
               <>
                 <button
                   type="button"
@@ -347,13 +405,14 @@ export default function HomePage() {
                   <ChevronLeft className="size-4" />
                   Alt i {subject.name}
                 </button>
-                <LessonFlow
-                  key={selected.id}
-                  item={selected}
-                  studySet={studySets.find((s) => s.documentId === selected.id)}
-                  tools={tools}
-                />
-                {isAdmin ? (
+                {selectedItem ? (
+                  <LessonFlow key={selectedItem.id} item={selectedItem} studySet={selectedSet} tools={tools} />
+                ) : selectedItem === null ? (
+                  <EmptyState text="Fant ikke teksten til dette dokumentet." />
+                ) : (
+                  <p className="text-sm text-muted-foreground">Laster …</p>
+                )}
+                {isAdmin && selectedItem ? (
                   <details className="group rounded-md border border-border/70 bg-card/70 shadow-sm">
                     <summary className="flex cursor-pointer list-none items-center gap-2 px-4 py-2.5 text-sm font-medium text-muted-foreground [&::-webkit-details-marker]:hidden">
                       <Settings2 className="size-4" />
@@ -362,16 +421,16 @@ export default function HomePage() {
                     </summary>
                     <div className="flex flex-col gap-6 border-t border-border/60 p-4">
                       <StudyPanel
-                        item={selected}
+                        item={selectedItem}
                         subjectName={subject.name}
-                        studySet={studySets.find((s) => s.documentId === selected.id)}
+                        studySet={selectedSet}
                         claudeReady={claudeReady}
                         canEdit={isAdmin}
                         onDelete={() => handleDelete(selected.id)}
                         onStudySetChange={() => refreshSubject(subjectId)}
                       />
                       <ListenView
-                        item={selected}
+                        item={selectedItem}
                         isAdmin={isAdmin}
                         backendReady={backendReady}
                         onLibraryChange={handleAudiobookPublished}
@@ -393,10 +452,23 @@ export default function HomePage() {
                     </Button>
                   </div>
                 ) : null}
+                {subject && (subject.examDate || isAdmin) ? (
+                  <div className="-mb-2 flex">
+                    <ExamDate
+                      key={subject.id}
+                      date={subject.examDate}
+                      canEdit={isAdmin}
+                      onChange={(date) => {
+                        setExamDate(subject.id, date);
+                        setSubjects(listSubjects());
+                      }}
+                    />
+                  </div>
+                ) : null}
                 {library.length > 0 ? (
                   <SubjectOverview
                     items={library}
-                    withStudySet={new Set(studySets.map((x) => x.documentId))}
+                    withStudySet={new Set(library.filter((d) => d.topics?.length).map((d) => d.id))}
                     positions={positions}
                     onSelect={(id) => {
                       setSelectedId(id);

@@ -1,0 +1,408 @@
+--- side 1 ---
+Kunnskap for en bedre verden
+EXPH0300: Examen philosophicum for
+naturvitenskap og teknologi
+Forelesning 6
+Mirela Fus-Holmedal
+mirela.fus-holmedal@ntnu.no
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+
+--- side 2 ---
+Agenda
+Vitenskap, teknologi og samfunn (ii)
+1. Teknologi, menneske, samfunn (Tenk!, kap. 13)
+2. Ingeniører og ansvar (van de Pol & Royakkers)
+3. Vitenskap og samfun (Briggle & Mitcham)
+6772 9833
+2
+
+--- side 3 ---
+
+
+--- side 4 ---
+1. Teknologi, menneske, samfunn (Tenk!, kap. 13)
+
+--- side 5 ---
+Betydningen av teknologi: hverdagsperspektiv
+• Det er få, eller kanskje ingen (?), deler av livene
+våre som ikke er påvirket av teknologi. Eksempler:
+➢ Smartphones → forhold til venner og selvbildet vårt
+➢ Konstant underholdning
+➢ Nye transportmuligheter
+➢ Digitalt «nærvær»
+➢ Automatisert arbeid
+Technê: ifølge gresk
+tenkning er dette en
+særlig kunnskapsform.
+Tekno-logi:
+❖«kunnskap om
+produksjon…»
+❖i dagligtale:
+teknologiske ting eller
+typer av teknologi.
+• Viktig å utvikle teknologibevissthet:
+– Kunnskap om hvordan teknologi påvirker oss
+som enkeltindivider og samfunnets strukturer
+5
+
+--- side 6 ---
+Hvorfor trenger vi å forstå hva teknologi er?
+Teknologiens tosidighet:
+➢ muliggjør at vi kan leve bedre
+eller enklere liv
+➢ kan ha negative konsekvenser,
+f.eks. forurensing, ekkokamre,
+konformitetspress.
+Så: hvordan bør vi innrette samfunnet eller leve med teknologi?
+6
+
+--- side 7 ---
+Samfunn og teknologi: hvem bestemmer?
+7
+
+--- side 8 ---
+Styrer vi teknologien eller styrer teknologien oss?
+1. Teknologisk instrumentalisme
+Vi identifiserer et
+problem
+Vi finner en teknologisk
+løsning som vi kan velge om
+vi vil ta i bruk
+Verdinøytral: Teknologi er rene hjelpemidler, det er vår bruk av teknologi som
+forårsaker de negative og positive konsekvensene.
+2. Teknologisk determinisme
+Vi har en teknologi Teknologien endrer
+livsbetingelsene våre
+Vi tvinges til å endre atferd
+for å tilpasse oss
+Verdiladet: Teknologi endrer måten vi gjør ting–visse ting blir lettere, vanskeligere
+eller rett og slett mulige å gjøre. Kan være dystopisk eller optimistisk.
+
+--- side 9 ---
+Teknologisk instrumentalist vs. teknologisk determinist
+9
+
+--- side 10 ---
+Det relasjonelle teknologisynet
+• En mellomposisjon, påvirkningen går begge veier
+• Mener både at
+– i) teknologien er verdiladet (noe blir mer eller mindre attraktivt
+pga. av teknologien) og
+– ii) at våre mål og handlinger er verdiladede (teknologiske
+handlinger utføres av mennesker som har mål og ønsker med
+handlingen)
+• Samfunnet blir formet i samspillet mellom teknologi og
+politiske, etiske, juridiske og økonomiske faktorer.
+10
+
+--- side 11 ---
+Hvorfor er dette viktig?
+• Om vi overvurderer vår egen
+kontroll over teknologien,
+kan vi undervurdere hvordan
+teknologiske valg har store
+samfunnsmessige konsekvenser
+• Om vi overvurderer
+påvirkning teknologien har
+på oss, setter vi oss selv til side
+11
+
+--- side 12 ---
+Tre teknologisyn: Styrer vi teknologien eller styrer
+teknologien oss?
+1. Teknologisk instrumentalisme
+Vi finner en teknologisk løsning som
+vi kan velge om vi vil ta i bruk
+Vi identifiserer et
+problem
+2. Det relasjonelle teknologisynet
+3. Teknologisk determinisme
+Vi har en teknologi Noe blir mer eller mindre
+attraktivt pga. av teknologien
+Teknologien endrer
+livsbetingelsene våre
+Teknologiske handlinger utføres av mennesker
+som har mål og ønsker med handlingen
+Vi tvinges til å endre atferd
+for å tilpasse oss
+12
+
+--- side 13 ---
+Bør vi frykte den teknologiske
+påvirkningen?
+• Platon uttrykte en skeptisisme mot datidens nye teknologi;
+skrivekunsten
+– Frykten var at den på sikt ville bidra til å svekke menneskets hukommelse
+– I dag ser vi den samme skepsisen overfor f.eks. ChatGPT
+• Sherry Turkle (1948-): Sosiale medier vil forandre sosiale relasjoner, f.eks. vår
+forståelse av hva vennskap innebærer
+• The vulnerable world hypothesis (Nick Bostrom)
+– Hvor stor er sannsynligheten for at vi på et tidspunkt «trekker en teknologi opp
+av kunnskapens urne» som med sikkerhet vil bety sivilisasjonens undergang?
+(f.eks. billige masseødeleggelsesvåpen, KI)
+13
+• NB! Det er likevel vanskelig å forutsi den moralske og verdimessige
+utviklingen (Å vurdere fremtiden med gårsdagens briller)
+
+--- side 14 ---
+Bør vi frykte den teknologiske påvirkningen?
+14
+
+--- side 15 ---
+Teknologi og samfunn
+• Kan en bro være rasistisk?
+– Eks: Bru anlagt mellom New York og Jones Beach på 1930-
+tallet
+– Langdon Winner (1944-): Bruer er ikke bare nyttig teknologi,
+men kan være verdiladede i den forstand at de er rasistiske og
+klassediskriminerende
+• Sosiotekniske nettverk
+– Når ny teknologi oppstår, kobles den raskt på et nettverk av
+andre teknologier og samfunnsmessige funksjoner (f.eks.
+bilen er en del av et nettverk av asfalterte veier,
+bensinstasjoner, osv.)
+– Det skapes et gjensidig avhengighetsforhold mellom teknologi
+og nettverk som begrenser reguleringen av teknologien
+15
+
+--- side 16 ---
+Noen utfordringer med KI
+• Microsofts chatbot Tay (2016)
+– Gikk på få timer fra å være en hyggelig samtalepartner til å bli rasistisk
+og kvinnefiendtlig
+• KI i amerikansk rettsvesen
+– Strengere straff til fargede: Feilvurderer systematisk ut fra hudfarge
+• IBMs Watson Oncology
+– Legger opp behandlingsforløp til kreftpasienter, men ble stoppet fordi den
+foreslo behandlinger som ville drepe pasienten
+16
+
+--- side 17 ---
+Bør vi bremse den teknologiske utviklingen?
+17
+
+--- side 18 ---
+Spørsmål?
+18
+
+--- side 19 ---
+Ingeniøretikk
+2. Ingeniører og ansvar (van de Pol & Royakkers)
+
+--- side 20 ---
+Ingeniøretikk
+• Challenger-ulykken i 1986
+– En varslet katastrofe
+• Ingeniører varslet om svakhet i o-ringer
+– Kunne lede til drivstoff-lekkasje ved lave
+temperaturer
+• Ble informert til produsent og NASA
+• Produsentens ledelse mente det var trygt,
+og NASA fulgte deres råd
+• Ingen ble stilt til ansvar, men rutinene ble
+endret
+• Hvem hadde det moralske ansvaret for
+ulykken?
+20
+
+--- side 21 ---
+Hvem hadde det moralske ansvaret for
+Challenger-ulykken?
+21
+
+--- side 22 ---
+Ansvar og roller
+• Ansvar knyttes til roller
+– Forelder, venn, borger, ansatt, ingeniør, ekspert, kollega
+– Medfører rolleansvar
+– Ulikt ansvar som ansatt og ingeniør
+• Lojalitet vs kompetanse
+• De som advarte om o-ringen tok ansvar som ingeniør
+• Teknisk kompetente råd om risiko for astronautene
+• I forhold til roller: rolleansvar
+• I forhold til å være menneske: moralsk ansvar
+• Moralsk ansvar går utover rolleansvar
+– Baseres på plikter ut fra etiske hensyn, ikke rollespesifikke
+normer
+22
+
+--- side 23 ---
+Passivt ansvar: vurderingskontekst
+• Bakoverskuende ansvar som tildeles etter at noe uønsket
+har inntruffet
+– Medfører ofte at man kan klandres for det som
+skjedde
+• Klanderverdighet (kriterier):
+1) 2) Noen har brutt en norm eller gjort noe galt
+Det er en kausal forbindelse mellom handlingen og den
+uønskede konsekvensen
+3) Forutsigbarhet
+4) Handlingsfrihet
+23
+
+--- side 24 ---
+Aktivt ansvar: handlingskontekst
+• En type ansvar man kan ha før noe har skjedd
+– Det refererer til en plikt til å handle på en slik
+måte at uønskede konsekvenser unngås så
+langt det er mulig og at man i stedet muliggjør
+gode konsekvenser
+• Krever en form for positiv holdning eller
+karaktertrekk
+– Innenfor filosofi og særlig dydsetikk, kalles
+denne type holdninger og karaktertrekk for
+profesjonsidealer or dyder
+Betinget av:
+1. Passende forståelse av
+når en norm brytes
+2. Evne til å se
+konsekvenser
+3. Autonomi
+4. Å handle ut fra et sett
+verdier (code)
+5. Å ta rolleansvar seriøst
+24
+Kunnskap for en bedre verden
+Kunnskap utviklet ved NTNU skal komme fellesskapet til gode, og man skal kunne stole
+på at kunnskap fra NTNU er kommet frem i tråd med normer for utvikling av god vitenskap.
+Kunnskap og teknologiutvikling gir muligheter for å øke den bærekraftige verdiskapingen
+og for å finne svar på store utfordringer. Verden har gjennom FN blitt enige om 17
+bærekraftsmål. NTNU vil bidra aktivt til å nå bærekraftsmålene.
+
+--- side 25 ---
+Idealer for ingeniører / Ingeniørdyder
+• Teknologisk entusiasme
+– Trengs for å kunne utvikle ny teknologi til det beste for menneskeheten
+– En iboende fare at den gjør det lett å overse mulige negative konsekvenser av
+teknologien man utvikler
+• Effektivitet
+– Er nøytralt og objektivt målbart (og verdifri?): Til forskjell fra menneskelig lykke
+kan effektivitet defineres og ofte kvantifiseres
+• Velferd/samfunnsøkonomisk nytte
+– Å bidra til menneskelig trivsel velferd,
+og
+– et viktig ideal for ingeniører
+25
+
+--- side 26 ---
+Tre modeller for ingeniørers ansvar
+• Modell 1: Separatisme
+– Ingeniøren rådgir, ledelsen bestemmer
+– Ingeniøren bare ansvarlig for konstruksjonen
+– Bruken bestemmes av andre
+• Modell 2: Teknokrati
+– Eksperter bør bestemme i samfunnet
+– Paternalistisk og udemokratisk
+• Modell 3: Varsling
+– Ingeniøren har rådgivende rolle, men også ansvar for å varsle om hun ser
+noe galt skjer eller kan skje
+– Ofte store sosiale kostnader
+26
+
+--- side 27 ---
+Hvilken modell for ingeniørers ansvar synes
+du er best?
+27
+
+--- side 28 ---
+*Har private bedrifter et selvstendig
+moralsk ansvar (ut over å følge loven)?
+• Milton Friedman: “The business of business is
+business.” – Det eneste ansvaret en bedrift har er å
+maksimere profitten for sine investorer.
+Hvilket
+samfunnsansvar
+har den enkelte
+ingeniør?
+28
+Har du et selvstendig moralsk ansvar?Eks: Du jobber med et stort prosjekt der din
+oppgave er å levere en løsning som
+minimaliserer de miljømessige
+konsekvensene. Sjefen din pålegger deg å
+endre løsningen slik at den blir billigere. Det
+gir en vesentlig dårligere løsning for miljøet,
+men gir en bedre inntjening i prosjektet.
+Hvilket moralsk ansvar har du?
+
+--- side 29 ---
+Det eneste ansvaret en bedrift har er å maksimere
+profitten for sine investorer. Har private bedrifter et
+selvstendig moralsk ansvar?
+29
+
+--- side 30 ---
+Spørsmål?
+30
+
+--- side 31 ---
+3. Vitenskap og samfun (Briggle & Mitcham)
+
+--- side 32 ---
+
+
+--- side 33 ---
+
+
+--- side 34 ---
+«Den lineære modellen» for forholdet mellom grunnforskning
+«Kunnskap er makt.»
+og samfunnsnytte
+• Vannevar Bush (1945): Vitenskapelig fremskritt fører til sosialt
+fremskritt. Fri forskning/grunnforskning er en nødvendig forutsetning
+for sosiale gevinster.
+• «Samfunnskontrakten» («Den lineære modellen»):
+– Samfunnet finansierer vitenskap
+– Vitenskapen er ansvarlig for å produsere god kunnskap, gjennom
+selvregulering
+– Samfunnet ansvarlig for å benytte kunnskapen godt
+• Forutsetter verdifri og apolitisk vitenskap
+Grunnforskning Anvendt
+forskning
+Teknologisk
+innovasjon
+Verdiskapning,
+velferd
+34
+
+--- side 35 ---
+
+
+--- side 36 ---
+I strid eller i tråd med den lineære modellen?
+36
+
+--- side 37 ---
+Tre typer av
+innvending
+er mot den
+lineære
+modellen
+37
+1. Fører en friest mulig grunnforskning
+nødvendigvis til innovasjon?
+2. Er teknologisk innovasjon alltid ønskelig?
+– Ikke alt som solid vitenskapelig kunnskap fører
+til, er til gode for samfunnet (jfr. forurensning,
+farlige våpen, farlig biotek, farlig KI etc.).
+3. Er forskning alltid verdt pengene?
+– Drifting av vitenskapelige laboratorier, anlegg
+osv. og lønning av store forskerteam krever
+stadig større finansiering («Big Science»).
+
+--- side 38 ---
+Spørsmål?
+38
+
+--- side 39 ---
+39
+Neste gang
+• Menneskesyn
+• Pensum:
+– Tenk! Del 3
+• Kap. 12, avsnitt 12.1-12.5
+
+--- side 40 ---
+Takk for i dag!
+Kunnskap for en bedre verden
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+

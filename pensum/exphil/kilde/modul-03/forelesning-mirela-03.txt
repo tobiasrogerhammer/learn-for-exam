@@ -1,0 +1,402 @@
+--- side 1 ---
+Kunnskap for en bedre verden
+EXPH0300: Examen philosophicum for
+naturvitenskap og teknologi
+Forelesning 3
+Mirela Fus-Holmedal
+mirela.fus-holmedal@ntnu.no
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+
+--- side 2 ---
+Agenda
+1. Avsluttende om
+argumentasjonsvurdering
+2. Hva er vitenskap?
+3. Hypotetisk-deduktiv metode
+OBS! Neste uke (F4): Online
+5510 4425
+2
+
+--- side 3 ---
+3
+
+--- side 4 ---
+Å ta stilling til i
+hvilken grad
+argumentene som
+føres er vellykkede
+Relevans + riktighet
+1. Argumentasjonsvurdering
+
+--- side 5 ---
+5
+
+--- side 6 ---
+Klassiske typer av deduktive argumenter
+Eksempler
+Modus ponens
+❖Hvis p så q
+❖P
+❖Derfor: q
+Modus tollens
+❖Hvis p så q
+❖Ikke q
+❖Derfor: ikke p
+Hypotetisk syllogisme
+❖Hvis p så q
+❖Hvis q så r
+❖Derfor: Hvis p så r
+Disjunktiv syllogisme
+❖P eller q
+❖Ikke p
+❖Derfor: q
+1. Hvis månen er en ost,
+så vinner jeg i lotto.
+2. Månen er en ost.
+K: Jeg vinner i lotto.
+6
+
+--- side 7 ---
+7
+OBS! Dersom et argument er maksimalt relevant for et standpunkt vil det
+være selvmotsigende å påstå at argumentet er riktig og samtidig benekte at
+standpunktet er riktig.
+
+--- side 8 ---
+Fire typer induktive argumenter
+Induktiv generalisering
+Analogiargument
+• P: N tilfeller [eller n%] av observerte
+P1: x og y er like i visse
+objekter med egenskapen F har
+henseender
+egenskapen G
+P2: x har egenskapen F
+• S: Alle objekter med egenskapen F har
+S: y har egenskapen F
+egenskapen G
+Argument: Hver gang jeg har tatt buss nr. 3
+til forelesning, har den kommet frem noen
+minutter for sent.
+Standpunkt: Buss nr. 3 er vanligvis forsinket.
+OBS! Er det relevante likheter
+mellom tilfellet i argumentet og
+tilfellet I standpunktet?
+Er det ev. relevante forskjeller
+mellom tilfellene?
+Induktiv syllogisme
+• S: x har egenskapen G
+• P1: x har egenskapen F
+• P2: De fleste tilfeller av
+observerte objekter med
+eg. F har egenskapen G
+Slutning til beste
+forklaring
+(abduksjon)
+Standpunktet antas å gi den
+beste forklaring på en rekke
+fakta vi kan observere
+OBS! Størrelsesorden og representativitet
+8
+
+--- side 9 ---
+Riktighet
+«Å ja, stemmer det?»
+[Altså: er argumentet riktig?]
+• Et argument er enten riktig eller uriktig, men
+vi kan ha ulik styrke i grunnen til å tro at et
+argument er riktig (forskning, observasjon,
+erfaring, praksisbasert kunnskap)
+• Et argument med usikker riktighet
+kan være godt så lenge det har tilstrekkelig
+høy relevans
+9
+• Din evne til å vurdere om en
+påstand er riktig, avhenger
+dermed av din egen
+bakgrunnskunnskap og din
+evne til å spore opp pålitelig
+informasjon (å være kildekritisk)
+• Du har som regel ikke direkte
+innsyn i om et argument er
+riktig eller ikke: Når du vurderer
+om et argument er riktig, tar du
+derfor i realiteten stilling til hvor
+sannsynlig det er at argumentet
+er riktig
+
+--- side 10 ---
+Spørsmål?
+10
+
+--- side 11 ---
+1. Hva er vitenskap?
+
+--- side 12 ---
+Hvorfor vitenskapsfilosofi er viktig
+Vitenskap er (formodentlig) viktig for dem
+som selv driver med det...
+...men er viktig også for alle andre, pga.
+dens store samfunnsmessige betydning:
+- Vitenskap er noe vi bruker store felles
+ressurser på
+- Vitenskap utgjør ofte en del av
+grunnlaget for viktige politiske
+beslutninger
+
+--- side 13 ---
+Vitenskapsfilosofi
+• Noen sentrale filosofiske spørsmål:
+– Hva er det som skiller vitenskap fra påstander som bare gir seg ut
+for å være vitenskapelige? (Demarkasjonsproblemet)
+– Hvordan bør en vitenskapelig test foregå for at den skal kunne gi
+oss kunnskap om verden?
+– Hvordan foregår vitenskapelig utvikling?
+– Nærmer vitenskapene seg sannheten?
+– Kan vitenskap være verdifri/«objektiv»/upartisk?
+– Henger alle vitenskaper sammen?
+13
+
+--- side 14 ---
+14
+
+--- side 15 ---
+Hva er formålet med vitenskap?
+• Skal gi oss kunnskap om virkeligheten
+• Slik at vi kan forklare og forutse fenomener og hendelser
+• Men også slik at vi kan manipulere og kontrollere naturen
+• Den teoretiske kunnskapen vitenskapen gir oss, muliggjør
+medisinsk og teknologisk utvikling (f.eks. Penicillin og
+antibiotika, elektrisitet, biler og vaskemaskiner)
+15
+
+--- side 16 ---
+Hva særpreger vitenskapelig arbeid?
+1) Vitenskap er sosialt organisert
+- Vitenskapelig arbeid er organisert gjennom institusjoner (f.eks. universiteter, konferanser,
+tidsskrifter)
+2) Vitenskap som et sett av aktiviteter
+- Det vitenskapsfolk gjør for å produsere
+kunnskap (f.eks. gjennomføring av eksperimenter, skrive artikler)
+3) Vitenskap som et sett med metoder
+- Bestemte metoder som egner seg til å
+frembringe kunnskap (f.eks. hypotetisk-
+deduktiv metode) Klassifiseringer/
+Generaliseringer
+16
+
+--- side 17 ---
+Epistemologi: Læren om kunnskap
+• Hva er kunnskap?
+• Hvilke kilder til kunnskap er
+pålitelige?
+• Hvordan avgjør vi egentlig om
+oppfatningene våre er korrekte
+eller berettigede?
+17
+
+--- side 18 ---
+Tre dimensjoner ved vitenskapelige
+undersøkelser
+1. Fenomenet vi ønsker å vite noe om
+F.eks. fremtidig klima, hvordan artene har
+utviklet seg, kodeksen blant kriminelle i New
+York
+2. 3. 18
+Data, observasjoner og evidens vi har om
+fenomenet
+F.eks. temperaturmålinger, intervjuer og
+nedtegnede observasjoner
+Teorier og modeller av fenomenet
+F.eks. en hypotetisk forklaring på hvordan
+universet ble til, hvilke klimaendringer vi kan
+forvente
+
+--- side 19 ---
+Hva undersøker vitenskapen?
+• Det som er for stort eller for lite, eller for langt
+unna i tid og rom, til å observeres direkte
+• F.eks. viruser, dinosaurer og The Big Bang
+• Det som er for generelt og allment til å observeres
+• F.eks. Hvilken effekt medisiner har på befolkningen, Newtons
+bevegelseslover
+• Det som har å gjøre med årsak og virkning
+• Å anta at korrelasjon innebærer kausalitet (årsak–virkning),
+er en vanlig feilslutning.
+• F.eks. At iskremsalget øker når
+solbrillesalget øker, betyr ikke at
+kjøp av iskrem forårsaker kjøp
+av solbriller, eller omvendt.
+19
+
+--- side 20 ---
+Vitenskap er vanskelig!
+• Tankefeil, bias og kognitive snarveier påvirker hvordan
+vi evaluerer påstander og evidens
+• Bekreftelsestendens (confirmation bias): En tendens vi
+har til å legge merke til og søke informasjon som støtter
+oppfatninger vi allerede har, og overse eller bagatellisere
+informasjon som ikke passer. F.eks.:
+– Sosiale medier: Algoritmer viser brukerne innhold
+som ligner på det de allerede liker, noe som
+forsterker deres eksisterende oppfatninger.
+• Hvordan kan vi forhindre at dette påvirker
+forskningsresultater?
+– F.eks.: Dobbel blinding
+20
+
+--- side 21 ---
+Valg av hypotese
+• Vitenskapen forklarer observasjoner
+ved å komme med hypoteser.
+Blant mulige hypoteser,
+der kandidatene ellers
+stiller likt, er det mest
+sannsynlig at den enkleste
+er den riktige.
+• Men hva er en god hypotese?
+– Forklaringskraft
+– Koherens
+– Enkelhet (Ockhams barberkniv)
+• Men er det tilstrekkelig?
+– Nei, hypoteser må testes
+21
+Occam’s
+razor: Et
+prinsipp for
+å velge
+hypotese
+
+--- side 22 ---
+Spørsmål?
+22
+
+--- side 23 ---
+2. Hypotetisk-deduktiv metode
+
+--- side 24 ---
+Hypotetisk-deduktiv metode
+• Et grunnleggende skjema for hvordan en vitenskapelig test bør foregå
+• Tar utgangspunkt i en hypotese hvis holdbarhet man ønsker å teste
+– F.eks. «Alt vann koker ved 100 grader celsius» eller «Kaken er ferdig»
+24
+
+--- side 25 ---
+Hypotesetesting: Er kaken ferdig?
+• 1. Hypotese: Kaken er ferdig.
+• 2. Utled observasjon: Hvis kaken er
+ferdig, vil det ikke feste seg røre på en
+tannpirker som stikkes ned i kaken.
+• 3. Hypotesen testes: Vi stikker en
+tannpirker ned i kaken og observerer at
+det ikke er røre på tannpirkeren.
+• 4. Vurdering: Vi anser hypotesen som
+bekreftet.
+25
+
+--- side 26 ---
+Steg 1-2
+Steg 1: Formulere en hypotese
+- F.eks. «Alt vann koker ved 100 grader celsius
+- Et skille mellom oppdagelseskontekst (hvordan en hypotese eller teori faktisk
+blir til?) og begrunnelseskontekst (hvordan en hypotese eller teori blir vurdert
+og validert etter at den er formulert?)
+Steg 2: Utlede observasjon
+- Forutse/predikere hva testen vil vise: f.eks. at vannet vil koke (eller boble) ved
+100 grader celsius
+- Ikke alle hypoteser som skal testes er så enkle: f.eks. Halleys komet
+- Merk at en rekke hypoteser og prediksjoner omhandler hvilke fenomener vi vil
+observere i fremtiden, men også hvilke observasjoner eller funn som vil
+støtte våre hypoteser om fortiden
+26
+
+--- side 27 ---
+Steg 3: Testing av hypotesen
+• Her foregår mye av det praktiske arbeidet
+➢ Krever noen ganger studier med tusenvis av deltakere,
+tidkrevende arkivgjennomgang eller å bygge
+partikkelreaktorer til mange milliarder kroner
+➢ Krever ofte et helt team av forskere fra forskjellige
+fagdisipliner som forstår metodene og prosessen som
+brukes, og som sørger for at man gjør relevante
+observasjoner og registrerer data på riktig måte
+• Krav om at undersøkelsen er transparent og replikerbar
+➢ Andre forskere må kunne gjennomgå og vurdere
+nøyaktig hva som ble gjort, for å vurdere kvaliteten på
+forskningen
+➢ Skal sikre at man oppnår samme resultat dersom
+man/andre forskere utfører samme test på nytt
+27
+
+--- side 28 ---
+Steg 4: Vurdering av hypotesen
+Avkreftelse:
+Dersom det forutsagte
+ikke inntreffer, kan man
+trekke slutningen at
+hypotesen er avkreftet
+Bekreftelse:
+Dersom det forutsagte
+inntreffer, kan man trekke
+slutningen at hypotesen
+foreløpig er bekreftet
+Hvis kaken er ferdig (h),
+så vil det ikke feste seg røre
+på en tannpirker som stikkes
+ned i kaken (e). (Hvis h, så Det fester seg ikke røre på en
+tannpirker som stikkes ned i
+e).
+• Gyldig slutning
+(Modus tollens)
+– Hvis h, så e
+– ikke e
+– dermed ikke h
+• Ugyldig slutning
+(Bekreftelse konsekvens)
+– Hvis h, så e
+– e
+– dermed h
+kaken (e).
+Det fester seg røre på en
+tannpirker som stikkes ned i
+kaken (ikke e).
+Kaken er ferdig (h).
+Kaken er ikke ferdig (ikke h).
+28
+
+--- side 29 ---
+29
+
+--- side 30 ---
+*Problemer med be- og avkreftelse
+• Bekreftelse
+– At vi får forventede prediksjoner kan aldri bevise at hypotesen er
+sann.
+– Det er alltid mulig at vi finner en bedre hypotese senere som kan
+forklare observasjonen bedre.
+• Avkreftelse er logisk tvingende.
+– Men: i praksis er det langt mere komplisert å teste om en
+hypotese er feil.
+– Det kan være uventede faktorer som forårsaker at en
+prediksjon ikke slår til; og det er sjelden at vi tester én
+hypotese om gangen.
+30
+
+--- side 31 ---
+Spørsmål?
+31
+
+--- side 32 ---
+32
+Neste gang
+• Vitenskapsfilosofi
+• Pensum: Tenk! Del 2
+– Kap. 6: Demarkasjonskriterium
+og falsifikasjonisme
+– Kap. 7: Bekreftelse
+
+--- side 33 ---
+Takk for i dag!
+Kunnskap for en bedre verden
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+

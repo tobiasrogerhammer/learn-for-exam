@@ -67,3 +67,9 @@ export function getChosenSubjects(): string[] | null {
 export function setChosenSubjects(ids: string[]): void {
   writeKey(CHOSEN_KEY, ids);
 }
+
+/** Sets or clears the exam day for a subject (admin only) */
+export function setExamDate(id: string, examDate: string | null): void {
+  content.subjects = readAll().map((s) => (s.id === id ? { ...s, examDate: examDate ?? undefined } : s));
+  save(() => convex!.mutation(api.content.setExamDate, { key: id, examDate }));
+}

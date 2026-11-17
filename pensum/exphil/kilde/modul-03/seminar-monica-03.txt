@@ -1,0 +1,80 @@
+--- lysbilde 1 ---
+EXPH0300 – Seminar 3
+Monica Roland 
+Høst 2026
+[Notater: 2]
+
+--- lysbilde 2 ---
+Plan for dagens seminar
+Første time: 
+Oppmøteregistrering
+Kortsvarsoppgaver fra Modul 3 i Canvas
+Andre time:
+Arbeid med Case 2 fra Modul 3 i Canvas
+[Notater: 5]
+
+--- lysbilde 3 ---
+Kortsvarsoppgave 1: Hypotetisk-deduktiv metode
+Se på følgende (fiktive) scenario: 
+En gruppe forskere har en hypotese om at et kosttilskudd reduserer forekomsten av hodepine. Forskerne samler inn data fra et stort antall personer, hvor halvparten får kosttilskuddet, mens den andre halvparten får narrepiller. Forsøkspersonene fyller i tillegg ut et spørreskjema om ulike sider ved livsstilen sin. Hvis hypotesen stemmer, mener forskerne at vi bør finne en klar statistisk sammenheng mellom høyt inntak av kosttilskuddet og lavere forekomst av hodepine. De finner ikke noen slik sammenheng. Men etter å ha sett nærmere på dataene, oppdager de en tydelig sammenheng mellom kosttilskuddet og mindre hodepine for en undergruppe av deltakerne, som også hadde høy fysisk aktivitet. Forskerne konkluderer dermed med at kosttilskuddet hjelper mot hodepine for mennesker som har høy fysisk aktivitet. 
+Oppgave
+Hvordan avviker forskernes fremgangsmåte fra den hypotetisk-deduktive metoden?
+[Notater: 11]
+
+--- lysbilde 4 ---
+Kortsvarsoppgave 2: Overraskelsesprinsippet
+Se på følgende (fiktive) scenario:
+Trine har en hypotese om at en type jord (A) fører til hurtigere plantevekst enn en annen type jord (B). Hun tester hypotesen ved å plante basilikum i to potter med hver sin type jord. Begge plasseres i vinduskarmen. Etter en uke er basilikumplanten i A femti prosent høyere enn basilikumplanten i B.
+Oppgave
+Hvordan vil du vurdere støtten Trines hypotese har mottatt av observasjonen i lys av Sobers overraskelsesprinsipp?
+
+--- lysbilde 5 ---
+Case og obligatorisk øvingsoppgave
+Gruppearbeid
+
+--- lysbilde 6 ---
+Obligatorisk øvingsoppgave
+Skal bestå av to tekster på 1200-1500 ord hver. Hver av dem skal besvare en caseoppgave som vi jobber med på seminar.
+Den første teksten skal besvare enten: 
+Caseoppgave om argumentasjonsteori (seminar i uke 36), eller 
+Caseoppgave om vitenskapelig tenkemåte (seminar i uke 38)
+Den andre teksten skal besvare enten: 
+Caseoppgave om vitenskap, teknologi og samfunn (seminar i uke 39), eller 
+Caseoppgave om menneskesyn (seminar i uke 40)
+Frist for innlevering av hele oppgaven: mandag 19. oktober kl. 14:00.
+
+--- lysbilde 7 ---
+Case 2 om vitenskapelig tenkemåte
+Bakgrunn  
+Spørsmålet om koronavirusets opprinnelse har vært en kilde til intens debatt, hvor to hovedhypoteser har dominert: 1) at viruset stammer fra en lablekkasje ved et forskningssenter i Wuhan, eller 2) at viruset har hoppet over fra dyr til mennesker via et såkalt “våtmarked” i Wuhan.    
+Våtmarkedhypotesen har vært den dominerende forklaringen, og er støttet av et flertall av ekspertene. Huanan engrosmarked for sjømat har blitt betraktet som en sannsynlig kilde til viruset, ettersom flere av de første kjente tilfellene var knyttet til dette. Markedet solgte levende ville dyr, og en del av hypotesen er at viruset har mutert i noen av dyrene, og deretter smittet mennesker.   
+Ifølge hypotesen om lablekkasje har viruset ved et uhell lekket fra Wuhan institutt for virologi. Laboratoriet er kjent for forskning på koronavirus hos flaggermus. Tilhengerne av denne hypotesen har kritisert etterforskningen av virusutbruddet for å være mangelfull og lite gjennomsiktig.   
+Den danske evolusjonsbiologen Kristian Andersen har hatt en sentral rolle i debatten om koronavirusets opprinnelse. I august 2020 ble han leder av et forskningsprosjekt om temaet, finansiert av det amerikanske helsedepartementet.  Andersen mistenkte først at koronaviruset kunne stamme fra en lablekkasje, men endret siden mening, noe som også har gjort ham til et populært mål for konspirasjonsteoretikere.  
+I Morgenbladet-artikkelen “Kom koronaviruset fra naturen eller et laboratorium?” (Time, 2024) gjennomgås litt av tankeprosessen som ledet Andersen til å støtte våtmarkedshypotesen og konkludere med at koronaviruset stammer fra Huanan-markedet.  
+Her følger et sammendrag av deler av denne artikkelen. 
+
+--- lysbilde 8 ---
+Sammendrag
+Det er flere forhold som gjør at Andersen mener det er mest sannsynlig at koronaviruset stammer fra et våtmarked i Wuhan, og ikke fra et laboratorium. Det første forholdet handler om et såkalt furinkløyvesete i koronaviruset. Dette er en egenskap som gjør at viruset mer effektivt trenger inn i celler. Hvis furinkløyvestedet ble konstruert i et laboratorium, burde man forvente at det var «optimalt», altså best mulig tilpasset å trenge inn i menneskeceller. Men Andersen så tvert imot at furinkløyvesetet var «ute av rammen». Hvis noen hadde konstruert viruset, ville de neppe satt inn setet på den måten.   
+Ifølge Andersen tyder dessuten smittemønstrene fra den aller tidligste fasen på at markedet, ett av fire i Wuhan som solgte ville pattedyr, var selve episenteret. Mange av de som først ble smittet, kunne knyttes direkte til markedet, andre bodde i nærheten. Tilgjengelige data viser ifølge Andersen klynger rundt markedet spesifikt (og ingen andre steder i Wuhan). Derimot var det ingen slike smitteklynger rundt laboratoriet som Andersen først mistenkte kunne være opphav til viruset. Dette laboratoriet ligger mange kilometer unna markedet, på den andre siden av Yangtzee-elven som renner gjennom byen.  
+I tillegg var det i epidemiens første dager to distinkte grener på virusets evolusjonære slektstre. Begge kan knyttes til våtmarkedet, noe som ifølge forskerne tyder på at det må ha vært minst to «hopp» fra dyr til menneske. Dette passer med hva man vil se hvis det har vært konstant kontakt mellom mennesker og dyr som var bærere av viruset, men rimer dårlig med et scenario der et enkelt smittet menneske, for eksempel en forsker fra Wuhan-laboratoriet, startet pandemien.   
+Sommeren 2024 kom enda en studie der Andersen og kolleger zoomer inn på et bestemt område av markedet, hvor det både var spesielt mange positive prøver og hvor man vet at det ble solgt ville dyr. De hadde tidligere vist at én enkelt salgsbod sørvest på markedet utmerket seg. Her fant de for eksempel viruset inne i bur og nede i avrenninger der dyrene ble oppbevart, samt inni en maskin som fjerner pels og fjær.  
+Slik ble det mulig å teste markedsteorien ytterligere: Selv om de fleste positive prøvene trolig stammer fra mennesker, så ville man – hvis hypotesen er korrekt – i dette området forvente å finne viruspositive prøver som også inneholder genetiske signaturer fra dyr. Og det var nøyaktig hva de fant, forklarer Andersen. Det var blant annet spor av mistenkte mellomverter som bambusrotter og palmecivett, og ikke minst mårhund – et dyr man lenge har trodd kan bære koronavirus og smitte mennesker.  
+
+--- lysbilde 9 ---
+Oppgave
+Ta utgangspunkt i sammendraget av artikkelen “Kom koronaviruset fra naturen eller et laboratorium?”, og velg ut et eksempel på hvordan Kristian Andersen argumenterer for sitt eget syn. Bruk eksempelet til å forklare hvordan måten han resonnerer på passer inn i HD-skjemaet. Pek i denne forbindelsen på hvordan deler av Andersens argumentasjon passer inn i de ulike trinnene i HD-metoden.   
+Bruk overraskelsesprinsippene til å vurdere hvor mye støtte Andersens (nåværende) hypotese mottar fra observasjonene han peker på. Forklar i den forbindelse hvilken rolle base rates (grunnsannsynlighet) spiller i vurderingen. 
+Vurder om Andersens fremgangsmåte er forenlig med Poppers falsifikasjonistiske syn på hvordan vitenskapelig kunnskap oppnås. Pek eventuelt på svakheter eksempelet kan illustrere ved Poppers falsifikasjonisme.    
+
+--- lysbilde 10 ---
+HAR DU HUSKET Å SJEKKE OPPMØTE I STUDENTWEB? 
+
+--- lysbilde 11 ---
+Neste gang 
+Akademisk skriving og argumentativ fremstilling
+OBS! Innlevering av individuelt utkast i Canvas
+Frist: Senest én virkedag før seminar 4
+Omfang: Ca. 800 ord
+Dere kan velge enten case 1 eller case 2.
+Medlemmene i samme smågruppe skal levere besvarelse på den samme casen.

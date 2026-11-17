@@ -1,0 +1,1084 @@
+--- side 1 ---
+Briggle, A. & Mitcham, C. (2012). Science and politics I: Polity for
+science. I Briggle, A. & Mitcham, C. Ethics and Science – An
+Introduction. Cambridge University Press. Kapittel 9 (s. 210–236).
+Utdraget er klarert i henhold til Kopinoravtalen for dette semesteret: HØST 2026
+Dette materialet er vernet etter åndsverkloven og er helt eller
+delvis fremstilt etter avtale med Kopinor. Materialet kan benyttes
+av studenter som deltar i det aktuelle emnet, for egne studier, i et-
+hvert format og på enhver plattform. Uten uttrykkelig samtykke er
+annen eksemplarfremstilling og tilgjengeliggjøring bare tillatt når
+det er hjemlet i lov (kopiering til privat bruk, sitat o.l.) eller avtale
+med Kopinor (www.kopinor.no).
+This material is protected by copyright law and is wholly or partly
+produced by agreement with Kopinor. The material can be used
+by students who participate in the relevant course, for their own
+studies, in any format and on any platform. Without expressed
+consent, other copying and making available is only permitted
+when authorized by law (copying for private use, quotation, etc.)
+or agreement with Kopinor (www.kopinor.no).
+Digitalt framstilt av:
+NTNU Universitetsbiblioteket
+
+--- side 2 ---
+9 Science and politics I
+Policyfor science
+Chapter 8 made the case that a book on ethics and science should include
+considerations of science-society relationships. Thinking must extend
+beyond doing things right to doing the right things. Thus the remaining
+chapters explore the social contexts of scientific research. Chapters 9 and
+10 form a natural pair: the former covers the making of policies to guide
+the conduct of science, the latter deals with the use of science to guide
+policymaking. Notice how in the political context concern for "good science"
+and "certified knowledge" tends now to be discussed in terms of
+"sound science" (science that is good for society) and "responsible knowledge."
+The final two chapters broaden the perspective beyond politics to
+consider the place of science in ideational culture (the world of ideas and
+beliefs) and material culture (technologies and their human significance).
+Setting the stage: government funding of embryonic
+stem cell research
+Early in his administration, US President George W. Bush gave a nationally
+televised address about government funding of research on human
+embryonic stem cells (ESCs). He announced a policy that would restrict
+federal funding of research involving ESCs. This policy for science can be
+used as a case study in the political governance of science, which includes
+state regulation and promotion of scientific research.
+ESCs are undiff erentiated cells derived by technological means from
+embryos. ThefirstreportedisolationofESCsoccurredin 1998.Becauseoftheir
+origins, research involving ES Cs have the capacity for prolonged self-renewal
+and the potential to become many specialized cell types. These properties
+created interest in ESCs for two reasons. First, they could provide scientific
+insights into cellular and developmental processes. Second, they held
+210
+
+--- side 3 ---
+Setting the stage 211
+out the promise of medical treatments for diabetes, spinal cord injuries,
+Parkinson's disease, and other degenerative disorders.
+For years, ESCs had been a source of public contention. Indeed, the ethics
+of research on human embryos had sparked debate since the 1970s
+advent of in vitro fertilization, which yields more embryos than are used
+for reproduction. Should such "spare" embryos be used for research if they
+are going to be discarded anyway? In the public debate, few disapproved of
+the goals of scientific understanding and medical cures, but many objected
+to the means of destroying human embryos in order to obtain ESCs. The
+debate hinged on the moral status of human embryos. Are embryos just
+clumps of cells, potential persons, or something in between? Many people
+are torn by ethical tensions between such values as respect for nascent
+human lif e, the relief of suffering, and freedom of scientific inquiry.
+President Bush wrestled with this dilemma in his speech: "As the genius
+of science extends the horizons of what we can do, we increasingly confront
+complex questions about what we should do."1
+Since 1996, the United States had prohibited national government
+funding of human embryo research. State support could greatly accelerate
+research, but it would promote practices that many tax-paying
+citizens judge immoral. Bush sought counsel from scientists and noted
+that, worldwide, researchers had developed roughly sixty stern cell lines
+as of the time of his speech. This figure later became a source of contention,
+with some claiming it to be an exaggeration. But Bush decided to
+limit government support for ESC research to those cell lines already
+in existence as of August 9, 2001, because "the life-and-death decision
+has already been made." He hoped this policy would promote the science
+without encouraging the further destruction of embryos - and, in
+fact, it did appear to spur alternative lines of research and the search
+for stern cells in various forms of adult tissue as well as the possibility
+of deriving stem cells from embryo development without directly harming
+embryos. 2 But to what extent and how should ethical concerns be
+applied through political means to influence the direction of scientific
+research?
+1 "President George W. Bush's Address on Stem Cell Research," Inside Politics, CNN TV
+website, http://edition.cnn.com/2001/ALLPOLITICS/08/09/bush.transcript/index.html.
+2 See President's Council on Bioethics 2005.
+
+--- side 4 ---
+212 Science and politics I: policy for science
+Bush vetoed subsequent legislation that would have supported the use
+of government funds for research on "surplus" human embryos created in
+fertility clinics. Part of the motivation behind the opposed legislation was
+concern that US biomedical research was falling behind other countries.
+Indeed, Singapore had announced a doubling of its research budget, with
+an emphasis on stem cell science. Much of this work was carried out in a
+giant research center known as "Biopolis," funded in part by Singapore's
+Stem Cell Consortium. Some prominent ESC scientists relocated from the
+US to Singapore to take advantage of the favorable research climate.
+In 2009, newly elected US President Barack Obama signed an executive
+order that expanded the use of federal funds for ESC research. He cited
+global competitive advantage in his remarks: "When government fails to
+make these investments, opportunities are missed. Promising avenues go
+unexplored. Some of our best scientists leave for other countries that will
+sponsor their work. And those countries may surge ahead of ours in the
+advances that transform our lives." President Obama noted that he was
+siding with the "ma jority of Americans" and that the Bush administration
+had forced a "false choice between sound science and moral values."
+"In this case," he remarked, "I believe the two are not inconsistent."3 This
+policy was central to Obama's promise, made in his inaugural address,
+to "restore science to its rightful place."4 What is the rightful place of
+science?
+Science in context
+The ESC case shows that there is no bright line between science and its
+many social contexts. ESCs are derived using equipment and machines
+and researchers intend to employ them through therapeutic technologies,
+and so they are intertwined with the development of artifacts and
+systems and markets of production and consumption. ESCs also pose profound
+moral questions beyond the issues of how to conduct good science,
+3 See Obama's "Remarks of President Barack Obama - As Prepared for Delivery," Office
+of the Press Secretary, White House website, www.whitehouse.gov/the_press_office/
+Remarks-of-the-President-As-Prepared-for-Delivery-Signing-of -Stem-Cell-ExecutiveOrder-and-Scientific-Integrity-Presidential-Memorandum.
+4 "President Barack Obama's Inaugural Address," The Whitehouse Blog, www.whitehouse.
+gov /blog/inaugural-address.
+
+--- side 5 ---
+Science in context
+213
+and so they are intertwined with religious, moral, and political debate.
+These are questions about the limits of science and its appropriate place in
+the natural world and the constellation of human endeavors. Looking at
+this case, it is hard to say where "science" ends and "society" begins. Since
+science is so deeply implicated with its social contexts, it stands to reason
+that the ethical dimensions of science extend beyond laboratory doors.
+Indeed, whereas previous chapters focused primarily on the question of
+how to conduct good science, the ESC case and the following chapters pose
+broader questions about which science to pursue.
+Such questions are economic, moral, and political in nature. For
+example, it takes money to do science, which poses questions such as: How
+much money should be invested in which kinds of science? Who should
+pay for what kind of research? Who should benefit from the results? These
+are not scientific questions, although scientists may think they have a
+privileged vantage point for responding. So, who should make these decisions
+on the basis of what criteria? Like any economic activity, science
+must face the fact of finite resources. Investments in scientific research
+projects come at the cost of alternative uses of those funds, either within
+science or outside it. Investments in science are also uncertain, as governments
+and corporations make many decisions about research not knowing
+whether or to what extent they will yield benefits. Some opponents to
+ESC research, for example, claimed prospects for medical benefits were
+overstated.
+Science not only confronts finite resources and incomplete knowledge.
+In multicultural democracies it also exists in contexts of ethical pluralism.
+In a globalized world, no single state can determine the research
+trajectory of science. Some would push forward with a particular line of
+research while others call for restraint. Some claimed Bush's embryonic
+stem cell policy was arbitrary, while others defended it. Still others argued
+it did not go far enough to protect embryos, while many scientists claimed
+it was a severe blow to research. The policy did not apply to ESC research
+funded by the private sector, which raised further controversies. Can it be
+morally legitimate for the private sector to conduct research that would be
+illegal if funded by public resources? How much power can and should governments
+exercise over research conducted in the private sector? Should
+foreign relations be affected when other states adopt contrasting or competing
+policies for science?
+
+--- side 6 ---
+214 Science and politics I: policy for science
+Science and politics are thus intertwined because of needs for knowledge
+and money and competing ethical claims. On one hand, many nevertheless
+argue that the freedom of scientific inquiry must be protected, which
+requires scientific independence or "keeping politics out of science." The
+ability of scientists to freely pursue the truth is sometimes claimed to distinguish
+democracy from authoritarian government. Freedom of science is
+treated like freedom of the press, a source of information that can help guide
+the state and thus should not be constrained or manipulated by the state,
+even when the truths discovered by science are inconvenient or untimely.
+On the other hand, others argue that science often raises issues that
+are not themselves scientific in nature, and there are many instances in
+which science deserves to be restrained by ethical principles. Scientific
+experimentation on human subjects, for example, is limited by principles
+of free and informed consent. Even the press is limited by national security
+concerns and moral values that reject acquiring information under
+false pretenses or knowingly presenting false information as if it were factual.
+Those who argue that research must be assessed within the context
+of other goods (rather than elevated as an overriding moral imperative)
+argue that politics is a necessary and healthy part of science.
+These conflicting responses mean that science must be simultaneously
+separated from and placed within its political context. We must strike a
+balance somewhere between "value-free science" and science as just "politics
+by other means." This is a major challenge for science policy. Policy,
+as distinct from politics, constitutes a settled guideline for action that
+occupies a conceptual space in between general principle and statutory
+law. Policies are more specific than ethical principles but not as subject to
+enforcement as law. Policies are often based on both scientific knowledge
+and political debate. Science policy can refer to either "science for policy,"
+which denotes the use of scientific knowledge as an aid to decision-making
+(Chapter 10), or "policy for science," which denotes guidelines for influencing
+and managing the shape, scale, and speed of scientific research
+agendas (the present chapter). Bush's stem cell decision exemplifies both
+instances of science policy. First, scientific information about the nature
+ofESCs, their potential uses, and the number of existing stem cell lines all
+influenced a science for policy. Second, Bush's decision was a policy for science,
+because it established a guideline for action when it comes to federal
+funding of ESC research.
+
+--- side 7 ---
+The social contract for science: the linear model
+215
+The key point in both cases is that the way science is used and the
+magnitude and type of scientific research that is performed - research
+that holds increasingly important implications for society - are the result
+ofchoices. These choices raise some basic ethical questions.
+The next two sections explore the general theme of science and the
+social order. The following three sections look at policies for science from
+the different perspectives of budgets (input driven), demands (outcome
+driven), and commercialization (market driven). The concluding two sections
+explore issues of responsibility raised by broadening the ethics of
+science beyond the production of good, peer-reviewed knowledge: What
+additional responsibilities do scientists have and what responsibilities can
+be delegated to other parties?
+The social contract for science: the linear model
+Writing during World War II, the sociologist Robert K. Merton argued
+that the goal of science is a distinctive form of knowledge production.
+To achieve its goal, science depends on the four institutional norms discussed
+in Chapter 3. This normative structure is susceptible to attack from
+other social institutions. Religious traditions may decry scientific skepticism
+for undermining their convictions. Capitalist economies and military
+establishments may stunt the communal pursuit of knowledge by
+imposing restrictions on intellectual property or mandating secrecy. Most
+importantly for Merton, rabid nationalism and authoritarian regimes violate
+universalism and disinterestedness by substituting their own criteria
+for what counts as knowledge in place of the impersonal criteria employed
+by scientific peers. In Nazi Germany, for example, a claim to knowledge
+would be accepted because it was espoused by someone who is echt deutsch
+or a "true German," whereas another claim would be rejected because it
+was espoused by a Jew or did not comport with the ruling political ideology.
+When politicians define the criteria for knowledge, it is no longer
+science; it is politics.
+Watching this corruption of science unfold in Nazi Germany, Merton
+argued that politicians and the public must respect the boundaries of science,
+allowing it to perform as a self -policing community of free thought
+in the pursuit of knowledge. The lesson of the German experience during
+World War II, Merton argued, is simple: if a society values the knowledge
+
+--- side 8 ---
+216 Science and politics I: policy for science
+science can produce, then it must protect the autonomy of science and
+shield it from external social influences.
+This is also the lesson that Vannevar Bush derived from American
+science during World War II. A research engineer, Bush directed the US
+Office of Scientific Research and Development to advance such scientific
+technologies as the submarine, radar, and atomic weapons. Because Bush
+convinced President Franklin Roosevelt that war success hinged on superior
+military science and technology, the war years witnessed a monumental
+increase in national support of R&D. As the war neared its end, Bush
+argued for the peacetime extension of public investments in science.
+His proposal for a postwar policy for science was titled Science: The
+Endless Frontier, and it equated scientific progress with social progress.5
+What is good for science (as defined by scientists) is good for society . This
+means that good science as defined by a self -policing community of peers
+will result in social improvements as defined by such external criteria as
+health, economic prosperity, and national security. Scientific inquiry, not
+motivated by needs or specifically directed toward any social goal, would
+serve as a major source of public benefit. The paradox is that research
+performed without any thought of social benefit is nonetheless justified
+by resulting benefits. Bush navigated this paradox by replacing the
+term "pure" with "basic" research, suggesting that undirected inquiry
+is foundational to social progress. In this way, the widely held ideal of
+pure science - that science for science's sake is superior to the application
+of discoveries made by others - was justified by its ultimate social
+utility. Michael Polanyi would later use Adam Smith's "invisible hand" for
+the same purpose. Just as in economics, the free pursuit of self-interest
+increases material production for public benefit, so in science freedom to
+do research increases knowledge production for beneficial application.
+The resulting "social contract" for science holds that scientists should
+be held accountable only to their peers, not to any external standards
+imposed by politics or other social institutions. Scientists are responsible
+for producing good science. Society is responsible for putting the science
+to good use. This is why scientists have emphasized the intrinsic norms of
+science in their ethics training while downplaying the social dimensions
+of science: young researchers must learn how to produce good science
+5 Bush 1945.
+
+--- side 9 ---
+Questioning the social contract: governing science
+217
+(i.e., that is not the result of falsification, fabrication, or other misconduct
+),
+but they do not need to consider how that science relates to society. Tha
+t
+relationship is presumed to be straightforward or linear: more (good) sc
+ience brings more social intelligence and progress. Indeed, for this reaso
+n
+this social contract for science has often been called the "linear model."
+Questioning the social contract: governing science
+The linear model social contract offers a rationale for investing in scienc
+e
+while protecting its autonomy: as long as science is free to produce certi
+fied knowledge, then society will benefit. But as Daniel Sarewitz point
+s
+out, the societal consequences of science are not inherent in the natura
+l
+laws sought by researchers. Those consequences occur at the interfac
+e
+of the laboratory and society - where knowledge and innovation inter
+act with the cultural, economic, and political institutions of society. So
+,
+the rationale for more good science is founded on a particular view o
+f
+the science-society relationship: "that the transition from the controlled
+,
+idealized, context-independent world of the laboratory to the intricate
+,
+context-saturated world of society will create social benefit."6
+But this view of the science-society relation is open to several objec
+tions. For example, science can and does contribute not just to intende
+d
+benefits but to unintended problems as well. Consider how the R&D o
+f
+plastics is implicated in both enhanced medical care and environmenta
+l
+pollution. Scientists can produce plenty of knowledge certified as goo
+d
+by peers, but that knowledge may be trivial (e.g., treatments for balding)
+,•
+dangerous (e.g., weaponized infectious agents), or controversial (e.g., ESCs)
+.
+This suggests a distinction between good or certified knowledge (pee
+r
+reviewed and free from misconduct) on one hand and sound, responsible
+,
+or reliable knowledge on the other. In short, it may be that more good sci
+ence is not linearly or automatically good for society.
+The linear model would have us erect a strong barrier between scienc
+e
+and politics. The reasons for such a barrier are clear: it prevents the sub
+stitution of political claims for scientific claims and keeps out fraud, fals
+e
+claims, and junk science that cannot stand the test of peer review. Bu
+t •
+the solution of walling off an internal community of peer accountabilit
+y
+•
+6 Sarewitz 1996, p. 10.
+
+--- side 10 ---
+218 Science and politics I: policy for science
+creates a new problem. Now scientists are motivated to produce knowledge
+that is valid and important in the eyes of their peers; they are seldom motivated
+to consider the relevance or implications of their work for society at
+large. Indeed, according to Bush's social contract, scientists do not have
+responsibility for considering these implications, even as they continue
+to grow in importance through the discovery of powerful new knowledge
+that transforms society.
+Scientific autonomy may work if science is little more than the activity
+of a small and marginal group of thinkers. But Merton and Bush were
+writing at a pivotal moment in the emergence of what the nuclear physicist
+Alvin Weinberg termed "Big Science." Scientific progress increasingly
+relies on big budgets, big machines, and big laboratories, and has
+big impacts on society. It thus necessarily raises issues that call for political
+support, direction, and control. Contemporary science cannot be
+understood apart from the social, political, technological, and economic
+contexts that allow it to work. Monetary and political support as well as
+economic returns and consumption would seem to have become institutional
+imperatives added to Merton's list of requirements for scientific success.
+Science is inextricably a part of politics and society.
+The view that somehow more science translates into a better world points
+to an accountability gap: the system of internal scientific accountability
+includes no mechanisms to guide that translation or measures to indicate
+its success. Since science is presumed to be valuable, the ethics of science
+and responsibilities of scientists are limited to questions of how to conduct
+good science. But the accountability gap adds another dimension to the
+ethics of science and perhaps to the responsibility of scientists. Scientists
+need to consider not just how to conduct good science but also why: What
+is the value of the research? Which knowledge should be pursued? Which
+scientific pursuits should be banned or regulated? How can we ensure
+the transformations brought about by science are for the good - and who
+defines the "good"?
+In short, since science cannot be divorced from society, the challenge is
+to expand the notion of "good" or "certified" knowledge from what peers
+accept to some broader notion of social accountability - yet a notion that
+still respects the essential need of science for independence in assessing
+truth claims. In laying the groundwork for the predominant social contract
+for science (the linear model), Merton, Bush, and Polanyi did not
+
+--- side 11 ---
+Policies for science budgets
+219
+specify which research is most likely to lead to benefits nor how research
+can be planned, justified, or assessed in terms of benefits. They left this to
+the marketplace. So, the adequacy of the linear model crucially depends
+on the links between knowledge production, free markets, and social
+well-being. The linear model assumes that science is the basis of practical
+benefits. But those benefits should not be used as the standard for evaluating
+science or as mechanisms to explicitly manage research, because that
+would steer science away from its goal of pursuing more certified knowledge.
+Increasingly, society is challenging this contract. It is demanding
+not just good science or certified knowledge, but science that is good for
+society (sound) and responsible knowledge.
+Policies for science budgets
+Although the linear model for investing in science described above (i.e.,
+what is good for science is good for society) has been long criticized, it is
+still a dominant force in political rhetoric. If more science means a better
+society, then the emphasis will be on securing and increasing monetary
+inputs into the R&D system. As Daniel Greenberg wryly noted, "More
+money for more science is the commanding passion of the politics of
+science."7
+Science policy should not and cannot be reduced to budgets. Nonetheless,
+science budgets remain important foci of analysis. They provide a synoptic
+view of who is funding what kind of research at what levels. And
+they stimulate ethical questions about the distribution of investments
+in research and the resulting benefits. The main ethical theme highlighted
+by science budget policy is the just allocation of limited resources.
+Although the linear model suggests we never need to worry about doing
+too much research, policymakers face the reality of trade-offs. Which science
+is most important to fund? Given the fact that investments in science
+come at the expense of other activities, how should research be weighed
+against other goods?
+This section adopts the definitions for R&D of the AAAS (American
+Association for the Advancement of Science). Research is a "systematic study
+directed toward more complete scientific knowledge or understanding
+7 Greenberg 2001, p. 3.
+
+--- side 12 ---
+220 Science and politics I: policy for science
+of the sub ject studied." It can be either "basic" or "applied" depending
+on whether or not the knowledge is being sought with a specific need in
+mind. "Development" is then defined as the "systematic use of the knowledge
+gained from research for the production of materials, devices, systems,
+or methods."8
+Industrialized nations tend to invest similar amounts of money into
+R&D. However, the types of investments and the structures of R&D enterprises
+and innovation systems differ significantly, posing ethical questions.
+This section canvasses the normative dimensions of five topics pertinent
+to policies for science budgets.
+The first topic is the ratios of public to private funding of scientific
+research. In the early twenty-first century, these ratios varied from 1:5
+in Japan to 1:2 in the US to 2:3 in France. Due to its profit-driven nature,
+the private sector tends to focus on development rather than research.
+This has led many, including V. Bush, to argue for the importance of publicly
+funding basic research, which is pictured as the "wellspring" of
+innovation. As Bush put it, during World War II, scientists had been living
+off the "fat" of earlier basic research and were in danger of depleting
+the stores of new knowledge. Others support publicly funded applied
+research to provide public goods that are not well expressed in the market.
+The threats of pandemic flu outbreaks and biological terrorist attacks
+are cases where the private sector would not act without public inducement.
+Such low-probability, one-time events do not sustain a continuous
+market demand. Many contend that the state is obligated to prepare for
+such events by developing drugs and vaccines. Others are concerned about
+a corrosive effect of corporations on academic freedom of inquiry. The
+"academic-industrial complex" raises questions about whether the profit
+motive might distort the public good or pose conflicts of interests that
+inhibit the reporting of negative results.
+In sum, market dynamics may jeopardize scientific progress, intellectual
+integrity, the exchange of knowledge, the responsible conduct of
+research, social justice, and noncommercial or public goods. By contrast,
+free-market libertarians promote the elimination of much public funding
+8 "Definitions of Key Terms," AAAS website, www.aaas.org/spp/rd/define.htm. For data
+and statistics related to R&D, consult the RAND Corporation website, www.rand.org/,
+the AAAS Directorate for Science and Policy Programs website, www.aaas.org/spp/,
+and the NSF Division of Science Resource Statistics website, www.nsf.gov/statisticsf.
+
+--- side 13 ---
+Policies for science budgets
+221
+of science, by citing government corruption and inef ficiencies. From this
+standpoint, the market - including charitable organizations funded by
+wealthy philanthropists - is a better vehicle for directing funds to promising
+research even in basic areas.
+A second topic is the distribution of public funds by sector. The US government
+spends roughly half of its R&D budget on defense, and its military
+R&D intensity (proportion of defense spending to nondefense spending) is
+more than two and a half times that of the UK or France, which are second
+and third on the list. The US devotes roughly 50 percent of nonmilitary
+R&D to biomedical science, whereas this number in Japan and Germany
+is just 4 percent. By contrast, Japan devotes roughly 20 percent of its civilian
+R&D to energy, whereas the US spends just 3 percent on energy. Such
+differences ought to prompt reflection on whether some R&D portfolios
+could be considered ethically superior or more just than others.
+Third, similar ethical questions pertain to the organization of national
+R&D investments. For example, in the US there is no such thing as a
+national R&D budget. Rather, R&D outlays are distributed across more
+than twenty national agencies. This buffers science from suffering a
+major cut that could result if there were a centralized R&D agency. At the
+same time, the distributed pattern of investments makes it difficult to
+set strategic priorities. Indeed, scientists often express their own concerns
+about imbalances in funding different branches of science. The biomedical
+research community, for instance, has even been known to argue for
+greater funding for other sciences on the ground that too much money for
+medicine comes at the expense of other fields such as chemistry and computer
+science on which biomedicine increasingly depends. As one former
+director of the US National Institutes of Health once argued in an op-ed
+article in the Washington Post, a major diagnostic tool such as magnetic resonance
+imaging is the interdisciplinary "producer of atomic, nuclear and
+high-energy physics, quantum chemistry, computer science, cryogenics,
+solid state physics, and applied medicine."9
+Fourth, it is important to consider the procedures behind science
+budgets. On the macro and meso (mid) levels the national budget process
+involves deliberations among elected representatives. At these
+levels, "external" criteria are used to decide which science will be
+9 Varmus 2000, p. A33.
+
+--- side 14 ---
+222 Science and politics I: policy for science
+done - its direction and scale. In the political realm, science is far from
+an autonomous activity. From a policy perspective, funds are spent
+according to what R&D mix policymakers think will most benefit society
+and, from the perspective of politics, funds are spent according to the
+bargaining power of various interest groups and the aspirations of politicians.
+This culminates in appropriations to various government agencies.
+Those agencies, in line with their missions, then distribute funds to
+individual researchers and research institutions. These micro-level allocations
+are primarily made by peer review, the main "internal" mechanism
+for determining scientific merit. But micro-level allocations can
+also be driven by politics. External politics intervenes when legislators
+make decisions about funding special science projects that benefit their
+constituents ("earmarking" of science pro jects is the term used in the US
+context). This practice is controversial because it bypasses peer review.
+Those who support it, however, argue that peer review has several biases
+that favor the already scientifically established. Without some "earmarking,"
+an institution like MIT and the state of Massachusetts would receive
+a disproportionate share of federal funds in comparison, say, with the
+state of Arkansas.
+Finally, since World War II, the scientific enterprise has been extremely
+successful in securing more government money. Yet, as Greenberg notes,
+this political triumph has come at a cost to the ethical integrity of science:
+scientists have been successful in securing funds in part through
+far-fetched promises about cures, solutions, or industrial spin-offs, baseless
+warnings about the threat of foreign scientific supremacy, contrived
+allegations of public hostility toward science, false assertions that funding
+for research is declining, and flimsy predictions about imminent shortages
+of scientific personnel. Scientists tread morally fraught terrain by
+claiming among themselves that their primary interest is in the conceptual
+aspects of their subject, but publicly justifying their work by claiming
+that it always leads to useful results. Such tactics have helped secure
+scientific autonomy with little external scrutiny and public accountability.
+But more extensive review and evaluation of science is necessary if it
+is to better serve societal needs. Indeed, such scrutiny is a growing aspect
+of the politics of science, as investors in research seek ways to improve
+returns on investment and ensure that inputs into science bring desired
+outcomes.
+
+--- side 15 ---
+Science outcomes
+223
+Science outcomes
+To focus solely on budgets or monetary inputs in policies for science is to
+trust that the internal peer-review mechanisms of science will generate
+the best return on investment. Governments, corporations, philanthropists,
+and other investors in scientific research, however, naturally have
+an interest in trying to assure beneficial outcomes from their investment.
+Thus, they are interested in measuring outcomes and instituting mechanisms
+for more effectively linking investments to goals.
+V. Bush argued that "Statistically it is certain that important and highlye
+useful discoveries will result from some fraction of the work undertaken
+[by basic scientists]; but the results of any one particular investigation cannot
+be predicted with accuracy."10 This justifies an emphasis on budgetary
+inputs. If any line of research is as likely as any other to bear fruit, then
+the R&D system should simply maximize the opportunities for scientists
+to pursue their work along whichever paths they choose. This prioritizes
+scientific autonomy above social control or steering of research. But political
+and social contexts do and should strongly influence the course of
+science by setting research priorities, which determine the paths that scientists
+will travel according to socially valuable goals. The US government,
+for example, heavily funds biomedical research, because politicians want
+economic growth and increased public health and presume that this kind
+of research will yield those outcomes. The government funds herpetology
+to a much smaller extent, because its likely outputs (e.g., knowledge about
+reptiles) are not as highly valued.
+Another reason to question scientific autonomy is grounded in a theory
+of social justice. According to John Rawls, the just distribution of resources
+in society is best determined not by a fair competition among interest
+groups but by imagining oneself in what he calls an "original position"
+behind a "veil of ignorance." In the original position one does not know
+what kind of person one might be or what place one might occupy in a
+social order. In the present instance it would be important to imagine
+oneself as not being a scientist but entering into society as a person of
+low intelligence or a member of some disadvantaged group. If one did
+not know in advance whether one was going to become a scientist or a
+10 "The Importance of Basic Research," chap. 3, in Bush 1945, n.p.
+
+--- side 16 ---
+224 Science and politics I: policy for science
+nonscientist (and scientists in fact compose only a small fraction of the
+population), would one then still be in favor of an arrangement in which
+scientists are supported with tax funds to do what they think best in place
+of more targeted social investments?
+A third reason to question a focus on the autonomous allocation of
+budgetary inputs is fueled in part by breakdowns in the view that more
+science equals social progress. Despite enormous public and private investments
+in science, old problems persist and new ones have arisen. Some
+infectious diseases have rebounded through resistance to antibiotics
+and new diseases have emerged. Healthcare costs tend to increase as science
+and technology advance. Global environmental challenges persist.
+Terrorist attacks demonstrate the dangers inherent in research systems
+capable of producing weapons of mass destruction. To take a more specific
+example, ten years after completion of the $3 billion Human Genome
+Project, its primary rationale and goal - discovering the genetic roots of
+common diseases and generating cures - remains elusive. In 2000, US
+president Bill Clinton said that the research would "revolutionize the diagnosis,
+prevention and treatment of most, if not all, human diseases." Yet,
+as one influential science journalist argues, despite the massive monetary
+inputs, the value in terms of achieving these medical goals and health
+outcomes has not been realized.11
+Furthermore, scientific activity has itself grown and outstripped the
+available research funding. Indeed, bigger research budgets mean the
+training of more scientists who in turn demand more money to support
+their research. As competition for funding increases and as funding agencies
+demand greater levels of demonstrable social value from research,
+scientists are tempted to make overblown claims about the likely benefits
+of any given research pro ject.
+For all of these reasons, investors in science are increasingly devising
+metrics for evaluating science policies in terms of outcomes. In applying
+these metrics, the connection between science budgets and desired social
+outcomes is often unclear. For example, in 1969, the US Department of
+Defense commissioned "Project Hindsight," a retrospective survey of the
+contribution of scientific research to the development of existing weapons
+systems. According to policy analyst Donald Stokes, this report "undercut
+any simple belief that scientific discoveries were the immediate source of
+11 See Wade 2010.
+
+--- side 17 ---
+R&D, the market, and well-being
+225
+continuing improvements in military technology."12 Other analysts have
+generalized this insight to question the contribution of research investments
+to health, well-being, security, and economic growth. Many health
+indicators are independent of the state of scientific knowledge. In the
+industrialized world happiness has actually decreased over the past half
+century.13 Advanced security systems are often brittle and easily breached
+at the same time they threaten privacy. And there is little empirical
+research on the connection between R&D and the economy. Indeed, prima
+fade arguments can be drawn from the examples of economic development
+in Japan and the four Asian Tigers (Hong Kong; Singapore, South
+Korea, and Taiwan) that there may actually be a "followers' advantage" in
+not funding the most advanced scientific research.
+This is not to deny some role for science in achieving social progress. It is
+simply to point out the limits of any belief that benefits will easily or automatically
+result from investments in research. There is a need to understand
+and manage the relationship between scientific 'research and social
+goods. Governments have experimented with several outcomes-based performance
+measures designed to address this problem. Most prevalent are
+attempts to stimulate and manage the laboratory-to-marketplace relationship
+in order to maximize economic benefits from research. In the US,
+this kind of accountability is mandated by the Government Performance
+and Results Act (1993), which requires research agencies to quantitatively
+measure progress against established goals.
+Indeed, quantitative economic indicators are primarily used to track
+and manage the contribution of science to society. But these indicators
+in turn rely on their own assumption. Whereas an emphasis on inputs
+assumes that more science automatically contributes to a better society,
+an emphasis on economic outputs assumes that a growing economy fueled
+by rapid innovation is equivalent to a better society capable of fostering a
+higher quality of life for its citizens.
+R&D, the market, and well-being
+As noted earlier, the linear model depends crucially on the market.
+Scientific research produces certified knowledge that entrepreneurs
+1 3
+2 1997, p. 55. 1
+Stokes Lane 2000; Easterbrook 2003.
+
+--- side 18 ---
+226 Science and politics I: policy for science
+rely on to develop commercially viable innovations. In the marketplace
+consumers then practice an economic democracy to determine which
+innovations succeed in being profitable and which fail. To an extent, economists
+acknowledge capitalist markets as realms of "creative destruction,"
+as reliance on the market necessarily entails acceptance of many mistakes
+and bad choices, both at the level of entrepreneurial creativity and in consumer
+choice. But the acceptance of mistakes and failures of intelligence
+seems to be one of the costs of democracy.
+Science and technology thus enter and influence society primarily
+through the market, which is governed by the quest for profit and
+consumer choice. Investments in R&D are widely believed to be a ma jor
+engine of economic growth, spurring job creation, new industries, more
+consumption, and greater productivity. Governments often invest in
+R&D with the understanding that doing so will enhance their position in
+a competitive international economy. Corporations and industries invest
+in R&D because it leads to the innovation of new goods and services that
+can generate profits. In their role as catalysts for economic growth, science
+and technology have contributed to a steady rise in the standard of
+living in developed nations over the past century. "Standard of living"
+refers to the purchasing power available to an individual, quantified by
+measures such as per capita gross national product. It is a way to quantify
+the affluence or material well-being widely presumed to indicate
+progress.
+But what is the relationship between economic growth and a rising
+standard of living, on one hand, and societal welfare and quality of life,
+on the other hand? Does more (quantity) mean better (quality)? A higher
+standard of living af fords greater chances to pursue personal aspirations.
+These aspirations will include the use and consumption of science-based
+technologies such as automobiles, microwaves, computers, and the
+Internet. So, do more of these things mean people are leading better lives?
+In some sense, the answer would seem to be "yes" as technologies respond
+to long-standing human desires to, for example, fly or to have more ready
+access to information. But consider also that no matter how wealthy they
+were, people in the eighteenth century could not fly in an airplane, those
+in the 1940s could not use a microwave oven, those in the 1950s could not
+use a personal computer, and those in the 1970s could not use the Internet.
+Yet they were not miserable as a result of this.
+
+--- side 19 ---
+R&D, the market, and well-being
+227
+The capacity to fulfill current aspirations gives "standard of living" its
+meaning, and since aspirations are tied to one's material environment, the
+absence of a technology not yet invented is not experienced as a source of
+deprivation. The fact that a modern urbanite would be miserable living
+in a cave does not mean a well-fed Paleolithic hunter was miserable too.
+Hunters had aspirations suited to their times, just as urbanites do.14
+If life is in any sense better as a result of technoscientific in novation, it
+is not because of a direct contribution of any particular artifact - say, the
+mobile phone - to personal happiness. Rather, it is the more general contribution
+of science to an economic system that satisfies elemental needs
+and provides opportunities for self -fulfillment. Yet this economic system -
+free-market capitalism and R&D - poses two ethical challenges. First, it
+does not always satisfy needs and provide opportunities in an equitable
+fashion. Second, it generates new problems and an intensification of needs
+and dependencies.
+To illustrate the first point, consider the fact that only 10 percent
+of global health research is devoted toward 90 percent of the total disease
+burden. This "90/10 gap" stems from the proprietary nature of the
+products of R&D. Incentives such as patent laws and intellectual property
+rights allow innovations to contribute to profit and wealth-creation.
+They direct the R&D system toward the needs of those who can afford
+those products and away from the needs of the global poor. The current
+R&D system is not designed to improve the quality of life in poor regions.
+For example, US government spending on space and defense constitutes
+nearly 70 percent of the R&D budget, but this has little connection to the
+developmental needs of the South. Similarly with the 90/10 gap: a biomedical
+research agenda aligned with the needs of the industrialized world
+diverges from the needs of the South for malaria, tuberculosis, and other
+vaccines. The R&D system is skewed away from these urgent problems
+to the less compelling needs of those who have already achieved a high
+standard of living.
+Second, consider what happens once a nation becomes "developed"
+through the market-based application of science and technology. Now
+its citizens drive automobiles and consume electricity contributing to
+environmental pollution, they live in sprawling suburbs contributing to
+14 See Sarewitz 1996, chap. 7 for this argument.
+
+--- side 20 ---
+228 Science and politics I: policy for science
+a decline in community, and they demand high-tech medical interventions
+contributing to more expensive healthcare. These "externalities"
+accompany the development process as millions of individuals seeking
+personal gain contribute to processes that undermine societal and environmental
+welfare. Science-based technologies come to comprise the very
+fabric of society and could not be abandoned without terrible disruption.
+Imagine the prospects of eliminating cars, airplanes, or computers. But
+this means that science and technology do not just satisfy needs; they
+often create new needs and dependencies with their attendant social and
+environmental challenges. For all of this, there is scant evidence that ever
+greater levels of consumption contribute to happier lives. Indeed, life in
+highly developed societies is often stressful, frantic, and disorienting even
+for the wealthiest.
+Scientists' responsibilities for knowledge and its
+consequences
+The scientific community has already accepted a broadening of its definition
+of "good science" in the context of research involving human participants.
+Respect for persons, justice, and beneficence are in these situations
+intrinsic criteria in the definition of good science (see Chapter 5). Yet, violating
+these principles does not necessarily lead to uncertified knowledge
+in the same way that falsification or fabrication do. Indeed, one could gain
+much certified knowledge as judged by one's peers through research that
+harms human subjects or does not allow their informed consent. Thus,
+methods for the treatment of human subjects are derived from broader
+societal values.
+To what extent can societal values inform or modify notions of good
+science and scientific responsibility? As an example, consider the above
+remarks about the indirect contributions of science to social and environmental
+problems. To some degree scientists are justified in responding
+that these problems are far afield from their specific lines of research,
+which may in fact be more directly connected to other first-order beneficial
+outcomes. Are scientists somehow supposed to know in advance the
+second-order consequences of their work and determine whether these
+are, on balance, good or bad? There surely are some limits to the expansion
+of scientific responsibility.
+
+--- side 21 ---
+Scientists' responsibilities
+229
+In the case of research with human sub jects, the expansion is justifiable
+both because (a) the principles are widely shared and (b) the research participants
+are directly impacted. Yet these conditions are not often in place.
+It could be considered irresponsible to research the incorporation of toxic
+chemicals into paint intended solely for toys. But consider research on
+toxic chemicals intended for military purposes. Whether this constitutes
+responsible conduct depends on prior value judgments about war and contextual
+considerations about the legitimacy of any given use of force. The
+same point pertains to ESC research - some will consider it responsible
+research, whereas others disagree. Next, consider basic chemical or physical
+research where the values implications for society are far in the future
+and unclear. Can Albert Einstein be held responsible for all the consequences
+made possible from his basic discoveries about the nature of the
+universe, such as E = mc2? We cannot label all basic research irresponsible
+simply because its practical value is not apparent or it has some indeterminable
+probability of contributing to social problems.
+The concept of responsible science can be stretched too far, setting the
+bar impossibly high for scientists. Individual scientists and scientific institutions
+cannot reasonably be expected to resolve fundamental values disputes
+or foresee, let alone control, all of the potential implications of their
+work. Yet the traditional social contract for science, the linear model, sets
+the bar too low. It holds that scientists are considered to have no general
+moral responsibility for considering the potential consequences of their
+work beyond the realm of science, that is, beyond their role responsibility
+for advancing certified knowledge. But as the history of research with
+human subjects shows, it is in the self -interest of scientists to consider the
+social impacts of research. If they do not shoulder this responsibility, then
+external regulators will, which in turn diminishes scientific freedom and
+autonomy.
+Philosopher of science Heather Douglas has argued that scientists' role
+responsibility for advancing knowledge does not exempt them from the
+general moral responsibility of considering the unintended consequences
+of such action. This means that scientists are responsible for not acting with
+recklessness (knowingly creating an unreasonable risk to self or others) or
+negligence (unknowingly but faultily creating an unreasonable risk). In
+practice, this would require scientists to weigh potential goods and harms
+of their research and to uphold the reasonable person standard in terms
+
+--- side 22 ---
+230 Science and politics I: policy for science
+of foresight. According to this argument, if scientists foresee a scenario
+in which apparent risks outweigh apparent benefits, but proceed anyway,
+then they can be held responsible for the consequences. This amounts to
+a responsibility not to do certain types of research , such as aboveground
+nuclear tests, which harm public health , welfare, or the environment with
+no comparable level of benefits.
+Rene von Schomberg and others at the European Commission's
+Directorate General for Research, Governance and Ethics have similarly
+developed the concept of responsible research and innovation. The basic
+idea is to assess proposed research from a broader perspective capable
+of taking social, ethical, environmental, and cultural dimensions into
+account. Responsible research and innovation adopts a participatory and
+deliberative approach to this assessment and is defined as:
+a transparent, interactive process by which societal actors and innovators
+become mutually responsive to each other with a view to the (ethical)
+acceptability, sustainability and societal desirability of the innovation
+process and its marketable products (in order to allow a proper embedding
+of scientific and technological advances in our society).15
+Of course, the ongoing challenge in pluralist societies is to determine
+what is ethically acceptable and what constitutes a "proper embedding"
+of science in society.
+Distributing responsibility
+Part of the reason scientists cannot legitimately be expected to shoulder
+full responsibility for the consequences of their work is that they do not
+have the expertise. They are trained to conduct science, not to consider its
+ethical, legal, economic, political, social, and environmental implications.
+Closing the accountability gap between good science and a good society
+requires a different kind of knowledge. In the 1970s the interdisciplinary
+field of STS (science, technology, and society) studies began to seek this
+knowledge. The field of STS exhibits affinities with socialist efforts from
+the 1930s to develop a "science of science" as well as early twenty-first
+15 Rene von Schomberg, "Definition," What Is Responsible Research and Innovation?,
+European Commission website, n.p., http://ec.europa.eu/bepa/european-group-ethics/
+docs/activities/schomberg.pdf .
+
+--- side 23 ---
+Distributing responsibility
+231
+century efforts to promote "research on research" for understanding how
+science influences society and how it can be directed in a manner most
+consistent with worthy social goals and cultural norms. This science of
+science is necessarily interdisciplinary, because the challenge is not to further
+advance a narrowly defined field of science but to comprehend, evaluate,
+and influence science as it interfaces with other spheres of society.
+In this interdisciplinary field numerous new questions arise: Who
+should be involved? Does the nonscientific public have a participatory
+role to play in setting policies for science? How does interdisciplinary STS
+research best interface with the R&D system and the market? Is it through
+scholarship, practical policy analysis and advice to governments, or public
+activism? Finally, what are the ends toward which science should be
+steered?
+Considering only the question of means of engagement, nonscientific
+actors can influence the R&D system "upstream" (prior to the funding of
+scientific research), "midstream" (during the conduct ofe research) or "downstream"
+(during the development and commercialization of research).
+Upstream engagements include the use by governments of offices of technology
+assessment and general bioethics commissions to provide advice
+and facilitate public dialogue about new and emerging sciences and technologies.
+Oftentimes, these bodies are comprised of an interdisciplinary
+team of scientists, engineers, philosophers, and stakeholders. The Danish
+Board of Technology and the Dutch Rathenau lnstituut are world leaders
+in the practice of upstream social and ethical assessment of science
+and technology. A related practice is "extended peer review," such as citizen
+panels and consensus conferences, which engage user communities
+in the review of funding applications. "Community-initiated research"
+or "community-based research" occurs when scientists take suggestions
+from local citizens on which research to perform. This practice is commonly
+carried out through "science shops," which mediate between citizen
+groups and research institutions.
+Another example of upstream engagement of the social dimensions
+of science can be found at the US NSF (National Science Foundation). In
+1997, NSF adopted an additional criterion in the review of proposals for
+funding.16 In addition to the intellectual merit of the proposed project
+16 See Holbrook 2005, 2009.
+
+--- side 24 ---
+232 Science and politics I: policy for science
+(i.e., its excellence as judged by disciplinary peers according to their own
+internal standards), NSF now asks reviewers of research proposals to
+evaluate their "broader impacts" for science and society. This is a case
+where an "external" ethical and social criterion has become part of the
+"internal" peer-review process. It is especially interesting because NSF primarily
+funds basic research, unlike more mission-oriented agencies that
+are motivated to produce relatively near-term social benefits.
+"Midstream" integration of science and society can be seen in the ELSI
+(ethical, legal, and social implications) projects as part of both the US
+Human Genome Project and the National Nanotechnology Initiative. The
+funding agencies administering these projects devoted roughly 4 percent
+of the project budget to an interdisciplinary science of science designed
+to understand, evaluate, and manage the societal implications of the biomedical
+and nanotechnology R&D. The STS scholar Erik Fisher has further
+advanced this model through his research program "Socio-Technical
+Integration Research."17 Other midstream integration includes regulatory
+bodies such as institutional review boards or, more commonly in Europe,
+independent ethics committees and ethical review boards, which review
+research proposals and evaluate, not only their scientific merit, but also
+their ethical implications (see Chapter 5).
+Midstream engagement with the ethics of science is often presented as a
+solution to the Collingridge dilemma. First described by STS scholar David
+Collingridge, this dilemma is a double-bind problem.18 Upstream attempts
+to integrate science and society face an "information problem" as impacts
+cannot easily be predicted in the early stages of research. But downstream
+efforts at integration face a _"power problem" as the trajectories of technoscientific
+developments are already entrenched and thus difficult to
+change. In short, steering science is difficult in the early stages of research
+because of uncertainty, but it is difficult later on because the science has
+become an integral part of society. Solely relying on the upstream model
+could lead to extreme precaution such that the pursuit of knowledge is
+unnecessarily constrained. Relying solely on the downstream model, however,
+would license a determinism in which society would be forced to
+17 "About Stir," Center for Nanotechnology in Society, University of Arizona website,
+http://cns.asu.edu/stir/.
+18 See Collingridge 1980.
+
+--- side 25 ---
+Summary 233
+adapt to emerging technological systems but not proactively modulate
+their development.
+In sum, focusing on the magnitude of scientific and economic growth
+sets aside qualitative questions about which direction we ought to take.
+In truth, such questions are unavoidable. It is just that neither the linear
+model of scientific autonomy nor the market model of science for
+economic growth subjects qualitative questions to explicit consideration.
+Bush would leave such questions in the hands of scientists, and the market
+model leaves them up to unreflective consumer preferences and corporate
+profits. The ELSI projects and similar initiatives can be seen as ways to create
+a more inclusive and self -conscious dialogue about the kind of world
+we want to create and the kind of science we will need to get there.
+Summary
+Following World War II, scientists advanced a social contract model for
+the funding of an autonomous community of researchers. The contract
+involved a moral division of labor between scientists and society: scientists
+produce knowledge and society determines how the knowledge will
+be used. If the knowledge is misused, then that is the responsibility of politicians
+or business leaders, but not scientists. Scientists are charged only
+with producing good science (certified knowledge), which requires upholding
+norms of objectivity in research. Society gives money and autonomy
+to science in return for the knowledge and the benefits that will naturally
+emerge. This formed the core of what has come to be known as the linear
+model of science policy.
+But the moral division of labor between science and society was being
+proposed at just the moment in history when science became "big" and ever
+more tightly coupled with society, both because it required more money
+to operate and because the products of its labors were profoundly altering
+society. The new reality of Big Science meant that the ethics of science
+does not stop at laboratory doors and scientists would have to partner with
+others to consider which direction research should take and whether some
+directions should be prohibited or severely curtailed. Scientific responsibility
+now increasingly pertains not just to the question of how best to do
+science, but to questions of what science is for and which science should
+be done. According to the post-World War II social contract, the scientific
+
+--- side 26 ---
+234 Science and politics I: policy for science
+community promised to expand certified knowledge in exchange for an
+unusual lack of oversight. This contract has now shifted toward collaboration
+between scientists and other sectors of society in both defining and
+pursuing responsible science.
+Extending reflection: dual use and publishing a deadly
+blueprint
+Is knowledge an unqualified good and is the right to pursue knowledge
+absolute? These questions were raised by an episode that began in 1951
+when Johan Hultin, a doctoral student in microbiology, dug through six
+feet of tundra and permafrost in Alaska and discovered the well-preserved
+bodies of four victims of the 1918 Spanish Flu pandemic. Hoping to recover
+live flu virus, he transported tissue samples to his lab and exposed ferrets
+to them. The animals did not get sick and Hultin abandoned the project.
+But in 1995, scientists at the US Armed Forces Institute of Pathology
+set about the task of resurrecting the flu virus from their collection of
+dried and fixed tissue from victims of the pandemic. With Hultin's assistance
+and advanced genetic sequencing techniques, the attempt succeeded
+this time. In 2005, the complete genetic sequence of the 1918 influenza A
+(H1N1) virus was published in Science.19
+The decision to publish the flu genome was approved by a US governmental
+advisory board, which concluded that the scientific benefit of the
+research outweighed its potential risk of misuse. This knowledge could
+help scientists identify and combat the next pandemic. But it could also
+be used to cause the next pandemic. This is an example of the dual-use
+dilemma, which arises when the same research project has the potential
+to be used for harm as well as for good. This dilemma often occurs. For
+example, scientists have published an article describing how to render the
+mousepox virus more virulent and immune to vaccination. They have synthesized
+the polio ".'irus from scratch in order to warn society that terrorists
+could do the same. They have built and tested bacteria-laden weapons
+for "threat assessment" purposes. And in 2011 scientists in the US and the
+Netherlands created a highly transmissible form of a deadly flu virus, A
+(H5N1), that does not normally spread from person to person. In the latter
+19 Tumpey et al. 2005.
+
+--- side 27 ---
+Questions for research and discussion 235
+case, a US government advisory panel requested that the journals Nature
+and Science keep certain experimental details out of the published results
+so that terrorists are not able to replicate the experiment.
+Emerging research in synthetic biology raises similar dual-use concerns.
+The ability to render DNA into digital information that can be manipulated
+and reassembled as DNA in a novel livinge organism poses the threate
+_
+of pathogens that have never before existed in nature.
+The dilemma is about trade-offs: knowledge and freedom of inquiry
+exist within a broader ecology of goods, including security and human
+health. Sometimes these interact synergistically, but at other times they
+clash. When values collide, decisions must be made. Several policy options
+exist regarding the imposition of limits on dual-use research and the censorship
+of potentially dangerous knowledge. Some options are less intrusive
+or restrictive, granting the scientific community (e.g., individual
+scientists, journal editors, and scientific societies) the authority to make
+decisions. Other options are more restrictive, granting governments overriding
+decision-making authority.
+Questions for research and discussion
+1.eShould the viral genome have been published? What criteria ore
+standards should have been used in making this decision? Who shoulde
+make such decisions?e
+2.eIs the concept of an implicit social contract unique for science as ae
+social institution? Are there other implicit social contracts, e.g., fore
+medicine, education, engineering, or business? What is the relatione
+between an implicit social contract and an explicit business or legale
+contract? What limitations exist, if any (and why), on any type ofe
+contract?e
+3.eHow might discussions and disagreements about policies for sciencee
+be compared and contrasted with discussions and disagreementse
+about policies for education, for business, for the military, fore
+healthcare, for families, and more? Are questions about who shoulde
+formulate, for instance, policies for business (and whether the businesse
+community should have the final say) analogous to questions aboute
+who should formulate policies for science? To what extent or undere
+what circumstances should a government ensure that any of itse
+
+--- side 28 ---
+236 Science and politics I: policy for science
+policies for science (or education, business, etc.) be adopted by the
+private sector?
+4.oW hat research projects other than embryonic stem cell researcho
+have raised public challenges to the linear model social contract foro
+science?o
+5.oAs noted in the opening paragraph and then illustrated throughouto
+the chapter, there are two sets of terms that spar with each othero
+in different contexts: "good science" versus "sound science" ando
+"certified knowledge" versus "responsible knowledge." W hat is theo
+significance of these rhetorical shifts in different contexts? Is ito
+reasonable to make connections with the distinction in logic betweeno
+a "valid" and a "sound" argument?o
+Further reading about the cases
+Briggle, Adam (2005) "Double Effect and Dual Use," in Carl Mitcham, ed.,
+Encyclopedia of Science, Technology, and Ethics. Detroit, MI: Macmillan
+Reference USA, vol. 2 , pp. 543-546.
+Cohen, Cynthia (2007) Renewing the Stuff of Lif e: Stem Cells, Ethics, and Public
+Policy. Oxford University Press.
+Cohen, Eric (2004) "Science, Democracy, and Stern Cells." Philosophy Today, vol.
+48,o no.o 5,o pp.o 23-29.
+Miller, Seurnas, and Michael Selgelid (2008) Ethical and Philosophical
+Considerations of the Dual-Use Dilemma in the Biological Sciences. London:
+Springer.
+President's Council on Bioethics (2004) Monitoring Stem Cell Research.
+Washington, DC: US Government Printing Office.
+

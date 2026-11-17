@@ -1,0 +1,213 @@
+# Leksjon 9: Bærekraft
+
+Velkommen til leksjon ni. Denne leksjonen handler om bærekraft. Vi skal se på hva bærekraft betyr, hva som skiller sterk og svak bærekraft, og hvordan bedrifter kan rapportere om bærekraft. Deretter ser vi på føre var-prinsippet, som handler om hvordan vi bør forholde oss til risiko for alvorlige skader. Til slutt ser vi på hvordan klimabyrden kan fordeles rettferdig mellom land.
+
+# Innledning
+
+I dette kapitlet får du en oversikt over hvilke spørsmål modulen tar opp, og hvilke tekster den bygger på.
+
+Bærekraft er et ord vi møter overalt. Vi finner det i politiske dokumenter, i reklame, i årsrapporter og i yrkesetiske retningslinjer. NITOs etiske retningslinjer sier for eksempel at medlemmene skal bidra til teknologiske løsninger som sikrer bærekraftig utvikling og våre felles ressurser. For ingeniører og teknologer er bærekraft altså en del av yrkesansvaret.
+
+Men når et ord brukes så mye, blir det fort uklart. Modulen tar derfor opp tre store spørsmål.
+
+Det første spørsmålet er hva det vil si at en virksomhet er bærekraftig. Bærekraft handler om at verdier ikke skal forringes over tid. Men hvordan skal vi veie ulike verdier mot hverandre, som natur, klima og menneskelig velferd?
+
+Det andre spørsmålet er hvordan vi bør forholde oss til risiko for alvorlige konsekvenser som ikke kan gjøres om. Dette er særlig vanskelig når et risikabelt tiltak også kan gi store gevinster. Føre var-prinsippet sier noe om dette, men hva sier det egentlig?
+
+Det tredje spørsmålet er hvordan klimabyrden bør fordeles. Klimaendringene gir kostnader ved å kutte utslipp, kostnader ved å tilpasse seg og kostnader i form av skader, som dårligere avlinger og tap av land. Hvem bør bære disse byrdene?
+
+Pensum består av tre tekster, én for hvert spørsmål. Carson og Skauge skriver om bærekraftige virksomheter. Hovi skriver om føre var-prinsippet som rasjonelt beslutningskriterium. Lavik og Pedersen skriver om rettferdig fordeling av klimaproblemets byrder. Forelesningene knytter i tillegg bærekraft til dydsetikken, og det kommer vi tilbake til mot slutten.
+
+# Hva er bærekraft?
+
+I dette kapitlet ser vi på hva bærekraft betyr, hvor begrepet kommer fra, og hvilke typer goder debatten handler om.
+
+I utgangspunktet betyr bærekraft at en aktivitet kan opprettholdes over tid uten at verdier forringes. Tenk på et fiskevann. Å fiske noen fisk hvert år kan være bærekraftig. Å tømme vannet for fisk på én sesong er det ikke.
+
+Begrepet bærekraftig utvikling ble lansert av Brundtlandkommisjonen i rapporten Vår felles framtid fra nitten åttisju. Der defineres bærekraftig utvikling som en utvikling som møter dagens behov uten å ødelegge fremtidige generasjoners evne til å tilfredsstille sine behov.
+
+Definisjonen har to sider. Den ene er at dagens behov skal dekkes, og her står kampen mot fattigdom sentralt. Den andre er at dette ikke skal skje på bekostning av dem som kommer etter oss. Kommisjonen mente det var mulig å ta vare på miljøet og samtidig sikre økonomisk vekst. Veksten var nødvendig for å overvinne global fattigdom, men den skulle ikke gå ut over fremtidige generasjoner.
+
+Bakgrunnen for at FN satte bærekraft på dagsordenen, var blant annet fallet i biologisk mangfold, behovet for globale løsninger mot fattigdom og miljøproblemer, og behovet for en ny forståelse av økonomisk utvikling.
+
+FNs bærekraftsmål kan sorteres i tre grupper. Noen mål handler om økonomi, som arbeid, vekst og innovasjon. Noen handler om samfunn, som fattigdom, helse, utdanning, likestilling og fred. Og noen handler om miljø, som klima, livet i havet og livet på land. Fra Brundtlandkommisjonens perspektiv kan disse tre dimensjonene balanseres mot hverandre. Nettopp dette blir omstridt når vi kommer til sterk og svak bærekraft.
+
+For å forstå debatten er det nyttig å skille mellom to typer goder. Den første typen er naturgoder, som også kalles økosystemtjenester. Naturen forsyner oss med mat, klær, byggematerialer og medisin. Den regulerer ting for oss, som flomdemping, karbonbinding, pollinering og rensing av luft og vann. Den gir oss kulturelle goder, som rekreasjon og ro, det noen kaller naturen som katedral. Og den gir oss kunnskap.
+
+Den andre typen er menneskeskapte goder. Noen av dem er sosiale, som fattigdomsbekjempelse, utdanning, likestilling, trygge arbeidsforhold, fred og rettferdighet. Andre er økonomiske, som industri, innovasjon, infrastruktur, jobber og økonomisk vekst.
+
+Bærekraft er ikke ett mål, men mange, og de kan komme i konflikt. Klima kan stå mot natur, for eksempel når et kraftverk kutter utslipp men ødelegger natur. Økonomisk lønnsomhet kan stå mot andre mål. Og miljøtiltak kan stå mot sosiale hensyn.
+
+Kort oppsummert: Bærekraft handler om å bevare verdier over tid, og Brundtlandkommisjonen knyttet dette til hensynet til fremtidige generasjoner. Det store spørsmålet er om naturgoder kan byttes mot menneskeskapte goder.
+
+# Sterk og svak bærekraft
+
+I dette kapitlet ser vi på et av de viktigste skillene i modulen, nemlig skillet mellom svak og sterk bærekraft.
+
+Ifølge svak bærekraft er en utvikling bærekraftig så lenge den totale mengden goder ikke blir mindre over tid. Det spiller ingen rolle hva slags goder det er mye eller lite av. Derfor kan naturgoder veksles inn i menneskeskapte goder, så lenge totalen holder seg eller øker. Miljøskade kan altså være akseptabelt hvis den gir stor sosial eller økonomisk gevinst. Forelesningene knytter dette til Brundtlandkommisjonens idé om bærekraft.
+
+Et eksempel som nevnes, er Norges pensjonsfond. Her er olje, som er en naturressurs, gjort om til finansiell kapital. Fra et svakt bærekraftsperspektiv kan det se ut som en suksess, fordi naturkapital er byttet mot kapital som kan komme fremtidige generasjoner til gode.
+
+Svak bærekraft henger tett sammen med utilitarisme og tanken om forventet nytte. Forventet nytte er hvor stor nytten er, vektet mot hvor sannsynlig det er at den inntreffer. Det betyr at en usikker miljøkostnad kan oppveies av en sikrere økonomisk gevinst, avhengig av hvor store de er. Hvordan velferden skapes, er ikke viktig.
+
+Svak bærekraft henger også ofte sammen med tekno-optimisme. Tanken er at vår avhengighet av begrensede naturressurser er et teknisk problem som vi kan innovere oss ut av. Da kan vi i prinsippet få ubegrenset vekst som ikke er avhengig av naturressurser.
+
+Ifølge sterk bærekraft er en utvikling bærekraftig bare så lenge mengden naturgoder opprettholdes, eller holder seg over visse terskler, for eksempel naturens tåleevne. Naturgoder kan ikke uopphørlig byttes mot menneskeskapte goder, uansett hvor mye vi får igjen. Miljøet veier tyngst, og sosiale og økonomiske hensyn må over tid vike for miljøhensyn.
+
+Det finnes flere begrunnelser for sterk bærekraft. Den første er at naturen har egenverdi, og da kan den ikke erstattes. Den andre er at naturen er en forutsetning for alt annet. Behovene våre kan bare dekkes hvis det finnes et minimum av naturressurser og intakte økosystemer, og vi har bare én klode. Den tredje er rasjonell risikoaversjon. Hvis vi hele tiden bytter natur mot økonomi, kan resultatet bli katastrofalt for fremtidens mennesker. Da bør vi heller sørge for at det verst mulige utfallet blir så bra som mulig. Den fjerde er at risikoen ved naturtap ofte ikke kan beregnes, fordi vi ikke kjenner sannsynlighetene.
+
+Hva kan sies for og mot de to synene? For svak bærekraft kan man spørre om det er rimelig at bevaring av natur skal trumfe alle andre hensyn, for eksempel kampen mot fattigdom. Svak bærekraft gir dessuten den største forventede summen av goder. For sterk bærekraft kan man si at biosfæren er en nødvendig betingelse for alle samfunnsmessige og økonomiske goder. Og siden vi bare har én beboelig planet, bør vi ikke gamble med den.
+
+La oss ta et eksempel fra forelesningene. Et hyttefelt skal bygges i et uberørt naturområde, like ved et populært ski- og turområde. Prosjektet krever at en stor myr dreneres. Myra beskytter mot flom, men utbyggerne mener at dette kan erstattes med akvadukter i betong. Utbyggernes argument er typisk for svak bærekraft. En naturtjeneste erstattes med en menneskeskapt løsning, og samlet gir prosjektet flere goder. Fra et sterkt bærekraftsperspektiv er det derimot problematisk at uberørt natur og en viktig økosystemtjeneste forsvinner, uansett hva vi får igjen.
+
+Et annet eksempel er et solkraftverk som skal bygges der det lever et sjeldent insekt. Arten kan bli utryddet. Etter svak bærekraft kan prosjektet gjennomføres så lenge tapet av insektet oppveies av økonomisk vekst, innovasjon og lavere utslipp. Etter sterk bærekraft bør prosjektet ikke gjennomføres så lenge det kan gi et irreversibelt tap av naturkapital.
+
+Kort oppsummert: Svak bærekraft tillater at natur byttes mot andre goder så lenge totalen ikke synker. Sterk bærekraft krever at selve naturgodene bevares.
+
+# Den triple bunnlinjen
+
+I dette kapitlet ser vi på John Elkingtons forslag om at bedrifter skal rapportere på tre bunnlinjer, og på kritikken av dette forslaget.
+
+I et vanlig regnskap er bunnlinjen bedriftens overskudd. Elkington foreslo at bedrifter i stedet skal rapportere på tre bunnlinjer. Dette kalles den triple eller tredelte bunnlinjen. Poenget er å utvide hva det vil si at en bedrift har gode resultater.
+
+Den økonomiske bunnlinjen handler om hvorvidt bedriften er lønnsom. Det må alle bedrifter ta hensyn til for å overleve. Den sosiale bunnlinjen handler om hvordan bedriften påvirker mennesker, både de ansatte og folk utenfor, som kunder og lokalsamfunn. Den miljømessige bunnlinjen handler om hvordan bedriften påvirker det ytre miljøet, for eksempel gjennom ressursbruk, avfall og utslipp til luft, jord og vann.
+
+En styrke ved forslaget er at det får fram eksternaliteter. En eksternalitet er en positiv eller negativ virkning som en aktørs virksomhet har på andre. Hvis en fabrikk forurenser en elv, er det fiskerne og innbyggerne nedstrøms som betaler prisen, ikke fabrikken. Den triple bunnlinjen gjør slike virkninger synlige.
+
+Modellen har likevel fått flere innvendinger. Den første er at bærekraftsrapportering kan brukes til grønnvasking. Grønnvasking er når forurensende og uetiske bedrifter bruker store summer på å framstå som bærekraftige, selv om det de driver med, skader miljøet.
+
+Den andre innvendingen er at det ikke finnes noen felles standard for rapportering. Det gjør det vanskelig å sammenligne bedrifter. Det forvirrende utvalget av rapporteringssystemer kan til og med gi bedrifter et påskudd for ikke å gjøre noe.
+
+Den tredje innvendingen er at modellen framstiller økonomi, samfunn og miljø som tre adskilte områder. I virkeligheten henger de tett sammen.
+
+Den fjerde innvendingen er at modellen antyder at de tre bunnlinjene er like viktige. Det er omstridt. Fra et sterkt bærekraftsperspektiv er miljøet mer grunnleggende enn de to andre, fordi både samfunn og økonomi hviler på naturen.
+
+Elkington selv tilbakekalte den triple bunnlinjen i totusen og atten. En av grunnene var nettopp at mangfoldet av rapporteringssystemer kunne gi bedrifter et påskudd til passivitet.
+
+Tenk deg en norsk bedrift som utvinner sjeldne mineraler fra en fjord. Utvinningen ødelegger økosystemer på sjøbunnen, men bedriften mener den bidrar til det grønne skiftet ved å skaffe mineraler til teknologi, og den tjener godt på det. Etter den triple bunnlinjen må vi se på fortjenesten og arbeidsplassene, på virkningene for lokalsamfunnet og samfunnets behov for mineraler, og på skadene på sjøbunnen. Her står økonomisk gevinst mot miljøskade. Og innenfor miljødimensjonen står klimahensyn mot naturhensyn.
+
+Kort oppsummert: Den triple bunnlinjen ber bedrifter rapportere om økonomi, samfunn og miljø, og den får fram eksternaliteter. Men den kan brukes til grønnvasking, den mangler felles standard, og den behandler tre sammenvevde og ulikt grunnleggende områder som om de var adskilte og like viktige.
+
+# Føre var-prinsippet: hva sier det?
+
+I dette kapitlet ser vi på hva føre var-prinsippet går ut på, og på tre ulike måter å definere det på.
+
+Et gammelt norsk ordtak sier at det er bedre å være føre var enn etter snar. Føre var-prinsippet er et prinsipp for hvordan vi skal forholde oss til risiko for alvorlige skader som ikke kan gjøres om, og som i verste fall kan være katastrofale. Prinsippet har bred tilslutning, men det er ikke opplagt hva det sier. Hovi tar utgangspunkt i flere definisjoner, og tre av dem er særlig viktige.
+
+Gray og Bewers knytter prinsippet til havmiljøet. Ifølge dem handler føre var-prinsippet om å beskytte havmiljøet ved å hindre og redusere utslipp av farlige stoffer ved kilden, og ved å begrense fysiske forstyrrelser fra menneskelig aktivitet. Her står forebygging ved kilden i sentrum.
+
+Wingspread-konferansen i nitten nittiåtte formulerte det slik: Når en aktivitet truer miljø eller helse, må føre var-tiltak treffes, selv om enkelte årsakssammenhenger ikke er vitenskapelig etablert. I slike tilfeller bør de som går inn for aktiviteten, bære bevisbyrden for at den er trygg. Her kommer to nye ting inn. Vi skal handle selv om vitenskapen ikke har slått fast sammenhengene. Og bevisbyrden legges på den som vil sette i gang.
+
+Inger Nordal gir en svært streng versjon. Ifølge henne betyr det å være føre var at vi må hindre at noen art eller økotype forsvinner før vi har forstått dens plass i økosystemet og evolusjonen. I praksis betyr det at vi ikke kan tillate at noen art utryddes i overskuelig framtid. Dette ligger nær sterk bærekraft.
+
+Selv om definisjonene er forskjellige, har de tre fellestrekk. For det første er det bedre å forebygge miljøskade enn å reparere den i etterkant. For det andre skal tvilen komme miljøet til gode. For det tredje gjelder omvendt bevisbyrde. Det betyr at de som vil sette i gang en aktivitet med uavklart skadepotensial, må vise at den er harmløs. De som vil stanse den, trenger ikke bevise at skade er sannsynlig.
+
+Føre var-prinsippet er et generelt normativt prinsipp for miljøforvaltning, på linje med prinsippet om at forurenseren skal betale og prinsippet om at vi har plikter overfor kommende generasjoner. Hovis spørsmål er om det også kan fungere som et presist kriterium for rasjonelle politiske beslutninger.
+
+Kort oppsummert: Føre var-prinsippet handler om alvorlig og irreversibel risiko. Definisjonene spriker, men de deler tanken om forebygging, om at tvilen skal komme miljøet til gode, og om omvendt bevisbyrde.
+
+# Risikoaversjon, risiko og uvitenhet
+
+I dette kapitlet ser vi på hvorfor føre var-tenkning kan være rasjonell, og på forskjellen mellom risiko og uvitenhet.
+
+Hovi mener at føre var-tenkning kan begrunnes rasjonelt ut fra risikoaversjon. Å være risikoavers betyr at man heller vil unngå tap enn å sjanse på like store gevinster. Tenk deg at du får velge mellom fem hundre kroner sikkert, eller en lik sjanse for tolv hundre kroner eller ingenting. Lotteriet er i snitt verdt seks hundre kroner. Likevel velger mange de sikre fem hundre. Det er risikoaversjon.
+
+Risikoaversjon henger sammen med avtakende grensenytte. Hver ny krone er mindre verdt jo flere du har fra før. Derfor gjør det mer vondt å tape ti tusen kroner enn det gjør godt å vinne ti tusen kroner.
+
+Risikoaversjon forklarer hvorfor folk forsikrer seg. Hvorfor er det fornuftig å forsikre boligen mot brann, men vanligvis ikke mobilen, selv om begge forsikringene trolig gir tap i det lange løp? Svaret er at en brann uten forsikring ville vært katastrofal. Selv om du i snitt betaler mer enn du får igjen, beskytter forsikringen deg mot et utfall du ikke tåler. En ødelagt mobil klarer de fleste å bære.
+
+Miljøtiltak kan forstås på samme måte. Det er rasjonelt å forsikre seg mot tap eller alvorlig skade på vår planetære bolig, fordi den ikke kan erstattes.
+
+Hovi peker også på at føre var-tenkning er særlig relevant når usikkerheten er stor. Her er det nyttig å skille mellom tre situasjoner. Ved risiko vet vi hvilke utfall som er mulige, og hvor sannsynlige de er, slik som ved et terningkast. Ved uvitenhet vet vi hvilke utfall som er mulige, men ikke hvor sannsynlige de er. Ved radikal uvitenhet vet vi ikke engang hvilke utfall som er mulige. Mange miljøspørsmål ligger i de to siste kategoriene. Vi vet kanskje ikke engang hvilke arter som lever i et område.
+
+Kort oppsummert: Føre var-tenkning kan være rasjonell når vi er risikoaverse, når skadene kan være alvorlige og irreversible, og når usikkerheten er så stor at sannsynlighetene er vanskelige å tallfeste.
+
+# Tre beslutningskriterier
+
+I dette kapitlet ser vi på tre formelle kriterier for beslutninger under usikkerhet, og på hvordan de kan brukes til å presisere føre var-prinsippet.
+
+Det første kriteriet er maksimering av forventet nytte. Her velger vi det alternativet som har høyest nytte når vi vekter hvert utfall med sannsynligheten for det. Enklere sagt velger vi det som i snitt gir best resultat. Dette er standardkriteriet i utilitaristisk tenkning, og det passer med svak bærekraft. Det krever at vi kjenner sannsynlighetene, og det tar ikke spesielt hensyn til katastrofer så lenge de er lite sannsynlige.
+
+Det andre kriteriet er maximin. Her ser vi bare på det verste som kan skje med hvert alternativ, og velger det alternativet der det verste utfallet er minst ille. Maximin er svært risikoavers. Det krever ikke at vi kjenner sannsynlighetene, bare de mulige utfallene. Derfor kan det brukes under uvitenhet. Det ligger nær tanken i sterk bærekraft.
+
+Det tredje kriteriet er minimax regret, som handler om anger. For hvert mulig utfall spør vi hvor mye dårligere det valgte alternativet er enn det beste vi kunne ha valgt hvis vi hadde visst hvordan det gikk. Den forskjellen er angeren. Så velger vi det alternativet der den største angeren er minst. Heller ikke dette krever sannsynligheter.
+
+La oss ta et oppdiktet eksempel. En myndighet vurderer mineralutvinning og har tre valg: full utvinning, begrenset prøvedrift eller ingen utvinning. Utvinningen kan vise seg å være harmløs, eller den kan gi alvorlig skade. Hvis den er harmløs, gir full utvinning tre hundre nyttepoeng, prøvedrift gir hundre og femti, og ingen utvinning gir null. Hvis den gir alvorlig skade, gir full utvinning minus to hundre, prøvedrift gir minus tjue, og ingen utvinning gir fortsatt null.
+
+Maximin velger ingen utvinning, fordi det verste utfallet der, null, er minst ille. Minimax regret velger prøvedrift. Grunnen er at den største angeren for full utvinning er to hundre, for prøvedrift er den hundre og femti, og for ingen utvinning er den tre hundre. Forventet nytte krever en sannsynlighet. Hvis vi antar tretti prosent sjanse for alvorlig skade, får full utvinning hundre og femti i forventet nytte, prøvedrift får nittini, og ingen utvinning får null. Da velger vi full utvinning.
+
+De tre kriteriene gir altså tre ulike svar i samme situasjon. Det viser at det ikke er opplagt hva føre var-prinsippet krever når det skal gjøres presist. Prinsippet kan forstås gjennom kriteriene, men det kan ikke reduseres til noen av dem.
+
+Kort oppsummert: Forventet nytte ser på snittet og trenger sannsynligheter. Maximin ser på det verste utfallet. Minimax regret ser på den største angeren. De to siste kan brukes selv når vi ikke kjenner sannsynlighetene.
+
+# Bevisbyrde og kritikk av føre var-prinsippet
+
+I dette kapitlet ser vi på spørsmålene føre var-prinsippet reiser om bevis, og på Hovis konklusjon om prinsippet.
+
+Føre var-prinsippet reiser spørsmål om hvor sterke bevis vi skal kreve, og om hvem som skal bevise noe. Wingspread-definisjonen legger bevisbyrden på dem som vil sette i gang en aktivitet. Dette kalles omvendt bevisbyrde, fordi det vanlige ellers er at den som vil stanse noe, må vise at det er skadelig.
+
+Kravet har likevel blindsoner. Det er mye vanskeligere, kanskje umulig, å bevise at noe ikke er skadelig, enn å bevise at noe er skadelig. Hvis kravet tas bokstavelig, kan nesten ingenting godkjennes. Dessuten betyr det ikke at vi ikke trenger noen dokumentasjon av at skade er mulig, selv om vi slipper å bevise at skade er sannsynlig. Ellers kunne enhver løs frykt brukes til å stanse en aktivitet.
+
+En annen innvending kan kalles pest eller kolera-argumentet. Vi kan sjelden sikre oss helt mot risiko, fordi også forebyggende tiltak har sin egen risiko. Strenge regler for nye medisiner kan hindre skadelige medisiner, men de kan også forsinke medisiner som kunne reddet liv. Hahn og Sunstein påpeker at sterk risikoaversjon ofte vil utelukke alle alternativer, også det å ikke gjøre noe, fordi nesten alt innebærer en eller annen risiko. Et prinsipp som forbyr alt, gir ingen veiledning.
+
+Hovis hovedkonklusjon er at føre var-prinsippet foreløpig har for mange uklare elementer til å kunne regnes som et rasjonelt beslutningskriterium. Definisjonene spriker, prinsippet lar seg ikke redusere til ett formelt kriterium, og kravet om omvendt bevisbyrde har blindsoner. Prinsippets viktigste funksjon er derfor å forme miljødebatten, ikke å fortelle oss hva vi skal velge i konkrete situasjoner.
+
+Tenk på et høringssvar fra Havforskningsinstituttet om mineralvirksomhet på norsk sokkel. Instituttet peker på stor mangel på kunnskap om livet på havbunnen. Det kan finnes arter der som ikke finnes andre steder, og utvinningen kan skade fiskebestander gjennom lys, støy, nedslamming og spredning av kjemikalier og tungmetaller. Dette er en typisk føre var-situasjon. Skadene kan være alvorlige og irreversible, og usikkerheten er så stor at vi nærmer oss uvitenhet. Samtidig bør et godt svar ta med kritikken. Hvor mye dokumentasjon av mulig skade trengs? Og har det også en risiko å la være å utvinne, for eksempel for det grønne skiftet?
+
+Kort oppsummert: Omvendt bevisbyrde er en kjerne i føre var-prinsippet, men det er vanskelig å bevise at noe er harmløst, og forebygging har egen risiko. Hovi mener prinsippet former debatten mer enn det gir presise svar.
+
+# Rettferdig fordeling av klimabyrden
+
+I dette kapitlet ser vi på prinsipper for hvordan byrdene ved klimaendringene kan fordeles rettferdig mellom land.
+
+Klimaendringene gir byrder i form av kostnader ved å kutte utslipp, for eksempel ved å utvikle fornybar energi og karbonfangst, kostnader ved tilpasning, og selve skadene. Lavik og Pedersen drøfter flere prinsipper for hvordan disse byrdene bør fordeles.
+
+Det første prinsippet er at forurenseren betaler. De statene som har sluppet ut, bør betale. Dette er intuitivt rimelig. Den som knuser en rute, må betale for den. Men det finnes tre innvendinger. Den første er at det virker urimelig å kreve betaling av noen som ikke visste at utslippene var skadelige. Den andre er at mye av utslippene ble gjort av tidligere generasjoner, og det virker urimelig å betale for noe man ikke selv har gjort. Den tredje er at det er urimelig om fattige må betale på bekostning av grunnleggende behov.
+
+Det andre prinsippet er at den som har størst betalingsevne, betaler. De rikeste landene, som Norge, bør ta den største byrden. Innvendingen er at det virker urimelig at de rike skal betale for noe de ikke har skyld i.
+
+Simon Caney foreslår en hybrid av de to. Stater som har forurenset, skal betale, men ikke for utslipp fra tidligere generasjoner, og bare så lenge befolkningen ikke havner under fattigdomsgrensen. Resten betales av stater med betalingsevne. Men stater som har blitt rike på skitten aktivitet, får et større ansvar. Hvor mye en stat skal betale, avhenger av hvor mye den har tjent på å forurense. Slik tar hybriden vare på intuisjonen om at forurenseren skal betale, samtidig som den møter innvendingene.
+
+Det fjerde prinsippet er per capita-prinsippet. Her har alle mennesker lik rett til utslipp, regnet enten fra når en avtale inngås, eller helt fra før industrialiseringen. Innvendingene er at prinsippet ikke fanger opp intuisjonen om at forurenseren skal betale, og at det ikke tar hensyn til ulik betalingsevne.
+
+Det femte prinsippet kalles grandfathering. Her gir tidligere høye utslipp rett til høyere utslipp i fremtiden. Norge er et land som ville tjent på dette. Fordelen er at det tillater realistiske, gradvise kutt. Innvendingen er at det bryter med tanken om at den som skader, skal reparere. Tvert imot får de som har forurenset mest, lov til å fortsette.
+
+Modulens caseoppgave handler om Tor Mikkel Waras innlegg om at klimaendringene ikke er noen eksistensiell trussel. Wara viser til et anslag på noen tideler av en prosent nyttetap for norsk økonomi fram mot år totusen og hundre. Han mener klimapolitikk bør vurderes med kostnad og nytte som andre politikkområder, og at Norge trolig blir rikere uansett. Anders Bjartnes har svart at tallet er så usikkert at det har liten verdi. Waras resonnement ligner svak bærekraft og forventet nytte. Fra et sterkt bærekraftsperspektiv kan man spørre om klimaskader kan oppveies av vekst. Bjartnes sitt poeng om usikkerhet peker mot uvitenhet, der forventet nytte blir problematisk. Wara kan på sin side vise til at føre var-prinsippet er uklart og at tiltak har kostnader. Og når Wara bare ser på Norge, overser han spørsmålet om Norges ansvar overfor andre land.
+
+Kort oppsummert: Forurenseren betaler og betalingsevne er de to hovedprinsippene. Caneys hybrid kombinerer dem. Per capita gir alle lik utslippsrett, mens grandfathering lar tidligere utslipp bestemme fremtidige rettigheter.
+
+# Dydsetikk, miljø og kollektivt ansvar
+
+I dette kapitlet ser vi kort på hvordan dydsetikken kan belyse miljøspørsmål.
+
+Mange miljøproblemer, som klimaendringer og plastforsøpling, skyldes summen av handlingene til svært mange mennesker. Hver enkelt bidrar bare med en forsvinnende liten del. Om én person endrer vanene sine, får det nesten ingen virkning, med mindre mange andre gjør det samme. Kan vi da klandres for ikke å bidra?
+
+Dydsetikken gir en annen innfallsvinkel enn å se på konsekvensene. Den ser på aktøren og på karaktertrekk, ikke på enkelthandlinger. Den legger vekt på god dømmekraft, som kalles fronesis eller praktisk klokskap, og målet er å leve godt og blomstre som menneske, det som kalles eudaimonia.
+
+Et eksempel fra forelesningene er å kaste en tom flaske i naturen. Det kan være galt selv om det ikke bryter noe prinsipp og nesten ikke har konsekvenser. Det avgjørende er hva slags person som gjør noe slikt. Viser personen likegyldighet, tankeløshet eller arroganse?
+
+Forelesningene peker på at miljøetikken vokste ut av et dydsetisk engasjement. Dyder som ydmykhet, omsorg og respekt kan være grunnlag for å verne naturen. Måten vi behandler naturen på, viser hvem vi er.
+
+Dydsetikere som Mary Midgley og Rosalind Hursthouse mener vi bør kvitte oss med begrepet moralsk status. Ansvaret vårt avhenger heller av relasjoner. Hunden gir vi mat og stell, mens gaupa bør vi holde avstand til. Omsorg og respekt viser seg altså på ulike måter.
+
+Dydsetikken får kritikk for at den ikke gir klar handlingsveiledning, for at den kan føre til relativisme, og for at den ikke sier hvordan vi bør handle som samfunn. Det siste leder over til politisk filosofi i neste leksjon.
+
+Kort oppsummert: Dydsetikken flytter oppmerksomheten fra konsekvensene av én handling til hva slags person vi er når vi behandler naturen.
+
+# Oppsummering
+
+I dette siste kapitlet samler vi trådene fra leksjonen.
+
+Bærekraft betyr at en aktivitet kan fortsette over tid uten at verdier forringes. Brundtlandkommisjonen definerte bærekraftig utvikling som utvikling som møter dagens behov uten å ødelegge fremtidige generasjoners muligheter.
+
+Svak bærekraft sier at totalmengden goder ikke skal synke, og at natur kan byttes mot menneskeskapte goder. Det henger sammen med forventet nytte og tekno-optimisme. Sterk bærekraft sier at naturgodene selv må bevares, fordi naturen har egenverdi og er grunnlaget for alt annet.
+
+Den triple bunnlinjen ber bedrifter rapportere om økonomi, samfunn og miljø. Den får fram eksternaliteter, men kan brukes til grønnvasking, mangler felles standard og behandler tre sammenvevde områder som adskilte og like viktige.
+
+Føre var-prinsippet handler om alvorlig og irreversibel risiko. Definisjonene fra Gray og Bewers, Wingspread og Nordal deler tanken om forebygging, om at tvilen skal komme miljøet til gode, og om omvendt bevisbyrde. Prinsippet kan være rasjonelt når vi er risikoaverse, når skadene er alvorlige, og når usikkerheten er stor.
+
+Forventet nytte, maximin og minimax regret er tre måter å presisere prinsippet på, og de kan gi ulike svar. Hovi konkluderer med at prinsippet er for uklart til å være et rasjonelt beslutningskriterium, og at dets viktigste rolle er å forme debatten.
+
+Klimabyrden kan fordeles etter prinsippet om at forurenseren betaler, etter betalingsevne, etter Caneys hybrid, etter lik utslippsrett per person eller etter tidligere utslipp. Alle har sine styrker og svakheter.
+
+Takk for at du lyttet til leksjon ni.

@@ -1,0 +1,548 @@
+{
+  "summary": "Leksjonen handler om forholdet mellom vitenskap, teknologi og samfunn. Den tar for seg hvordan verdier påvirker vitenskapen, Mertons KUDOS-normer og standpunktteoriens kritikk av klassisk objektivitet. Videre ser den på den lineære modellen for forholdet mellom forskning og samfunn, innvendinger mot den og ideen om ansvarlig forskning. Til slutt drøftes tre syn på teknologi, teknologiens tosidighet og hvilket ansvar ingeniører har.",
+  "flashcards": [
+    {
+      "front": "Hva betyr teknologibevissthet?",
+      "back": "Kunnskap om hvordan teknologi påvirker oss både som enkeltmennesker og som samfunn og samfunnsstrukturer.",
+      "section": "Innledning"
+    },
+    {
+      "front": "Nevn fire måter verdier påvirker vitenskapelig arbeid på.",
+      "back": "De styrer hvilke spørsmål vi stiller, hvordan forskningsinstitusjoner er organisert, hvordan vi deler inn virkeligheten i kategorier, og hvilke krav vi stiller til evidens. De kan også påvirke forskningsobjektene.",
+      "section": "Vitenskap og verdier"
+    },
+    {
+      "front": "Hvordan påvirker verdier kravene til evidens?",
+      "back": "Hvor mye bevis vi krever før vi godtar en påstand eller setter i verk tiltak, avhenger av hva som står på spill om vi tar feil. Eksempel: klimaforskning og klimapolitikk.",
+      "section": "Vitenskap og verdier"
+    },
+    {
+      "front": "Hva kjennetegner det klassiske synet på vitenskapens objektivitet?",
+      "back": "Skarpt skille mellom oppdagelses- og begrunnelsessammenheng, universalisme, desinteresserthet og et skarpt skille mellom «er» og «bør».",
+      "section": "Vitenskap og verdier"
+    },
+    {
+      "front": "Hva står KUDOS for?",
+      "back": "Kommunalisme (kommunisme), Universalisme, Desinteresserthet og Organisert Skeptisisme. Normene ble formulert av Robert K. Merton.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "front": "Hva er forskjellen på epistemiske og sosiale normer i vitenskapen?",
+      "back": "Epistemiske normer sikrer at undersøkelser gir kunnskap (for eksempel HD-metoden, unngå bias, presisjon). Sosiale normer, som KUDOS, styrer hvordan forskningsfellesskapet fungerer slik at kunnskapsproduksjonen blir mulig.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "front": "Hva sier normen om kommunalisme?",
+      "back": "Forskningsresultater er felleseie og skal være fritt tilgjengelige. Forskerens eneste krav på egen forskning er æren. Press: dyre tidsskrifter, patenter, hemmelighold.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "front": "Hva sier normen om universalisme?",
+      "back": "Påstander skal vurderes etter de samme upersonlige kriteriene uansett hvem som fremsetter dem, uavhengig av kjønn, etnisitet, klasse, religion eller nasjonalitet.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "front": "Hva sier normen om desinteresserthet, og hvordan følges den opp i praksis?",
+      "back": "Forskerens og oppdragsgiverens interesser skal ikke styre resultatet. I praksis må forskere oppgi interessekonflikter når de publiserer.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "front": "Hva er organisert skeptisisme?",
+      "back": "Alle hypoteser og teorier skal være åpne for kritisk vurdering, og ingenting er hellig. Sikres blant annet gjennom fagfellevurdering.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "front": "Hva betyr det at kunnskap er situert?",
+      "back": "At hva vi vet, også er et resultat av de sosiale posisjonene og erfaringene til dem som har kunnskapen (Haraway). Hvilke data en forsker legger merke til, avhenger av sosial situasjon og kulturell tilhørighet.",
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "front": "Hva er standpunktepistemologi?",
+      "back": "Synet at ens sosiale posisjon påvirker hvilke sider av virkeligheten man har tilgang til, og at marginaliserte grupper kan ha epistemiske fortrinn når det gjelder bestemte forhold (Harding).",
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "front": "Gi tre grunner standpunktteoretikere gir for at marginaliserte ståsteder gir mer innsikt.",
+      "back": "Det dominerende perspektivet er allerede godt utforsket. Marginaliserte ser både sitt eget og det dominerende perspektivet. Dominerende grupper blendes av privilegiene og har mer å tape på å endre gamle «sannheter».",
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "front": "Hva er den kontemplative modellen?",
+      "back": "Synet at vitenskapelig kunnskap er et gode i seg selv. Går tilbake til Aristoteles, som mente at alle mennesker av natur ønsker å vite.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "front": "Beskriv kjeden i den lineære modellen.",
+      "back": "Grunnforskning fører til anvendt forskning, som fører til teknologi og innovasjon, som fører til verdiskaping, helse, sikkerhet og velferd.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "front": "Hva er samfunnskontrakten i den lineære modellen?",
+      "back": "Samfunnet finansierer vitenskapen og gir den selvstendighet, vitenskapen produserer god kunnskap gjennom selvregulering, og samfunnet er ansvarlig for å bruke kunnskapen godt.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "front": "Hva har KUDOS-normene og den lineære modellen til felles?",
+      "back": "Begge bygger på tanken om vitenskapen som autonom og verdifri. Sannhet, ikke politikk, skal styre vurderingen av forskning, og forskningsfellesskapet setter selv standarden.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "front": "Hva er de tre hovedinnvendingene mot den lineære modellen?",
+      "back": "1) Fri grunnforskning fører ikke nødvendigvis til innovasjon. 2) Ikke all teknologisk innovasjon er ønskelig. 3) Forskning er ikke alltid verdt pengene («Big Science»).",
+      "section": "Innvendinger mot den lineære modellen"
+    },
+    {
+      "front": "Hva er forskjellen på godkjent og ansvarlig kunnskap hos Briggle og Mitcham?",
+      "back": "Godkjent kunnskap (certified) er fagfellevurdert og fri for fusk. Ansvarlig eller forsvarlig kunnskap (sound, responsible) er også god for samfunnet.",
+      "section": "Innvendinger mot den lineære modellen"
+    },
+    {
+      "front": "Hva er Collingridge-dilemmaet?",
+      "back": "Tidlig i utviklingen er følgene vanskelige å forutsi (informasjonsproblem). Sent i utviklingen er teknologien så innvevd i samfunnet at den er vanskelig å endre (maktproblem).",
+      "section": "Forskeres ansvar og styring av forskningen"
+    },
+    {
+      "front": "Hva mener Heather Douglas om forskeres ansvar?",
+      "back": "Rolleansvaret fritar ikke for generelt moralsk ansvar for utilsiktede følger. Forskere skal ikke være hensynsløse eller uaktsomme, og må veie risiko mot nytte.",
+      "section": "Forskeres ansvar og styring av forskningen"
+    },
+    {
+      "front": "Hva er dobbeltbruksdilemmaet?",
+      "back": "At den samme forskningen kan brukes både til gode og til skade, for eksempel publiseringen av arvestoffet til viruset bak spanskesyken.",
+      "section": "Forskeres ansvar og styring av forskningen"
+    },
+    {
+      "front": "Hva er teknologisk instrumentalisme?",
+      "back": "Synet at teknologi er rene, verdinøytrale hjelpemidler som vi velger å bruke for å løse problemer vi har. Det er bruken som er god eller dårlig.",
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "front": "Hva er teknologisk determinisme?",
+      "back": "Synet at teknologien legger premissene for samfunnsutviklingen. Teknologien endrer livsbetingelsene, og vi tvinges til å tilpasse oss. Teknologien er verdiladet.",
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "front": "Hva kjennetegner det relasjonelle teknologisynet?",
+      "back": "Påvirkningen går begge veier: teknologien formes av menneskelige mål og prioriteringer, men virker også tilbake på oss på måter vi ikke helt kontrollerer. Både teknologi og menneskelige handlinger er verdiladede.",
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "front": "Er teknologisk determinisme det samme som teknologipessimisme?",
+      "back": "Nei. Man kan mene at teknologien styrer samfunnet og samtidig tro at den styrer oss mot effektivitet, velferd og frigjøring, altså være en optimistisk determinist.",
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "front": "Hva var Platons kritikk av skrivekunsten?",
+      "back": "Han fryktet at skriften ville svekke hukommelsen. Skriften er en pharmakon: både en medisin mot glemsel og en gift for hukommelsen.",
+      "section": "Teknologiens tosidighet og verdiladethet"
+    },
+    {
+      "front": "Hva er et sosioteknisk nettverk?",
+      "back": "Sammenfiltringen av teknologiske løsninger og samfunnsmessige funksjoner, med gjensidig avhengighet mellom oppgaver, teknologier, aktører og regulerende strukturer. Eksempel: bilen, veier og bensinstasjoner.",
+      "section": "Teknologiens tosidighet og verdiladethet"
+    },
+    {
+      "front": "Hva er forskjellen på passivt og aktivt ansvar?",
+      "back": "Passivt ansvar er tilbakeskuende og tildeles etter at noe uønsket har skjedd (ansvarlighet, klanderverdighet). Aktivt ansvar er framoverskuende og handler om å forebygge skade og fremme gode følger.",
+      "section": "Ingeniørers ansvar"
+    },
+    {
+      "front": "Hva er de fire betingelsene for klanderverdighet?",
+      "back": "Normbrudd (wrong-doing), kausalt bidrag, forutsigbarhet og handlingsfrihet.",
+      "section": "Ingeniørers ansvar"
+    },
+    {
+      "front": "Hva er de tre profesjonsidealene for ingeniører?",
+      "back": "Teknologisk entusiasme, effektivitet (måloppnåelse og kostnadseffektivitet) og menneskelig velferd. Bare velferd er alltid moralsk prisverdig.",
+      "section": "Ingeniørers ansvar"
+    },
+    {
+      "front": "Hva er separatisme?",
+      "back": "Synet at ingeniører skal levere de tekniske bidragene, mens ledere og politikere tar verdibeslutningene.",
+      "section": "Ingeniører og ledere: separatisme, teknokrati og varsling"
+    },
+    {
+      "front": "Hva er den trefoldige (tripartite) modellen?",
+      "back": "En modell med tre adskilte segmenter: politikere og ledere som setter mål, ingeniører som designer, og brukere. Ingeniørene er bare ansvarlige for den tekniske utformingen.",
+      "section": "Ingeniører og ledere: separatisme, teknokrati og varsling"
+    },
+    {
+      "front": "Hva er et teknokrati, og hvilke innvendinger finnes?",
+      "back": "Styre ved eksperter. Innvendinger: ingeniører mangler særlig kompetanse om mål og akseptabel risiko, det er udemokratisk, og det er paternalistisk.",
+      "section": "Ingeniører og ledere: separatisme, teknokrati og varsling"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hvilken KUDOS-norm brytes tydeligst når en sponsor krever å godkjenne forskningen før publisering, og negative funn utelates?",
+      "options": [
+        "Universalisme",
+        "Desinteresserthet",
+        "Kommunalisme alene",
+        "Ingen, så lenge metoden er korrekt"
+      ],
+      "answer_index": 1,
+      "explanation": "Oppdragsgiverens interesser styrer hva som publiseres, noe som bryter desinteresserthet. Kommunalisme og organisert skeptisisme brytes også, men desinteresserthet er det mest direkte bruddet.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "question": "Hvordan sikres organisert skeptisisme først og fremst i praksis?",
+      "options": [
+        "Gjennom patentering av resultater",
+        "Gjennom krav om å oppgi interessekonflikter",
+        "Gjennom åpen publisering",
+        "Gjennom fagfellevurdering"
+      ],
+      "answer_index": 3,
+      "explanation": "Fagfellevurdering er hovedmekanismen for organisert skeptisisme. Å oppgi interessekonflikter hører til desinteresserthet, og åpen publisering til kommunalisme.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "question": "Hvordan er KUDOS-normene ment å forholde seg til vitenskapens epistemiske normer?",
+      "options": [
+        "De utfyller dem ved å regulere hvordan forskningsfellesskapet fungerer",
+        "De erstatter dem",
+        "De er det samme som dem",
+        "De gjelder bare for samfunnsvitenskap"
+      ],
+      "answer_index": 0,
+      "explanation": "KUDOS-normene er sosiale normer som utfyller de epistemiske normene ved å sikre at fellesskapet kan dele, kontrollere og kritisere kunnskapen.",
+      "section": "KUDOS-normene"
+    },
+    {
+      "question": "Hvilket av disse er et eksempel på at verdier styrer hvordan vi deler inn virkeligheten i kategorier?",
+      "options": [
+        "Nedprioritering av forskning på kvinnesykdommer",
+        "Krav om å oppgi interessekonflikter",
+        "Debatten om hvorvidt Pluto er en planet",
+        "Fagfellevurdering"
+      ],
+      "answer_index": 2,
+      "explanation": "Planetdefinisjonen handler om hvilke kriterier som skal avgjøre kategorien. Nedprioritering av kvinnesykdommer handler om valg av forskningsspørsmål.",
+      "section": "Vitenskap og verdier"
+    },
+    {
+      "question": "Hva mener standpunktteorien om upartiskhet?",
+      "options": [
+        "I noen tilfeller kan forsøk på å være upartisk hindre objektivitet",
+        "Upartiskhet er alltid den beste veien til objektivitet",
+        "Upartiskhet er bare mulig i naturvitenskapene",
+        "Upartiskhet er et krav for alle forskere fra marginaliserte grupper"
+      ],
+      "answer_index": 0,
+      "explanation": "Ifølge Harding kan bevisst å ta utgangspunkt i de undertryktes perspektiv gi bedre kunnskap, og forsøk på upartiskhet kan dermed hindre objektivitet.",
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "question": "Hvilken KUDOS-norm utfordres mest direkte av tanken om at kunnskap er situert?",
+      "options": [
+        "Kommunalisme",
+        "Organisert skeptisisme",
+        "Ingen av dem",
+        "Universalisme"
+      ],
+      "answer_index": 3,
+      "explanation": "Universalisme sier at påstander skal vurderes uavhengig av hvem som fremsetter dem. Standpunktteorien sier at hvem du er, påvirker hva du ser. Desinteresserthet utfordres også.",
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "question": "Hva viser eksempelet fra primatforskningen ifølge standpunktteorien?",
+      "options": [
+        "At kvinnelige forskere, mindre investert i modellen om den passive hunnen, lettere så aktiv atferd hos hunnene",
+        "At nye måleinstrumenter alltid endrer teorier",
+        "At aper ikke har seksuell seleksjon",
+        "At hannenes atferd er evolusjonært viktigst"
+      ],
+      "answer_index": 0,
+      "explanation": "Standpunktteoretikere forklarer skiftet med at forskerens sosiale posisjon påvirket hva man la merke til.",
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "question": "Hvem er sterkest forbundet med den lineære modellen og rapporten «Science: The Endless Frontier»?",
+      "options": [
+        "Robert K. Merton",
+        "Aristoteles",
+        "Vannevar Bush",
+        "Sandra Harding"
+      ],
+      "answer_index": 2,
+      "explanation": "Vannevar Bush la fram rapporten i 1945 og likestilte vitenskapelig framgang med sosial framgang.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "question": "En politiker vil at universitetsforskningen skal rettes mer mot næringsrettet forskning. Hvordan forholder dette seg til den lineære modellen?",
+      "options": [
+        "Helt i tråd, fordi modellen handler om verdiskaping",
+        "I strid, fordi modellen sier at forskningen skal være fri og forskerstyrt, og at nytten kommer av seg selv",
+        "Irrelevant, fordi modellen bare gjelder grunnforskning i fysikk",
+        "I tråd, fordi modellen krever politisk styring"
+      ],
+      "answer_index": 1,
+      "explanation": "Målet om verdiskaping deles, men modellen sier at det nås best gjennom fri forskning, ikke ved å styre forskningen mot nytte.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "question": "Hvilket av disse er IKKE en del av samfunnskontrakten i den lineære modellen?",
+      "options": [
+        "Samfunnet finansierer vitenskapen",
+        "Forskerne er ansvarlige for misbruk av ideene sine",
+        "Vitenskapen regulerer seg selv gjennom fagfellevurdering",
+        "Samfunnet er ansvarlig for å bruke kunnskapen godt"
+      ],
+      "answer_index": 1,
+      "explanation": "Ifølge modellen er forskere nettopp ikke ansvarlige for misbruk. Det ansvaret ligger hos samfunnet.",
+      "section": "Den lineære modellen"
+    },
+    {
+      "question": "Hva menes med «Big Science» som innvending mot den lineære modellen?",
+      "options": [
+        "At vitenskapen har blitt så stor, dyr og samfunnspåvirkende at den vanskelig kan være fri for politisk styring",
+        "At vitenskapen bare bør drives av store land",
+        "At grunnforskning alltid gir store gevinster",
+        "At store forskergrupper følger KUDOS-normene bedre"
+      ],
+      "answer_index": 0,
+      "explanation": "Store budsjetter, maskiner og samfunnsvirkninger gjør at forskningen krever politisk støtte, styring og kontroll.",
+      "section": "Innvendinger mot den lineære modellen"
+    },
+    {
+      "question": "Hva går Collingridge-dilemmaet ut på?",
+      "options": [
+        "At forskere må velge mellom grunnforskning og anvendt forskning",
+        "At teknologi alltid er verdinøytral",
+        "At følgene av teknologi er vanskelige å forutsi tidlig, mens teknologien er vanskelig å endre når følgene viser seg",
+        "At varslere må velge mellom lojalitet og sannhet"
+      ],
+      "answer_index": 2,
+      "explanation": "Dilemmaet er en dobbel klemme mellom et informasjonsproblem tidlig og et maktproblem sent.",
+      "section": "Forskeres ansvar og styring av forskningen"
+    },
+    {
+      "question": "Karianne Tung sier at det er den som misbruker KI-brillene som er ansvarlig, ikke brillene. Hvilket teknologisyn uttrykker dette best?",
+      "options": [
+        "Teknologisk determinisme",
+        "Teknologisk instrumentalisme",
+        "Det relasjonelle teknologisynet",
+        "Standpunktepistemologi"
+      ],
+      "answer_index": 1,
+      "explanation": "Synet at teknologien er nøytral og at problemet ligger i individuell bruk, er typisk instrumentalisme.",
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "question": "Hvorfor er teknologien ikke verdinøytral ifølge det relasjonelle teknologisynet?",
+      "options": [
+        "Fordi den alltid er laget for å tjene penger",
+        "Fordi den alltid styrer oss fullstendig",
+        "Fordi bare brukerne bestemmer hvordan den brukes",
+        "Fordi den gjør noen handlinger lettere og andre vanskeligere, og slik legger føringer på hva vi gjør og verdsetter"
+      ],
+      "answer_index": 3,
+      "explanation": "Teknologien virker tilbake på oss og gjør noe mer eller mindre attraktivt, samtidig som den formes av menneskelige mål.",
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "question": "Hva betyr det at Platon omtalte skriften som en pharmakon?",
+      "options": [
+        "At den var en ren gift",
+        "At den bare var nyttig for leger",
+        "At den var både en medisin mot glemsel og en gift for hukommelsen",
+        "At den var et nøytralt verktøy"
+      ],
+      "answer_index": 2,
+      "explanation": "Pharmakon betyr både medisin og gift, og illustrerer teknologiens tosidighet.",
+      "section": "Teknologiens tosidighet og verdiladethet"
+    },
+    {
+      "question": "Hvilken følge har sosiotekniske nettverk ifølge forelesningene?",
+      "options": [
+        "De gjør det lettere å velge bort teknologi",
+        "De gjør teknologien verdinøytral",
+        "De reduserer muligheten til å velge om man vil bruke en teknologi og kan gjøre politisk styring tungrodd",
+        "De gjelder bare digital teknologi"
+      ],
+      "answer_index": 2,
+      "explanation": "Eksempler er overgangen til DAB-radio og vanskeligheten med å flytte trafikk fra bil til kollektivtransport.",
+      "section": "Teknologiens tosidighet og verdiladethet"
+    },
+    {
+      "question": "Hvilken av disse er IKKE en av de fire betingelsene for klanderverdighet hos van de Poel og Royakkers?",
+      "options": [
+        "Kausalt bidrag",
+        "At handlingen var ulovlig etter norsk lov",
+        "Forutsigbarhet",
+        "Handlingsfrihet"
+      ],
+      "answer_index": 1,
+      "explanation": "Betingelsene er normbrudd, kausalt bidrag, forutsigbarhet og handlingsfrihet. Normbruddet kan være moralsk eller organisatorisk, ikke bare lovbrudd.",
+      "section": "Ingeniørers ansvar"
+    },
+    {
+      "question": "Hvorfor er effektivitet ikke alltid et moralsk prisverdig ideal?",
+      "options": [
+        "Fordi den ikke kan måles",
+        "Fordi den alltid gir dårligere teknologi",
+        "Fordi den bare gjelder økonomer",
+        "Fordi den forutsetter et ytre mål som selv kan være umoralsk"
+      ],
+      "answer_index": 3,
+      "explanation": "Effektivitet måles i forhold til et mål, og målet kan være krig eller folkemord, slik eksempelet med Eichmann viser.",
+      "section": "Ingeniørers ansvar"
+    },
+    {
+      "question": "Hvilken modell for ingeniørers ansvar innebærer at ingeniøren har en rådgivende rolle, men plikt til å si fra om kritikkverdige forhold?",
+      "options": [
+        "Varsling",
+        "Separatisme",
+        "Teknokrati",
+        "Den trefoldige modellen"
+      ],
+      "answer_index": 0,
+      "explanation": "Varsling er en moderat separatisme med plikt til å varsle om kritikkverdige forhold.",
+      "section": "Ingeniører og ledere: separatisme, teknokrati og varsling"
+    },
+    {
+      "question": "Hva er en vanlig innvending mot teknokrati?",
+      "options": [
+        "At ingeniører ikke kan noe om teknologi",
+        "At det gir for mye makt til brukerne",
+        "At det svekker teknologisk entusiasme",
+        "At det er udemokratisk og paternalistisk"
+      ],
+      "answer_index": 3,
+      "explanation": "Teknokrati overlater beslutninger til eksperter, noe som er udemokratisk og paternalistisk, og ingeniører har ikke særlig kompetanse om mål og akseptabel risiko.",
+      "section": "Ingeniører og ledere: separatisme, teknokrati og varsling"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Nevn noen måter verdier påvirker vitenskapelig arbeid på. I hvilken grad utfordrer de vitenskapens objektivitet?",
+      "key_points": [
+        "Verdier styrer valg av forskningsspørsmål (for eksempel nedprioritering av kvinnesykdommer)",
+        "Verdier styrer kategorier (planetdefinisjonen, hjernesykdommer)",
+        "Verdier påvirker krav til evidens (klimaforskning)",
+        "Valg av spørsmål gir skjev kunnskapsbase, men ikke nødvendigvis upålitelige svar",
+        "Det mest problematiske er når interesser styrer selve konklusjonene"
+      ],
+      "section": "Vitenskap og verdier"
+    },
+    {
+      "prompt": "Hva går KUDOS-normene ut på, og hvordan er de ment å komplementere vitenskapens epistemiske normer?",
+      "key_points": [
+        "Kommunalisme: kunnskap er felleseie",
+        "Universalisme: påstander vurderes uavhengig av person",
+        "Desinteresserthet: interesser skal ikke styre resultatene",
+        "Organisert skeptisisme: alt er åpent for kritikk, fagfellevurdering",
+        "Sosiale normer som sikrer at fellesskapet kan dele og kontrollere kunnskap, i tillegg til epistemiske normer som HD-metoden"
+      ],
+      "section": "KUDOS-normene"
+    },
+    {
+      "prompt": "En forskergruppe får penger fra et selskap som må godkjenne forskningen før publisering, og negative funn utelates. Hvordan bryter dette med KUDOS-normene?",
+      "key_points": [
+        "Desinteresserthet: oppdragsgiverens interesser styrer publiseringen",
+        "Kommunalisme: deler av resultatene holdes tilbake",
+        "Organisert skeptisisme: andre kan ikke vurdere hele datamaterialet kritisk",
+        "Selskapet får en kontrollrolle som tilhører forskningsfellesskapet"
+      ],
+      "section": "KUDOS-normene"
+    },
+    {
+      "prompt": "Hva menes med at kunnskap er situert og med standpunktepistemologi? Skaper dette problemer for KUDOS-normene?",
+      "key_points": [
+        "Situert kunnskap: hva vi vet, preges av sosial posisjon og erfaring (Haraway)",
+        "Standpunktepistemologi: marginaliserte grupper kan ha epistemiske fortrinn (Harding)",
+        "Begrunnelser: dominerende perspektiv allerede utforsket, dobbelt perspektiv, privilegier blender",
+        "Utfordrer universalisme og desinteresserthet",
+        "Mulig forsvar: universalisme gjelder vurdering av påstander, ikke hvem som forsker"
+      ],
+      "section": "Situert kunnskap og standpunktepistemologi"
+    },
+    {
+      "prompt": "Hva menes med den lineære modellen, og hvilke styrker og svakheter har den?",
+      "key_points": [
+        "Grunnforskning, anvendt forskning, innovasjon, velferd (Bush)",
+        "Samfunnskontrakt: samfunnet finansierer, forskerne lager god kunnskap, samfunnet bruker den",
+        "Styrke: beskytter forskningsfrihet og holder politikk og fusk ute",
+        "Svakheter: forskning gir ikke automatisk innovasjon, ikke all innovasjon er ønskelig, forskning er ikke alltid verdt pengene",
+        "Gir et ansvarsgap mellom god vitenskap og godt samfunn"
+      ],
+      "section": "Den lineære modellen"
+    },
+    {
+      "prompt": "Er forløpet fra forskning på materialers elektriske egenskaper til elbiler og lavere utslipp i tråd med eller i strid med den lineære modellen?",
+      "key_points": [
+        "Grunnforskning motivert av å forstå universet",
+        "Ført til anvendt kunnskap om batterier og deretter innovasjon",
+        "Samfunnsnytte i form av lavere utslipp: i tråd med kjeden",
+        "Men myndighetene måtte bruke virkemidler som skattefordeler og bomfritak",
+        "Nytten kom altså ikke helt av seg selv, noe modellen ikke fanger opp"
+      ],
+      "section": "Den lineære modellen"
+    },
+    {
+      "prompt": "Hva er teknologisk determinisme og teknologisk instrumentalisme? Hva vil forskjellen være i synet på en datingapp som Tinder?",
+      "key_points": [
+        "Instrumentalisme: teknologi er nøytrale hjelpemidler, bruken avgjør",
+        "Determinisme: teknologien endrer livsbetingelsene og vi tvinges til å tilpasse oss",
+        "Instrumentalist: Tinder er et nøytralt verktøy for å møte partnere",
+        "Determinist: Tinder endrer selve måten vi søker kjærlighet og vurderer hverandre på"
+      ],
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "prompt": "Hva kjennetegner det relasjonelle teknologisynet, og hvorfor innebærer det at teknologien ikke er verdinøytral?",
+      "key_points": [
+        "En mellomposisjon der påvirkningen går begge veier",
+        "Teknologien formes av menneskelige mål og prioriteringer",
+        "Teknologien virker tilbake på oss på måter vi ikke helt kontrollerer",
+        "Teknologien gjør noe lettere og annet vanskeligere, og er derfor verdiladet"
+      ],
+      "section": "Tre syn på teknologi"
+    },
+    {
+      "prompt": "Hva var Platons kritikk av skrivekunsten? Gi eksempler på lignende kritikk og drøft om den er legitim.",
+      "key_points": [
+        "Skriften ville svekke hukommelsen",
+        "Skriften som pharmakon: medisin og gift",
+        "Lignende kritikk: ChatGPT, sosiale medier (Turkle)",
+        "Legitim fordi teknologi endrer evner og vaner",
+        "Men vi vurderer lett framtiden med gårsdagens briller"
+      ],
+      "section": "Teknologiens tosidighet og verdiladethet"
+    },
+    {
+      "prompt": "Hva er et sosioteknisk nettverk, og kan teknologier være diskriminerende?",
+      "key_points": [
+        "Sammenfiltring av teknologi og samfunnsfunksjoner med gjensidig avhengighet",
+        "Reduserer valgfrihet og gjør politisk styring tungrodd (DAB, bil og kollektivtransport)",
+        "Passer best med relasjonelt syn eller determinisme",
+        "Winners bro: diskriminering kan bygges inn i teknologien",
+        "KI som feilvurderer ut fra hudfarge"
+      ],
+      "section": "Teknologiens tosidighet og verdiladethet"
+    },
+    {
+      "prompt": "Hva menes med aktivt og passivt ansvar, og når er en person klanderverdig ifølge van de Poel og Royakkers?",
+      "key_points": [
+        "Passivt ansvar er tilbakeskuende, aktivt er framoverskuende",
+        "Normbrudd",
+        "Kausalt bidrag, også unnlatelse",
+        "Forutsigbarhet",
+        "Handlingsfrihet, der press kan redusere ansvaret"
+      ],
+      "section": "Ingeniørers ansvar"
+    },
+    {
+      "prompt": "Forklar separatisme og den trefoldige modellen. Hva er et teknokrati, og hva er vanlige innvendinger mot det?",
+      "key_points": [
+        "Separatisme: ingeniører leverer teknikk, ledere og politikere tar verdivalg",
+        "Trefoldig modell: politikere og ledere, ingeniører, brukere",
+        "Ingeniører bare ansvarlige for teknisk utforming, fare for «hired gun»",
+        "Teknokrati: styre ved eksperter",
+        "Innvendinger: mangler kompetanse om mål og risiko, udemokratisk, paternalistisk"
+      ],
+      "section": "Ingeniører og ledere: separatisme, teknokrati og varsling"
+    }
+  ]
+}

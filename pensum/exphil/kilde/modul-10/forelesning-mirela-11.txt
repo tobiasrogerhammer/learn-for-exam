@@ -1,0 +1,518 @@
+--- side 1 ---
+Kunnskap for en bedre verden
+EXPH0300: Examen philosophicum for
+naturvitenskap og teknologi
+Forelesning 11
+Mirela Fus-Holmedal
+mirela.fus-holmedal@ntnu.no
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+
+--- side 2 ---
+Agenda
+1. Bærekraft (fortsettelse føre-var prinsippet)
+2. Politisk filosofi (del I)
+Merk: På eksamen politisk filosofi
+kun aktuell for kortsvarsdelen.
+2807 7876
+2
+
+--- side 3 ---
+Hvor risikoavers er du som beslutningstaker?
+Nårvi ståroverfor usikkerhet, varierer det hvor villige vi er til åta
+risiko, for eksempel mellom åvelge 500 kr sikkert eller 50 % sjanse
+for 1200 kr og 50 % sjanse for 0 kr.
+3
+
+--- side 4 ---
+«Nåren aktivitet utgjøren
+trussel mot miljøeller helse
+måførevar-tiltak treffes,
+selv om enkelte
+årsak/virkning-forhold
+ikke er vitenskapelig
+etablert. I slike
+sammenhenger burde
+forkjemperne for en aktivitet
+bærebevisbyrden [mht. om
+aktiviteten er trygg]».
+Wingspread-
+konferansen, 1998
+1. Føre-var prinsippet som rasjonelt beslutningskriterium
+Hovi, J. (2001). Førevar-prinsippet som rasjonelt
+beslutningskriterium. CICERO Working
+Paper. https://pub.cicero.oslo.no/cicero-xmlui/handle/11250/192366
+
+--- side 5 ---
+
+
+--- side 6 ---
+6
+
+--- side 7 ---
+Vi børvelge handlingsalternativet med høyest
+forventet nytte, dvs. med høyestpositiv nytteverdi
+som utfall, vektet mot utfallets sannsynlighet.
+7
+Førevar-prinsippet & formelle beslutningskriterier
+ved usikkerhet
+• Forventet nytte
+– Velg det alternativet som i
+snitt gir det beste utfallet.
+• Maximin
+– Velg det
+handlingsalternativet som
+har minst dårligresultat i
+verste fall.
+• Minimax regret
+– Sørgfor minst mulig
+forskjell mellom verdien av
+det valgte
+handlingsalternativet med
+optimalt utfall.
+Vi børvelge handlingsalternativet som
+minimer maksimal anger, dvs., som vi i
+verste fall vil angre minst på.
+…. kan forståsgjennom, men kan ikke reduseres til noen av dem.
+Vi børvelge handlingsalternativet hvor det
+verst tenkelige utfallet er best/minst ille,
+dvs., som har det beste worst case-scenariet.
+
+--- side 8 ---
+Føre-var prinsippet
+• Et generelt normativt prinsipp pålinje med andre sentrale prinsipper for
+miljøforvaltning, som f.eks. prinsippet om at forurenseren skal betale eller prinsippet om
+at vi har forpliktelser overfor kommende generasjoner
+• Spørsmålet: Et mer spesifikt kriterium for åfatte rasjonelle politiske beslutninger
+under usikkerhet, herunder utforme lover, regler og internasjonale avtaler?
+– Hovedkonklusjon: foreløpiginneholder for mange uklare elementer–
+ikke rimelig åstille til et rasjonelt beslutningskriterium.
+• F.eks. Blindsonene i kravet om omvendt bevisbyrde: Det er vanskeligere
+(om i det hele tatt mulig) åbevise at noe er uskadelig, enn åbevise at noe er
+skadelig.
+• Viktigste funksjon åforme miljødebatten–ikke ågi svar påhvilke spesifikke valg
+som børforetas i konkrete beslutningssituasjoner.
+8
+
+--- side 9 ---
+Spørsmål?
+9
+
+--- side 10 ---
+1. Politisk filosofi: Introduksjon
+
+--- side 11 ---
+Etikk og politisk filosofi
+De tingene vi kan påvirke og endre:
+ etikk
+ politikk
+Kriterier for å vurdere handlinger:
+ individuelt nivå
+ myndighetsnivå
+Spørsmål innen politisk filosofi:
+ Hvor langt strekker individets frihet seg?
+ Hva kan staten legge seg opp i?
+11
+
+--- side 12 ---
+Politisk filosofi• Forholdet mellom staten
+og individet
+• Hvor omfattende
+handlefrihet bør vi ha?
+• Hvor langt kan staten gå
+i å bestemme over oss?
+• Hvem bør bestemme?
+• Hvordan er en rettferdig
+stat organisert?
+• Hvilke prinsipper bør
+lovgivningen bygge på?
+12
+
+--- side 13 ---
+Politisk filosofi og grensene for statens makt
+• Politisk filosofi handler om rettmessig utøvelse av
+politisk makt
+– Utøvelse av myndighet
+– Moralske spørsmål om bruk av politisk makt, men
+skiller seg fra privat moral
+• Retten til å gi lover er høyeste utøvelse av myndighet
+– Bestemmer rammene for all annen maktutøvelse
+• Ikke alt som er moralsk galt er, eller bør være, forbudt
+– Leve usunt eller farlig (f.eks. røyking)
+– Lyve; Manipulere og lure andre; Utroskap
+13
+
+--- side 14 ---
+Frihet og grenser
+• Lover begrenser og beskytter frihet
+• Ikke alltid slik at begrensninger reduserer frihet
+– Maktutøvelse kan gi frihet
+• Plikt til å gå på skole => frihet i
+voksenlivet
+•
+“Manglende skolegang begrenser med
+andre ord friheten i stor grad, mens
+plikten til ågåpåskole økervårfrihet
+ved ågi oss muligheter vi ellers ikke ville
+hatt.” (s. 273)
+14
+
+--- side 15 ---
+15
+
+--- side 16 ---
+Politisk liberalisme
+• Ikke det samme som økonomisk liberalisme.
+• Vektlegging av borgernes frihet overfor staten.
+16
+• Utilitarister og Kant er politiske liberalister, men med helt ulik
+begrunnelse.
+– Instrumentelle vs. naturrettslige teorier
+Utilitarister:
+Inngrep i borgeres
+liv er et onde som
+bare er legitimt hvis
+det kan forhindre et
+større onde.
+Kant:
+Respekt for
+borgernes
+autonomi
+
+--- side 17 ---
+Tre forskjellige
+tilnærminger
+•1. Utilitaristisk:
+Skadeprinsippet
+• 2. Pliktetisk/deontologisk:
+Frihet som iboende rett
+• 3. Dydsetisk:
+Mennesket som et politisk
+dyr
+17
+
+--- side 18 ---
+Skadeprinsippet (Utilitaristisk prinsipp)
+• Bruk av makt mot kompetente og velinformerte
+voksenpersoner er kun tillatt for å hindre skade på
+andre (John Stuart Mill)
+– Tillatt å være umoralsk og skade seg selv
+– Bare fare for andre er grunnlag for begrensninger i
+frihet
+• “Kompetent”: Å være rustet til å ta fornuftige valg: Ikke
+psykotisk, ikke sterkt utviklingshemmet osv.
+• Et forsvar for individets frihet: Så lenge våre handlinger
+ikke påfører andre skade eller ulemper de ikke samtykker
+til, bør vi stå fritt til å gjøre som vi vil
+• Anti-paternalistisk prinsipp
+John Stuart Mill
+(1806-1872)
+18
+
+--- side 19 ---
+Paternalisme
+• Paternalisme = ‘faderlighet’: staten
+bestemmer over borgerne som foreldre
+over sine barn
+• Inngrep for å beskytte personen selv
+er paternalistiske
+– Strider mot skadeprinsippet
+• Paternalistiske forbud
+– Myk vs. hard
+19
+
+--- side 20 ---
+Myk paternalisme
+• Hindre noen som ikke forstår at hen
+utsetter seg for fare
+– Dersom personen kjenner til og forstår
+faren hen utsetter seg for, har vi ingen
+rett til å hindre vedkommende i å utføre
+handlingen
+• I overenstemmelse med skadeprinsippet
+• Kan gi rådtil de som skjønner faren
+– Lever usunt
+– Eks: Pasienter kan nekte å ta imot blod
+eller å motta livsforlengende behandling
+20
+
+--- side 21 ---
+Hard paternalisme
+• Forhindre kompetente, informerte i å skade seg
+– Handler om å forhindre kompetente og velinformerte
+voksne fra å gjøre noe som er farlig for dem selv
+• Mer inngripende; ikke i overenstemmelse med
+skadeprinsippet
+• Eks: Røykeforbud
+– Hard paternalisme?
+– Skadeprinsippet?
+• Eks: Norsk forbud mot proffboksing
+21
+
+--- side 22 ---
+Myk paternalisme, hard paternalisme
+eller antipaternalisme? Børselvmord
+og frivillige slavekontrakter forbys?
+22
+
+--- side 23 ---
+23
+Frihetens verdi
+• For utilitaristen Mill er frihet viktig fordi den
+har nytteverdi
+– Gir mest total lykke for de berørte parter
+• Frihet gjør det mulig å utvikle og bruke
+våre evner på best måte
+– Ikke tilfreds med sanselige nytelser
+– ‘Heller en ulykkelig Sokrates enn en
+lykkelig gris’
+– Trenger å utvikle intellekt og kreativitet
+• Frihet har instrumentell verdi
+– Den fremmer lykke ved at den muliggjør
+selvrefleksjon og at vi får uttrykke oss
+John Stuart Mill
+(1806-1872)
+
+--- side 24 ---
+Ytringsfrihet
+• Alle ytringer som ikke fører til vold bør tillates
+– Vi kan ikke vite hva som er sant
+• Ytringsfrihet muliggjør endring av oppfatninger
+til det bedre
+– Ved å slippe til alle oppfatninger kan vi selv se hva
+som er sant
+– Ved kritikk finner vi ut om egne oppfatninger er
+velbegrunnede
+– Gir grunnlag for å vurdere om myndighetenes valg er
+til det beste
+• Selv usanne oppfatninger skjerper intellektuelle
+evner
+– Gjør oss bedre i stand til å ta ansvar for eget liv
+– Mer motstandsdyktige mot dårlige valg
+24
+At noen føler seg
+krenket av det
+andre sier eller
+skriver, er ikke
+grunn nok til å
+iverksette
+negative
+sanksjoner mot
+den som ytrer seg.
+
+--- side 25 ---
+Finnes det oppfatninger som er såskadelige at de
+ikke børbeskyttes av ytringsfriheten, selv nårde
+verken oppfordrer til vold eller er ulovlige? Hvis ja,
+hvilke?
+25
+
+--- side 26 ---
+Livsstilsfrihet
+• Frihet til å velge egen levemåte gir mest lykke
+– Yrke, partner, tro, hobbyer, klesdrakt etc.
+– Mennesker er forskjellige og blir lykkelige på ulikt vis
+• Rett til å leve ut sine særegenhete> utvikle egen
+individualitet > gir mer energi og derfor til nytte for
+hele samfunnet
+– Mangfold gir et rikere liv for alle
+– Gir kollektiv læring og framskritt for samfunnet
+26
+
+--- side 27 ---
+Noen uklarheter ved skadeprinsippet
+• Mill: krenke andres
+interesser er å skade
+– Hva utgjør noens interesser?
+• Hva innebærer det å bruke
+makt?
+– Eks. «dulting», utøve moralsk
+press, avgiftsbelegge
+• Hva skal til for at noe skal
+kunne kalles en skade?
+– Hva med frykt eller ubehag?
+– Hva med skade på
+økonomiske interesser?
+– Hva med negativ påvirkingav
+normer?
+• Mange måter å skade andre
+–vanskelig å trekke grensen
+– Hvor går grensene mellom å
+skade seg selv og å skade
+andre?
+27
+
+--- side 28 ---
+28
+
+--- side 29 ---
+Tre forskjellige
+tilnærminger
+• 1. Utilitaristisk:
+Skadeprinsippet
+• 2. Pliktetisk/
+deontologisk:
+Frihet som iboende
+rett
+• 3. Dydsetisk:
+Mennesket som et politisk
+dyr
+29
+
+--- side 30 ---
+Frihet som iboende rett (pliktetisk/deontologisk)
+• Alternativ teori til Mills instrumentelle frihetsteori
+• Alle har en medfødt rett til frihet som begrenser statlig
+paternalisme
+– Uavhengig av konsekvenser
+• Naturrettsteorier (frihet som naturrett)
+– Handler om statens regulering av forholdet mellom borgere
+– Hva slags inngrep har staten rett til –uavhengig av nytten?
+Kan politiet torturere forbrytere for å beskytte
+uskyldige?
+30
+
+--- side 31 ---
+Naturrettsteorier
+• Alle mennesker har medfødte naturlige rettigheter –
+fordi de er mennesker
+– ‘Statusbaserte’ rettigheter
+– Ikke-instrumentelle = uavhengig av hva de fører til
+• Eks. rett til liv, trygghet, eiendom, frihet fra
+undertrykkelse
+• John Locke: Rett til å disponere over egen person og
+eiendom så lenge vi ikke skader andres frihet
+– Myndighetenes oppgave å beskytte denne frihetsretten
+gjennom lover og makt
+• Eks. slavekontrakt strider mot vår naturlige rettigheter
+31
+John Locke (1632-1704):
+
+--- side 32 ---
+Politisk frihet: Ikke-dominans
+• Mary Wollstonecraft: frihet er menneskets fødselsrett
+• Frihet er uavhengighet fra andres vilkårlige
+bestemmelse over oss
+– Jeg er ikke underordnet andres vilje
+– Ikke først og fremst fravær av hindringer (negativ
+frihet), men uavhengighet (positiv frihet),
+Mary Wollstonecraft
+(1759-1797)
+– En slave er ufri, selv om hun i praksis gjør som hun vil
+• Medfødt frihet forutsetter gjensidighet
+– Lik frihet for alle borgere
+Det er bare én iboende rettighet: Frihet, så fremt den kan
+bestå sammen med alles frihet i samsvar med en allmenn lov
+Immanuel Kant
+32
+Immanuel Kant
+(1724-1804)
+
+--- side 33 ---
+*Negativ vs. positiv frihet
+• Negativ frihet
+– i) fravær av ytre hindringer og
+• Eks.: Å ikke komme seg fra A til B fordi veien er
+stengt
+– ii) fravær av dominansrelasjoner
+• Eks.: herre-slave, rik-fattig
+• Positiv frihet
+– Viser til de aktørorienterte faktorene som gjør det
+mulig for en person å handle fritt eller utøve
+selvbestemmelse
+• Eks. Å sette seg egne mål basert på egne ønsker
+og preferanser og handle på disse
+33
+
+--- side 34 ---
+Likestilling - Wollstonecraft
+• Likhet som uavhengighet også viktig for kvinnefrigjøring
+• Politisk frihet ikke nok, kvinner må være økonomisk uavhengige
+• Likhetsfeminister:
+– Vektlegger det som er likt mellom kjønnene, og mener kvinner skal ha de
+samme rettighetene og mulighetene som menn
+• Forskjellsfeminister:
+– Kjønnene er grunnleggende ulike, og man burde jobbe for at de
+særegent kvinnelige bidragene til samfunnet blir høyere verdsatt, både
+økonomisk og kulturelt
+• Wollstonecraft ofte anses som en likhetsfeminist:
+– Det er vår felles fornuft som utgjør grunnlaget for vår iboende rett til frihet
+– Mente likevel at det var visse kjønnsspesifikke plikter: Det er kvinners
+borgerplikt å bli mødre og opdragelsen av barn
+34
+
+--- side 35 ---
+*Likestilling: klassisk vs. egalitær liberal feminisme
+• Klassisk liberal feminisme
+– Vektlegger at staten ikke skal forskjellsbehandle kvinner og
+menn, men at den ellers skal begrense sin inngripen i måten
+den privatpersoner handler på (livsstilfrihet)
+– Wollstonecraft regnes som klassisk liberal feminist
+• Egalitær liberal feminisme
+– Sosiale skjevheter mellom kjønnene lar seg ikke forklare bare
+som et resultat av selvstendige valg individet tar på et fritt og
+ikke-diskriminerende marked, men handler også om
+patriarkalske tradisjoner og institusjoner
+– Susan Moller Okin (1946-2004): Vi bør jobbe mot en fremtid
+uten kjønn, et kjønnsblindt samfunn
+35
+
+--- side 36 ---
+Ytringsfrihet og respekt
+• Skille interessebaserte og statusbaserte
+rettighetsteorier
+– Instrumentelle vs. naturrettslige teorier
+• Frances Kamm (1948-): For statusbaserte teorier er
+ytringsfrihet uttrykk for respekt for mennesker som
+tenkende vesen (fornuft og autonomi)
+• Thomas Nagel (1937-): Sensur krenker vår frihet som
+tenkende mennesker
+– Gjelder også hatytringer
+– Kritikk og debatt en forutsetning for å danne egne
+meninger
+– Sensur: Det er respektløst og krenkendeå ville beskytte
+voksne mennesker mot ytringer til intolerante fanatikere
+Men kan
+hatytringer krenke
+medfødt frihet
+–gitt at vi har det?
+36
+
+--- side 37 ---
+Ytringsfrihet og respekt: Kan
+hatytringer krenke medfødtfrihet–gitt
+at vi har det?
+37
+
+--- side 38 ---
+Naturretter –for og mot
+• En grunn-ide hos mange at vi har ubetingede
+forpliktelser overfor andre mennesker
+– Eks. Ikke drepe, straffe vilkårlig, etc.
+– Absolutte begrensninger
+– Stemmer med naturretts-tanken
+• Den enkelte har en status som avkrever respekt
+• Men de mangler overbevisende begrunnelse
+– Ofte sirkulære: Personstatus gir rettigheter –som
+begrunner personstatus
+• Gir motstridende anvendelser
+– Omfordeling av goder trygger frihet
+– Omfordeling krenkelse av eiendomsrett
+38
+
+--- side 39 ---
+Spørsmål?
+39
+
+--- side 40 ---
+40
+Neste gang
+• Politisk filosofi
+• Pensum:
+– Tenk!
+• Del 5, kap. 19-22
+
+--- side 41 ---
+Takk for i dag!
+Kunnskap for en bedre verden
+Raphael, The School of Athens (1509-1511), reinterpreted using AI (Microsoft Copilot, 2026).
+

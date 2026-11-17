@@ -13,6 +13,7 @@ import type * as auth from "../auth.js";
 import type * as content from "../content.js";
 import type * as http from "../http.js";
 import type * as ideas from "../ideas.js";
+import type * as lib_frontMatter from "../lib/frontMatter.js";
 import type * as practice from "../practice.js";
 import type * as progress from "../progress.js";
 import type * as users from "../users.js";
@@ -29,6 +30,7 @@ declare const fullApi: ApiFromModules<{
   content: typeof content;
   http: typeof http;
   ideas: typeof ideas;
+  "lib/frontMatter": typeof lib_frontMatter;
   practice: typeof practice;
   progress: typeof progress;
   users: typeof users;

@@ -1,0 +1,241 @@
+# Leksjon 2: Argumentasjonsteori
+
+Velkommen til leksjonen om argumentasjonsteori. Argumentasjonsteori er læren om hvordan argumentasjon er bygget opp, og hva som gjør den sterk eller svak. I denne leksjonen lærer du om debatt og debattnormer, om forskjellen på riktighet og relevans, om hvordan du analyserer en argumentasjon, og om hvordan du vurderer deduktive og induktive argumenter. Stoffet tilsvarer del én, kapittel én til tre, i læreboka Tenk.
+
+# Innledning
+
+I dette kapitlet ser vi på hvorfor argumentasjonsteori er nyttig, og vi lærer to grunnbegreper som går igjen i hele leksjonen.
+
+Uansett hva du studerer, er argumentasjon en sentral ferdighet. Vi trenger argumentasjon hver gang det ikke er åpenbart hva vi bør tro eller gjøre. Kunnskap om argumentasjonsteori gjør deg bedre til to ting. Du blir bedre til å vurdere argumenter du møter i tekster, samtaler og offentlig debatt. Og du blir bedre til å argumentere for dine egne synspunkter. Derfor er argumentasjonsteori et sentralt verktøy både for kritisk og for vitenskapelig tenkning.
+
+Stoffet har tre deler. Den første delen handler om argumentasjon og debatt: hva debatt er godt for, hvilke spilleregler som bør gjelde, og hva som skiller riktighet fra relevans. Den andre delen er argumentasjonsanalyse: hva det argumenteres for, hvilke argumenter som gis, og hvordan de henger sammen. Den tredje delen er argumentasjonsvurdering: om argumentene er riktige, hvor relevante de er, og hvordan vi vurderer ulike typer argumenter.
+
+To grunnbegreper går igjen. Et standpunkt er hovedpåstanden det argumenteres for eller mot. Som regel er det en påstand det er uenighet om, eller som ikke er åpenbart riktig. Et argument er én eller flere påstander som settes frem for å støtte eller svekke en annen påstand, for eksempel standpunktet. Både standpunkt og argumenter er altså påstander. Forskjellen ligger i hvilken rolle de har.
+
+Kort oppsummert: Standpunktet er det man vil vise, og argumentene er grunnene man gir for eller mot det.
+
+# Argumentasjon og debatt
+
+I dette kapitlet ser vi på hva offentlig debatt er, og hvilke formål den har.
+
+Offentlig debatt er debatt som er allment tilgjengelig. Mirela Fus-Holmedal skiller mellom samfunnsdebatt og akademisk debatt.
+
+Samfunnsdebatten handler om saker som berører alle, som lovgivning, prioriteringer og moral. Den skal gi grunnlag for velinformerte politiske beslutninger. Den foregår på mange arenaer, som Stortinget, media, organisasjoner og sosiale medier. Selv et lite trykk på liker-knappen, eller graffiti med slagordet nei til EU, kan være en del av samfunnsdebatten. Ulike arenaer gir ulik tilgang.
+
+Den akademiske debatten består av argumentativ kritikk av forskning og teorier. Den foregår i tidsskrifter, på konferanser og i rapporter, og den har strengere krav til argumentasjon, evidens og begrunnelse.
+
+Læreboka nevner to hovedformål med offentlig debatt, knyttet til to filosofer.
+
+Det første formålet er at debatt fremmer kunnskap. Dette knyttes til John Stuart Mill. Idealet er at debatt er et samarbeid om læring, gode løsninger og sannhet. Når ulike synspunkter møtes og blir prøvd mot hverandre, kan vi oppdage feil i egne oppfatninger og komme nærmere det som er riktig. Debatt kan selvsagt også brukes strategisk for å fremme egne interesser, men idealet er at den skal være kunnskapssøkende.
+
+Det andre formålet er at debatt gir demokratisk legitimitet. Dette knyttes til Jürgen Habermas. Politiske beslutninger får legitimitet når de er et resultat av en offentlig debatt. For at det skal fungere, må debatten være åpen for alle som vil delta. Den må sikte mot enighet om politiske løsninger. Og den må bygge på rasjonelle og saklige argumenter.
+
+De to formålene utfyller hverandre. Det ene handler om å finne ut hva som er sant eller best. Det andre handler om at beslutninger skal være rettferdiggjort overfor dem de gjelder.
+
+Hvis debatten skal fremme kunnskap og gi legitimitet, må deltakerne følge visse spilleregler. En debatt der folk lyver, angriper hverandres person eller snakker om noe helt annet enn saken, fremmer verken kunnskap eller legitimitet.
+
+Kort oppsummert: Offentlig debatt skal ifølge Mill fremme kunnskap og ifølge Habermas gi demokratisk legitimitet, og begge deler krever saklighet.
+
+# Debattnormer og brudd på dem
+
+I dette kapitlet ser vi på de tre spillereglene for saklig debatt, og på hva som regnes som klare brudd på dem.
+
+Debattnormene skal sikre at debatten er saklig, det vil si kunnskapssøkende. Det er tre normer.
+
+Den første normen er at du skal begrunne oppfatningene dine. Du må være beredt til å gi grunner for standpunkter du vil at andre skal slutte seg til, og mot standpunkter du er uenig i. Begrunnelsen er at påstander uten grunner stanser diskusjonen. De er umulige å etterprøve, og det blir vanskelig for noen å endre mening.
+
+Den andre normen er at du skal bidra med riktig informasjon. Du må etter beste evne sørge for at argumentene dine er riktige. Begrunnelsen er at diskusjonen da blir forankret i kunnskap og sannhet.
+
+Den tredje normen er at du skal bidra med relevant informasjon. Du må etter beste evne sørge for at argumentene er relevante for standpunktet. Begrunnelsen er at diskusjonen da holder seg til saken.
+
+Legg merke til uttrykket etter beste evne. Normene krever ikke at man aldri tar feil, men at man oppriktig prøver.
+
+Det finnes to klare brudd på kravet om riktig informasjon. Det ene er løgn, som er et bevisst forsøk på å si noe man tror er usant. Det andre er det filosofen Harry Frankfurt kaller bullshit. Det betyr å si ting uten å bry seg om det er sant eller ikke. Den som lyver, er opptatt av sannheten for å skjule den. Den som snakker bullshit, bryr seg ikke om sannheten i det hele tatt, bare om virkningen av det som blir sagt.
+
+I tillegg finnes det to vanlige former for usaklighet.
+
+Den første er personargumentasjon, som på latin heter ad hominem. Det er påstander som skal redusere troverdigheten til en person eller gruppe ved å beskrive dem med negative karakteristikker. Man tar mannen i stedet for ballen. Typiske kjennetegn er navnekalling og fokus på karaktertrekk som ikke har med saken å gjøre. I et eksempel fra Mirela argumenterer Jens for vinsalg i dagligvarebutikker. Han viser til at Danmark har innført en slik ordning med hell, og at flertallet av nordmenn ønsker den. Anne svarer med å minne om at Jens i fjor måtte unnskylde seg for en episode på et nachspiel. Hun svarer ikke på argumentene hans, men prøver å svekke troverdigheten hans. Personargumentasjon er ofte usaklig, men ikke alltid. Det kan noen ganger være relevant å si noe om en person, for eksempel om personen er ekspert på området, eller mangler kompetanse.
+
+Den andre er stråmannsargumentasjon. Det er å fremstille motpartens synspunkt som mindre rimelig eller mer kontroversielt enn det egentlig er, og så argumentere mot denne forvrengte versjonen. I et annet eksempel fra Mirela argumenterer Jens for at privat bruk av cannabis bør legaliseres, fordi det har relativt få skadevirkninger og fordi legalisering kan svekke organisert kriminalitet. Anne svarer at hun, i motsetning til motstanderen, mener at fri flyt av narkotika er en dårlig idé. Men Jens snakket om privat bruk av cannabis, ikke om fri flyt av narkotika. Stråmannsargumentasjon bryter både kravet om riktig og kravet om relevant informasjon. Den gir et galt bilde av hva motparten mener, og argumentene treffer ikke det motparten faktisk hevder. Derfor kan et stråmannsargument aldri være relevant.
+
+Kort oppsummert: De tre normene er å begrunne, å være riktig og å være relevant. Klare brudd er løgn, bullshit, personargumentasjon og stråmannsargumentasjon.
+
+# Logisk funksjon, riktighet og relevans
+
+I dette kapitlet ser vi på hva argumenter er ment å gjøre, og på de to egenskapene som gjør et argument godt.
+
+Argumenter kan ha to ulike funksjoner. Den logiske funksjonen er å støtte eller svekke en påstand. Et argument som støtter en påstand, gir oss en god grunn til å tro at påstanden er riktig. Et argument fyller bare denne funksjonen hvis det både er riktig og relevant. Den logiske funksjonen studeres i faget logikk, og det er den ex phil er opptatt av.
+
+Den retoriske funksjonen er å overbevise et publikum, altså å få noen til å endre mening. Den kan oppfylles på mange andre måter enn med gode argumenter, for eksempel med stråmenn, personangrep eller appell til følelser og populær stemning. Reklame og politiske taler er typiske eksempler. Den retoriske funksjonen studeres i retorikk, og den er ikke fokus i ex phil. Et argument kan altså være retorisk vellykket uten å være logisk godt. En reklame kan overbevise millioner uten å gi én eneste god grunn.
+
+Et argument som er godt i logisk forstand, har to egenskaper. Den første er riktighet. Et argument er riktig hvis det det påstår, stemmer, altså er sant, korrekt eller overveiende sannsynlig. Den andre er relevans. Et argument er relevant i den grad det, hvis det er riktig, taler for eller mot påstanden det rettes mot.
+
+Claus Halberg kaller dette den aller viktigste distinksjonen i argumentasjonsteorien. Poenget er at de to egenskapene er uavhengige av hverandre. Et argument kan være riktig uten å være relevant. Og et argument kan være relevant uten å være riktig.
+
+Mirela gir et eksempel med standpunktet at kaffedrikking øker risikoen for kreft. Argumentet at de fleste som dør av kreft i Norge, er kaffedrikkere, er riktig. Men det er ikke relevant, for de fleste voksne nordmenn drikker kaffe. Argumentet at koffein er kreftfremkallende, er ikke riktig. Men det er relevant, for hvis det hadde vært riktig, ville det vært en god grunn til å tro standpunktet.
+
+Et annet eksempel handler om standpunktet at Norge ikke bør tillate fartsgrenser over hundre og ti kilometer i timen. Argumentet at kjøretøy vil ha høyere snittfart ved slike fartsgrenser enn ved seksti kilometer i timen, er opplagt riktig, men nesten uten relevans. Argumentet at slike fartsgrenser vil føre til ti tusen flere døde i trafikken hvert år, ville vært svært relevant hvis det var riktig. Men tallet er neppe riktig.
+
+Riktighet og relevans er egenskaper av ulik art. Riktighet er en egenskap ved argumentet selv: stemmer det som blir sagt? Relevans er en egenskap ved forholdet mellom argumentet og påstanden det skal støtte. Derfor kan det samme argumentet være svært relevant for én påstand og helt irrelevant for en annen.
+
+Kort oppsummert: Ex phil handler om den logiske funksjonen, og et logisk godt argument er både riktig og relevant.
+
+# Argumentasjonsanalyse og argumentasjonsstruktur
+
+I dette kapitlet ser vi på det første steget når man skal vurdere en argumentasjon, nemlig å finne ut hva den består av og hvordan delene henger sammen.
+
+Argumentasjonsanalyse er å identifisere innholdet og strukturen i en argumentasjon. Innholdet er standpunktet og de enkelte argumentene. Strukturen er hvordan argumentene forholder seg til hverandre, altså hvordan de er ment å fungere sammen.
+
+Kjetil Skjerve understreker at analysen må komme før vurderingen. Vi kan ikke si om en argumentasjon er god før vi vet hva som faktisk blir hevdet. Mirela beskriver analysen i to steg. Først bryter man argumentasjonen ned i bestanddeler. Deretter skaffer man seg oversikt over strukturen.
+
+Argumentasjonsstruktur betyr de innbyrdes forholdene mellom påstandene. Hvilke påstander støtter standpunktet direkte? Hvilke støtter andre argumenter? Hvilke må tas sammen, og hvilke står alene? Strukturen kan tegnes i et argumentasjonsdiagram. Standpunktet står øverst, og argumentene står under, med piler som viser hva de støtter. Diagrammet hjelper oss å holde orden og å finne styrker og svakheter.
+
+Mirela nevner mange typer påstander en argumentasjon kan bestå av: standpunkt, standpunktargumenter, indirekte argumenter, uavhengige argumenter, sammensatte argumenter, implisitte argumenter, konsekvensargumenter og motargumenter.
+
+Standpunktargumenter er argumenter som skal støtte eller svekke standpunktet direkte. Det kan være flere av dem. Indirekte argumenter skal støtte eller svekke standpunktet indirekte, ved å støtte eller svekke et annet argument direkte.
+
+Mirela gir dette eksemplet. Standpunktet er at stemmerettsalderen i Norge bør senkes til seksten år. Standpunktargumentet er at det vil gi økt valgdeltakelse. Det indirekte argumentet er at en forsøksordning med stemmerett for sekstenåringer ga økt valgdeltakelse. Det indirekte argumentet sier ingenting direkte om stemmerettsalderen. Det gir grunn til å tro at standpunktargumentet er riktig. En nyttig huskeregel er at indirekte argumenter ofte viser til forskning, statistikk eller historiske fakta.
+
+Kjetil gir et eksempel du kan øve på. Tollen på poteter vil kunne føre til en prisøkning på over seksti prosent. En landbruksøkonom har gjort denne beregningen. Potettollen må derfor fjernes så fort som mulig. Her er standpunktet at potettollen må fjernes. Standpunktargumentet er at tollen kan gi en prisøkning på over seksti prosent. Og det indirekte argumentet er at en landbruksøkonom har gjort beregningen. Legg merke til at standpunktet ikke trenger å stå først. Ord som derfor, altså og så signaliserer ofte standpunktet. Ord som for og fordi signaliserer ofte et argument.
+
+Motargumenter er argumenter som taler mot en påstand. De kan rette seg mot selve standpunktet eller mot et annet argument. Hvis noen sier at frafallet vil øke fordi studiestøtten ikke økes, kan man for eksempel innvende at studentenes utgifter ikke ventes å øke de neste årene.
+
+Kort oppsummert: Analysen finner standpunktet, argumentene og strukturen, og skiller mellom argumenter som støtter standpunktet direkte og argumenter som støtter andre argumenter.
+
+# Sammensatte, uavhengige og implisitte argumenter
+
+I dette kapitlet ser vi på hvordan flere påstander kan virke sammen, og på påstander som ikke blir sagt høyt.
+
+Et sammensatt argument består av to eller flere påstander som til sammen gir én grunn til å tro en annen påstand. Det spesielle er at påstandene er avhengige av hverandre. Relevansen til den ene påstanden styrkes hvis den andre er riktig, og svekkes hvis den andre er gal. Hver påstand for seg gir lite støtte. Det er kombinasjonen som gjør jobben. I et diagram tegnes sammensatte argumenter med piler som løper sammen.
+
+Det klassiske eksemplet er dette. Alle mennesker er dødelige. Sokrates er et menneske. Altså er Sokrates dødelig. Uten den andre påstanden sier den første ingenting om Sokrates. Uten den første sier den andre ingenting om dødelighet. Sammen gir de en svært god grunn.
+
+Claus gir et eksempel om kjøtt. Standpunktet er at vi mennesker bør unngå å spise kjøtt. For at vi skal spise kjøtt, må et dyr drepes. Vi bør unngå å leve på en måte som krever at dyr unødig blir drept. Og det produseres nok plantebasert mat til at alle kan klare seg på kjøttfri kost. Den siste påstanden trengs for å vise at drapet er unødig.
+
+Uavhengige argumenter er to eller flere argumenter der det å avvise ett av dem ikke påvirker relevansen til de andre. Hvert argument gir en egen grunn, og de tegnes med atskilte piler. Mirela bruker standpunktet at vi ikke bør spise kjøtt, med tre argumenter: det er ikke sunt, det er ikke miljøvennlig, og det krenker dyrs iboende verdi. Selv om noen viser at kjøtt er sunt, er miljøargumentet like relevant som før.
+
+En god test er å spørre: Hvis den ene påstanden var gal, ville den andre fortsatt vært like relevant? Hvis svaret er ja, er argumentene uavhengige. Hvis svaret er nei, er de sammensatte.
+
+Foreleserne bruker standpunktet at Norge ikke bør satse på elektrifisering av olje og gassfelt. Hvis argumentene er at elektrifisering vil gi høyere strømpriser for husholdningene, og at strøm allerede er en for stor utgift for husholdningene, så er de sammensatte. At strøm allerede er en tung utgift, er bare relevant fordi prisen vil stige. Men hvis det andre argumentet i stedet er at strømmen kunne vært brukt mer effektivt i annen industri, så er argumentene uavhengige. Hvert av dem gir sin egen grunn.
+
+Det er lett å blande sammen sammensatte og indirekte argumenter. Kjetil gir en god regel. Et indirekte argument handler om hvorfor vi bør tro at et annet argument er riktig. En påstand i et sammensatt argument handler om hvorfor en annen påstand er relevant. Ta standpunktet at styringsrenten blir satt ned i løpet av våren. Argumentene er at sentralbanksjefen sier at renten sannsynligvis blir satt ned, og at man vanligvis kan stole på det sentralbanksjefen sier. Den andre påstanden viser ikke at sentralbanksjefen faktisk har sagt dette. Den forklarer hvorfor uttalelsen er relevant. Derfor hører de to påstandene sammen i et sammensatt argument.
+
+Implisitte argumenter er påstander som inngår i en argumentasjon, men som ikke blir sagt. Ofte er de en del av et sammensatt argument, der den uttalte påstanden bare blir relevant hvis man legger til en uuttalt påstand. Mirela gir et eksempel. Standpunktet er at Norge bør bruke mer penger på forsvar. Argumentet er at alle medlemmer i NATO forventes å bruke minst to prosent av bruttonasjonalproduktet på forsvar. Den implisitte påstanden er at Norge bruker mindre enn to prosent. Det er viktig å få frem implisitte påstander, fordi det ofte er nettopp de som er svakest.
+
+Studiespørsmålene gir tre argumenter å øve på. Det første er: Vesken min står ikke i gangen og ligger ikke i bilen, altså må den være på kontoret. Den implisitte påstanden er at vesken bare kan være på ett av disse tre stedene. Det andre er: Kjernekraft er et dårlig klimatiltak, for det tar minst ti år å bygge ut. Den implisitte påstanden er at et godt klimatiltak må virke raskere enn ti år. Det tredje er: Anne fikk se filmen, da må jeg også få lov. Den implisitte påstanden er at jeg og Anne bør behandles likt, og at det ikke er noen relevant forskjell mellom oss, for eksempel i alder.
+
+Kort oppsummert: Sammensatte påstander gir én grunn sammen, uavhengige argumenter gir hver sin grunn, og implisitte påstander er de som mangler, men må med for at argumentet skal virke.
+
+# Deskriptiv og normativ argumentasjon
+
+I dette kapitlet ser vi på skillet mellom påstander om hvordan verden er, og påstander om hvordan den bør være.
+
+Deskriptive påstander beskriver hvordan noe er, var eller vil bli. Et eksempel er at kaffedrikking øker risikoen for kreft. Slike påstander er ofte en del av forskningen og den akademiske debatten. Normative påstander sier noe om hva som er godt eller dårlig, riktig eller galt, eller hva vi bør gjøre. Et eksempel er at privat bruk av cannabis bør legaliseres. Slike påstander er ofte en del av samfunnsdebatten. Normativ argumentasjon er argumentasjon for et normativt standpunkt.
+
+Man kan ikke bare se etter ordene er og bør. Mirela gir flere eksempler. Setningen oljeprisen bør falle når produksjonen avtar neste år, inneholder ordet bør, men den betyr at noe er sannsynlig. Den er en forutsigelse, og altså deskriptiv. Setningen Charles Dickens er en god forfatter, inneholder ordet er, men den er en vurdering, og altså normativ. Setningen gutter gråter ikke, inneholder verken er eller bør. Den kan forstås som en beskrivelse, eller som en norm for hvordan gutter skal oppføre seg. Og mens setningen Gjøvik ligger på vestsiden av Mjøsa er deskriptiv, er setningen Gjøvik ligger på riktig side av Mjøsa normativ, fordi ordet riktig er en vurdering.
+
+Skillet er viktig i argumentasjonsanalyse av flere grunner. For det første kan et normativt standpunkt ikke støttes av deskriptive argumenter alene. For at fakta om hvordan noe er, skal være relevante for hva vi bør gjøre, trengs det en normativ påstand som binder dem sammen, og den er ofte implisitt. For det andre hjelper skillet oss å finne slike implisitte påstander. Hvis standpunktet er normativt og alle de uttalte argumentene er deskriptive, vet vi at det mangler noe. For det tredje vurderes påstandene på ulike måter. Deskriptive påstander kan ofte sjekkes mot forskning og observasjon, mens normative påstander må vurderes med andre grunner, for eksempel etiske. For det fjerde viser skillet hvor uenigheten egentlig ligger. Folk kan være enige om fakta og uenige om verdier, eller omvendt.
+
+Mirela gir et eksempel. Standpunktet er at vi må utfase fossile brennstoffer nå. Ett argument er at klimaendringene delvis skyldes økende mengde karbondioksid i atmosfæren. Et annet er at denne økningen skyldes vår bruk av fossile brennstoffer. Begge disse er deskriptive. Det som gjør dem relevante for hva vi bør gjøre, er den normative påstanden at vi bør stoppe klimaendringene. Den blir ofte ikke sagt.
+
+Kort oppsummert: Deskriptive påstander sier hvordan noe er, normative sier hvordan det bør være, og et normativt standpunkt trenger alltid minst én normativ påstand.
+
+# Vurdering av relevans og riktighet
+
+I dette kapitlet ser vi på hvordan vi tar stilling til hvor god en argumentasjon er.
+
+Vi vurderer en argumentasjon for å finne ut hvor sterk støtte den gir standpunktet. Hvert argument vurderes ut fra to spørsmål. Er argumentet riktig, eller hvor sterk tiltro bør vi ha til at det er riktig? Og er argumentet relevant for påstanden det rettes mot, og i hvilken grad? Mirela gir to huskespørsmål. For relevans spør man: Hvis det er riktig, hva så? For riktighet spør man: Å ja, stemmer det?
+
+Hovedfokuset i argumentasjonsteorien er relevans. Når du vurderer relevans, tar du stilling til et hypotetisk spørsmål. Hvis argumentet hadde vært riktig, i hvilken grad ville det gitt grunn til å tro påstanden? Du skal altså se bort fra om argumentet faktisk stemmer. Man kan også si det slik at et argument er relevant i den grad det, hvis det er riktig, gjør en forskjell for hvor sterkt vi bør tro på påstanden.
+
+I motsetning til riktighet kommer relevans i grader, fra lav, via middels og høy, til maksimal i spesielle tilfeller. Ta standpunktet at det bør brukes mindre skjerm og flere papirbøker i skolen. Argumentet at elever ser mer intellektuelle ut med en bok, har svært lav relevans, for hvordan man ser ut, sier lite om læring. Argumentet at unge lettere mister konsentrasjonen når de leser på skjerm, har høy relevans, for konsentrasjon er viktig for læring. Argumentet at eierne av sosiale medier først og fremst er opptatt av profitt, har lav relevans for et forbud mot sosiale medier for barn under seksten. Og argumentet at du får med et fint setetrekk, har lav, men tross alt noe relevans for om du bør kjøpe en bil.
+
+Et argument er maksimalt relevant når standpunktet er garantert å være riktig hvis argumentet er riktig. Da vil det være selvmotsigende å godta argumentet og samtidig avvise standpunktet. Slike slutninger kalles deduktivt gyldige. Kjetil gir et eksempel. Borettslaget ber meg resirkulere plast, og jeg bør gjøre alt borettslaget ber meg om. Altså bør jeg resirkulere plast. Hvis begge påstandene er riktige, kan man ikke avvise standpunktet. Men påstanden om at man bør gjøre absolutt alt borettslaget ber om, er neppe riktig. Maksimalt relevante argumenter er et grensetilfelle som nesten aldri forekommer i hverdagen. Vanligvis bidrar argumenter i større eller mindre grad til å sannsynliggjøre et standpunkt. Begrepet om maksimal relevans er likevel nyttig som en målestokk.
+
+Om riktighet sier vi ikke at et argument har høy eller lav riktighet. Et argument er i seg selv enten riktig eller galt. Men vi kan ha sterkere eller svakere grunn til å tro at det er riktig. Siden vi som regel ikke har direkte innsyn i om et argument stemmer, tar vi i praksis stilling til hvor sannsynlig det er. Da bygger vi på egen kunnskap fra forskning, observasjon og erfaring, på andre kilder som vi må vurdere kritisk, og på styrken i eventuelle indirekte argumenter. Et argument med usikker riktighet kan likevel være godt hvis det har høy nok relevans. Når noe svært viktig står på spill, for eksempel faren for en storkrig, kan selv en usikker påstand gi grunn til å handle.
+
+Når man er uenig i et argument, kan man rette to ulike innvendinger mot det. En innvending mot riktigheten sier at argumentet ikke stemmer. En innvending mot relevansen sier at selv om argumentet stemmer, gir det liten grunn til å tro standpunktet. Ta standpunktet at proffboksing bør forbys, med argumentet at halvparten av proffboksere har fått påvist hjerneskade. En innvending mot riktigheten kunne være at tallet ikke stemmer, fordi undersøkelsen var liten og skjev. En innvending mot relevansen kunne være at selv om tallet stemmer, er dette voksne som selv velger å ta risikoen, og at staten ikke bør forby aktiviteter som bare skader dem som deltar. Den første innvendingen angriper påstanden. Den andre godtar påstanden, men angriper forbindelsen til standpunktet.
+
+Kort oppsummert: Relevans vurderes med spørsmålet hvis det er riktig, hva så, og kommer i grader. Riktighet vurderes med spørsmålet stemmer det, og handler i praksis om hvor sannsynlig det er.
+
+# Deduktive argumenter
+
+I dette kapitlet ser vi på argumenter der standpunktet følger med nødvendighet fra argumentet.
+
+I et deduktivt gyldig argument er det umulig at standpunktet er galt hvis argumentet er riktig. Det er det samme som maksimal relevans. Deduktive argumenter brukes mest i matematikk og filosofi. De er relevante i kraft av sin logiske form. Det er formen, ikke innholdet, som garanterer at standpunktet følger.
+
+Claus sammenligner to resonnementer. I begge er den første påstanden at alt rent gull smelter ved tusen og sekstifire grader. I det første resonnementet er den andre påstanden at denne metallklumpen smelter ved den temperaturen, og konklusjonen er at klumpen er av rent gull. I det andre resonnementet er den andre påstanden at klumpen er av rent gull, og konklusjonen er at den smelter ved denne temperaturen. Bare det andre resonnementet er gyldig. I det første kan klumpen være av et annet stoff som tilfeldigvis smelter ved samme temperatur.
+
+Det finnes noen klassiske gyldige slutningsformer. Den første er modus ponens. Hvis p, så q. P er tilfellet. Altså q. For eksempel: Hvis barometeret faller, blir det dårlig vær. Barometeret faller. Altså blir det dårlig vær.
+
+Den andre er modus tollens. Hvis p, så q. Q er ikke tilfellet. Altså er heller ikke p tilfellet. For eksempel: Hvis det har regnet det siste kvarteret, er gaten våt nå. Gaten er ikke våt. Altså har det ikke regnet.
+
+Den tredje er hypotetisk syllogisme. Hvis p, så q. Og hvis q, så r. Altså: hvis p, så r. For eksempel: Hvis det snør, blir veiene glatte. Hvis veiene blir glatte, kommer bussen sent. Altså kommer bussen sent hvis det snør.
+
+Den fjerde er disjunktiv syllogisme. Enten p eller q. Ikke p. Altså q. For eksempel: Nøkkelen ligger i jakken eller i sekken. Den ligger ikke i jakken. Altså ligger den i sekken.
+
+Et deduktivt gyldig argument garanterer bare standpunktet hvis argumentet er riktig. Mirela viser dette med et absurd eksempel. Hvis månen er en ost, så vinner jeg i lotto. Månen er en ost. Altså vinner jeg i lotto. Slutningen har formen modus ponens og er gyldig, men påstandene er gale, så standpunktet er ikke støttet.
+
+Kjetil gir et eksempel om konverteringsterapi. Et forbud mot konverteringsterapi for voksne bryter med den europeiske menneskerettighetskonvensjonen, og Norge bør ikke innføre forbud som bryter med konvensjonen. Altså bør Norge ikke innføre et slikt forbud. Slutningen er gyldig. Vil man avvise standpunktet, må man derfor angripe riktigheten til en av påstandene.
+
+For å lage egne eksempler kan du ta en av formene og fylle inn dine egne påstander. For eksempel: Hvis jeg består eksamen, får jeg studiepoengene. Jeg består eksamen. Altså får jeg studiepoengene.
+
+Kort oppsummert: Deduktive argumenter har maksimal relevans på grunn av formen, men de støtter bare standpunktet hvis påstandene også er riktige.
+
+# Induktive argumenter
+
+I dette kapitlet ser vi på argumenter som gjør et standpunkt sannsynlig uten å garantere det, og på hvordan vi vurderer relevansen til de ulike typene.
+
+I induktiv argumentasjon er argumentets oppgave å sannsynliggjøre standpunktet, ikke å garantere det. Det er alltid i prinsippet mulig at standpunktet er galt selv om argumentet er riktig. Induksjon er den vanligste argumentasjonsformen, både i hverdagen, i offentlig debatt og i forskning. Det finnes fire hovedtyper.
+
+Den første typen er induktiv generalisering. Her slutter man fra et utvalg enkelttilfeller til en generell påstand. Kjetil gir et eksempel: Hver gang jeg har tatt buss nummer tre til forelesning, har den kommet noen minutter for sent. Altså er buss nummer tre vanligvis forsinket. Relevansen avhenger av to ting. Hvor stort er utvalget? Og hvor representativt er det? Hvis du bare tar bussen i rushtiden, sier det lite om bussen midt på dagen. Claus viser forskjellen med standpunktet at røyking dreper to av tre røykere. Argumentet at fire av seks storrøykende onkler døde av røykerelaterte sykdommer, bygger på et lite og neppe representativt utvalg. Argumentet fra en australsk langtidsstudie med over to hundre tusen deltakere bygger på et stort og mer representativt utvalg, og har derfor mye høyere relevans.
+
+Den andre typen er induktiv syllogisme. Den går motsatt vei. Fra at noe gjelder generelt eller i de fleste tilfeller, slutter man at det gjelder et bestemt tilfelle. Claus gir et eksempel: Cato er røyker. To av tre røykere dør av røykerelaterte sykdommer. Altså har Cato to tredjedels risiko for å dø av en slik sykdom. Relevansen avhenger av hvor godt underbygget generaliseringen er, og særlig av hvor representativt enkelttilfellet er. Hvis Cato bare røyker én sigarett i måneden, er han kanskje ikke typisk.
+
+Den tredje typen er analogiargument. Her slutter man fra at noe gjelder for ett tilfelle, til at det samme gjelder for et annet, lignende tilfelle. Claus gir et eksempel der noen hevder at Norge kan få et autoritært styre fordi noe lignende skal ha skjedd i USA. Vurderingen handler om relevante likheter og forskjeller. Ligner landene hverandre på de punktene som betyr noe? Eller finnes det viktige forskjeller, for eksempel i valgordning og politisk kultur?
+
+Den fjerde typen er slutning til beste forklaring, som også kalles abduksjon. Her er standpunktet en forklaring på det argumentet sier. Et eksempel fra modulen er en som sier at Facebook-kontoen må være hacket, fordi passordet stadig blir avvist. Kjetil gir fire spørsmål for å vurdere slike argumenter. Forklarer standpunktet observasjonen? Passer forklaringen med andre ting du tror? Er forklaringen enkel? Og finnes det bedre forklaringer? Her kan det for eksempel være at man har skrevet feil passord, eller at tjenesten har tekniske problemer.
+
+Det generelle spørsmålet er alltid det samme: Hvis argumentet er riktig, hvor mye taler det for standpunktet? Men nyttige oppfølgingsspørsmål avhenger av typen. For deduktive argumenter sjekker vi formen. For generaliseringer ser vi på utvalgets størrelse og representativitet. For induktive syllogismer ser vi på grunnlaget for generaliseringen og om enkelttilfellet er typisk. For analogier ser vi på likheter og forskjeller. Og for abduksjon spør vi om forklaringen faktisk forklarer, passer med annen kunnskap, er enkel, og om det finnes bedre alternativer.
+
+Kort oppsummert: De fire hovedtypene induktive argumenter er generalisering, induktiv syllogisme, analogi og slutning til beste forklaring, og hver type har sine egne spørsmål for å vurdere relevansen.
+
+# Eksempel på analyse og vurdering
+
+I dette kapitlet bruker vi verktøyene på oppgaver av samme type som på eksamen.
+
+Den første oppgaven er en tekst om gratis skolemat. Teksten sier at elever lærer mer effektivt når de får gratis skolemat. Etter at Nordreisa kommune innførte gratis lunsj, ble gjennomsnittet på nasjonale prøver forbedret med en hel karakter sammenlignet med året før. Skolen har en lovfestet plikt til å legge til rette for at alle elever kan lære effektivt. Derfor bør det innføres gratis skolelunsj for alle skolebarn i Norge.
+
+Standpunktet er at det bør innføres gratis skolelunsj for alle skolebarn i Norge. Ordet derfor viser oss det. Det sammensatte argumentet består av påstanden om at elever lærer mer effektivt med gratis skolemat, og påstanden om at skolen har plikt til å legge til rette for effektiv læring. Den første påstanden blir relevant for et normativt standpunkt først når den kobles til plikten i den andre. Det indirekte argumentet er resultatene fra Nordreisa. De støtter påstanden om bedre læring, ikke standpunktet direkte. I en vurdering kan man merke seg at Nordreisa-resultatet er en generalisering fra én kommune og ett år. Utvalget er lite, og det kan finnes andre forklaringer.
+
+Den andre oppgaven er argumentet om den hackede kontoen. Det er en slutning til beste forklaring, fordi standpunktet skal forklare observasjonen. Fordi det finnes flere nærliggende alternative forklaringer, som feil passord eller tekniske problemer, er relevansen nokså lav.
+
+Modulens case er en tenkt argumentasjon for at ultraprosessert mat fører til økt kreftfare. Studien det vises til, er ikke ekte. Standpunktet er at ultraprosessering av matvarer fører til økt kreftfare.
+
+Teksten inneholder et deduktivt standpunktargument. Den sier at hvis ultraprosessering ikke økte kreftfaren, ville ikke de som spiser mye slik mat, få oftere kreft. Og den sier at forskningen viser en slik forskjell. Sammen har disse påstandene formen modus tollens, og slutningen er gyldig. Vurderingen må derfor handle om riktigheten, særlig av den første påstanden. Kan en forskjell i krefttilfeller bare skyldes maten? De som spiser mye ultraprosessert mat, kan skille seg fra andre på mange måter.
+
+Teksten har også et indirekte argument, nemlig studien med femti tusen deltakere, der kreftforekomsten var nesten tretti prosent høyere blant de ti tusen med høyest forbruk. Den støtter påstanden om at forskjellen finnes. Som generalisering har den et stort utvalg, men man kan spørre om representativitet, og forbruket er oppgitt av deltakerne selv.
+
+Videre har teksten et analogiargument, der kroppen sammenlignes med en motor som ikke tåler feil drivstoff. Her må man spørre om likhetene er relevante, og om det finnes viktige forskjeller mellom en kropp og en motor.
+
+Teksten viser også til at tilbudet av ultraprosessert mat og antall krefttilfeller har økt i samme periode. At to ting skjer samtidig, viser ikke at det ene fører til det andre. Man må spørre om det finnes andre forklaringer.
+
+Til slutt har teksten retoriske grep, som at det er på tide at helsemyndighetene våkner, og at det er en gåte at noen fortsatt tviler. Slike utsagn har en retorisk funksjon, men de styrker ikke argumentasjonen logisk.
+
+I casen skal du også finne en feil i et ferdig tegnet diagram. Gjennomgangen her viser hvilke roller påstandene har, slik at du kan sjekke diagrammet. Typiske feil er å tegne et indirekte argument som et standpunktargument, eller å tegne sammensatte påstander som uavhengige.
+
+Kort oppsummert: Når du analyserer, finner du standpunkt, argumenter og struktur. Når du vurderer, spør du om hvert argument er riktig, og hvor relevant det er ut fra typen.
+
+# Oppsummering
+
+I dette siste kapitlet samler vi de viktigste poengene fra leksjonen.
+
+Offentlig debatt har to hovedformål. Ifølge Mill fremmer den kunnskap, og ifølge Habermas gir den demokratisk legitimitet. De tre debattnormene er å begrunne oppfatningene sine, å bidra med riktig informasjon og å bidra med relevant informasjon. Klare brudd er løgn, bullshit, personargumentasjon og stråmannsargumentasjon.
+
+Argumenters logiske funksjon er å støtte eller svekke påstander, mens den retoriske funksjonen er å overbevise. Ex phil handler om den logiske. Et godt argument er både riktig og relevant, og de to egenskapene er uavhengige av hverandre.
+
+Argumentasjonsanalyse er å finne innholdet og strukturen: standpunkt, standpunktargumenter, indirekte argumenter, sammensatte og uavhengige argumenter, implisitte argumenter og motargumenter. I sammensatte argumenter avhenger relevansen til én påstand av at en annen er riktig. Uavhengige argumenter gir hver sin grunn.
+
+Skillet mellom deskriptiv og normativ argumentasjon er viktig, fordi et normativt standpunkt alltid krever minst én normativ påstand, og den er ofte implisitt.
+
+Riktighet er enten eller, men vi kan ha sterkere eller svakere grunn til å tro at noe er riktig. Relevans kommer i grader. Deduktive argumenter har maksimal relevans, og viktige former er modus ponens, modus tollens, hypotetisk syllogisme og disjunktiv syllogisme. Induktive argumenter sannsynliggjør standpunktet, og hovedtypene er induktiv generalisering, induktiv syllogisme, analogiargument og slutning til beste forklaring. Hver type har sine egne spørsmål for å vurdere relevansen.

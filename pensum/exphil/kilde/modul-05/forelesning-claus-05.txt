@@ -1,0 +1,366 @@
+--- side 1 ---
+Forelesning 5
+EXPH0300
+Vitenskap, teknologi og
+samfunn
+v/ Claus Halberg
+Førsteamanuensis
+Institutt for filosofi og religionsvitenskap
+claus.halberg@ntnu.no
+
+--- side 2 ---
+Plan for forelesningen
+• Kjapp rep. av overraskelsesprinsippene
+• Vitenskap og verdier
+• KUDOS-normer
+• Noen måter verdier påvirker vitenskapelig arbeid
+• Situerte kunnskaper og standpunktteori
+• Vitenskapens «kontrakt» med samfunnet
+• Den kontemplative modellen
+• Den lineære modellen
+• Innvendinger mot den lineære modellen
+
+--- side 3 ---
+Overraskelsesprinsippene for bekreftelse av hypoteser
+Hvor mye bekreftelse en gitt observasjon
+e gir en gitt hypotese h avhenger av:
+1. Hvor forventet observasjonen er, gitt at
+hypotesen er sann
+2. Hvor overraskende observasjonen ville
+vært, gitt at hypotesen er usann
+3. Grunnfrekvens (base rate): Hvor
+sannsynlig det er i utgangspunktet– dvs.,
+før observasjonen – at hypotesen er sann.
+Elliot Sober (f. 1948)
+
+--- side 4 ---
+Uidentifiserte anomale fenomener
+(tidligere kjent som UFO)
+Hypotese:
+Det finnes flyvende objekter i amerikansk
+luftrom med ukjent, avansert teknologi.
+Observasjon:
+Et stort antall amerikanske jagerflyvere har
+rapportert om flyvende objekter
+tilsynelatende uten vinger eller motorer,
+som ser ut til å stå stille i luften selv i orkan,
+eller akselerere svært raskt.
+Hvor godt bekrefter observasjonene
+hypotesen, i henhold til
+overraskelsesprinsippene?
+
+--- side 5 ---
+Vitenskap og verdier
+
+--- side 6 ---
+Robert Mertons KUDOS-normer:
+Nøkkelen til vitenskapens suksess de siste 500 årene
+K: Kommunalisme
+U: Universalisme
+D: Desinteresse
+OS: Organisert skeptisisme
+Robert K. Merton
+(1910-2003)
+
+--- side 7 ---
+Kommunalisme
+= Forskningsresultater skal ikke holdes hemmelig, men
+betraktes som felleseie og ideelt sett være fritt
+tilgjengelige.
+➢Implementeres typisk gjennom publisering i
+tidsskrifter, rapporter etc.
+Jfr. Newtons bevingede ord: «Hvis jeg har sett lengre enn
+andre, så har jeg gjort det ved å stå på kjempers skuldre»
+Press mot kommunalisme-normen:
+• Dyre tidsskriftabonnementer
+• Patentering (?)
+• Behov for hemmelighold militærstrategiske grunner
+
+--- side 8 ---
+Universalisme
+= vitenskapelige påstander må vurderes
+etter universelle eller upersonlige kriterier,
+uten referanse til særskilte forhold ved
+personen som framsetter dem – det være
+seg kjønn, rase, klasse, religion etc.
+Mulig innvending:
+Er det utenkelig at særskilte forhold ved
+personen som framsetter en vitenskapelig
+påstand kan ha fremmet, ev. hemmet
+vedkommendes tilgang til visse data?
+
+--- side 9 ---
+Desinteresserthet
+= Forskerens egne personlige,
+politiske eller økonomiske interesser
+må ikke få styre utfallet av
+vitenskapelige undersøkelser.
+Heller ikke skal forskeren måtte
+svare for sine resultater overfor
+aktører og instanser utenfor
+forskerfellesskapet – f.eks., overfor
+oppdragsgivere i offentlig
+forvaltning, privat næringsliv o.a.
+Derav forskeres plikt til å oppgi ev.
+interessekonflikter når de
+publiserer sine resultater.
+
+--- side 10 ---
+Organisert skeptisisme
+= alle hypoteser og teorier må holdes åpne for kritisk undersøkelse, diskusjon og evaluering; ingenting må
+heves over kritikk som noe «hellig».
+Sikres bl.a. gjennom dobbelblindet
+fagfellevurdering:
+- Forskeren sender inn resultater til et tidsskrift for
+publisering.
+- Tidsskriftets redaktør videresender manuskriptet
+til minst to fagfeller for kritisk gjennomgang;
+forfatter og fagfeller skal ikke vite om hverandre.
+- Redaktør fatter vedtak om publisering eller avslag
+etter anbefaling fra fagfellene.
+Kan anspore til «tøff tone» i debatt mellom forskere
+
+--- side 11 ---
+Robert Mertons KUDOS-normer:
+Nøkkelen til vitenskapens suksess de siste 500 årene
+Kommunalisme
+Universalisme
+Desinteresserthet
+Organisert Skeptisisme
+Normene konstituerer vitenskap som en
+selvstendig og selvkorrigerende institusjon.
+De bør altså overholdes av og i ethvert samfunn
+som verdsetter kunnskapen som vitenskapen
+kan produsere. Robert K. Merton
+(1910-2003)
+
+--- side 12 ---
+Hvilken KUDOS-norm er det mest nærliggende å si
+blir brutt i hvert av disse tilfellene?
+• Det kommer et forslag fra en studentorganisasjon om at vi bør få
+teoriene til flere forskere som tilhører etniske og seksuelle
+minoriteter på ex.phil.
+-pensum.
+• To fysikere ansatt ved et universitet lar seg intervjue i media
+angående en fersk rapport om omstilling i energisektoren, levert av
+et analysefirma. Fysikerne kommer med skarp kritikk av rapporten.
+Rektoren ved universitetet får signaler fra en stor pengedonor om at
+de setter lite pris på den kritikken, da den utfordrer deres
+næringsinteresser. Rektoren publiserer så et innlegg der hun refser
+sine egne ansatte for å ha bidratt til en «diskusjonsform jeg ikke kan
+stå inne for som rektor».
+
+--- side 13 ---
+Vitenskap, verdier og objektivitet
+• KUDO-normene er formodentlig ment å forklare vitenskapens
+suksess som en objektivt kunnskapsproduserende aktivitet.
+• Men hva skal vi forstå med talen om «objektiv vitenskap»?
+• Er «objektivitet» det samme som «verdifri»?
+• Er helt og holdent «verdifri» vitenskap i det hele tatt oppnåelig, og
+er det i det hele tatt ønskelig?
+
+--- side 14 ---
+Noen måter verdier påvirker vitenskapelig arbeid
+1) Valg av forskningsspørsmål
+• Jfr. (ned)prioritering av forskning på
+«kvinnesykdommer» innen helsefagene
+2) Måten vi kategoriserer fenomen på
+• Jfr. omdefinering av depresjon,
+rusavhengighet, etc. til
+«hjernesykdommer»
+3) Krav til evidens for å kunne
+konkludere om fakta, treffe tiltak etc.
+• Jfr. klimaforskning og -klimapolitikk
+
+--- side 15 ---
+Tanken om kunnskapens situerthet
+• Hvilke data en forsker legger merke til og
+vektlegger avhenger av verdier, interesser
+og egenskaper forskeren har i kraft av sin
+sosiale situasjon, kulturelle tilhørighet o.l.
+• To mulige (og motsatte) konsekvenser:
+• Kunnskap er aldri objektiv, alltid relativ til
+ståsted.
+• Visse ståsteder («standpunkter») kan gi bedre
+tilgang til korrekte beskrivelser av virkeligheten
+enn andre.
+Sandra Harding
+(1935-2025)
+Donna Haraway
+(f. 1944)
+
+--- side 16 ---
+Standpunktteori
+❖Det å forske ut fra ståstedet
+(«standpunktet») til en sosialt
+marginalisert gruppe kan gi epistemiske
+(= kunnskapsmessige) fortrinn.
+➢Jfr. kvinner i et mannsdominert samfunn,
+arbeidere i et kapitalistisk samfunn,
+melaninrike i et rasistisk samfunn,
+funksjonsvarierte i et ableistisk
+samfunn...
+Sandra Harding
+(1935-2025)
+❖M.a.o., i noen tilfeller kan bestrebelse på
+å være «upartisk» være til hinder for
+objektivitet!
+
+--- side 17 ---
+I. Noen sentrale grunner til å tro på standpunktteori
+Den sosialt dominerende gruppens perspektiv er
+allerede godt utforsket; marginaliserte gruppers
+perspektiv kan by på uante muligheter.
+II. Marginaliserte grupper ser verden fra et mer
+fullstendig perspektiv enn dominerende grupper:
+sitt eget marginaliserte perspektiv i tillegg til det
+det dominerende perspektivet de har internalisert.
+III. Dominerende grupper «blendes» av privilegiene de
+sosiale maktforholdene gir dem, noe som øker
+deres bekreftelsestendens overfor etablerte men
+muligens gale «sannheter». Sandra Harding
+(f. 1935)
+
+--- side 18 ---
+Det evolusjonsbiologiske studiet av seksuell seleksjon:
+Skoleeksempel på standpunktteoriens tanke om kunnskapens situerthet?
+Aktiv hann vs. passiv hunn-modellen:
+Bateman:
+Charles Darwin
+(1809-1882)
+«[T]here is nearly always a combination of
+an undiscriminating eagerness in the males
+and a discriminating passivity in the
+females. Even in a derived monogamous
+species (e.g. man) this sex difference might
+be expected to persist as a rule».
+Angus John Bateman
+(1919-1996)
+➢Ansporer til å betrakte hannenes atferd
+som evolusjonært «viktigere» enn
+hunnenes atferd.
+➢Harmonerer også godt med tradisjonelle
+forestillinger om kjønnsroller?
+
+--- side 19 ---
+Hunnene som glemte å være passive
+«Mitt første glimt av en langur, arten jeg kom til å periodevis
+studere i nesten ti år, var av en hunn i nærheten av den store
+indiske ørkenen i Rajasthan. Den bevegde seg raskt oppover en
+bratt granittdal, bort fra flokken sin, for å nærme seg og gjøre
+kur til hanner i en flokk bestående av kun hanner. På den tiden
+hadde jeg ingen kontekst for å fortolke atferd som bare syntes
+merkelig for mine Harvard-utdannede øyne. Bare over tid gikk
+det opp for meg at slik flakkende og vellystig atferd var et
+tilbakevendende innslag i langurenes liv».
+S. B. Hrdy, «Empathy, Polyandry, and the Myth of the Coy Female», s. 126
+Standpunktteoretisk analyse:
+❖Kvinnelige apeforskere er mindre investert i opprettholdelsen
+av «aktiv hann vs. passiv hunn»-modellen.
+❖De legger dermed lettere merke til tegn på «aktiv» atferd også
+hos hunnene blant dyrene de studerer. Sarah Blaffer Hrdy (f. 1946)
+
+--- side 20 ---
+Standpunktteori vs. KUDOS-normene
+Hvilke(n) av KUDOS-normene kan sies å
+bli utfordret av standpunktteorien?
+
+--- side 21 ---
+Vitenskap og samfunn
+
+--- side 22 ---
+Tilbake til KUDOS-normene...
+Kommunalisme
+Universalisme
+Desinteresserthet
+Organisert Skeptisisme
+Men hvorfor skal samfunnet
+verdsette kunnskapen som
+vitenskapen kan produsere? Hva er
+grunnlaget for en slik «kontrakt»
+mellom vitenskap og samfunn?
+Selvstendigheten som disse
+normene sikrer vitenskapen som
+institusjon må beskyttes av og i
+ethvert samfunn som verdsetter
+kunnskapen som vitenskapen
+kan produsere.
+2 mulige svar:
+- Vitenskapelig kunnskap er et gode
+i seg selv.
+- Vitenskapelig framgang gir
+samfunnsmessig framgang.
+
+--- side 23 ---
+Vitenskapelig kunnskap er et gode i seg selv
+(Den kontemplative modellen)
+Aristoteles:
+• «Alle mennesker ønsker av natur å vite»
+(Metafysikk, 980a).
+• Vitebegjærets høyeste mål er teoretisk
+innsikt (theoria), dvs. forståelse av
+tingenes grunnleggende årsaker og
+prinsippene for universets orden.
+• Å bedrive og lykkes med vitenskap er
+altså et gode i seg selv – muligens også
+det høyeste menneskelige godet.
+Aristoteles
+(384-322 fvt)
+
+--- side 24 ---
+Vitenskapelig framgang leder til samfunnsmessig framgang
+(Den lineære modellen)
+• Francis Bacon:
+Verdien av vitenskapelig kunnskap består i dens
+anvendelighet til «forbedring av menneskets livsvilkår»
+(relief of man’s estate).
+Francis Bacon
+(1561-1626)
+• Vannevar Bush:
+Grunnforskning (= forskerstyrt forskning med henblikk
+på kunnskapsutvidelse innen en gitt disiplin) må
+hegnes om fordi:
+Grunnforskning → anvendt forskning →
+teknologi/innovasjon → arbeidsplasser, nye produkter,
+verdiskapning, helse, nasjonal sikkerhet osv.
+Vannevar Bush
+(1890-1974)
+
+--- side 25 ---
+Er dette utspillet i tråd med eller i strid med den lineære
+modellen for kontrakten mellom vitenskap og samfunn?
+«Når det gjelder universitets- og
+høgskolesektoren har vi [i FrP] ønsket en
+tydeligere profilering og at forskningen
+rettes mer mot næringsrettet forskning der
+det er muligheter for verdiskapning og for
+å skape nye bein å stå på for økonomien».
+Himanshu Gulati, stortingsrepresentant for FrP
+og medlem av Stortingets utdannings- og
+forskningskomité, til Forskerforum, 11.09.2025
+(https://www.forskerforum.no/%E2%88%92-frps-rolle-blir-a-vaere-en-vaktbikkje/)
+Himanshu Gulati
+
+--- side 26 ---
+Noen innvendinger mot den lineære modellen
+• Ikke alt som solid vitenskapelig kunnskap fører til, er til gode for samfunnet
+(jfr. forurensning, farlige våpen, farlig biotek, farlig KI etc.).
+• Noe av det solid vitenskapelig kunnskap bidrar til kan være samfunnsmessig
+bra på kort sikt men skape utfordringer på lengre sikt.
+• Eks.: Mer medisinsk forskning → bedre helse → økt livslengde → økt press på
+velferdstjenester
+• Drifting av vitenskapelige laboratorier, anlegg osv. og lønning av store
+forskerteam krever stadig større finansiering («Big Science»).
+• Levestandardsforventninger tilpasses eksisterende materielle forhold.
+• 1800-tallsmennesker hadde det ikke elendig selv om de ikke hadde flymaskiner.
+• Ifølge noen studier er folk i I-land mindre lykkelige nå enn for 50 år siden.
+
+--- side 27 ---
+- Neste gang (uke 39): Vitenskap,
+teknologi og samfunn II
+- Teknologisyn og teknologibevissthet
+- Ingeniøretikk
+➢ Les:
+- Tenk! del 3, kap. 13
+- van de Pol & Royakkers, “
+

@@ -36,6 +36,7 @@ import {
   alignAudio,
   getLessonProgress,
   lessonChapters,
+  lessonFrontMatter,
   resetLessonProgress,
   saveLessonProgress,
   type Chapter,
@@ -81,7 +82,9 @@ const fieldClass =
  */
 export function LessonFlow({ item, studySet, tools }: Props) {
   const chapters = useMemo(() => lessonChapters(item), [item]);
-  const [progress, setProgress] = useState<LessonProgress>(() => getLessonProgress(item.id));
+  const [progress, setProgress] = useState<LessonProgress>(() =>
+    getLessonProgress(item.id, lessonFrontMatter(item)),
+  );
   const saveTimer = useRef<number | null>(null);
   const latest = useRef(progress);
 
@@ -136,7 +139,6 @@ export function LessonFlow({ item, studySet, tools }: Props) {
         chapters={chapters}
         progress={progress}
         step={step}
-        firstOpen={firstOpen}
         allDone={allDone}
         onGo={(s) => go(sameStep(s, current) ? null : s)}
         onReset={() => {
@@ -150,21 +152,27 @@ export function LessonFlow({ item, studySet, tools }: Props) {
       />
 
       {step.kind === "chapter" ? (
-        progress.read.includes(step.index) ? (
+        progress.read.includes(step.index) && !progress.done.includes(step.index) ? (
           <ChapterNotes
             key={`notes-${step.index}`}
             chapter={chapters[step.index]}
             number={step.index + 1}
             markings={progress.highlights[step.index] ?? []}
             notes={progress.notes[step.index] ?? ""}
-            isLast={step.index === chapters.length - 1}
-            revisiting={progress.done.includes(step.index)}
+            // The button leads to the summary only when this is the last unfinished chapter
+            isLast={chapters.every((_, i) => i === step.index || progress.done.includes(i))}
             onNotes={(text) => update((p) => ({ ...p, notes: { ...p.notes, [step.index]: text } }))}
             onDone={() => {
               update((p) => ({ ...p, done: [...new Set([...p.done, step.index])] }), true);
-              go(null);
+              // Carry on with the next chapter you haven't finished, after this one if there is one
+              const left = chapters.map((_, i) => i).filter((i) => !latest.current.done.includes(i));
+              const next = left.find((i) => i > step.index) ?? left[0];
+              go(next === undefined ? null : { kind: "chapter", index: next });
             }}
-            onBack={() => go(null)}
+            // Back to reading and marking; what you have written so far is kept
+            onBackToText={() =>
+              update((p) => ({ ...p, read: p.read.filter((i) => i !== step.index) }), true)
+            }
           />
         ) : (
           <ChapterReader
@@ -183,6 +191,16 @@ export function LessonFlow({ item, studySet, tools }: Props) {
               update((p) => ({ ...p, read: [...new Set([...p.read, step.index])] }), true);
               window.scrollTo({ top: 0, behavior: "smooth" });
             }}
+            // A finished chapter is shown again, with your notes under the text
+            review={
+              progress.done.includes(step.index)
+                ? {
+                    notes: progress.notes[step.index] ?? "",
+                    onNotes: (text) => update((p) => ({ ...p, notes: { ...p.notes, [step.index]: text } })),
+                    onBack: () => go(null),
+                  }
+                : undefined
+            }
           />
         )
       ) : null}
@@ -237,11 +255,30 @@ function useChapterAudio(item: LibraryItem, chapters: Chapter[]) {
   }, [item, chapters]);
 }
 
+/** With more chapters than this, only the ones around where you are get their own button */
+const COMPACT_FROM = 12;
+
+/**
+ * The chapter numbers to show: the first and last, a few on each side of the
+ * one you are in, and "gap" where the rest are folded away.
+ */
+function visibleChapters(total: number, at: number): (number | "gap")[] {
+  if (total <= COMPACT_FROM) return Array.from({ length: total }, (_, i) => i);
+  const keep = new Set([0, total - 1]);
+  const from = Math.min(Math.max(at - 2, 1), total - 6);
+  for (let i = from; i < from + 5; i++) keep.add(i);
+  const out: (number | "gap")[] = [];
+  for (let i = 0; i < total; i++) {
+    if (keep.has(i)) out.push(i);
+    else if (out[out.length - 1] !== "gap") out.push("gap");
+  }
+  return out;
+}
+
 function Stepper({
   chapters,
   progress,
   step,
-  firstOpen,
   allDone,
   onGo,
   onReset,
@@ -249,14 +286,23 @@ function Stepper({
   chapters: Chapter[];
   progress: LessonProgress;
   step: Step;
-  firstOpen: number;
   allDone: boolean;
   onGo: (step: Step) => void;
   onReset: () => void;
 }) {
+  const [showAll, setShowAll] = useState(false);
   const doneCount = progress.done.length;
+  const at =
+    step.kind === "chapter"
+      ? step.index
+      : Math.max(
+          0,
+          chapters.findIndex((_, i) => !progress.done.includes(i)),
+        );
+  const shown = showAll ? chapters.map((_, i) => i) : visibleChapters(chapters.length, at);
+
   const pill = (active: boolean, done: boolean, locked: boolean) =>
-    `flex size-8 shrink-0 items-center justify-center rounded-full border text-xs font-semibold tabular-nums transition ${
+    `flex h-8 min-w-8 shrink-0 items-center justify-center rounded-full border px-2 text-xs font-semibold tabular-nums transition ${
       active
         ? "border-primary bg-primary text-primary-foreground shadow-sm"
         : done
@@ -266,46 +312,80 @@ function Stepper({
             : "border-border bg-card text-foreground hover:border-primary/50"
     }`;
 
+  const heading =
+    step.kind === "chapter"
+      ? // Many chapter titles carry their own number, like "1.3 Balansen"
+        /^\d/.test(chapters[step.index].title)
+        ? chapters[step.index].title
+        : `${step.index + 1}. ${chapters[step.index].title}`
+      : step.kind === "summary"
+        ? "Oppsummering"
+        : "Øving";
+
   return (
-    <nav
-      aria-label="Gangen i leksjonen"
-      className="rounded-md border border-border/70 bg-card/80 px-4 py-3 shadow-sm"
-    >
-      <div className="mb-2 flex flex-wrap items-center justify-between gap-2 text-xs text-muted-foreground">
-        <span>
-          {allDone
-            ? progress.summaryDone
-              ? "Leksjonen er gjennomgått. Nå kan du øve."
-              : "Alle kapitlene er ferdige. Skriv oppsummeringen."
-            : `Kapittel ${firstOpen + 1} av ${chapters.length} · ${doneCount} ferdig${doneCount === 1 ? "" : "e"}`}
-        </span>
-        {doneCount > 0 || progress.read.length > 0 ? (
-          <button type="button" onClick={onReset} className="flex items-center gap-1 hover:text-foreground">
-            <RotateCcw className="size-3" />
-            Start på nytt
-          </button>
-        ) : null}
+    <nav aria-label="Kapitler i leksjonen" className="rounded-md border border-border/70 bg-card/80 px-4 py-3 shadow-sm">
+      <div className="mb-2.5 flex items-baseline justify-between gap-3">
+        <p className="min-w-0 truncate text-sm font-medium" title={heading}>
+          {heading}
+        </p>
+        <div className="flex shrink-0 items-center gap-3 text-xs text-muted-foreground">
+          <span className="tabular-nums">
+            {doneCount} av {chapters.length} ferdige
+          </span>
+          {doneCount > 0 || progress.read.length > 0 ? (
+            <button type="button" onClick={onReset} className="flex items-center gap-1 hover:text-foreground">
+              <RotateCcw className="size-3" />
+              Start på nytt
+            </button>
+          ) : null}
+        </div>
       </div>
+
       <ol className="flex flex-wrap items-center gap-1.5">
-        {chapters.map((c, i) => {
+        {shown.map((i, n) => {
+          if (i === "gap") {
+            return (
+              <li key={`gap-${n}`}>
+                <button
+                  type="button"
+                  onClick={() => setShowAll(true)}
+                  title="Vis alle kapitlene"
+                  className="flex h-8 min-w-8 items-center justify-center rounded-full px-1 text-sm text-muted-foreground hover:bg-muted/70 hover:text-foreground"
+                >
+                  …
+                </button>
+              </li>
+            );
+          }
+          const c = chapters[i];
           const done = progress.done.includes(i);
-          const locked = !done && i !== firstOpen;
+          const started = !done && progress.read.includes(i);
           const active = step.kind === "chapter" && step.index === i;
           return (
             <li key={c.id}>
               <button
                 type="button"
-                disabled={locked}
                 onClick={() => onGo({ kind: "chapter", index: i })}
-                title={`${i + 1}. ${c.title}${done ? " (ferdig)" : locked ? " (låst)" : ""}`}
+                title={`${i + 1}. ${c.title}${done ? " (ferdig)" : started ? " (notater gjenstår)" : ""}`}
                 aria-current={active ? "step" : undefined}
-                className={pill(active, done, locked)}
+                className={`${pill(active, done, false)} ${started && !active ? "border-dashed border-primary/60" : ""}`}
               >
                 {done && !active ? <Check className="size-3.5" /> : i + 1}
               </button>
             </li>
           );
         })}
+        {showAll && chapters.length > COMPACT_FROM ? (
+          <li>
+            <button
+              type="button"
+              onClick={() => setShowAll(false)}
+              className="h-8 rounded-full px-2 text-xs text-muted-foreground hover:bg-muted/70 hover:text-foreground"
+            >
+              Vis færre
+            </button>
+          </li>
+        ) : null}
         <li aria-hidden className="mx-1 h-px w-4 bg-border" />
         <li>
           <button
@@ -313,21 +393,21 @@ function Stepper({
             disabled={!allDone}
             onClick={() => onGo({ kind: "summary" })}
             aria-current={step.kind === "summary" ? "step" : undefined}
-            className={`${pill(step.kind === "summary", progress.summaryDone, !allDone)} w-auto gap-1.5 px-3`}
+            title={allDone ? "Oppsummering" : "Åpnes når alle kapitlene er ferdige"}
+            className={`${pill(step.kind === "summary", progress.summaryDone, !allDone)} gap-1.5 px-3`}
           >
-            {!allDone ? <Lock className="size-3" /> : <NotebookPen className="size-3.5" />}
+            {allDone ? <NotebookPen className="size-3.5" /> : <Lock className="size-3" />}
             Oppsummering
           </button>
         </li>
         <li>
           <button
             type="button"
-            disabled={!progress.summaryDone}
             onClick={() => onGo({ kind: "practice" })}
             aria-current={step.kind === "practice" ? "step" : undefined}
-            className={`${pill(step.kind === "practice", false, !progress.summaryDone)} w-auto gap-1.5 px-3`}
+            className={`${pill(step.kind === "practice", false, false)} gap-1.5 px-3`}
           >
-            {!progress.summaryDone ? <Lock className="size-3" /> : <Layers className="size-3.5" />}
+            <Layers className="size-3.5" />
             Øving
           </button>
         </li>
@@ -381,6 +461,7 @@ function ChapterReader({
   markings,
   onMarkings,
   onDone,
+  review,
 }: {
   chapter: Chapter;
   number: number;
@@ -391,10 +472,21 @@ function ChapterReader({
   markings: Marking[];
   onMarkings: (list: Marking[]) => void;
   onDone: () => void;
+  /** Set when the chapter is finished: no hiding, and your notes are shown to read and extend */
+  review?: { notes: string; onNotes: (text: string) => void; onBack: () => void };
 }) {
   const textRef = useRef<HTMLDivElement>(null);
   const [toolbar, setToolbar] = useState<Toolbar | null>(null);
   const [supported] = useState(() => typeof CSS !== "undefined" && "highlights" in CSS);
+  // Marking and the toolbar re-render often; the text itself only changes with the chapter
+  const renderedText = useMemo(
+    () => (
+      <Markdown remarkPlugins={[remarkGfm]} remarkRehypeOptions={footnoteLabels} components={markdownComponents}>
+        {chapter.body}
+      </Markdown>
+    ),
+    [chapter.body],
+  );
 
   // Paint the markings over the rendered text without touching the Markdown
   useEffect(() => {
@@ -479,16 +571,22 @@ function ChapterReader({
         </p>
         <h2 className="mt-1 font-[family-name:var(--font-reading)] text-3xl leading-tight">{chapter.title}</h2>
         <p className="mt-2 flex items-center gap-1.5 text-sm text-muted-foreground">
-          <Highlighter className="size-3.5" />
-          Merk teksten som er viktig. Når du er ferdig, skjules kapitlet, og du ser bare det du har markert.
+          {review ? <Check className="size-3.5" /> : <Highlighter className="size-3.5" />}
+          {review
+            ? "Kapitlet er ferdig. Les det igjen, juster markeringene og utvid notatene nederst."
+            : "Merk teksten som er viktig. Når du er ferdig, skjules kapitlet, og du ser bare det du har markert."}
         </p>
+        {chapter.preface ? (
+          <details open className="mt-5 max-w-3xl rounded-md border border-border/60 bg-muted/30 text-sm text-muted-foreground">
+            <summary className="cursor-pointer px-3 py-2 font-medium">Forside, resymé og innhold</summary>
+            <div className="space-y-2 border-t border-border/60 px-3 py-2 whitespace-pre-line">{chapter.preface}</div>
+          </details>
+        ) : null}
         <div
           ref={textRef}
           className="mt-5 max-w-3xl font-[family-name:var(--font-reading)] text-[17px] leading-relaxed text-foreground/90"
         >
-          <Markdown remarkPlugins={[remarkGfm]} remarkRehypeOptions={footnoteLabels} components={markdownComponents}>
-            {chapter.body}
-          </Markdown>
+          {renderedText}
         </div>
       </article>
 
@@ -519,6 +617,7 @@ function ChapterReader({
               ? `${markings.length} ${markings.length === 1 ? "markering" : "markeringer"} i dette kapitlet`
               : "Du har ikke markert noe ennå"}
           </p>
+          {review ? null : (
           <Button
             type="button"
             onClick={() => {
@@ -534,6 +633,7 @@ function ChapterReader({
             <EyeOff className="size-3.5" />
             Ferdig med kapitlet
           </Button>
+          )}
         </div>
         {markings.length ? (
           <ul className="mt-3 space-y-1.5">
@@ -559,6 +659,30 @@ function ChapterReader({
           </p>
         ) : null}
       </section>
+
+      {review ? (
+        <section className="rounded-md border border-border/70 bg-card/90 px-5 py-5 shadow-sm sm:px-8">
+          <label htmlFor="kapittel-notater" className="text-sm font-medium">
+            Notatene dine
+          </label>
+          <textarea
+            id="kapittel-notater"
+            value={review.notes}
+            onChange={(e) => review.onNotes(e.target.value)}
+            rows={10}
+            className={`${fieldClass} mt-3`}
+          />
+          <div className="mt-3 flex flex-wrap items-center justify-between gap-3">
+            <span className="text-xs tabular-nums text-muted-foreground">
+              {review.notes.split(/\s+/).filter(Boolean).length} ord
+            </span>
+            <Button type="button" variant="outline" onClick={review.onBack}>
+              Tilbake til der du var
+              <ArrowRight className="size-3.5" />
+            </Button>
+          </div>
+        </section>
+      ) : null}
     </div>
   );
 }
@@ -587,20 +711,18 @@ function ChapterNotes({
   markings,
   notes,
   isLast,
-  revisiting,
   onNotes,
   onDone,
-  onBack,
+  onBackToText,
 }: {
   chapter: Chapter;
   number: number;
   markings: Marking[];
   notes: string;
   isLast: boolean;
-  revisiting: boolean;
   onNotes: (text: string) => void;
   onDone: () => void;
-  onBack: () => void;
+  onBackToText: () => void;
 }) {
   return (
     <div className="flex flex-col gap-4">
@@ -636,19 +758,18 @@ function ChapterNotes({
         />
         <div className="mt-3 flex flex-wrap items-center justify-between gap-3">
           <span className="text-xs tabular-nums text-muted-foreground">
-            {notes.split(/\s+/).filter(Boolean).length} ord
+            {notes.split(/\s+/).filter(Boolean).length} ord · notatene lagres hvis du går tilbake til teksten
           </span>
-          {revisiting ? (
-            <Button type="button" variant="outline" onClick={onBack}>
-              Tilbake til der du var
-              <ArrowRight className="size-3.5" />
+          <div className="flex flex-wrap gap-2">
+            <Button type="button" variant="outline" onClick={onBackToText}>
+              <BookText className="size-3.5" />
+              Tilbake til teksten
             </Button>
-          ) : (
             <Button type="button" disabled={notes.trim().length === 0} onClick={onDone}>
               {isLast ? "Gå til oppsummeringen" : "Neste kapittel"}
               <ArrowRight className="size-3.5" />
             </Button>
-          )}
+          </div>
         </div>
       </section>
     </div>

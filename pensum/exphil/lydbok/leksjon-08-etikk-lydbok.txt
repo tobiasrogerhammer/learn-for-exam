@@ -1,0 +1,225 @@
+# Leksjon 8: Etikk
+
+Velkommen til leksjon åtte. Denne leksjonen handler om normativ etikk, altså spørsmålet om hva som gjør handlinger riktige eller gale, og hva som er et godt liv. Vi går gjennom tre hovedretninger: utilitarismen, pliktetikken og dydsetikken. Vi ser hvordan de vurderer konkrete handlinger, hva de sier om moralsk status, og hvilke innvendinger som er reist mot dem.
+
+# Innledning
+
+I dette kapitlet ser vi på hva etikk er, hvordan etikken deles inn, og hvorfor faget er viktig for ingeniører og naturvitere.
+
+Etikk handler om normative spørsmål. Det vil si spørsmål om hva som er rett og galt å gjøre, hva som er et godt liv og en god praksis, og hvordan vi går fram for å bli gode. Spørsmålene er både teoretiske og praktiske, og de er viktige i de fleste yrker og i offentlig debatt.
+
+For sivilingeniører og naturvitere er etikk særlig relevant. Mange av dem tar beslutninger som påvirker mange andre, og de må kunne gi gode grunner for det de kommer fram til. Etikken møter teknologien blant annet i regulering av miljø og ressurser, i forskningsetikk, i spørsmål om forsøk på dyr og mennesker, i forskeres ansvar og i vurderinger av risiko ved ny teknologi.
+
+Det er nyttig å skille mellom moral og etikk. Alle har oppfatninger om rett og galt, og de kommer fra oppdragelse og kultur. Disse oppfatningene utgjør moralen, og den fungerer ofte som en taus forkunnskap. Vi ser verden gjennom moralske briller uten å tenke over det. Etikk er derimot filosofisk refleksjon over moralen. En person som mener det er galt å lyve, har en moralsk oppfatning. En filosof som spør hvorfor det er galt å lyve, og om det finnes unntak, driver med etikk.
+
+Etikken deles gjerne inn i fire områder. Deskriptiv etikk undersøker hvilke moralske verdier som finnes i befolkningen, for eksempel hvor mange som er for selvbestemt abort. Normativ etikk studerer systematisk hva som gjør noe moralsk riktig eller galt, og det er her utilitarismen, pliktetikken og dydsetikken hører hjemme. Anvendt etikk bruker teoriene på konkrete områder, som medisinsk etikk, miljøetikk og ingeniøretikk. Metaetikk stiller grunnlagsspørsmål, for eksempel om etiske utsagn kan være sanne eller usanne.
+
+Vi kan også skille mellom faglige og etiske dilemmaer. Et faglig dilemma handler om hvordan virkeligheten er, for eksempel om ett transportalternativ er mer bærekraftig enn et annet. Det kan være vanskelig å avgjøre, men det finnes ett riktig svar. Et etisk dilemma handler om hva vi bør gjøre, for eksempel om vi skal prioritere økonomisk vekst, sosiale vilkår eller klima. Her finnes det ikke nødvendigvis ett entydig svar.
+
+Til slutt trenger vi etikk i to typer situasjoner. I en beslutningssituasjon må vi selv velge hva vi skal gjøre. I en vurderingssituasjon vurderer vi en handling i ettertid, enten vår egen eller andres.
+
+Kort oppsummert: Etikk er filosofisk refleksjon over moralen, og normativ etikk spør hva som gjør handlinger riktige eller gale.
+
+# Tre normative etiske teorier
+
+I dette kapitlet får du en oversikt over de tre teoriene og hvordan de skiller seg fra hverandre.
+
+Utilitarismen sier at en handling er riktig hvis den gir de beste konsekvensene. Pliktetikken sier at en handling kan være riktig selv om den ikke gir best konsekvenser, og at en handling kan være gal selv om den gjør det. Her står prinsipper, plikter og rettigheter i sentrum. Dydsetikken flytter oppmerksomheten fra handlingen til den som handler. En handling er riktig hvis den uttrykker en god karakter, preget av dyder som ærlighet, mot og barmhjertighet.
+
+Teoriene kan deles i to typer. Handlingsorienterte teorier prøver å si hva som gjør handlinger riktige eller gale, og gir prinsipper for hvordan vi bør handle. Utilitarismen og pliktetikken er handlingsorienterte. Aktørorienterte teorier prøver å si hva som kjennetegner en god person, altså hvilke karaktertrekk som er verdifulle. Dydsetikken er aktørorientert.
+
+Utilitarismen og pliktetikken kalles også ettprinsippteorier. De forutsetter at alle riktige handlinger har én felles egenskap, enten det er å gi best konsekvenser eller å være i samsvar med plikten.
+
+Moral handler om en særskilt type hensyn. Det kan være andres velferd og verdighet, egen integritet, at beslutninger tas upartisk, og båndene til familie, venner og kolleger. Slike hensyn kan komme i konflikt med egen vinning, og med hverandre, for eksempel når upartiskhet og lojalitet trekker i ulike retninger.
+
+Kort oppsummert: Utilitarismen ser på konsekvenser, pliktetikken på plikter og motiver, og dydsetikken på karakteren til den som handler.
+
+# Utilitarismen og nytteprinsippet
+
+I dette kapitlet ser vi på kjernen i utilitarismen, nytteprinsippet, og på hvordan ulike utilitarister forstår hva som er godt.
+
+Utilitarismen er en svært innflytelsesrik konsekvensialistisk teori. Viktige utilitarister er Jeremy Bentham, John Stuart Mill og Peter Singer.
+
+Kjernen er nytteprinsippet. Det sier at vi alltid bør velge den handlingen som, sammenlignet med alternativene, gir den største summen av lykke, når alle berørte parters lykke tas med på like fot. Det er altså konsekvensene alene som avgjør om en handling er riktig. For å finne den riktige handlingen kartlegger utilitaristen alternativene, ser på konsekvensene for alle som berøres, og velger det alternativet som gir mest samlet lykke.
+
+Den klassiske utilitarismen har fire kjennetegn. Den er konsekvensialistisk, fordi bare konsekvensene teller. Den er hedonistisk, fordi lykke er det eneste som har egenverdi. Den er universalistisk, fordi alle berørte tas med. Og den er egalitær, fordi alles lykke teller likt. Bentham sa at alle skal telle som én, og ingen som mer enn én.
+
+For Bentham er lykke behag og fravær av ubehag. Da spiller det ingen rolle hvem som har følelsen, og ingen rolle hva som gir den. Dette ga radikale følger på hans tid. Siden alle teller likt, skulle kvinner likebehandles med menn. Siden det ikke spiller noen rolle hva som gir behag, burde forbudet mot homoseksualitet oppheves. Bentham mente også at gleden ved et enkelt spill er like mye verdt som gleden ved vitenskap, musikk og poesi.
+
+For å beregne lykken foreslo Bentham fire dimensjoner. Vi ser på hvor mange som berøres, hvor intens gleden eller smerten er, hvor lenge den varer, og hvor sannsynlig det er at den inntreffer.
+
+Mot Bentham er det reist to innvendinger. Kan nytelse virkelig måles objektivt? Og er mennesket bare opptatt av nytelse? Mill mente at Bentham gjorde mennesket for enkelt. Han forsvarte derfor et syn der nytelser har ulik kvalitet, og der intellektuelle nytelser er mer verdt enn sanselige. Argumentet hans er at alle kjenner sanselige nytelser, men ikke alle kjenner de intellektuelle. De som har opplevd begge deler, foretrekker de intellektuelle, og de er best egnet til å sammenligne. Mill sa at det er bedre å være en utilfredsstilt Sokrates enn en tilfredsstilt tåpe.
+
+Mot Mill kan man spørre om det gir mening å si at intellektuelle nytelser gir mer lykke. Noen moderne utilitarister fokuserer derfor på preferanser. Preferanseutilitarismen sier at det som har verdi, er at ønskene våre blir oppfylt, ikke at vi føler behag. Begrunnelsen er at mange, etter å ha tenkt seg om, vil velge bort situasjoner som gir mest mulig lykke. Styrken er at teorien stemmer bedre med hva vi faktisk opplever som verdifullt. Svakheten er at den må likestille alle preferanser. Hvis én person ønsker å slippe sterke smerter, og en annen har et enda sterkere ønske om å telle gresstrå på en plen, virker det merkelig å prioritere gresstelleren.
+
+Kort oppsummert: Nytteprinsippet sier at vi skal maksimere samlet nytte, men utilitaristene er uenige om nytte er behag, høyere nytelser eller oppfylte preferanser.
+
+# Usikre konsekvenser, beslutning og vurdering
+
+I dette kapitlet ser vi på hvordan utilitarister håndterer usikkerhet, og hvordan de vurderer handlinger i ettertid.
+
+Vi vet sjelden sikkert hva som blir konsekvensene av det vi gjør. Utilitarister bruker derfor begrepet forventet nytte. Det er den mulige nytten av en konsekvens ganget med sannsynligheten for at den inntreffer. Det betyr at en lite sannsynlig konsekvens kan veie tungt hvis den er stor nok.
+
+Ta bilbeltet som eksempel. Sannsynligheten for en ulykke på én tur er svært liten, men skaden uten belte kan være enorm. Derfor er den forventede nytten av bilbeltet stor. Det samme gjelder et kostbart tiltak mot oljeutslipp. Selv om et utslipp er lite sannsynlig, kan skadene være så store at tiltaket lønner seg.
+
+Tanken får store følger når vi ser langt fram i tid. En av forelesningene regner med at jorda kan bære en milliard mennesker i seks hundre millioner år. Da kan det i prinsippet leve over seksti tusen ganger flere mennesker i framtiden enn alle som har levd til nå. Selv en risiko på én prosent per hundre år for at menneskeheten utslettes, gjør det mer sannsynlig enn ikke at vi er borte innen rundt sju tusen år. For en utilitarist som tar alle framtidige mennesker med, kan det derfor veie svært tungt å redusere slike risikoer.
+
+I en beslutningssituasjon bruker utilitaristen forventet nytte til å velge. Men hvordan skal vi vurdere en handling etterpå? Tenk deg at noen setter på ovnen for å lage en nystekt pizza, men at bygården brenner ned. Bentham mente vi skal vurdere ut fra de forventede konsekvensene i handlingsøyeblikket, altså pizzaen. Et annet syn er at det er de faktiske konsekvensene som teller, altså brannen. Et mellomsyn er at vi skal vurdere ut fra hva personen burde ha skjønt i øyeblikket, ikke bare hva hen faktisk trodde.
+
+Problemet med å vurdere ut fra faktiske konsekvenser kalles moralsk flaks eller uflaks. Bør vi klandre noen for et utfall de ikke hadde full kontroll over? Skillet mellom beslutning og vurdering er viktig for utilitarister, fordi det viser at en handling kan få dårlige følger uten at personen fortjener klander.
+
+Kort oppsummert: Utilitaristen velger ut fra forventet nytte, men må avgjøre om vi i ettertid skal vurdere ut fra forventede, faktiske eller rimelig forutsigbare konsekvenser.
+
+# Utilitarisme og fordeling av goder
+
+I dette kapitlet ser vi på hva utilitarismen sier om hvordan goder bør fordeles, og om vi har plikt til å hjelpe andre.
+
+To hensyn trekker i hver sin retning. Det første er avtakende grensenytte. Jo mer man allerede har av et gode, desto mindre ekstra glede gir én enhet til. Tusen kroner betyr mye for en fattig, men lite for en rik. Derfor øker den samlede lykken hvis goder flyttes fra dem som har mye til dem som har lite. Dette taler for utjevning og for at alle skal ha grunnleggende velferdsgoder.
+
+Det andre hensynet er insentiver. Et insentiv er noe som motiverer folk til å handle på en ønsket måte. Hvis den enkelte har lite igjen for å gjøre en ekstra innsats, blir det mindre av godet totalt sett. Dette taler for å bevare noe ulikhet. Utilitaristen må balansere de to hensynene og finne den fordelingen som gir mest samlet velferd.
+
+Avtakende grensenytte gjelder også den enkelte. Hvis et gode betyr lite for deg, men mye for en annen, bør du ifølge utilitaristen gi det bort. Det reiser spørsmålet om vi har plikt til å hjelpe langt mer enn vi gjør. Det reiser også spørsmålet om vi har større plikter overfor dem som lever nær oss. Har jeg de samme pliktene overfor et barn i Sør-Sudan som overfor et barn på Gjøvik? Overfor en som lever om tusen år som overfor en som lever i dag? For utilitaristen teller alles lykke likt, og avstand er i seg selv ikke moralsk relevant.
+
+Forelesningene peker også på ting utilitarister ser bort fra, og som pliktetikere mener er viktige. Det gjelder forskjellen mellom å handle og å unnlate, spørsmål om likhet og hva folk fortjener, forskjellen mellom konsekvenser vi tar sikte på og konsekvenser vi bare forventer, og motivet bak handlingen.
+
+Til slutt: Har det verdi i seg selv å bevare villmark og truede arter? Utilitaristens svar er nei, bare i den grad det øker velferden til dyr eller mennesker.
+
+Kort oppsummert: Avtakende grensenytte taler for utjevning, insentiver taler for noe ulikhet, og utilitarismen gir oss sterke plikter til å hjelpe andre.
+
+# Innvendinger mot utilitarismen
+
+I dette kapitlet går vi gjennom de tre viktigste innvendingene mot utilitarismen.
+
+Den første innvendingen er at utilitarismen kan rettferdiggjøre at noen ofres. Kravet om å maksimere nytte kan føre til at enkeltpersoners rettigheter krenkes. Et kjent eksempel er å drepe én person for å bruke organene hans til å redde flere andre. Regnestykket kan gå i pluss, men de fleste vil mene at handlingen er grovt gal.
+
+Den andre innvendingen er at utilitarismen krever for mye. Den skiller ikke mellom det vi er forpliktet til, og det vi kan roses for å gjøre, men ikke klandres for å la være. På grunn av avtakende grensenytte bør vi nesten alltid gi bort penger heller enn å bruke dem på oss selv. Så lenge noen sulter, blir det galt å kjøpe nye klær eller dra på ferie. Forelesningen lar spørsmålet stå åpent: Krever utilitarismen for mye, eller gjør de fleste av oss faktisk noe galt når vi prioriterer oss selv?
+
+Den tredje innvendingen gjelder kollektive handlingsproblemer. Klimaendringer og plastforsøpling skyldes handlingene til svært mange mennesker, og den samlede effekten er ikke bare summen av hver enkelt handling. Min enkelte flytur har nesten ingen målbar effekt på de totale utslippene. Hvis bare konsekvensene av min handling teller, ser det ut til at jeg ikke har noe ansvar. Utilitarismen forklarer dermed ikke godt hvorfor den enkelte har medansvar for slike problemer.
+
+I tillegg kommer innvendingene mot Bentham, om at nytelse er vanskelig å måle, og at mennesker bryr seg om mer enn nytelse. Mot preferanseutilitarismen kan man innvende at den må likestille rimelige og urimelige ønsker.
+
+Kort oppsummert: Utilitarismen kan ofre enkeltpersoner, den kan kreve for mye, og den sliter med å forklare ansvar i kollektive problemer.
+
+# Kants pliktetikk
+
+I dette kapitlet ser vi på pliktetikken, og særlig på Kants kategoriske imperativ og de to formuleringene av det.
+
+Pliktetikk kalles også deontologisk etikk. En pliktetisk teori sier at vi i hvert fall noen ganger har plikt til å velge en handling som ikke gir de beste konsekvensene. Det rette går foran det gode. Som utilitarismen er pliktetikken handlingsorientert, men den er ikke konsekvensialistisk. Motivet er viktigere enn konsekvensene. Å jobbe frivillig fordi det ser bra ut på CV-en, er noe annet enn å gjøre det fordi man vil hjelpe. Rettferdighet har dessuten en selvstendig verdi.
+
+Den viktigste pliktetikeren er Immanuel Kant, og andre er blant annet John Rawls, Jürgen Habermas, Tom Regan, Onora O'Neill og Christine Korsgaard. Man kan skille mellom Kants egen etikk og kantiansk etikk. Man kan være uenig i mange av Kants meninger, men likevel bruke begrepene og systematikken hans.
+
+For Kant er fornuften moralens kilde. En moralsk handling er motivert av fornuften, ikke av lyster, egeninteresse eller medfølelse. Når vi blindt følger lystene, er vi bundet av naturlover, slik dyr følger instinkter. Bare frie handlinger, som vi har valgt med fornuften, kan være moralske.
+
+Kant skiller mellom to typer bør. Et hypotetisk imperativ gjelder bare hvis vi har et bestemt mål. For eksempel: Hvis du ønsker å bli likt, bør du ikke lyve. Et kategorisk imperativ gjelder uansett hvilke mål vi har. For eksempel: Du bør ikke lyve. Ekte moralske prinsipper må være kategoriske. En egoist kan følge hypotetiske imperativer uten å være moralsk, og setningen «hvis du vil utrydde menneskeheten, bør du gjøre slik og slik» er ingen moralregel. Det er derfor de kategoriske imperativene som er sentrale for Kant.
+
+Kant formulerer ett overordnet moralprinsipp, det kategoriske imperativ. Det har to formuleringer.
+
+Den første er universalitetsformuleringen. Den sier at du bare skal handle etter den regelen du samtidig kan ville at skal bli en allmenn lov. Regelen du handler etter, kalles en maksime. Prinsippet er formelt. Det sier ikke selv hvilke handlinger som er gale, men gir oss en test. Du formulerer motivet ditt som en regel, og spør om regelen kunne gjeldt for alle uten at det blir en selvmotsigelse. Testen handler om logikk, ikke om konsekvenser, og den er bygget inn i fornuften vår.
+
+Ta løgn som eksempel. Løgn fungerer bare i en verden der folk forventer sannhet. Hvis du vil at regelen «det er greit å lyve» skal gjelde for alle, må du samtidig ville at det er tillatt å lyve for deg og ikke tillatt for alle andre. Det er en selvmotsigelse, og det kan man ikke ville.
+
+Eller ta en som sniker i lunsjkøen i kantina. Maksimen er noe slikt som: Jeg sniker i køen når det passer meg. Hvis alle gjorde det, ville det ikke finnes noen kø å snike i. Sniking forutsetter at de andre står pent i kø. Regelen kan ikke gjøres universell, og handlingen er derfor gal.
+
+Universalitetsprinsippet minner om den gylne regel, som sier at du skal gjøre mot andre det du vil at de skal gjøre mot deg. Forelesningene spør om dette er det samme prinsippet. Et poeng er at den gylne regel tar utgangspunkt i hva du ønsker for deg selv, mens universalitetsprinsippet tester om regelen kan være en lov for alle.
+
+Den andre formuleringen er humanitetsformuleringen. Den sier at du alltid skal behandle menneskeheten, både i deg selv og i andre, som et formål og aldri bare som et middel. Det er greit å bruke andre som midler. Når du kjøper brød, bruker du bakeren. Men det er galt å bruke noen bare som middel. Det betyr å behandle personen som et redskap for egne mål, og ikke som et vesen med egne mål. Det betyr å ikke respektere personens autonomi, og å bruke hen til noe hen ikke har samtykket til. Derfor forbyr formuleringen tvang, vold, manipulasjon og bedrag. Løgn bryter også med denne formuleringen, fordi den som blir løyet for, ikke har samtykket til det.
+
+Forelesningene nevner flere tilfeller som kan diskuteres, som tortur, varer laget i sweatshops, sexkjøp, betalt surrogati i fattige land og assistert selvmord. Noen er vanskelige. Er assistert selvmord et uttrykk for selvbestemmelse, eller et brudd på plikten til å behandle seg selv som formål? Har en fattig surrogatmor virkelig gitt et fritt og informert samtykke? Og er dulting, der man påvirker folk til bedre valg uten at de merker det, manipulasjon eller hjelp til autonomi?
+
+Studiespørsmålene spør også om uperfekte plikter. Forelesningslysbildene går ikke nærmere inn på dette, så her er bare en kort forklaring. Perfekte plikter er strenge plikter uten unntak, som plikten til ikke å lyve. Uperfekte plikter er plikter til å fremme visse mål, som å hjelpe andre, der vi har et visst spillerom for når og hvordan vi oppfyller dem.
+
+Kort oppsummert: Kant sier at moralen kommer fra fornuften, og det kategoriske imperativ ber oss handle bare etter regler som kan gjelde for alle, og aldri behandle noen bare som et middel.
+
+# Innvendinger mot pliktetikken
+
+I dette kapitlet ser vi på de viktigste innvendingene mot Kants pliktetikk.
+
+Den mest kjente innvendingen er morderen på døren. En uskyldig person på flukt fra en morder gjemmer seg hos deg. Morderen ringer på og spør hvor personen er. Eller tenk deg at en nazist står på døra, og du har Anne Frank gjemt på loftet. Sier universalitetsprinsippet at du må fortelle sannheten? Regelen om at det er greit å lyve, kan jo ikke gjøres universell. Men de fleste vil mene at det er riktig å lyve her. Mer generelt vil vi ofte mene at det er rett å lyve eller stjele for å redde liv eller hindre alvorlige overgrep.
+
+Den andre innvendingen er at pliktetikken nedtoner konsekvensene. Den avviser at konsekvenser kan telle når de peker i en annen retning enn pliktene. Det virker urimelig. Vi handler for å gjøre godt, og det bør vel telle om vi lykkes.
+
+Den tredje innvendingen er at Kant legger for stor vekt på fornuften. Sympati og medfølelse er viktige både for å forstå hva som står på spill, og som motivasjon. Er det virkelig mer verdifullt å hjelpe en venn fordi det er en plikt, enn fordi man bryr seg om vennen?
+
+Til slutt kan pliktetikken gi lite veiledning, særlig når plikter kolliderer.
+
+Kort oppsummert: Pliktetikken kritiseres for å gi urimelige svar i tilfeller som morderen på døren, for å se bort fra konsekvenser og for å nedtone følelsene.
+
+# Dydsetikk
+
+I dette kapitlet ser vi på dydsetikken: hva en dyd er, hvordan dyder utvikles, og hvordan dyd henger sammen med lykke.
+
+Dydsetikken dominerte i antikken og forbindes særlig med Aristoteles. I nyere tid har filosofer som Elizabeth Anscombe, Philippa Foot, Bernard Williams og Rosalind Hursthouse gjenopplivet den.
+
+Dydsetikken er aktørorientert. Hovedspørsmålet er ikke hva som gjør en handling riktig, men hvordan vi bør være som personer for å leve et godt menneskeliv. Et nyttig spørsmål i vanskelige situasjoner er: Hva ville et godt menneske gjort? Både motiv og konsekvenser tas med i vurderingen, men karakteren er det avgjørende.
+
+Ordet dyd kommer fra det greske ordet arete, som betyr en skjerpet evne, noe som får en ting til å fungere godt. En kniv må være skarp for å være en god kniv. En ugle må ha godt nattesyn for å leve et godt ugleliv. På samme måte trenger mennesket visse egenskaper for å fungere godt i den sosiale livsformen vi har. Det er de moralske dydene.
+
+En moralsk dyd er et tillært og dyptliggende karaktertrekk. Vi tilegner oss det gjennom oppvekst, veiledning og erfaring, og det viser seg i vanemessige handlinger. Dydene kjennetegner mennesker vi beundrer og gjerne vil være sammen med. Eksempler er mot, måtehold, ærlighet, gavmildhet, lojalitet, omsorg og ydmykhet. Det motsatte av dyder er laster, som å være ufølsom, arrogant, uærlig, egoistisk eller feig.
+
+Dyd er ikke det samme som vane, fordi det er karaktertrekket bak handlingen som teller. Dyd er heller ikke det samme som viljestyrke. Den virkelig dydige gjør det rette uten å måtte tvinge seg selv. Dyd handler heller ikke bare om fornuft, for en dydig person har også velbalanserte følelser. Og dyder må vise seg i handling. Gode intensjoner må kombineres med gode ferdigheter og selvinnsikt.
+
+Hos Aristoteles ligger en dyd mellom to ytterpunkter. Dette kalles den gylne middelvei. Mot ligger mellom feighet og overmot. Gavmildhet ligger mellom gjerrighet og ødselhet. Vennlighet ligger mellom å være kranglevoren og å være for opptatt av å behage andre. Mot er altså å ha passe mye frykt. Mot trengs ikke bare i kamp, men også i hverdagen, for eksempel når man varsler om noe kritikkverdig, ber om unnskyldning eller står fram som annerledes.
+
+Dydene utvikles gjennom øvelse og gjentakelse. Vi trenger gode forbilder, og vi blir gode ved å gjøre som gode mennesker gjør. Moral læres gjennom erfaring.
+
+Her skiller dydsetikken seg fra Kant. For Kant gir det å handle av plikt moralsk verdi. Dydsetikeren vil si at det er omtanken og medfølelsen for vennen som gjør handlingen verdifull. Følelser og fornuft skal spille sammen.
+
+For å utøve dydene godt trenger vi praktisk klokskap, på gresk fronesis. Det er evnen til å se hva som står på spill i en konkret situasjon, og til å se det gode. Det er kunnskap om hvordan noe gjøres, ikke om hva som er tilfelle, og den viser seg i handlinger og skjønn. Dydsetikerne bruker dette mot pliktetikken. Regelen om ikke å lyve fanger ikke opp alt, slik morderen på døren viser. Vi kan legge til unntak, for eksempel at man kan lyve for å redde en uskyldig. Men vi kan fortsette med unntak i det uendelige, og hvis regelen må tilpasses hver situasjon, har den mistet poenget. Derfor blir dømmekraft og skjønn avgjørende.
+
+Målet i dydsetikken er å blomstre som menneske, på gresk eudaimonia. Det betyr å leve godt og fungere godt. Dette er en annen lykkeforståelse enn hos utilitaristene. For utilitaristen gjør vi noe fordi det gir nytelse, og derfor finner vi det verdifullt. For dydsetikeren nyter vi noe fordi vi finner det verdifullt i seg selv. Lykken er et vellykket liv med gode relasjoner og meningsfulle aktiviteter. Mennesket er et sosialt dyr med fornuft, og et godt liv er et liv der vi får utfolde evnene våre sammen med andre. Dydene er nødvendige for et slikt liv. Vi må også se livet under ett, for én svale gjør ingen sommer.
+
+Tenk deg at en venninne har spredt bilder og usanne rykter om deg for å komme inn i en vennegjeng. Nå angrer hun og ber om tilgivelse. Som dydsetiker spør du hva en god person ville gjort. Kanskje finnes det en middelvei mellom å være ettergivende og å være uforsonlig. Du trenger selvrespekt, men også evnen til å se om angeren er ekte. Praktisk klokskap hjelper deg å vurdere hvor alvorlig det hun gjorde var, og hva vennskapet har betydd. Følelsene dine er en legitim del av vurderingen.
+
+Kort oppsummert: Dyder er tillærte karaktertrekk, ofte en middelvei mellom ytterpunkter, som krever praktisk klokskap og er nødvendige for et godt liv.
+
+# Dydsetikk i praksis og innvendinger
+
+I dette kapitlet ser vi hvordan dydsetikken kan brukes på miljøspørsmål, hvilke innvendinger den møter, og hvordan den skiller seg fra de andre teoriene.
+
+Mange miljøproblemer er kollektive handlingsproblemer. Hver av oss bidrar med en forsvinnende liten del, og én persons endring har nesten ingen effekt. Vi så at utilitarismen får problemer her. Dydsetikken har et annet svar. Å kaste en tomflaske i naturen kan være galt selv om det ikke bryter noe prinsipp og ikke har store konsekvenser. Spørsmålet er heller hva slags person som gjør noe slikt. Handlingen viser likegyldighet, tankeløshet og arroganse. Miljøetikken vokste delvis ut av et dydsetisk engasjement, med dyder som ydmykhet, omsorg og respekt. Måten vi behandler naturen på, viser hvem vi er.
+
+Det er reist tre innvendinger mot dydsetikken. Den første er at den ikke gir handlingsveiledning, og derfor bare er et supplement til de andre teoriene. Rosalind Hursthouse svarer at dydsetikken gir dydsregler. Vi skal gjøre det som er respektfullt og ærlig, og ikke det som er gjerrig eller feigt. Den andre innvendingen er faren for relativisme, siden forståelsen av dyder er formet av tradisjon og kultur. Svaret er at den samme innvendingen kan rettes mot de andre teoriene, og Martha Nussbaum påpeker at ulike kulturelle forståelser av dydene ikke betyr at dydene selv er relative. Den tredje innvendingen er at dydsetikken ikke sier hvordan vi bør handle som samfunn. Nussbaum svarer at statens oppgave er å legge til rette for at folk kan forfølge sine egne prosjekter, og knytter dermed dydsetikken til kapabilitetstilnærmingen i politisk filosofi.
+
+Er dydsetikken vanskelig å bruke i praksis? For innvendingen taler det at «gjør det en god person ville gjort» hjelper lite når folk er uenige, og at dyder som ærlighet og lojalitet kan trekke hver sin vei. Mot innvendingen taler det at dydsreglene faktisk gir veiledning, og at de andre teoriene ikke nødvendigvis er lettere. Nyttekalkylen krever kunnskap om konsekvenser vi sjelden har, og universalitetsprinsippet gir urimelige svar når morderen står på døren. Dydsetikeren kan si at det er en styrke at teorien krever skjønn, fordi virkeligheten er for sammensatt for faste regler.
+
+La oss sammenligne de tre teoriene. Utilitaristen spør hvilken handling som gir best konsekvenser. Pliktetikeren spør hvilken handling som er i samsvar med plikten. Dydsetikeren spør hvordan jeg bør være som person. De to første er handlingsorienterte ettprinsippteorier, mens dydsetikken er aktørorientert. For utilitaristen er lykke behag eller oppfylte preferanser. For dydsetikeren er lykke eudaimonia, å blomstre som menneske. Kant nedtoner følelsene, mens dydsetikken vil at følelser og fornuft skal spille sammen.
+
+Dydsetikkens styrker er at den tar følelser, relasjoner og karakter på alvor, at den kan forklare ansvar i kollektive problemer, at den unngår de urimelige svarene vi får når én regel brukes rigid, og at den gir et rikere bilde av det gode livet. Svakhetene er at den gir mindre presis veiledning, at den kan være utsatt for relativisme, og at den sier lite direkte om samfunnet.
+
+Kort oppsummert: Dydsetikken gir gode svar på miljøspørsmål og tar karakteren på alvor, men kritiseres for å gi lite konkret veiledning.
+
+# Moralsk status
+
+I dette kapitlet ser vi på hva moralsk status er, og hva de tre teoriene sier om hvem som har det.
+
+Å ha moralsk status er å være noe eller noen vi kan ha moralske forpliktelser overfor, for deres egen skyld. Spørsmålet er hvem som skal tas med i beregningen når vi vurderer handlinger, og hvor stor vekt interessene til ulike grupper skal få. Omstridte tilfeller er fostre, personer i permanent vegetativ tilstand, mennesker langt unna eller langt fram i tid, dyr, arter og økosystemer, og kunstig intelligente maskiner.
+
+For utilitaristene er evnen til glede og lidelse avgjørende. Bentham sa at spørsmålet ikke er om de kan tenke eller snakke, men om de kan lide. Siden dyr kan lide, har de moralsk status. Peter Singer kaller det artssjåvinisme å mene at artstilhørighet i seg selv gir ulik moralsk status, og han sammenligner det med rasisme. Forelesningen spør om det finnes en saklig grunn til å bry seg mindre om et pattedyr enn om et spedbarn eller en person med alvorlig demens.
+
+Av utilitarismen følger det at menneskelivet ikke har egenverdi i seg selv. Singer mener at det ikke er artstilhørigheten, men egenskaper som rasjonalitet, autonomi og selvbevissthet, som avgjør hvor galt det er å drepe. Han trekker den kontroversielle konklusjonen at det å avslutte livet til et spedbarn med alvorlige misdannelser ikke er moralsk likt å drepe en person. Mange ser dette som en innvending mot teorien.
+
+Kant knytter moralsk status til fornuften. Bare personer, altså fornuftsvesener, er formål i seg selv. Bare vesener som kan bedømme handlingene våre moralsk, kan gi oss plikter. Dyr regnes derfor som ting, og vi har ingen direkte plikter overfor dem. Barn og mennesker med nedsatt kognitiv funksjon har likevel moralsk status, fordi de har kapasitet for moral i kraft av sin natur som mennesker. Kant mente også at vi har en indirekte plikt til å behandle dyr godt. Grusomhet mot dyr gjør oss avstumpet, og den som er grusom mot dyr, blir også hard mot mennesker.
+
+Tom Regan gir et annet pliktetisk svar. Vi har moralsk status fordi vi er livssubjekter. Vi er klar over verden og det som skjer med oss, og det som skjer med oss, betyr noe for hvor godt livet vårt er. Mange dyr er livssubjekter, og har derfor moralsk status på linje med mennesker.
+
+Dydsetikere som Mary Midgley og Rosalind Hursthouse mener vi bør kvitte oss med begrepet moralsk status. Det handler ikke om å trekke faste grenser, men om relasjoner. Det er forskjell på kua i fjøset, rotta i laboratoriet og hakkespetten i skogen. Hunden din skal ha mat og stell, mens en gaupe bør vi holde avstand til. Omsorg og respekt er bedre begreper, og de uttrykkes på ulike måter avhengig av relasjonen. Dydsetikeren kan for eksempel spørre hvilke dyder som kommer til uttrykk i industrielt dyrehold.
+
+Kort oppsummert: Utilitaristen knytter moralsk status til evnen til å lide, Kant til fornuften, Regan til det å være et livssubjekt, og dydsetikeren erstatter begrepet med relasjoner, omsorg og respekt.
+
+# Oppsummering
+
+I dette siste kapitlet samler vi trådene og bruker teoriene på et konkret case.
+
+Utilitarismen sier at vi skal velge den handlingen som gir størst samlet nytte for alle berørte, der alle teller likt. Bentham så nytte som behag, Mill skilte mellom høyere og lavere nytelser, og preferanseutilitarister ser nytte som oppfylte ønsker. Usikkerhet håndteres med forventet nytte. Teorien kritiseres for å kunne ofre enkeltpersoner, for å kreve for mye og for å slite med kollektive problemer.
+
+Kants pliktetikk sier at moralen kommer fra fornuften, og at moralske krav er kategoriske. Vi skal bare handle etter regler som kan gjelde for alle, og aldri behandle noen bare som et middel. Teorien kritiseres for morderen på døren, og for å nedtone konsekvenser og følelser.
+
+Dydsetikken spør hvordan vi bør være som personer. Dydene er tillærte karaktertrekk som krever praktisk klokskap, og de er nødvendige for eudaimonia. Teorien kritiseres for å gi lite konkret veiledning.
+
+Seminarets case handler om Geir Lysfjord. Mens naboene i familien Grankvist er på ferie, feller han to av trærne deres for å få tilbake fjordutsikten. Av sympati feller han også et tre som tar utsikten fra familien Fredly. Grankvist kommer hjem og blir fortvilet, fordi trærne var friske og skjermet terrassen deres mot innsyn.
+
+Lysfjord kan forsvare seg utilitaristisk ved å si at flere mennesker, han selv og den store familien Fredly, får glede av utsikten i mange år. Familien Grankvist kan svare at regnestykket ikke er opplagt, fordi tapet av trærne og innsynet også er lidelse som må telle, og fordi Lysfjord kunne ha snakket med dem først. Pliktetisk kan Grankvist si at regelen om å ta seg til rette på andres eiendom når de er borte, ikke kan gjøres til en allmenn lov, og at Lysfjord brukte dem bare som middel uten å spørre om samtykke. En dydsetiker vil spørre hva slags person som gjør noe slikt, og om handlingen uttrykker overmot og mangel på respekt heller enn mot.
+
+En god besvarelse pakker ut teoriene før de brukes, sammenligner dem og viser hvor de er uenige.
+
+Takk for at du lyttet.

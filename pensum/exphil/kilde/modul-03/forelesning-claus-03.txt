@@ -1,0 +1,340 @@
+--- side 1 ---
+Forelesning 3 EXPH0300
+- Avsluttende om
+argumentasjonsteori
+- Vitenskapelig tenkemåte
+v/ Claus Halberg
+Førsteamanuensis
+Institutt for filosofi og religionsvitenskap
+claus.halberg@ntnu.no
+
+--- side 2 ---
+Plan for forelesningen
+1. Avsluttende om argumentasjonsteori
+i. Nok en type induktiv argumentasjon: Slutning til (beste) forklaring
+(abduksjon)
+ii. Vurdering av riktighet
+2. Vitenskapelig tenkemåte
+i. Vitenskapsfilosofiens hva og hvorfor
+ii. Hypotetisk-deduktiv metode: «logikken» i en vitenskapelig test
+iii. Demarkasjonsproblemet, induksjonsproblemet, falsifikasjonisme
+iv. Noen innvendinger mot falsifikasjonisme
+
+--- side 3 ---
+Slutning til (beste) forklaring (a.k.a. abduksjon)
+• Standpunktet er ment å
+forklare observasjonen(e) eller
+fenomenet som omtales i
+argumentet.
+Neanderthalerne var omsorgsfulle
+mennesker som tok vare på de syke,
+skadde og gamle blant seg.
+• Vurdering av relevans:
+• Forklarer standpunktet
+observasjonene?
+• Er standpunktet i samsvar med
+andre ting vi tror?
+• Er forklaringen standpunktet gir
+enkel?
+• Finnes det bedre alternativer til
+forklaring av observasjonene?
+I Frankrike er det funnet
+et skjelett av en gammel
+neanderthalermann som
+har hatt langt
+framskreden leddgikt og
+som overlevde i mange
+år etter å ha mistet de
+fleste av tennene sine.
+I 1865 ble det funnet
+en neanderthalermann
+som på ett eller annet
+tidspunkt hadde
+brukket armen, og som
+på tross av at bruddet
+grodde må ha hatt
+vansker med å bruke
+armen i etterkant.
+
+--- side 4 ---
+Veldig kort om vurdering av riktighet
+• Vi sier ikke om et argument (eller annen påstand) at det
+har «høy riktighet» eller «lav riktighet» – det er i seg selv
+enten riktig eller uriktig.
+• Derimot kan vi ha større eller mindre grunn til å tro at et
+argument er riktig, eller vi kan vurdere sannsynligheten
+for at argumentet er riktig som større eller mindre.
+• Når vi tar stilling til sannsynligheten for at et argument er
+riktig må vi basere oss på:
+• Egen kunnskap eller konsultering av andre kilder
+• Styrken i eventuelle indirekte argumenter
+
+--- side 5 ---
+Vitenskapsfilosofi og
+vitenskapelig tenkemåte
+
+--- side 6 ---
+Vitenskapsfilosofi
+= Filosofiske spørsmål angående vitenskapelig tenkemåte/metode
+➢Hvordan bør en vitenskapelig test foregå for at den skal kunne gi oss
+kunnskap om verden?
+➢Hvordan skiller vi mellom vitenskap og pseudovitenskap?
+➢På hvilket generelt grunnlag (om noe) kan man betrakte en vitenskapelig
+hypotese som bekreftet av observasjoner?
+➢Hvordan foregår vitenskapelig utvikling – nærmer den seg sannheten?
+
+--- side 7 ---
+Hvorfor vitenskapsfilosofi er viktig
+Grunn nr. 1: Vitenskap er viktig
+Vitenskap er (formodentlig) viktig for dem som
+selv driver med det...
+...men er viktig også for alle andre, pga. dens
+store samfunnsmessige betydning:
+- Vitenskap er noe vi bruker store felles
+ressurser på
+- Vitenskap utgjør ofte en del av grunnlaget for
+viktige politiske beslutninger
+
+--- side 8 ---
+Hvorfor vitenskapsfilosofi er viktig
+Grunn nr. 2: Vitenskap er vanskelig
+- Vi ledes lett på villspor av bekreftelsestendens.
+- Vi har lett for å begå tankefeil.
+- Vitenskap handler ofte om forhold som ikke
+kan observeres direkte, f.eks.:
+- Årsaksforhold og lovmessigheter
+- Veldig små ting/hendelser
+- Veldig store eller fjerne ting/hendelser
+- Fortidige hendelser
+M.a.o., å lykkes med vitenskap krever en tenke-
+og framgangsmåte som kompenserer for våre
+naturlige begrensninger og vår feilbarlighet.
+
+--- side 9 ---
+Hypotetisk-deduktiv metode (HDM):
+Et tentativt grunnskjema for
+vitenskapelige tester
+
+--- side 10 ---
+Hypotetisk-deduktiv metode (HDM)
+1. Formuler en hypotese h
+Fortrinnsvis en påstand som
+1) har stor forklaringskraft
+2) er i samsvar med allerede etablert kunnskap,
+3) er enkel, og
+4) er bedre enn alternativene
+2. Utled en observerbar konsekvens e av h: noe
+som må forventes å inntreffe dersom h er sann.
+3. Test h ved å sjekke om e faktisk inntreffer.
+4. Vurder h i lys testen: som bekreftet hvis e
+inntreffer, som avkreftet hvis ikke.
+
+--- side 11 ---
+Hypotetisk-deduktiv metode (HDM), illustrert med tilfellet Semmelweis
+1. Formuler en hypotese h:
+Dødelig barselfeber oppstår som følge av at en fødende kvinne eksponeres for en giftig substans, «likstoff», som
+skilles ut i en død kropp.
+2. Utled en observerbar konsekvens e fra h:
+Når medisinstudentene som vanligvis kommer direkte fra obduksjonssalen for å assistere på fødeavdeling 2 ved sykehuset i Wien begynner å vaske hendene sine med klorkalk før de går på vakt på fødeavdelingen, vil den hittil høye dødeligheten i barselfeber her gå ned.
+3. Test h ved å sjekke om e faktisk inntreffer:
+Ignaz Semmelweis
+(1818-1865)Etter at medisinstudenter begynte å vaske hendene med klorkalk på veien fra obduksjonssalen til fødeavdeling 2 ved
+sykehuset i Wien, gikk barselfeberdødeligheten ned her.
+4. Vurder h i lys av testen.
+Hypotesen er bekreftet.
+
+--- side 12 ---
+
+
+--- side 13 ---
+Hypotetisk-deduktiv metode, illustrert med et medievitenskapelig eksempel
+1. Formuler en hypotese h:
+Vi blir mer likegyldige til vold av å spille voldelige dataspill.
+2. Utled en observerbar konsekvens e fra h:
+Personer uten mye tidligere erfaring med voldelige dataspill vil etter gjentatt spilling
+over to uker oppvise svekket aktivering av hjernens empatikretser ved observasjon av at noen påføres elektriske sjokk, sammenlignet med kontrollgruppe.
+3. Test h ved å sjekke om e faktisk inntreffer:
+En testgruppe uten mye tidligere erfaring med voldelige dataspill spilte Grand Theft Auto V gjentatte ganger gjennom to uker, ut fra instruksen om å drepe så mange
+rollefigurer som mulig. En ellers lik kontrollgruppe spilte samme dataspill, men med instruks om å ta så mange bilder de klarte av andre rollefigurer framfor å drepe dem. Testgruppen viste ingen endring av aktiveringsnivå i hjernens empatikretser (målt med fMRI) ved observasjon av at noen påføres elektriske sjokk, sammenlignet med
+kontrollgruppen.
+4. Vurder h i lys av testen:
+Hypotesen er avkreftet.
+
+--- side 14 ---
+Hva er problemet i denne studien, i lys av HDM?
+• Et forskningsmiljø setter i gang en stor statistisk studie av risikofaktorer
+for kreft.
+• De studerer sammenhengen mellom 200 forskjellige variabler og kreft.
+• I datamaterialet finner forskerne at de som bor nært en trafikkert vei har
+30 % høyere frekvens av kreft enn snittet i studien, selv når det
+kontrolleres for andre variabler (inntekt, livsstil, alder, osv.).
+• Statistiske beregninger tilsier at resultatet er ikke-tilfeldig i 99 av 100
+tilfeller.
+• Forskerne konkluderer med at det å bo nært en trafikkert vei
+sannsynligvis øker risikoen for kreft.
+
+--- side 15 ---
+Demarkasjonsproblemet,
+induksjonsproblemet,
+falsifikasjonisme
+
+--- side 16 ---
+Demarkasjonsproblemet
+Hvordan skille mellom ekte
+vitenskap og pseudovitenskap
+(= teorier og metoder som
+framstilles som vitenskapelige
+uten egentlig å være det)?
+Noen eksempler på
+teorier/metoder som typisk
+trekkes fram som tilfeller av PV:
+- kreasjonisme
+- astrologi
+- paranormal psykologi
+- alternative behandlingsmetoder
+➢ homøopati
+➢ kvantehealing
+➢ etc.
+
+--- side 17 ---
+Karl Poppers forslag til demarkasjonskriterium
+Vitenskap er å formulere hypoteser med henblikk på å teste
+dem, og dernest å teste dem med henblikk på å falsifisere
+dem, ikke å verifisere dem.
+Pseudovitenskap er å formulere og forsvare hypoteser som
+ikke lar seg falsifisere, eller å utelukkende lete etter data
+som bekrefter den valgte hypotesen og overse motstridende
+data, eller å prøve å beskytte hypotesen mot falsifikasjon
+ved bruk av ad hoc-hypoteser.
+Demarkasjonskriteriet for hypotesers vitenskapelighet er
+altså at de er falsifiserbare; for forskningsaktivitetens
+vitenskapelighet, at den er innrettet mot falsifikasjon.
+Karl R. Popper
+(1902-1994)
+
+--- side 18 ---
+Å formulere og forsvare hypoteser som ikke lar seg falsifisere
+Poppers eksempel: Adlers individualpsykologi
+Adlers hypotese:
+All menneskelig handling er i siste instans
+motivert av et iboende mindreverdskompleks.
+➢forenlig med tilfellet der en mann dytter et
+barn på sjøen for å la det drukne ihjel
+➢forenlig med det motsatte tilfellet, der en
+mann ofrer sitt eget liv i et forsøk på å redde
+et barn fra drukningsdøden. Alfred Adler (1870-1937)
+
+--- side 19 ---
+Å bortforklare falsifiserende observasjoner med ad hoc-hypoteser
+Psykoanalysens drømmeteori: drømmer er ønskeoppfyllelser.
+«Jeg hadde en dag forklart [pasienten] at drømmen var en
+ønskeoppfyllelse; neste dag kom hun til meg med en ny drøm om at hun reiste sammen med sin svigermor for å tilbringe ferien sammen med henne. Nå visste jeg at hun hadde strittet heftig i mot å tilbringe sommeren i nærheten av svigermoren, og jeg visste også at hun i løpet av de siste dagene lykkelig hadde unngått dette fryktede fellesskap ved å leie et sommerhus som lå langt fra svigermorens oppholdssted. Nå opphevet drømmen denne ønskede løsning; var ikke det et skarpt motbevis mot min lære om at drømmen oppfyller et ønske? Utvilsomt, man trengte bare å trekke konsekvensen av denne drøm for å ha tydingen. Ifølge denne drøm hadde jeg urett, det
+var altså hennes ønske at jeg skulle ha urett, og dette ønsket
+oppfylte drømmen for henne».
+Sigmund Freud
+(1865-1939)
+Freud, Drømmetydning, s. 117.
+(Eksempelet er fra Tim Lewens, The Meaning of Science, s. 17-18)
+Ad hoc-
+hypotese
+
+--- side 20 ---
+Einsteins relativitetsteori: Poppers foreslåtte
+mønstereksempel på vitenskapelighet, pga.
+dens dristige, testbare prediksjoner
+Albert Einstein
+(1879-1955)
+Arthur S. Eddington
+(1882-1944)
+
+--- side 21 ---
+Appellen ved Poppers demarkasjonskriterium
+1. Det kan utgjøre en nødvendig motvekt mot vår
+iboende bekreftelsestendens.
+2. Det rimer godt med et bilde av vitenskap som
+en kritisk aktivitet.
+➢jfr. Poppers begrep om kritisk rasjonalisme
+Karl R. Popper
+(1902-1994)
+
+--- side 22 ---
+Logisk asymmetri mellom bekreftelse og avkreftelse
+• Bekreftelse:
+• Ingen samling enkeltobservasjoner av f.eks. hvite svaner kan
+noen gang definitivt bekrefte at alle svaner er hvite.
+• Bekreftelse (verifikasjon) følger induktiv argumentasjon:
+observasjonene gjør hypotesen mer eller mindre sannsynlig.
+• Avkreftelse:
+• Én eneste observasjon av, f.eks. en svart svane, kan definitivt
+avkrefte hypotesen om at alle svaner er hvite.
+• Avkreftelse (falsifikasjon) følger den deduktive
+argumentasjonsformen modus tollens:
+• Hvis h («Alle svaner er hvite), så e («Neste svane er hvit»)
+• Ikke e («Neste svane er ikke hvit»)
+• Altså ikke h («Altså er det ikke slik at alle svaner er hvite»)
+
+--- side 23 ---
+Induksjonsproblemet
+Hvordan begrunner vi at det at vi har observert noe mange
+ganger (f.eks. at ravner er svarte) gir grunn til å tro at vi
+kommer til å fortsette å observere det samme?
+Det eneste mulige svaret er pr. induksjon, nemlig at vi har
+observert akkurat dette mange ganger: at noe vi har observert
+mange ganger i fortiden har vi fortsatt å observere i framtiden.
+Men da forutsetter vi jo nettopp det vi skulle begrunne!
+Siden det ikke er rasjonelt å argumentere i sirkel, har vi ingen
+rasjonell grunn til å tro at induksjon gir kunnskap om verden.
+David Hume
+(1711-1776)
+
+--- side 24 ---
+Falsifikasjonisme som løsning på induksjonsproblemet
+og modell for vitenskapelig utvikling
+• Ekte vitenskapelig forskning er innrettet
+mot å avkrefte, ikke bekrefte, hypoteser.
+• For å avkrefte hypoteser trengs ikke
+induksjon, bare deduksjon:
+- Hvis h, så e
+- ikke e
+- altså ikke h
+• Vitenskapen gjør framskritt ved å eliminere
+gale hypoteser, ikke ved å akkumulere
+riktige hypoteser.
+Karl R. Popper
+(1902-1994)
+
+--- side 25 ---
+Noen innvendinger mot
+falsifikasjonisme
+
+--- side 26 ---
+Quine-Duhem-tesen:
+Hypoteser testes aldri i isolasjon
+• Ved gjennomføring av en test må vi gjøre en rekke antakelser.
+• Jfr. testen av voldelige dataspills innvirkning på empati, som
+omfatter antakelser om bl.a.:
+• hvor i hjernen vi finner de såkalte «empatikretsene»
+• hva som utgjør pålitelige indikatorer på økt vs. minsket hjerneaktivitet
+• at maskinene vi bruker for å måle hjerneaktivitet virker som de skal, etc.
+• Det er derfor alltid flere hypoteser i spill under en test enn bare
+den ene vi er interessert i å teste.
+• Når vi får et uventet resultat kan det altså like gjerne ha vært en
+av «hjelpehypotesene», ikke hovedhypotesen, som ble avkreftet.
+W. V. O. Quine
+(1908-2000)
+Pierre Duhem
+(1861-1916)
+
+--- side 27 ---
+Falsifikasjonisme forklarer ikke på en god måte hvorfor det til
+praktiske formål er rasjonelt å bruke en grundig testet teori
+framfor en (falsifiserbar) teori som ennå ikke har vært testet
+
+--- side 28 ---
+Neste forelesning (uke 37)
+Tema:
+Fortsettelse, vitenskapelig
+tenkemåte
+Pensum:
+Tenk! Del 2, kap. 6-7
+

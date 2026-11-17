@@ -1,0 +1,363 @@
+--- side 1 ---
+Vitenskapsfilosofi
+Ex.phil.
+Kjetil Skjerve
+
+--- side 2 ---
+Plan for forelesningen
+• Avslutning om argumentasjonsvurdering
+• Introduksjon til vitenskapsfilosofien
+• Hypotetisk deduktiv metode
+• Demarkasjon: Hvordan skille vitenskap og pseudovitenskap?
+• Falsifikasjonisme
+• Innvendinger mot falsifikasjonisme
+
+--- side 3 ---
+Argumentasjonsvurdering
+• Deduktive argumenter
+• Induktive generaliseringer
+• Induktive syllogismer
+• Analogiargumenter
+• Abduksjon: slutning til forklaring
+• Argumenters riktighet
+
+--- side 4 ---
+Analogiargumenter
+• Argument fra enkelttilfeller til
+lignende enkelttilfeller.
+• Vurderingen av relevans handler om
+hvorvidt tilfellene som sammenlignes
+har relevante likheter og ulikheter.
+
+--- side 5 ---
+Abduksjon: Slutning
+til forklaring
+• Standpunktet gir en forklaring på
+det som nevnes i argumentet.
+• Vurdering av relevans:
+• Forklarer standpunktet
+observasjonen?
+• Er forklaringen forenlig med
+andre ting du tror?
+• Er forklaringen enkel?
+• Finnes det bedre forklaringer?
+
+--- side 6 ---
+Argumenters riktighet
+Argumenters
+riktighet
+Et argument er enten riktig eller uriktig, men vi kan ha ulik
+styrke i grunnen til å tro at et argument er riktig.
+Når vi skal ta stilling om et argument (sannsynligvis) er riktig,
+må vi bruke andre kilder, kombinert med vår egen kunnskap,
+eventuelt vurdere indirekte argumenter.
+Et argument med usikker riktighet kan være godt så lenge det
+har tilstrekkelig høy relevans.
+Eksempel: "Hvis NATO gir jagerfly til Ukraina, vil det
+føre til utbrudd av tredje verdenskrig."
+
+--- side 7 ---
+Vitenskapelig tenkemåte
+
+--- side 8 ---
+Hvorfor trenger vitenskapen metoder?
+• Vi er psykologisk disponert for tankefeil.
+• For eksempel:
+• Bekreftelsestendens
+• Vitenskap handler for en stor del om forhold som ikke kan observeres
+direkte.
+
+--- side 9 ---
+Bekreftelsestendens
+Tendensen til å lete
+etter, tolke og huske
+informasjon som gir
+bekreftelse til egne
+oppfatninger.
+
+--- side 10 ---
+Hvorfor trenger vitenskapen
+metoder? Vitenskap handler
+om saksforhold vi ikke kan
+observere.
+• Årsaksforhold
+• Generelle lover
+• Veldig små, veldig store eller fjerne
+objekter og hendelser.
+Teorier handler om hvordan virkeligheten
+er, men testes mot observasjoner.
+
+--- side 11 ---
+Betydningen av vitenskapelig metode
+I og med at vi er
+psykologisk disponert for
+systematisk skjevhet,
+samt at vitenskap handler
+om forhold vi ikke kan
+observere direkte, må vi
+følge prosedyrer som tar
+høyde for dette.
+
+--- side 12 ---
+Hva mangler i den følgende studien?
+• Et forskningsmiljø setter i gang en stor statistisk studie av risikofaktorer for
+kreft.
+• De studerer sammenhengen mellom 200 forskjellige variabler og kreft.
+• I datamaterialet finner forskerne at de som bor nært en trafikkert vei har 30
+% høyere frekvens av kreft enn snittet i studien, selv når det kontrolleres for
+andre variabler (inntekt, livsstil, alder, osv.).
+• Statistiske beregninger tilsier at en forskjell på 30 % kreftforekomst mellom
+to grupper er ikke-tilfeldig i 99 av 100 tilfeller.
+• Forskerne konkluderer med at det å bo nært en trafikkert vei sannsynligvis
+øker risikoen for kreft.
+
+--- side 13 ---
+Valg av hypotese
+Vitenskapen forklarer observasjoner ved å komme med hypoteser. Men hva er en god
+hypotese?
+- Forklaringskraft
+- Koherens
+- Enkelhet
+- Sammenligning med andre hypoteser
+Men er det tilstrekkelig?
+- Nei, hypoteser må testes
+
+--- side 14 ---
+Den
+hypotetisk
+deduktive
+modellen:
+generell
+struktur for
+vitenskapeli
+g testing
+1. Formuler en hypotese h.
+2. Utled en (beskrivelse av en) observasjon e fra
+h: Noe som må (eller i hvert fall bør) være tilfelle
+dersom h er sann.
+3. Hypotesen testes: Sjekk om e faktisk
+inntreffer.
+4. Dersom e inntreffer, er h bekreftet. Dersom e
+ikke inntreffer, må h forkastes.
+
+--- side 15 ---
+Hypotesetesting: Er
+kaken ferdig?
+• Hypotese: Kaken er ferdig.
+• Utledet observasjon: Hvis kaken er
+ferdig vil det ikke feste seg røre på en
+tannpirker som stikkes ned i kaken.
+• Test: Vi stikker en tannpirker ned i
+kaken og observerer at det ikke er røre
+på tannpirkeren.
+• Vi anser hypotesen som bekreftet.
+
+--- side 16 ---
+Hva skiller
+vitenskap fra
+pseudovitenskap?
+Pseudovitenskap: «Falsk»
+vitenskap: teorier og metoder
+som hevdes å være
+vitenskapelige, men som ikke gir
+systematisk kunnskap.
+
+--- side 17 ---
+Beskyldninger om pseudovitenskap blir brukt
+politisk
+
+--- side 18 ---
+Eksempel: intelligent
+design
+• Ikke så lett å trekke skille mellom
+vitenskap og pseudovitenskap
+som man først kunne tro.
+• Styrker ved intelligent design-
+hypotesen?
+• Den forklarer mer enn
+evolusjonsteorien
+• Forklaringen av biologi integreres i
+en helhetlig teori om alt i verden.
+
+--- side 19 ---
+Karls Poppers forslag: falsifikasjonisme
+• Ekte vitenskap kjennetegnes ved at man forsøker å formulere så dristige
+hypoteser som mulig, og så forsøker å avkrefte – falsifisere–
+hypotesene.
+• Falsifiserbarhet er demarkasjonskriteriet for vitenskap
+• Psevdovitenskap kjennetegnes av
+• «forskere» som leter etter data som kan bekrefte en teori, og
+unngår data som kan avkrefte teorien.
+• at teoriene er formulert på en slik måte at det er prinsipielt
+umulig å avkrefte dem.
+
+--- side 20 ---
+Induktive generaliseringer versus deduksjon
+Induktiv argumentasjon sannsynliggjør en
+konklusjon i større eller mindre grad
+I deduktiv argumentasjon følger standpunktet
+med nødvendighet fra argumentene
+Legemiddel a
+er helt trygt.
+Legemiddel a er
+ikke helt trygt.
+Tusen forsøkspersoner har
+brukt legemiddel a i ett år,
+og ingen fikk bivirkninger.
+Hvis a er helt
+trygt, får ikke
+Gerd
+bivirkninger når
+hun tar a.
+Gerd fikk
+bivirkning
+da hun
+tok a.
+
+--- side 21 ---
+To problemer
+med å bygge
+teorier på
+induktive
+slutninger
+• Induktive slutninger er ikke logisk/deduktivt
+gyldige. Et endelig antall observasjoner kan
+aldri gi en endelig bekreftelse av et
+universelt utsagn.
+• Induktive slutninger er sårbare for bias.
+21
+
+--- side 22 ---
+Induktive slutninger
+er ikke deduktivt
+gyldige
+Et endelig antall hvite svaner kan aldri sikkert bekrefte
+(verifisere) at alle svaner er hvite
+Én eneste svart svane kan avkrefte (falsifisere) at alle
+svaner er hvite
+
+--- side 23 ---
+Falsifikasjon og verifikasjon
+Det er ikke tilfelle at alle
+svaner er hvite.
+Alle svaner
+er hvite.
+Hvis alle svaner
+er hvite, må
+denne svanen
+være hvit.
+Denne
+svanen er
+ikke hvit.
+Hvis alle svaner
+er hvite, må
+denne svanen
+være hvit.
+Denne
+svanen er
+hvit.
+Hvis p så q
+Ikke-q
+ikke-p
+Hvis p så q
+q
+p
+
+--- side 24 ---
+Det er ofte lett å finne
+støtte for
+pseudovitenskapelige
+hypoteser
+• Eksempler på pseudovitenskap ifølge
+Popper:
+• psykoanalyse, marxisme, astrologi
+• Ledsages av ad hoc-hypoteser =
+«krykker» for å redde en hypotese eller
+teori.
+24
+
+--- side 25 ---
+Ad hoc-hypoteser
+• Hypoteser som tjener til å forklare avvik mellom en teori og spesifikke observasjoner,
+men som ikke kan testes uavhengig.
+• Øker forklaringsevnen, men reduserer evnen til å forutsi.
+Eks:
+• Ung jord-kreasjonisters forklaringer av fossile dinosaurer som Guds test av troen.
+• Effekten av alternativ behandling er sårbar for eksperimentelle betingelser,
+kameraer el.l.
+25
+
+--- side 26 ---
+Hvorfor er homøopati en pseudovitenskap?
+• Bekreftelsesbias: vi retter ubevisst oppmerksomheten
+mot de tilfellene som stemmer med hypotesen.
+• Ad hoc-hypoteser.
+F.eks.
+• «Effekten av homøopati forsvinner når den blir testet».
+• «De som tester homøopatisk medisin er i lommen på big
+pharma».
+
+--- side 27 ---
+Poppers teori om vitenskap har både mer og
+mindre kontroversielle sider
+Bredt akseptert
+• En hypotese må formuleres slik
+at det er mulig å teste den, og at
+det er mulig at den kan være
+feil.
+• Å lete etter observasjoner som
+bekrefter en hypotese, er typisk
+for pseudovitenskap.
+Kontroversielt
+• Vitenskapelig progresjon
+handler bare om å eliminere
+gale hypoteser.
+• En hypotese kan aldri bekreftes
+av observasjoner.
+• Én observasjon er nok til å
+falsifisere en hypotese.
+
+--- side 28 ---
+To innvendinger
+mot Poppers
+falsifikasjonisme
+1. Quine-Duhem-tesen
+skaper problemer for
+Popper: Teorier kan ikke
+testes mot
+enkeltobservasjoner.
+2. Popper gjør kanskje ikke
+godt nok rede for at
+observasjoner kan styrke
+en hypotese.
+
+--- side 29 ---
+Quine-Duhem-tesen
+• Hypoteser kan bare testes i «klaser»
+• Empiriske hypoteser henger sammen, og kan derfor
+ikke avkreftes enkeltvis.
+• Det er alltid mulig å få observasjonene til å stemme
+med en hypotese, så lenge man er villig til å gi slipp
+på andre antakelser.
+
+--- side 30 ---
+Quine-Duhem-tesen og falsifisering
+• Kaken har stått i ovnen i ti minutter.
+• Hypotese: Kaken er ikke ferdig.
+• Test: Vi stikker en tannpirker ned i
+kaken, og det fester seg ikke røre på
+tannpirkeren.
+• Bør vi konkludere med at hypotesen
+var gal?
+
+--- side 31 ---
+Popper forklarer ikke tilstrekkelig godt
+hvordan en teori kan styrkes av
+observasjoner
+Hvorfor er det bedre å bruke en veletablert
+fysisk teori enn en ny, ufalsifisert teori når vi
+skal bygge en bro?
+Overraskelsesprinsippene gir et mulig
+kriterium for at observasjoner styrker en
+hypotese.
+

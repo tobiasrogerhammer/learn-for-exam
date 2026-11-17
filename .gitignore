@@ -24,3 +24,6 @@ backend/models/*.onnx.json
 .idea/
 .vscode/
 *.pem
+
+# Raw Canvas export; the sorted copies live next to it in pensum/exphil
+pensum/exphil/canvas-eksport/

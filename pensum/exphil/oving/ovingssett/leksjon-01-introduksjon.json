@@ -1,0 +1,353 @@
+{
+  "summary": "Leksjonen gir en innføring i ex.phil.: hvordan emnet er bygget opp, og hvordan studiespørsmål, kortsvarsoppgaver og caser forbereder deg til eksamen. Den forklarer de tre formålene med ex.phil. og hva kritisk tenkning er, med vekt på å tenke klart, systematisk, rasjonelt og selvstendig. Den gir en oversikt over de sju temaene i emnet. Til slutt viser den hvorfor rasjonell tenkning ikke er et naturtalent, med bekreftelsestendens, anekdoter, følelsesappell, tankefeil, stråmenn og personangrep som eksempler, og hvorfor vi derfor trenger argumentasjonsteori.",
+  "flashcards": [
+    {
+      "front": "Hva er de to delene av pensum i EXPH0300?",
+      "back": "Fellespensum, som er læreboka Tenk! og er felles for alle ex.phil.-varianter ved NTNU, og variantpensum, som er artikler og bokutdrag samlet i et elektronisk kompendium for EXPH0300.",
+      "section": "Hvordan emnet er bygget opp"
+    },
+    {
+      "front": "Hva er forholdet mellom studiespørsmålene og eksamen?",
+      "back": "Studiespørsmålene dekker alt du trenger fra pensum. Kan du svare utfyllende på dem, er du godt forberedt til kortsvarsdelen av eksamen.",
+      "section": "Hvordan emnet er bygget opp"
+    },
+    {
+      "front": "Hvordan forbereder caseoppgavene deg til eksamen?",
+      "back": "Langsvarsoppgaven på eksamen kan løses med samme pensumstoff og samme fremgangsmåte som caseoppgavene i modulene. Langsvarsdelen teller to tredjedeler av karakteren.",
+      "section": "Hvordan emnet er bygget opp"
+    },
+    {
+      "front": "Hva tester kortsvarsoppgavene på eksamen først og fremst?",
+      "back": "Forståelse av begreper og teorier fra ulike deler av pensum, ikke navn og årstall.",
+      "section": "Hvordan emnet er bygget opp"
+    },
+    {
+      "front": "Hva er de tre overordnede formålene med ex.phil.?",
+      "back": "1) Å øve opp ferdigheter i kritisk tenkning. 2) Å gi en innføring i den vitenskapelige tenkemåten. 3) Å invitere til refleksjon over grunnleggende spørsmål om tilværelsen og virkelighetens karakter.",
+      "section": "Hva er poenget med ex.phil.?"
+    },
+    {
+      "front": "Hva innebærer kritisk tenkning i praksis, ifølge foreleserne?",
+      "back": "Å gjenkjenne gode og dårlige argumenter, skille vitenskap fra pseudovitenskap, oppdage språklig uklarhet og få øye på viktige moralske hensyn.",
+      "section": "Hva er poenget med ex.phil.?"
+    },
+    {
+      "front": "Hvordan definerer Tenk! ferdigheter i kritisk tenkning?",
+      "back": "Å kunne tenke klart, systematisk, rasjonelt og selvstendig for å komme frem til en velbegrunnet beslutning om hva man bør tro, hva man bør gjøre eller hvordan man bør være.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "front": "Hva mente Kant med selvforskyldt umyndighet?",
+      "back": "Umyndighet er manglende evne til å bruke egen forstand uten andres ledelse. Den er selvforskyldt når årsaken ikke er mangel på forstand, men mangel på mot og besluttsomhet til å bruke den.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "front": "Hva er opplysningens valgspråk ifølge Kant?",
+      "back": "Ha mot til å bruke din egen forstand!",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "front": "Hva betyr det å tenke rasjonelt?",
+      "back": "Å la seg lede av gode grunner og være på vakt mot dårlige grunner når man gjør seg opp en mening om hva man skal tro eller gjøre. Det krever evne til å skille saklig fra usaklig argumentasjon.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "front": "Hva er argumentasjonsteori?",
+      "back": "Læren om hvordan argumentasjon er bygget opp, og hva som gjør den sterk eller svak i logisk forstand.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "front": "Hvilke sju temaer består ex.phil. av?",
+      "back": "Argumentasjonsteori, vitenskapelig tenkemåte, vitenskap, teknologi og samfunn, menneskesyn, etikk, bærekraft og politisk filosofi.",
+      "section": "De sju temaene i ex.phil."
+    },
+    {
+      "front": "Hvordan defineres etikk i forelesningene?",
+      "back": "Som det systematiske studiet av hvordan vi bør handle og hvem vi bør være.",
+      "section": "De sju temaene i ex.phil."
+    },
+    {
+      "front": "Hvilke tre syn på forholdet mellom teknologi og samfunn nevner Mirela?",
+      "back": "At teknologien styrer utviklingen, at mennesker tar valgene, eller en middelvei der mennesker tar valgene, men valgene er betinget av hva teknologien åpner for eller begrenser.",
+      "section": "De sju temaene i ex.phil."
+    },
+    {
+      "front": "Hva er bekreftelsestendens?",
+      "back": "Tendensen til oftere å lete etter, og lettere huske, informasjon som bekrefter oppfatninger vi allerede har.",
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "front": "Hvorfor er anekdoter dårlige grunner?",
+      "back": "Ett slående enkelttilfelle sier lite om hva som gjelder generelt. Tilfellet kan skyldes flaks eller spesielle forhold, slik som fetteren som tjente en million på kryptovaluta.",
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "front": "Hva er feilen i: «Alle grådige egoister vil avskaffe formueskatten. Per vil avskaffe formueskatten. Altså er Per en grådig egoist»?",
+      "back": "Slutningen holder ikke. Selv om alle grådige egoister vil avskaffe skatten, kan også andre ville det av helt andre grunner.",
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "front": "Hvilke tre grunner gir Mirela for at god argumentasjon er krevende?",
+      "back": "Det er vanskelig å skille gode argumenter fra dårlige, det er vanskelig å være saklig når noe står på spill, og vi er utsatt for tankefeil.",
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "front": "Hva er stråmannsargumentasjon?",
+      "back": "Å argumentere mot en versjon av motpartens standpunkt som er mer kontroversiell eller urimelig, og dermed lettere å angripe, enn det standpunktet motparten faktisk har.",
+      "section": "To vanlige former for usaklighet"
+    },
+    {
+      "front": "Hva er personargumentasjon (ad hominem)?",
+      "back": "Å prøve å svekke troverdigheten til en person eller gruppe ved å beskrive dem med negative karakteristikker. Man flytter fokus fra sak til person og tar mannen i stedet for ballen.",
+      "section": "To vanlige former for usaklighet"
+    },
+    {
+      "front": "Når trenger vi argumentasjon?",
+      "back": "I alle tilfeller der det ikke er åpenbart hva vi bør tro eller gjøre, for eksempel i vitenskap, prosjektering, saksbehandling og politisk debatt.",
+      "section": "Når og hvorfor vi trenger argumentasjon"
+    },
+    {
+      "front": "Hvorfor kan man ikke bare observere at et næringsmiddel øker kreftfaren?",
+      "back": "Fordi vitenskap ikke bare er å samle data. Slike sammenhenger må sluttes fra dataene, og det er slutningene som er det viktigste.",
+      "section": "Når og hvorfor vi trenger argumentasjon"
+    },
+    {
+      "front": "Hvilke tre verktøy fra argumentasjonsteorien trekker Claus frem?",
+      "back": "Skillet mellom logisk og retorisk funksjon, skillet mellom riktighet og relevans, og normer for saklig debatt.",
+      "section": "Når og hvorfor vi trenger argumentasjon"
+    },
+    {
+      "front": "Hva er forskjellen på argumentasjonsanalyse og argumentasjonsvurdering?",
+      "back": "Analyse er å finne ut hva det argumenteres for, hvilke argumenter som gis og hvilken rolle de har. Vurdering er å ta stilling til om argumentene er gode eller mindre gode.",
+      "section": "Når og hvorfor vi trenger argumentasjon"
+    }
+  ],
+  "quiz": [
+    {
+      "question": "Hvilket av disse er IKKE ett av de tre formålene med ex.phil.?",
+      "options": [
+        "Å øve opp ferdigheter i kritisk tenkning",
+        "Å gi en innføring i den vitenskapelige tenkemåten",
+        "Å invitere til refleksjon over grunnleggende spørsmål om tilværelsen",
+        "Å lære studentene retoriske teknikker for å vinne debatter"
+      ],
+      "answer_index": 3,
+      "explanation": "De tre formålene er kritisk tenkning, vitenskapelig tenkemåte og refleksjon over grunnleggende spørsmål. Retorikk er ikke fokus i ex.phil.",
+      "section": "Hva er poenget med ex.phil.?"
+    },
+    {
+      "question": "Hvilken del av eksamen teller to tredjedeler av karakteren?",
+      "options": [
+        "Langsvarsdelen, som er en caseoppgave",
+        "Kortsvarsdelen",
+        "Den obligatoriske øvingsoppgaven",
+        "Begge delene teller like mye"
+      ],
+      "answer_index": 0,
+      "explanation": "Langsvarsdelen er en caseoppgave og teller to tredjedeler. Den kan løses med samme stoff og fremgangsmåte som caseoppgavene i modulene.",
+      "section": "Hvordan emnet er bygget opp"
+    },
+    {
+      "question": "Hva bør du prioritere når du forbereder deg til kortsvarsdelen?",
+      "options": [
+        "Å pugge navn og årstall på filosofer",
+        "Å lære lysbildene utenat",
+        "Å forstå begreper og teorier og kunne bruke dem",
+        "Å lese seminarplanen"
+      ],
+      "answer_index": 2,
+      "explanation": "Kortsvarsoppgavene tester forståelse av begreper og teorier og i liten grad navn og årstall.",
+      "section": "Hvordan emnet er bygget opp"
+    },
+    {
+      "question": "Hvilke fire egenskaper ved tenkningen nevnes i lærebokas definisjon av kritisk tenkning?",
+      "options": [
+        "Rask, kreativ, intuitiv og selvstendig",
+        "Klar, systematisk, rasjonell og selvstendig",
+        "Logisk, retorisk, overbevisende og klar",
+        "Objektiv, nøytral, vitenskapelig og skeptisk"
+      ],
+      "answer_index": 1,
+      "explanation": "Kritisk tenkning er å tenke klart, systematisk, rasjonelt og selvstendig for å nå velbegrunnede beslutninger.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "question": "Ifølge Kant er umyndighet selvforskyldt når den skyldes …",
+      "options": [
+        "mangel på utdanning",
+        "mangel på forstand",
+        "at autoritetene nekter folk å tenke selv",
+        "mangel på mot og besluttsomhet til å bruke egen forstand"
+      ],
+      "answer_index": 3,
+      "explanation": "Kant sier at umyndigheten er selvforskyldt når årsaken ikke er forstandens mangler, men mangel på mot til å bruke den uten andres ledelse.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "question": "Hva betyr det å tenke rasjonelt, slik foreleserne beskriver det?",
+      "options": [
+        "Å la seg lede av gode grunner og være på vakt mot dårlige grunner",
+        "Å alltid stole på eksperter",
+        "Å bare tro på det som kan måles",
+        "Å følge flertallets mening"
+      ],
+      "answer_index": 0,
+      "explanation": "Å tenke rasjonelt er å la seg lede av gode grunner og være på vakt mot dårlige, altså å kunne skille saklig fra usaklig argumentasjon.",
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "question": "Spørsmålet «Kan maskiner tenke?» hører hjemme under hvilket tema?",
+      "options": [
+        "Etikk",
+        "Politisk filosofi",
+        "Menneskesyn",
+        "Bærekraft"
+      ],
+      "answer_index": 2,
+      "explanation": "Menneskesyn tar opp spørsmål om bevissthet, sinn og hjerne, om maskiner kan tenke og om vi har fri vilje.",
+      "section": "De sju temaene i ex.phil."
+    },
+    {
+      "question": "Hvilket spørsmål hører til temaet vitenskapelig tenkemåte?",
+      "options": [
+        "Hvem bør bære kostnadene ved klimabyrden?",
+        "Hva skiller vitenskap fra pseudovitenskap?",
+        "Hvor langt kan myndighetene gripe inn i vår frihet?",
+        "Hvilke grupper har vi plikter overfor?"
+      ],
+      "answer_index": 1,
+      "explanation": "Skillet mellom vitenskap og pseudovitenskap er et kjernespørsmål i vitenskapelig tenkemåte. De andre hører til bærekraft, politisk filosofi og etikk.",
+      "section": "De sju temaene i ex.phil."
+    },
+    {
+      "question": "Lise er overbevist om at bergensere er brautende, og legger bare merke til de høylytte bergenserne hun møter. Hva er dette et eksempel på?",
+      "options": [
+        "Stråmannsargumentasjon",
+        "Personargumentasjon",
+        "Appell til følelser",
+        "Bekreftelsestendens"
+      ],
+      "answer_index": 3,
+      "explanation": "Bekreftelsestendens er at vi leter etter og husker informasjon som bekrefter det vi allerede tror.",
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "question": "«Min fetter investerte i kryptovaluta og tjente en million. Derfor bør jeg også investere.» Hva er hovedsvakheten?",
+      "options": [
+        "Det bygger på ett slående enkelttilfelle, en anekdote",
+        "Det er et stråmannsargument",
+        "Det er et personangrep",
+        "Det er en deduktivt gyldig slutning med gal premiss"
+      ],
+      "answer_index": 0,
+      "explanation": "Vi lar oss lett overbevise av anekdoter, men ett tilfelle sier lite om hva som gjelder generelt.",
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "question": "Nora vil gi minoriteter bedre vilkår. Vera svarer: «I motsetning til dem mener vi at også norsk kultur er verd å bevare.» Hva gjør Vera?",
+      "options": [
+        "Hun bruker personargumentasjon",
+        "Hun gir et riktig og relevant motargument",
+        "Hun angriper en stråmann",
+        "Hun appellerer til ekspertise"
+      ],
+      "answer_index": 2,
+      "explanation": "Vera antyder at Nora ikke vil bevare norsk kultur, noe Nora aldri har sagt. Hun angriper en forvrengt versjon av standpunktet.",
+      "section": "To vanlige former for usaklighet"
+    },
+    {
+      "question": "Hvilket utsagn er et klart eksempel på personargumentasjon?",
+      "options": [
+        "«Forslaget vil koste for mye, ifølge beregningene.»",
+        "«Det sier du bare fordi du er en grådig høyremann.»",
+        "«Undersøkelsen din har for lite utvalg.»",
+        "«Du har misforstått hva jeg mente.»"
+      ],
+      "answer_index": 1,
+      "explanation": "Personargumentasjon flytter fokus fra saken til personen ved å gi motparten negative karakteristikker.",
+      "section": "To vanlige former for usaklighet"
+    },
+    {
+      "question": "Hva er argumentenes logiske funksjon?",
+      "options": [
+        "Å overbevise et publikum",
+        "Å vekke følelser hos tilhørerne",
+        "Å vinne debatten",
+        "Å støtte eller svekke påstander"
+      ],
+      "answer_index": 3,
+      "explanation": "Den logiske funksjonen er å støtte eller svekke påstander. Å overbevise er den retoriske funksjonen.",
+      "section": "Når og hvorfor vi trenger argumentasjon"
+    }
+  ],
+  "recall": [
+    {
+      "prompt": "Gjør rede for de tre formålene med ex.phil. og forklar hvorfor emnet begynner med argumentasjonsteori.",
+      "key_points": [
+        "Øve opp ferdigheter i kritisk tenkning",
+        "Gi innføring i den vitenskapelige tenkemåten",
+        "Invitere til refleksjon over grunnleggende spørsmål om tilværelsen",
+        "Kritisk tenkning krever at man kan skille gode argumenter fra dårlige",
+        "Argumentasjon er et verktøy i alle de andre temaene"
+      ],
+      "section": "Hva er poenget med ex.phil.?"
+    },
+    {
+      "prompt": "Forklar hva kritisk tenkning er, og hva det vil si å tenke selvstendig og rasjonelt.",
+      "key_points": [
+        "Tenke klart, systematisk, rasjonelt og selvstendig",
+        "Målet er velbegrunnede beslutninger om hva man bør tro, gjøre eller være",
+        "Selvstendig: Kants krav om mot til å bruke egen forstand uten andres ledelse",
+        "Rasjonelt: la seg lede av gode grunner og være på vakt mot dårlige",
+        "Krever evne til å skille saklig fra usaklig argumentasjon"
+      ],
+      "section": "Hva er kritisk tenkning?"
+    },
+    {
+      "prompt": "Nevn de sju temaene i ex.phil. og gi ett eksempel på et spørsmål fra hvert.",
+      "key_points": [
+        "Argumentasjonsteori: hva gjør gode argumenter gode?",
+        "Vitenskapelig tenkemåte: vitenskap og pseudovitenskap",
+        "Vitenskap, teknologi og samfunn: samfunnsansvar",
+        "Menneskesyn: bevissthet og fri vilje",
+        "Etikk, bærekraft og politisk filosofi med egne eksempler"
+      ],
+      "section": "De sju temaene i ex.phil."
+    },
+    {
+      "prompt": "Forklar hvorfor rasjonell tenkning ikke er et naturtalent. Bruk eksempler på typiske feller.",
+      "key_points": [
+        "Vi er psykologisk disponert for tankefeil",
+        "Bekreftelsestendens",
+        "Vi overbevises lett av anekdoter og enkelteksempler",
+        "Vi påvirkes av appell til følelser",
+        "Logiske feil, for eksempel å slutte fra samvariasjon eller ugyldig form",
+        "Rasjonell tenkning må læres og øves"
+      ],
+      "section": "Rasjonell tenkning er ikke et naturtalent"
+    },
+    {
+      "prompt": "Forklar forskjellen mellom stråmannsargumentasjon og personargumentasjon, og gi et eksempel på hver.",
+      "key_points": [
+        "Stråmann: argumenterer mot en forvrengt, mer urimelig versjon av motpartens standpunkt",
+        "Personargumentasjon: svekker troverdigheten til person eller gruppe med negative karakteristikker",
+        "Personargumentasjon flytter fokus fra sak til person",
+        "Begge er usaklige og bidrar ikke til å avgjøre saken",
+        "Egne eksempler"
+      ],
+      "section": "To vanlige former for usaklighet"
+    },
+    {
+      "prompt": "Når trenger vi argumentasjon, og hvilke verktøy gir argumentasjonsteorien oss?",
+      "key_points": [
+        "Når det ikke er åpenbart hva vi bør tro eller gjøre",
+        "Eksempler: vitenskap, prosjektering, saksbehandling, politisk debatt",
+        "Skillet mellom logisk og retorisk funksjon",
+        "Skillet mellom riktighet og relevans",
+        "Normer for saklig debatt",
+        "Analyse og vurdering av argumentasjon"
+      ],
+      "section": "Når og hvorfor vi trenger argumentasjon"
+    }
+  ]
+}

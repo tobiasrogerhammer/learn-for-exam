@@ -1,13 +1,13 @@
 import { api } from "../../convex/_generated/api";
 import { convex } from "./convex";
 import { content, save } from "./storage";
-import type { DocCategory, ExtractedDocument, LibraryItem } from "./types";
+import type { DocCategory, DocumentMeta, ExtractedDocument, LibraryItem } from "./types";
 
-function readAll(): LibraryItem[] {
+function readAll(): DocumentMeta[] {
   return content.documents;
 }
 
-export function listLibrary(subjectId?: string): LibraryItem[] {
+export function listLibrary(subjectId?: string): DocumentMeta[] {
   return readAll()
     .filter((x) => !subjectId || x.subjectId === subjectId)
     .sort((a, b) => b.createdAt.localeCompare(a.createdAt));
@@ -37,7 +37,7 @@ export function guessCategory(title: string): DocCategory {
   return "annet";
 }
 
-export function categoryOf(item: LibraryItem): DocCategory {
+export function categoryOf(item: DocumentMeta): DocCategory {
   return item.category ?? guessCategory(item.title);
 }
 
@@ -60,7 +60,7 @@ export function saveDocument(
   speakingRate: number,
   subjectId: string,
 ): LibraryItem {
-  const item: LibraryItem = {
+  const meta: DocumentMeta = {
     id: doc.id,
     subjectId,
     category: guessCategory(doc.title),
@@ -69,11 +69,13 @@ export function saveDocument(
     createdAt: doc.createdAt,
     sectionCount: doc.sections.length,
     charCount: doc.rawText.length,
-    document: doc,
+    chapterCount: doc.sections.length,
+    wordCount: doc.rawText.split(/\s+/).filter(Boolean).length,
     speakingRate,
   };
-  const rest = readAll().filter((x) => x.id !== item.id);
-  content.documents = [item, ...rest];
+  const item: LibraryItem = { ...meta, document: doc };
+  content.documents = [meta, ...readAll().filter((x) => x.id !== item.id)];
+  content.details[item.id] = item;
   save(() =>
     convex!.mutation(api.content.saveDocument, {
       key: item.id,
@@ -91,12 +93,13 @@ export function saveDocument(
   return item;
 }
 
-export function getDocument(id: string): LibraryItem | undefined {
+export function getDocument(id: string): DocumentMeta | undefined {
   return readAll().find((x) => x.id === id);
 }
 
 export function deleteDocument(id: string): void {
   content.documents = readAll().filter((x) => x.id !== id);
+  delete content.details[id];
   save(() => convex!.mutation(api.content.deleteDocument, { key: id }));
 }
 
@@ -120,9 +123,8 @@ export function setLastJobId(documentId: string, jobId: string): void {
 }
 
 /** Chapters as Les shows them: the cleaned-up reading text when there is one */
-export function chapterCount(item: LibraryItem): number {
-  const markdown = item.reading?.markdown;
-  return markdown ? (markdown.match(/^## +/gm) ?? []).length : item.document.sections.length;
+export function chapterCount(item: DocumentMeta): number {
+  return item.chapterCount;
 }
 
 /** Words as Les counts them */

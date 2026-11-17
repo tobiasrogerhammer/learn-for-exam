@@ -1,0 +1,235 @@
+--- side 1 ---
+Vitenskapelige
+tenkemåter II
+EXPH0300
+Åsmund Sæther
+1
+
+--- side 2 ---
+Dagens plan
+• Fortsettelse falsifisering og pseudovitenskap
+• Innvendinger mot falsifikasjonisme
+• Quine-Duhem-tesen
+• Behovet for bekreftelse
+• Bekreftelse og overraskelsesprinsippene
+• Grunnfrekvens / Base rate
+2
+
+--- side 3 ---
+Det er ofte lett å finne støtte
+for pseudovitenskapelige
+hypoteser
+• Eksempler på pseudovitenskap ifølge
+Popper:
+• psykoanalyse, marxisme, astrologi
+• Ledsages av ad hoc-hypoteser =
+«krykker» for å redde en hypotese eller
+teori.
+3
+
+--- side 4 ---
+Ad hoc-hypoteser
+• Hypoteser som tjener til å forklare avvik mellom en teori og spesifikke
+observasjoner, men som ikke kan testes uavhengig.
+• Øker forklaringsevnen, men reduserer evnen til å forutsi.
+Eks:
+• Ung jord-kreasjonisters forklaringer av fossile dinosaurer som Guds test av
+troen.
+• Effekten av alternativ behandling er sårbar for eksperimentelle betingelser,
+kameraer el.l.
+4
+
+--- side 5 ---
+Hvorfor er homøopati en pseudovitenskap?
+• Bekreftelsesbias: vi retter ubevisst oppmerksomheten mot de
+tilfellene som stemmer med hypotesen.
+• Ad hoc-hypoteser
+F.eks.
+• «Effekten av homøopati forsvinner når den blir testet».
+• «De som tester homøopatisk medisin er i lommen på big
+pharma».
+5
+
+--- side 6 ---
+Ad hoc og
+vitenskapens
+avgrensning
+Ad hoc-hypoteser kan brukes i ulike
+tenkemåter:
+• Mørk materie – en tilleggshypotese
+som har blitt stående
+• Guds eksistens – en forklaring av alt
+Demarkasjonskriteriet:
+Hypotesen må være falsifiserbar
+Hvilken rolle spiller ad hoc-
+hypotesene? 6
+
+--- side 7 ---
+Poppers teori om vitenskap har både mer og
+mindre kontroversielle sider
+Bredt akseptert
+• En hypotese må formuleres slik
+at det er mulig å teste den, og at
+det er mulig at den kan være
+feil.
+• Å lete etter observasjoner som
+bekrefter en hypotese, er typisk
+for pseudovitenskap.
+Kontroversielt
+• Vitenskapelig progresjon
+handler bare om å eliminere
+gale hypoteser.
+• En hypotese kan aldri bekreftes
+av observasjoner.
+• Én observasjon er nok til å
+falsifisere en hypotese.
+7
+
+--- side 8 ---
+To innvendinger
+mot Poppers
+falsifikasjonisme
+1. Popper gjør kanskje ikke
+godt nok rede for at
+observasjoner kan styrke
+en hypotese.
+2. Quine-Duhem-tesen:
+Teorier kan ikke testes mot
+enkeltobservasjoner.
+8
+
+--- side 9 ---
+Quine-Duhem-tesen
+• Hypoteser kan bare testes i «klaser»
+• Empiriske hypoteser henger sammen,
+og kan derfor ikke avkreftes enkeltvis.
+• Det er alltid mulig å få
+observasjonene til å stemme med en
+hypotese, så lenge man er villig til å gi
+slipp på andre antakelser.
+9
+
+--- side 10 ---
+Quine-Duhem-tesen og falsifisering
+Kaken har stått i ovnen i ti minutter.
+• Hypotese: Kaken er ikke ferdig.
+• Test: Vi stikker en tannpirker ned i kaken,
+og det fester seg ikke røre på tannpirkeren.
+➢Bør vi konkludere med at hypotesen var gal?
+10
+
+--- side 11 ---
+Popper forklarer ikke tilstrekkelig godt hvordan
+en teori kan styrkes av observasjoner:
+Hvorfor er det bedre å bruke en veletablert
+fysisk teori enn en ny, ufalsifisert teori når vi
+skal bygge en bro?
+Overraskelsesprinsippene gir et mulig
+kriterium for at observasjoner styrker en
+hypotese.
+11
+
+--- side 12 ---
+Overraskelsesprinsippet
+En observasjon e bekrefter hypotese h i den grad:
+1. e er forventet (ikke overraskende) dersom h er sann
+2. e er overraskende dersom h er usann.
+(Elliot Sober 2004)
+12
+
+--- side 13 ---
+Overraskelsesprinsippet
+• Gjør det mulig å skille mellom
+bekreftelsesbias og reell styrking av
+en hypotese.
+Eksempel 1:
+Hypotese: Bergmynteekstrakt kurerer
+forkjølelse
+Observasjon: Aisha, som var forkjølet,
+begynte å drikke bergmynteekstrakt
+morgen og kveld, og fjorten dager
+senere var hun frisk
+13
+
+--- side 14 ---
+Overraskelsesprinsippet
+Eks. 2
+Hypotese:
+Det finnes flyvende objekter i amerikansk luftrom med
+ukjent, avansert teknologi.
+Observasjon:
+Et stort antall amerikanske jagerflyvere har rapportert
+om flyvende objekter tilsynelatende uten vinger eller
+motorer, som ser ut til å stille i luften selv i orkan, eller
+akselerere svært raskt.
+14
+
+--- side 15 ---
+Grunnfrekvens / Base rate
+For å ta stilling til hvor stor tillit vi bør ha til en hypotese, må vi
+supplere overraskelsesprinsippene:
+1. 2. Er e forventet (ikke overraskende) dersom h er sann?
+Er e overraskende dersom h er usann.
+3. Hvor overraskende (sannsynlig) er det at hypotesen er riktig,
+uavhengig av observasjonene?
+15
+
+--- side 16 ---
+Grunnfrekvens – Eksempel 1
+Ifølge observasjonen:
+➢Er det høyst sannsynlighet for å bli innlagt på sykehus for covid om man er
+vaksinert eller uvaksinert?
+16
+
+--- side 17 ---
+Grunnfrekvens
+Eksempel 2
+• Politiet stopper en tilfeldig
+bil, og sjåføren blåser "rødt".
+• Alkometeret er 95 %
+pålitelig:
+• Det gir feilutslag i 5 % av
+tilfellene hvor den som blåser
+er helt edru.
+• Hvor sannsynlig er det at
+sjåføren kjører med
+promille?
+17
+
+--- side 18 ---
+Vi må ta hensyn til hvor uvanlig det er å kjøre
+alkoholpåvirket (ca. 1 av 500)
+- Det er da ca. 4 % sannsynlighet for at sjåføren har
+drukket alkohol.
+Edru: 499 Alkoholpåvirket: 1
+ca. 474
+blåser grønt
+1 blåser rødt
+ca. 25
+blåser
+rødt
+18
+
+--- side 19 ---
+Bekreftelse og Bayesianisme
+• Vi kan beregne sannsynligheten for hypoteser
+• Mer overraskende observasjoner som støtter hypotesen gir økt støtte
+• Denne modellen utfordrer Poppers falsifikasjonisme
+• Forutsetter vurdering av eksisterende hypoteser –
+som er vitenskapelig oppe til debatt
+Thomas Bayes (1701-1761)
+19
+
+--- side 20 ---
+Hva har base rate å si for vurderingen av
+UAP-hypotesen?
+Hypotese:
+Det finnes flyvende objekter i amerikansk luftrom med
+ukjent, avansert teknologi.
+Observasjon:
+Et stort antall amerikanske jagerflyvere har rapportert
+om flyvende objekter tilsynelatende uten vinger eller
+motorer, som ser ut til å stille i luften selv i orkan, eller
+akselerere svært raskt.
+20
+

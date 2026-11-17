@@ -15,7 +15,7 @@ import { SourceIcon } from "@/components/source-icon";
 import { Button } from "@/components/ui/button";
 import { listenedLabel } from "@/lib/audiobook";
 import { CATEGORIES, categoryOf } from "@/lib/library";
-import type { DocCategory, LibraryItem, ListenPosition, Subject } from "@/lib/types";
+import type { DocCategory, DocumentMeta, ListenPosition, Subject } from "@/lib/types";
 
 // Written out in full so Tailwind keeps the classes
 const SUBJECT_COLORS = [
@@ -36,12 +36,32 @@ function subjectColor(id: string) {
   return SUBJECT_COLORS[hash % SUBJECT_COLORS.length];
 }
 
+const LECTURER = /\s*\(([^()]+)\)\s*$/;
+
+/**
+ * Lectures named like "2 - Forelesning 2: Argumentasjonsteori (Kjetil)" are
+ * grouped by the name in brackets, when a group has more than one such name.
+ * Returns null when there is nothing to group by.
+ */
+function byLecturer(items: DocumentMeta[]): { name: string; items: DocumentMeta[] }[] | null {
+  const groups = new Map<string, DocumentMeta[]>();
+  for (const item of items) {
+    const name = item.title.match(LECTURER)?.[1].trim() ?? "Andre";
+    groups.set(name, [...(groups.get(name) ?? []), item]);
+  }
+  const named = [...groups.keys()].filter((n) => n !== "Andre");
+  if (named.length < 2) return null;
+  return [...groups]
+    .map(([name, list]) => ({ name, items: list }))
+    .sort((a, b) => (a.name === "Andre" ? 1 : b.name === "Andre" ? -1 : a.name.localeCompare(b.name, "nb")));
+}
+
 type Props = {
   subjects: Subject[];
   activeId: string | null;
   docCounts: Record<string, number>;
   /** Documents in the active subject, shown under it grouped by category */
-  documents: LibraryItem[];
+  documents: DocumentMeta[];
   selectedDocId: string | null;
   /** Your listening positions, to show how much of each audiobook you have heard */
   positions: Record<string, ListenPosition>;
@@ -52,6 +72,8 @@ type Props = {
   onCreate: (name: string) => void;
   onRename: (id: string, name: string) => void;
   onDelete: (id: string) => void;
+  /** Opens the list where you add or remove subjects from your menu */
+  onEditSubjects?: () => void;
 };
 
 export function SubjectSidebar({
@@ -67,11 +89,21 @@ export function SubjectSidebar({
   onCreate,
   onRename,
   onDelete,
+  onEditSubjects,
 }: Props) {
   const [editing, setEditing] = useState<{ id: string | null; name: string } | null>(null);
   // The active subject is open unless you close it; categories open when you pick them
   const [closedSubject, setClosedSubject] = useState<string | null>(null);
   const [openGroups, setOpenGroups] = useState<Set<DocCategory>>(() => new Set());
+  const [openLecturers, setOpenLecturers] = useState<Set<string>>(() => new Set());
+
+  const toggleLecturer = (key: string) =>
+    setOpenLecturers((prev) => {
+      const next = new Set(prev);
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
+      return next;
+    });
 
   const groups = CATEGORIES.map((c) => ({
     ...c,
@@ -88,6 +120,46 @@ export function SubjectSidebar({
       else next.add(id);
       return next;
     });
+
+  /** Documents in a group; inside a lecturer's group the name in brackets is left out */
+  const docList = (items: DocumentMeta[], stripLecturer: boolean) => (
+    <ul className="space-y-0.5 py-0.5 pl-3">
+      {items.map((d) => {
+        const selected = d.id === selectedDocId;
+        return (
+          <li key={d.id}>
+            <button
+              type="button"
+              onClick={() => onSelectDocument(d.id)}
+              aria-current={selected ? "true" : undefined}
+              title={d.title}
+              className={`flex w-full items-start gap-2 rounded-md px-2 py-1.5 text-left text-[13px] leading-snug transition ${
+                selected
+                  ? "bg-primary/10 font-medium text-foreground"
+                  : "text-muted-foreground hover:bg-muted/70 hover:text-foreground"
+              }`}
+            >
+              <SourceIcon type={d.sourceType} />
+              <span className="line-clamp-2 min-w-0 flex-1 break-words">
+                {stripLecturer ? d.title.replace(LECTURER, "") : d.title}
+              </span>
+              {d.audiobook ? (
+                <span
+                  className="mt-0.5 shrink-0 text-teal-700"
+                  title={listenedLabel(positions[d.id])}
+                >
+                  <Headphones className="size-3.5" aria-hidden />
+                  <span className="sr-only">
+                    {listenedLabel(positions[d.id])}
+                  </span>
+                </span>
+              ) : null}
+            </button>
+          </li>
+        );
+      })}
+    </ul>
+  );
 
   const submit = () => {
     const name = editing?.name.trim();
@@ -129,10 +201,26 @@ export function SubjectSidebar({
   );
 
   return (
-    <nav aria-label="Emner" className="space-y-2">
-      <p className="px-2 text-xs font-medium uppercase tracking-[0.14em] text-muted-foreground">
-        Emner
-      </p>
+    <nav aria-label="Mine emner" className="space-y-2">
+      {onEditSubjects ? (
+        // The whole heading opens the subject list; the "Endre" chip shows that it can
+        <button
+          type="button"
+          onClick={onEditSubjects}
+          title="Legg til eller fjern emner"
+          className="group flex w-full items-center justify-between gap-2 rounded-md px-2 py-1 text-left transition hover:bg-muted/60"
+        >
+          <span className="text-xs font-medium uppercase tracking-[0.14em] text-muted-foreground group-hover:text-foreground">
+            Mine emner
+          </span>
+          <span className="flex items-center gap-1 rounded-md border border-border/70 bg-card/80 px-2 py-0.5 text-xs font-medium text-muted-foreground shadow-sm transition group-hover:border-primary/50 group-hover:text-foreground">
+            <Pencil className="size-3" aria-hidden />
+            Endre
+          </span>
+        </button>
+      ) : (
+        <p className="px-2 text-xs font-medium uppercase tracking-[0.14em] text-muted-foreground">Mine emner</p>
+      )}
       <ul className="flex flex-col gap-1">
         {subjects.map((s) => {
           const active = s.id === activeId;
@@ -242,42 +330,41 @@ export function SubjectSidebar({
                             </span>
                           </button>
                           {groupOpen ? (
-                            <ul className="space-y-0.5 py-0.5 pl-3">
-                              {g.items.map((d) => {
-                                const selected = d.id === selectedDocId;
-                                return (
-                                  <li key={d.id}>
-                                    <button
-                                      type="button"
-                                      onClick={() => onSelectDocument(d.id)}
-                                      aria-current={selected ? "true" : undefined}
-                                      title={d.title}
-                                      className={`flex w-full items-start gap-2 rounded-md px-2 py-1.5 text-left text-[13px] leading-snug transition ${
-                                        selected
-                                          ? "bg-primary/10 font-medium text-foreground"
-                                          : "text-muted-foreground hover:bg-muted/70 hover:text-foreground"
-                                      }`}
-                                    >
-                                      <SourceIcon type={d.sourceType} />
-                                      <span className="line-clamp-2 min-w-0 flex-1 break-words">
-                                        {d.title}
-                                      </span>
-                                      {d.audiobook ? (
-                                        <span
-                                          className="mt-0.5 shrink-0 text-teal-700"
-                                          title={listenedLabel(positions[d.id])}
+                            (() => {
+                              const lecturers = byLecturer(g.items);
+                              if (!lecturers) return docList(g.items, false);
+                              return (
+                                <ul className="space-y-0.5 py-0.5 pl-3">
+                                  {lecturers.map((l) => {
+                                    const key = `${g.id}:${l.name}`;
+                                    const open = openLecturers.has(key);
+                                    const holds = l.items.some((d) => d.id === selectedDocId);
+                                    return (
+                                      <li key={key}>
+                                        <button
+                                          type="button"
+                                          onClick={() => toggleLecturer(key)}
+                                          aria-expanded={open}
+                                          className={`flex w-full items-center gap-1.5 rounded-md px-2 py-1.5 text-left text-[13px] hover:bg-muted/70 ${
+                                            holds && !open ? "text-foreground" : "text-muted-foreground"
+                                          }`}
                                         >
-                                          <Headphones className="size-3.5" aria-hidden />
-                                          <span className="sr-only">
-                                            {listenedLabel(positions[d.id])}
+                                          <ChevronRight
+                                            className={`size-3.5 shrink-0 transition-transform ${open ? "rotate-90" : ""}`}
+                                            aria-hidden
+                                          />
+                                          <span className="font-medium">{l.name}</span>
+                                          <span className="ml-auto rounded-sm bg-muted px-1.5 text-xs tabular-nums">
+                                            {l.items.length}
                                           </span>
-                                        </span>
-                                      ) : null}
-                                    </button>
-                                  </li>
-                                );
-                              })}
-                            </ul>
+                                        </button>
+                                        {open ? docList(l.items, true) : null}
+                                      </li>
+                                    );
+                                  })}
+                                </ul>
+                              );
+                            })()
                           ) : null}
                         </li>
                       );
