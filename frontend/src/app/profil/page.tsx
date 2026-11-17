@@ -35,7 +35,7 @@ export default function ProfilePage() {
   const deleteAccount = useMutation(api.users.deleteAccount);
 
   const [name, setNameDraft] = useState<string | null>(null);
-  const [theme, setThemeState] = useState<Theme>("system");
+  const [theme, setThemeState] = useState<Theme>("light");
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState<{ ok: boolean; text: string } | null>(null);
   const fileRef = useRef<HTMLInputElement>(null);
